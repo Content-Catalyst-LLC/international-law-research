@@ -1,0 +1,13 @@
+institution_key,name,type,regime_key,official_url,notes
+un,United Nations,international_organization,institutions,https://www.un.org/,"Central international organization of the post-1945 order."
+icj,International Court of Justice,court,institutions,https://www.icj-cij.org/,"Principal judicial organ of the United Nations."
+icc,International Criminal Court,court,icl,https://www.icc-cpi.int/,"Permanent international criminal court created by the Rome Statute."
+icrc,International Committee of the Red Cross,humanitarian_institution,ihl,https://www.icrc.org/,"Key institution for IHL commentary, humanitarian protection, and customary IHL research."
+ohchr,Office of the United Nations High Commissioner for Human Rights,un_body,human_rights,https://www.ohchr.org/,"Central UN human rights office."
+unhcr,United Nations High Commissioner for Refugees,un_agency,refugees,https://www.unhcr.org/,"UN refugee agency."
+itlos,International Tribunal for the Law of the Sea,court,law_of_sea,https://www.itlos.org/,"Tribunal established under UNCLOS."
+unep,United Nations Environment Programme,un_programme,environment,https://www.unep.org/,"UN environmental authority."
+unfccc,United Nations Framework Convention on Climate Change Secretariat,treaty_secretariat,environment,https://unfccc.int/,"Secretariat supporting climate treaty processes."
+wto,World Trade Organization,international_organization,economic,https://www.wto.org/,"Institutional framework for global trade law."
+ilc,International Law Commission,un_expert_body,sources,https://legal.un.org/ilc/,"UN body supporting codification and progressive development of international law."
+ilo,International Labour Organization,un_specialized_agency,economic,https://www.ilo.org/,"International labor standards institution."

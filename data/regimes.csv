@@ -1,0 +1,16 @@
+regime_key,regime_name,parent_regime,description,priority
+sources,Sources of International Law,foundations,"Treaties, custom, general principles, subsidiary means, and source theory.",1
+treaty_law,Treaty Law,foundations,"Formation, interpretation, reservations, validity, termination, and treaty regimes.",1
+customary_law,Customary International Law,foundations,"State practice, opinio juris, customary norms, and evidence of custom.",1
+sovereignty,Sovereignty Statehood and Responsibility,statehood,"Sovereignty, statehood, recognition, jurisdiction, responsibility, immunity, and self-determination.",1
+institutions,International Institutions and Courts,institutions,"UN system, ICJ, tribunals, arbitration, treaty bodies, and institutional authority.",1
+use_of_force,Use of Force and Collective Security,security,"UN Charter rules on force, self-defense, Security Council authority, and collective security.",1
+ihl,International Humanitarian Law,armed_conflict,"Law of armed conflict, Geneva Conventions, distinction, proportionality, occupation, detention, and weapons law.",1
+icl,International Criminal Law,accountability,"Genocide, crimes against humanity, war crimes, aggression, ICC, tribunals, and atrocity accountability.",1
+human_rights,International Human Rights Law,human_protection,"Universal and regional human rights systems, treaty bodies, rights protection, and monitoring.",1
+refugees,Refugee Law Migration and Protection,human_protection,"Refugee law, asylum, non-refoulement, statelessness, displacement, migration, and borders.",2
+law_of_sea,Law of the Sea,global_commons,"UNCLOS, maritime zones, navigation, seabed governance, fisheries, and marine protection.",1
+environment,International Environmental Law,global_commons,"Climate, biodiversity, transboundary harm, due diligence, precaution, and environmental justice.",1
+economic,International Economic Law,economic_order,"Trade, investment, finance, sanctions, labor, development, and structural economic asymmetry.",2
+emerging,Specialized and Emerging Domains,new_domains,"Global health, aviation, space, cyber, data governance, autonomous systems, and soft law.",3
+critical,Critical and Theoretical Approaches,theory,"Postcolonial, feminist, TWAIL, legitimacy, empire, inequality, and historical critiques.",1
