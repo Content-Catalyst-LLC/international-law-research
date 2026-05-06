@@ -1,0 +1,27 @@
+{
+  "slug": "customary-international-law",
+  "folder_slug": "customary-international-law",
+  "title": "Customary International Law: State Practice and Opinio Juris",
+  "status": "published",
+  "domain": "Foundations",
+  "series": "International Law Foundations",
+  "description": "Customary International Law explains how unwritten international legal rules emerge through general state practice accepted as law, with particular attention to state practice, opinio juris, evidence, courts, persistent objection, particular custom, soft law, treaties, colonial history, and the politics of whose practice counts as international law.",
+  "canonical_url": "https://sustainablecatalyst.com/customary-international-law/",
+  "repository_path": "articles/international-law/customary-international-law",
+  "primary_source_types": [
+    "ICJ Statute materials",
+    "International Law Commission materials",
+    "ICJ case law",
+    "state practice evidence",
+    "opinio juris evidence",
+    "UN institutional materials",
+    "soft-law materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source legal excerpts.",
+    "Foreground doctrine, source hierarchy, colonial history, selective enforcement, unequal power, marginalized legal voices, Global South perspectives, and the politics of whose practice counts as customary international law."
+  ]
+}

@@ -1,0 +1,14 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Customary international law,source framework,Unwritten international law emerging from general practice accepted as law,article-38
+2,State practice,custom element,Conduct attributable to states including physical and verbal acts,state-practice
+3,Opinio juris,custom element,Acceptance that a practice is carried out as a matter of legal right or obligation,opinio-juris
+4,Generality,practice assessment,Extent to which practice is sufficiently widespread and representative,identification
+5,Consistency,practice assessment,Extent to which practice is sufficiently coherent and not materially contradictory,identification
+6,Representativeness,practice assessment,Whether relevant states and regions are meaningfully represented in the practice record,identification
+7,International courts,subsidiary means,Courts and tribunals identifying custom through evidence and legal reasoning,courts
+8,Persistent objector,custom exception,State that clearly and consistently objects to an emerging rule during formation,persistent-objector
+9,Particular custom,scope,Regional or special customary rule among a defined group of states,regional-particular
+10,Specially affected states,weighting problem,States especially engaged in or affected by a practice may have relevant evidence but not exclusive authority,specially-affected
+11,Treaty and custom interaction,source interaction,Treaties may codify crystallize or help generate custom,custom-and-treaties
+12,Soft law and custom,normative development,Resolutions and declarations may provide evidence or help shape opinio juris,custom-and-soft-law
+13,Colonial critique,critical method,Customary law formation must account for exclusion empire and unequal participation,colonial-politics
