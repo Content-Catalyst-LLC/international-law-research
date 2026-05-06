@@ -1,0 +1,17 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Statehood,core doctrine,Legal status of being a state for purposes of international law,statehood
+2,International legal personality,core doctrine,Capacity to possess international rights and duties and act on the international plane,legal-personality
+3,Permanent population,Montevideo criterion,Stable human community associated with the entity,montevideo
+4,Defined territory,Montevideo criterion,Territorial core over which public authority is asserted,montevideo
+5,Government,Montevideo criterion,Organized public authority capable of administering the entity,montevideo
+6,Capacity to enter into relations,Montevideo criterion,External capacity and independence to conduct international relations,montevideo
+7,Recognition,recognition doctrine,Acknowledgment by other states that an entity is to be treated as a state,recognition
+8,Declaratory theory,recognition doctrine,View that recognition acknowledges existing statehood rather than creating it,declaratory-constitutive
+9,Constitutive theory,recognition doctrine,View that recognition helps bring statehood into legal existence,declaratory-constitutive
+10,Non-recognition,recognition doctrine,Refusal to recognize unlawful or contested situations,recognition-politics
+11,UN membership,institutional standing,Membership under Article 4 of the UN Charter,un-membership
+12,Non-member observer State,institutional standing,UN observer-state status short of full membership,palestine
+13,Functional personality,legal personality,Legal capacity allocated according to institutional functions and purposes,un-personality
+14,Self-determination,peoplehood and status,Right of peoples to determine political status and pursue development,palestine
+15,Secession,contested status,Withdrawal from an existing state to form a new entity,contested-cases
+16,Unequal recognition,critical method,Recognition practice shaped by power politics empire occupation and selective institutional admission,limits
