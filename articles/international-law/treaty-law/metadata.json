@@ -1,0 +1,26 @@
+{
+  "slug": "treaty-law-vienna-convention",
+  "folder_slug": "treaty-law",
+  "title": "Treaty Law",
+  "status": "published",
+  "domain": "Foundations",
+  "series": "International Law Foundations",
+  "description": "Treaty law explains how states and other recognized international legal actors create, interpret, modify, suspend, and terminate binding international agreements, with the Vienna Convention on the Law of Treaties as the central modern framework.",
+  "canonical_url": "https://sustainablecatalyst.com/treaty-law-vienna-convention/",
+  "repository_path": "articles/international-law/treaty-law",
+  "primary_source_types": [
+    "treaties",
+    "Vienna Convention materials",
+    "United Nations Treaty Collection records",
+    "UN Charter materials",
+    "International Law Commission materials",
+    "ICJ treaty interpretation materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source legal excerpts.",
+    "Foreground consent, unequal treaties, empire, coercion, state practice, institutional design, and the limits of formal consent where relevant."
+  ]
+}
