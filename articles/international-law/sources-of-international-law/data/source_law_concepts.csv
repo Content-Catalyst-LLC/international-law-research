@@ -1,0 +1,15 @@
+concept_id,concept_name,source_category,description,article_section
+1,Article 38,source framework,Classical source framework of the ICJ Statute identifying treaties custom general principles and subsidiary means,article-38
+2,Treaties,primary source,Written international agreements governed by international law,treaties
+3,Customary international law,primary source,General practice accepted as law,custom
+4,State practice,custom evidence,Conduct and official positions relevant to customary international law,practice-opinio-juris
+5,Opinio juris,custom evidence,Acceptance that a practice is carried out as a matter of legal right or obligation,practice-opinio-juris
+6,General principles of law,primary source,Principles recognized across legal systems or formed within the international legal system,general-principles
+7,Judicial decisions,subsidiary means,Court and tribunal decisions used to determine rules of law,subsidiary-means
+8,Teachings of publicists,subsidiary means,Scholarly writings used as subsidiary means in legal analysis,subsidiary-means
+9,Soft law,normative development,Non-binding instruments that may shape expectation interpretation and future legal development,soft-law
+10,Institutional practice,normative development,Practice of international organizations and treaty bodies influencing legal interpretation and development,soft-law
+11,Jus cogens,hierarchy,Peremptory norms from which no derogation is permitted,hierarchy
+12,Erga omnes,hierarchy,Obligations owed to the international community as a whole,hierarchy
+13,Source interaction,method,Treaty custom principles judicial reasoning institutional practice and hierarchy interacting in legal analysis,interaction
+14,Colonial critique,critical method,Historical critique of whose practice principles and writings counted as international,colonial-legacies

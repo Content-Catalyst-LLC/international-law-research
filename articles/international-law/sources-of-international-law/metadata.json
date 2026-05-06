@@ -1,0 +1,28 @@
+{
+  "slug": "sources-of-international-law",
+  "folder_slug": "sources-of-international-law",
+  "title": "Sources of International Law",
+  "status": "published",
+  "domain": "Foundations",
+  "series": "International Law Foundations",
+  "description": "Sources of International Law explains how international legal rules arise, how they acquire authority, and how treaties, customary international law, general principles, judicial decisions, scholarly writings, institutional practice, soft law, and legal hierarchy structure international legal argument.",
+  "canonical_url": "https://sustainablecatalyst.com/sources-of-international-law/",
+  "repository_path": "articles/international-law/sources-of-international-law",
+  "primary_source_types": [
+    "ICJ Statute materials",
+    "treaties",
+    "customary international law materials",
+    "International Law Commission materials",
+    "UN Charter materials",
+    "judicial decisions",
+    "institutional practice",
+    "soft-law materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source legal excerpts.",
+    "Foreground doctrine, source hierarchy, colonial history, selective enforcement, unequal power, marginalized legal voices, Global South perspectives, and the politics of whose practice counts as international law."
+  ]
+}
