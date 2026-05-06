@@ -1,0 +1,28 @@
+{
+  "slug": "jurisdiction-in-international-law-territoriality-nationality-universality-extraterritorial-reach",
+  "folder_slug": "jurisdiction-in-international-law",
+  "title": "Jurisdiction in International Law: Territoriality, Nationality, Universality, and Extraterritorial Reach",
+  "status": "published",
+  "domain": "Foundational Doctrine",
+  "series": "International Law Foundations",
+  "description": "This article explains jurisdiction as legal competence in international law, including prescriptive, adjudicative, and enforcement jurisdiction; territoriality; subjective and objective territoriality; nationality; corporate nationality; passive personality; the protective principle; universal jurisdiction; extraterritorial reach; the Lotus principle; immunities; human-rights jurisdiction; maritime and digital jurisdiction; enforcement abroad; sanctions; and the relationship between jurisdiction, sovereignty, and global power.",
+  "canonical_url": "https://sustainablecatalyst.com/jurisdiction-in-international-law-territoriality-nationality-universality-extraterritorial-reach/",
+  "repository_path": "articles/international-law/jurisdiction-in-international-law",
+  "primary_source_types": [
+    "Permanent Court of International Justice materials",
+    "International Court of Justice materials",
+    "United Nations Charter materials",
+    "United Nations Convention on the Law of the Sea materials",
+    "OHCHR extraterritorial jurisdiction materials",
+    "OHCHR universal jurisdiction materials",
+    "international law doctrine and scholarship"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use the second gateway button label pattern: kicker Article Map, title International Law.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Foreground jurisdiction as both legal competence and a structure of unequal global power, especially in sanctions, finance, digital networks, corporate regulation, maritime enforcement, and cross-border policing."
+  ]
+}

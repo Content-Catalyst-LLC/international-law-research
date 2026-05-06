@@ -1,0 +1,22 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Jurisdiction,core doctrine,Legal competence to prescribe adjudicate and enforce law,jurisdiction-concept
+2,Prescriptive jurisdiction,jurisdiction type,Authority to make rules applicable to persons conduct or things,prescriptive-adjudicative-enforcement
+3,Adjudicative jurisdiction,jurisdiction type,Authority of courts or tribunals to decide disputes,prescriptive-adjudicative-enforcement
+4,Enforcement jurisdiction,jurisdiction type,Authority to compel compliance through coercive measures,prescriptive-adjudicative-enforcement
+5,Territoriality,jurisdiction basis,Primary jurisdictional basis tied to state territory,territoriality
+6,Subjective territoriality,jurisdiction basis,Jurisdiction over conduct that begins within state territory,subjective-objective-territoriality
+7,Objective territoriality,jurisdiction basis,Jurisdiction over conduct outside territory producing substantial effects inside it,subjective-objective-territoriality
+8,Effects doctrine,jurisdiction basis,Regulatory claim based on substantial domestic effects,effects-doctrine
+9,Nationality,jurisdiction basis,Jurisdiction over nationals abroad,nationality
+10,Corporate nationality,jurisdiction basis,Jurisdiction over corporations through incorporation seat headquarters listing or control links,corporate-nationality
+11,Passive personality,jurisdiction basis,Jurisdiction based on nationality of victim,passive-personality-protective
+12,Protective principle,jurisdiction basis,Jurisdiction over external conduct threatening core state interests,passive-personality-protective
+13,Universal jurisdiction,jurisdiction basis,Jurisdiction over certain grave offenses regardless of territorial or nationality links,universality
+14,Extraterritorial reach,jurisdiction field,Exercise of authority over persons conduct or effects outside national territory,extraterritorial-reach
+15,Lotus principle,jurisprudential marker,Classical principle that restrictions on state independence are not presumed,lotus-principle
+16,Immunities,jurisdiction limit,Doctrines restricting foreign jurisdiction over states diplomats consuls and certain officials,immunities
+17,Human-rights jurisdiction,treaty jurisdiction,Question whether human-rights obligations apply to persons under a state's authority or effective control abroad,human-rights-dimension
+18,Maritime jurisdiction,sectoral jurisdiction,Jurisdiction allocated by maritime zones and vessel status under UNCLOS,maritime-digital-contexts
+19,Digital jurisdiction,emerging field,Jurisdiction over data platforms cyber operations and networked harms,maritime-digital-contexts
+20,Enforcement abroad,jurisdiction limit,Physical coercive action in foreign territory requiring consent or legal authorization,enforcement-abroad
+21,Jurisdiction and power,critical method,Analysis of how powerful states project jurisdiction through markets finance military reach and digital infrastructure,jurisdiction-governance
