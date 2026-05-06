@@ -1,0 +1,21 @@
+concept_id,concept_name,concept_category,description,article_section
+1,State immunity,core doctrine,Immunity of a state and its property from foreign domestic jurisdiction,state-immunity
+2,Immunity from execution,state immunity,Protection against enforcement measures against state property,execution-immunity
+3,Restrictive immunity,state immunity,Doctrine distinguishing sovereign acts from commercial or private-law acts,restrictive-immunity
+4,Acta jure imperii,state immunity,Sovereign or governmental acts for which immunity is strongest,restrictive-immunity
+5,Acta jure gestionis,state immunity,Commercial or private-law acts for which immunity is often restricted,restrictive-immunity
+6,Waiver,exception,State consent to foreign jurisdiction or execution in defined circumstances,waiver
+7,Diplomatic immunity,diplomatic law,Privileges and immunities protecting diplomatic missions and agents,diplomatic-immunity
+8,Diplomatic inviolability,diplomatic law,Special protection of mission premises diplomatic agents and archives,diplomatic-inviolability
+9,Consular immunity,consular law,Narrower and more functional immunity for consular officers and consular acts,consular-immunity
+10,Internationally protected persons,protected persons,Protected category including certain officials and diplomatic agents under the 1973 Convention,internationally-protected-persons
+11,Official immunity,official functions,Immunity of state officials from foreign jurisdiction in certain circumstances,official-immunities
+12,Immunity ratione personae,official immunity,Personal immunity of certain serving high-ranking officials,ratione-personae
+13,Immunity ratione materiae,official immunity,Functional immunity for official acts that may persist after office,ratione-materiae
+14,Arrest Warrant,ICJ case,Leading case on serving foreign minister immunity,arrest-warrant
+15,Jurisdictional Immunities,ICJ case,Leading case on state immunity despite grave allegations in foreign civil proceedings,jurisdictional-immunities-case
+16,Tehran Hostages,ICJ case,Leading case on diplomatic and consular inviolability,tehran-hostages
+17,Damascus consular strike,contemporary case,Attack on Iranian consular building in Damascus as test of official protection and diplomatic premises,damascus-consular-strike
+18,Grave international crimes,accountability,Genocide crimes against humanity war crimes torture apartheid aggression and related accountability tensions,grave-crimes
+19,Palestine,contemporary accountability,Example of official protection procedural barriers and geopolitical shielding in relation to occupation and atrocity claims,palestine
+20,Selective enforcement,critical method,Unequal application of immunity accountability and diplomatic protection rules,western-impunity

@@ -1,0 +1,29 @@
+{
+  "slug": "state-immunity-diplomatic-immunity-official-functions-international-law",
+  "folder_slug": "state-immunity-diplomatic-immunity-official-functions",
+  "title": "State Immunity, Diplomatic Immunity, and the Legal Protection of Official Functions",
+  "status": "published",
+  "domain": "Immunities and Official Functions",
+  "series": "International Law Foundations",
+  "description": "This article explains state immunity, diplomatic immunity, consular immunity, official immunities, ratione personae, ratione materiae, the protection of diplomatic premises, the Damascus consular strike, the ICJ Arrest Warrant, Jurisdictional Immunities, Tehran Hostages, international crimes, Palestine, Western impunity, and the tension between sovereign equality, orderly relations, and accountability.",
+  "canonical_url": "https://sustainablecatalyst.com/state-immunity-diplomatic-immunity-official-functions-international-law/",
+  "repository_path": "articles/international-law/state-immunity-diplomatic-immunity-official-functions",
+  "primary_source_types": [
+    "Vienna Convention on Diplomatic Relations materials",
+    "Vienna Convention on Consular Relations materials",
+    "United Nations Convention on Jurisdictional Immunities of States and Their Property materials",
+    "Convention on Internationally Protected Persons materials",
+    "International Court of Justice cases",
+    "International Law Commission materials",
+    "United Nations Secretary-General statements",
+    "OHCHR expert materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use the second gateway button label pattern: kicker Article Map, title International Law.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Foreground the doctrine's structural function and its risk of protecting impunity, including Damascus, Palestine, Western impunity, consular/diplomatic inviolability, international crimes, and unequal enforcement."
+  ]
+}
