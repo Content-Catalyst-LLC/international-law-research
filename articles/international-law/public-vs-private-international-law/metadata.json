@@ -1,0 +1,29 @@
+{
+  "slug": "public-vs-private-international-law",
+  "folder_slug": "public-vs-private-international-law",
+  "title": "Public vs Private International Law",
+  "status": "published",
+  "domain": "Foundational Doctrine",
+  "series": "International Law Foundations",
+  "description": "This article explains the distinction between public international law and private international law, including sources of public international law, the UN Charter, Article 38 of the ICJ Statute, conflict of laws, jurisdiction, applicable law, recognition and enforcement of judgments, Hague Conference instruments, arbitration, ICSID, investor-state dispute settlement, and the growing interaction between public authority and private cross-border legal relationships.",
+  "canonical_url": "https://sustainablecatalyst.com/public-vs-private-international-law/",
+  "repository_path": "articles/international-law/public-vs-private-international-law",
+  "primary_source_types": [
+    "ICJ Statute materials",
+    "United Nations Charter materials",
+    "Hague Conference on Private International Law materials",
+    "Hague Service Convention materials",
+    "Hague Choice of Court Convention materials",
+    "Hague Judgments Convention materials",
+    "ICSID Convention materials",
+    "ICC arbitration materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use the second gateway button label pattern: kicker Article Map, title International Law.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Explain the public/private distinction without making private international law seem secondary or purely commercial."
+  ]
+}

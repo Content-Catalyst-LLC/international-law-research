@@ -1,0 +1,21 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Public international law,field,Law governing states international organizations peoples and public international obligations,public-international-law
+2,Private international law,field,Conflict-of-laws rules governing cross-border private disputes,private-international-law
+3,Conflict of laws,field,Rules addressing jurisdiction applicable law and recognition/enforcement,private-international-law
+4,Article 38 sources,source framework,ICJ Statute formulation of public international law sources,public-sources
+5,Treaties,public source,Written international agreements governed by international law,public-sources
+6,Customary international law,public source,General practice accepted as law,public-sources
+7,General principles,public source,Principles recognized across legal systems and used in international adjudication,public-sources
+8,Jurisdiction,private/public bridge,Authority to hear and decide disputes or prescribe law across borders,jurisdiction-choice-law
+9,Applicable law,private law question,Question of which legal system governs a dispute,jurisdiction-choice-law
+10,Recognition and enforcement,private law question,Whether a foreign judgment will be recognized and enforced,recognition-enforcement
+11,HCCH,institution,International organization developing private international law instruments,hcch
+12,Hague Service Convention,private law treaty,Cross-border service of judicial and extrajudicial documents,service-judgments
+13,Hague Choice of Court Convention,private law treaty,Exclusive choice of court agreements in civil or commercial matters,choice-of-court
+14,Hague Judgments Convention,private law treaty,Recognition and enforcement of foreign judgments in civil or commercial matters,recognition-enforcement
+15,International commercial arbitration,private dispute mechanism,Contract-based dispute resolution administered by institutions or ad hoc tribunals,arbitration
+16,Investor-state dispute settlement,hybrid mechanism,Claims by private investors against states under investment treaties or contracts,public-private-overlap
+17,ICSID,institution,World Bank-affiliated center for conciliation and arbitration of investment disputes,icsid
+18,ICC arbitration,institutional arbitration,International Chamber of Commerce-administered arbitration,arbitration
+19,Public/private overlap,critical concept,Interaction of state-centered law and private transnational dispute systems,public-private-overlap
+20,Access to justice,critical lens,Practical ability of parties to bring defend and enforce cross-border claims,access-to-justice
