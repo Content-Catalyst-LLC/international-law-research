@@ -1,0 +1,27 @@
+{
+  "slug": "general-principles-of-law-in-international-legal-order",
+  "folder_slug": "general-principles-of-law",
+  "title": "General Principles of Law in International Legal Order",
+  "status": "published",
+  "domain": "Foundations",
+  "series": "International Law Foundations",
+  "description": "General Principles of Law explains how foundational juridical standards help make international law coherent, operable, and capable of reasoned adjudication beyond treaties and customary international law.",
+  "canonical_url": "https://sustainablecatalyst.com/general-principles-of-law-in-international-legal-order/",
+  "repository_path": "articles/international-law/general-principles-of-law",
+  "primary_source_types": [
+    "ICJ Statute materials",
+    "International Law Commission materials",
+    "ICJ advisory opinions",
+    "comparative-law materials",
+    "international adjudication materials",
+    "state responsibility materials",
+    "treaty interpretation materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source legal excerpts.",
+    "Foreground doctrine, comparative method, international-system formation, colonial hierarchy, non-European legal traditions, marginalized legal voices, and the politics of what counts as general law."
+  ]
+}

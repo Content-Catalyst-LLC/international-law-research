@@ -1,0 +1,14 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Article 38(1)(c),source framework,Classical source provision recognizing general principles of law,article-38
+2,Recognition by the community of nations,method,Modern recognition requirement in ILC draft conclusions,recognition
+3,Principles derived from national legal systems,method,General principles identified through comparative analysis across legal systems,derived-national-systems
+4,Principles formed within the international legal system,method,General principles arising from international law's own institutional and juridical structure,formed-international-system
+5,Good faith,substantive principle,Principle supporting treaty performance interpretation and legal integrity,good-faith
+6,Estoppel,substantive principle,Principle preventing opportunistic inconsistency where reliance is legally relevant,good-faith
+7,Abuse of rights,substantive principle,Principle limiting formal legal powers exercised contrary to the purpose of the legal order,good-faith
+8,Res judicata,procedural principle,Finality of judgments and protection against relitigation,procedural-principles
+9,Procedural fairness,procedural principle,Fair hearing equality and adjudicative legitimacy,procedural-principles
+10,Reparation,remedial principle,Legal consequence of injury or wrongful act,relationship-other-sources
+11,Non liquet,gap-filling problem,Problem of judicial inability to decide because law appears incomplete,gap-filling
+12,Comparative method,method,Disciplined comparison across legal systems to identify genuinely general principles,derived-national-systems
+13,Colonial hierarchy,critical method,Historical critique of whose legal traditions counted as general or civilized,colonial-hierarchy
