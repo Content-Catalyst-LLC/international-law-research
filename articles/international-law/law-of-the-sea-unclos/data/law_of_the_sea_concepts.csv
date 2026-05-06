@@ -1,0 +1,21 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Law of the sea,field,Legal regime governing ocean space maritime zones navigation resources and environmental protection,why-it-matters
+2,UNCLOS,core treaty,Comprehensive convention governing ocean space uses and resources,unclos-structure
+3,Baselines,maritime measurement,Lines from which maritime zones are measured,baselines
+4,Territorial sea,maritime zone,Coastal-state sovereignty extending up to 12 nautical miles subject to innocent passage,maritime-zones
+5,Innocent passage,navigation regime,Right of foreign ships to pass through the territorial sea if passage is not prejudicial to peace good order or security,navigation
+6,Contiguous zone,maritime zone,Zone up to 24 nautical miles for enforcement of customs fiscal immigration and sanitary laws,maritime-zones
+7,Exclusive economic zone,maritime zone,Zone up to 200 nautical miles where coastal states have sovereign rights over resources,eez
+8,Continental shelf,maritime zone,Seabed and subsoil entitlement tied to natural prolongation and UNCLOS criteria,continental-shelf
+9,Extended continental shelf,continental shelf,Shelf entitlement beyond 200 nautical miles based on Article 76 and CLCS process,continental-shelf
+10,High seas,maritime commons,Ocean areas beyond national jurisdiction open to all states under UNCLOS freedoms,high-seas
+11,Common heritage of humankind,deep seabed principle,Principle governing the Area and its mineral resources for the benefit of humankind as a whole,deep-seabed
+12,International Seabed Authority,institution,UNCLOS body organizing and controlling mineral-resources activities in the Area,isa
+13,Marine environmental protection,obligation,UNCLOS duty to protect and preserve the marine environment,marine-environment
+14,BBNJ Agreement,implementation treaty,Agreement under UNCLOS for biodiversity beyond national jurisdiction,bbnj
+15,ITLOS,dispute settlement,Independent judicial body established by UNCLOS,dispute-settlement
+16,Annex VII arbitration,dispute settlement,Default compulsory procedure for many UNCLOS disputes,south-china-sea
+17,South China Sea Arbitration,case,Annex VII arbitration clarifying maritime entitlements and environmental obligations under UNCLOS,south-china-sea
+18,Climate and sea-level rise,contemporary challenge,Ocean warming acidification sea-level rise and shifting baselines affecting maritime law,climate
+19,Equitable benefit sharing,equity principle,Distribution of seabed or marine genetic resource benefits with attention to developing states,equity
+20,Landlocked and geographically disadvantaged states,equity category,States with special interests in ocean access resources and benefit sharing,equity

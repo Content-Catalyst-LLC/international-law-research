@@ -1,0 +1,29 @@
+{
+  "slug": "law-of-the-sea-unclos",
+  "folder_slug": "law-of-the-sea-unclos",
+  "title": "Law of the Sea (UNCLOS)",
+  "status": "published",
+  "domain": "Ocean Governance",
+  "series": "International Law Foundations",
+  "description": "This article explains the law of the sea, UNCLOS, maritime zones, navigation, exclusive economic zones, continental shelves, the high seas, the deep seabed, common heritage of humankind, the International Seabed Authority, marine environmental protection, BBNJ, dispute settlement, South China Sea arbitration, climate change, fisheries, biodiversity, and equity in ocean governance.",
+  "canonical_url": "https://sustainablecatalyst.com/law-of-the-sea-unclos/",
+  "repository_path": "articles/international-law/law-of-the-sea-unclos",
+  "primary_source_types": [
+    "United Nations Convention on the Law of the Sea materials",
+    "International Tribunal for the Law of the Sea materials",
+    "International Seabed Authority materials",
+    "Commission on the Limits of the Continental Shelf materials",
+    "Permanent Court of Arbitration materials",
+    "International Court of Justice materials",
+    "BBNJ Agreement materials",
+    "marine environmental protection materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use the second gateway button label pattern: kicker International Law, title Article Map.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Foreground ocean governance as a legal architecture of sovereignty, navigation, common heritage, environmental protection, equity, climate pressure, biodiversity, seabed mining, and Global South participation."
+  ]
+}
