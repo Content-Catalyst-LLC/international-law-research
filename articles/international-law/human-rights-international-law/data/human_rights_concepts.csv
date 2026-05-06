@@ -1,0 +1,21 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Human dignity,foundational principle,Core premise that each person possesses inherent worth and rights,why-human-rights-matter
+2,Universal Declaration of Human Rights,foundational instrument,1948 declaration articulating global human-rights standards,udhr
+3,International Bill of Human Rights,source cluster,UDHR ICCPR and ICESCR together,bill-of-rights
+4,Civil and political rights,right category,Rights associated with life liberty participation expression due process and political freedom,civil-political-rights
+5,Economic social and cultural rights,right category,Rights associated with work health education housing food culture and social security,economic-social-cultural-rights
+6,Progressive realization,implementation doctrine,ICESCR obligation to move toward full realization using maximum available resources,economic-social-cultural-rights
+7,Non-discrimination,cross-cutting principle,Equality obligation prohibiting unjust distinctions in rights enjoyment,equality-non-discrimination
+8,Self-determination,peoplehood right,Right of peoples to determine political status and development,self-determination
+9,Treaty bodies,monitoring mechanism,Independent expert committees monitoring core human-rights treaties,treaty-bodies
+10,Human Rights Council,Charter-based mechanism,UN intergovernmental body responsible for promoting and protecting human rights,un-mechanisms
+11,Universal Periodic Review,Charter-based mechanism,Peer-review mechanism examining human-rights records of UN member states,un-mechanisms
+12,Regional human-rights systems,regional mechanism,European Inter-American and African systems protecting rights through regional institutions,regional-systems
+13,Customary human-rights law,source of law,Rights norms binding through custom regardless of treaty ratification,customary-jus-cogens
+14,Jus cogens,peremptory norm,Non-derogable norms such as prohibitions of genocide slavery torture and apartheid,customary-jus-cogens
+15,State responsibility,legal consequence,Responsibility of states for breaches of international human-rights obligations,state-responsibility
+16,Palestine,contemporary crisis,Central case involving occupation self-determination apartheid allegations and human-rights protection,palestine
+17,Climate and human rights,emerging field,Human-rights implications of climate change environmental degradation and ecological harm,climate
+18,Digital surveillance,emerging field,Privacy expression association and equality implications of surveillance and platform power,digital-rights
+19,Migration and displacement,protection field,Rights of refugees migrants stateless persons and displaced communities,migration
+20,Corporate accountability,governance field,Human-rights responsibilities and accountability questions concerning business enterprises,corporate-power

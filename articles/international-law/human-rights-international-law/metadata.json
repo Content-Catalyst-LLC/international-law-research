@@ -1,0 +1,29 @@
+{
+  "slug": "human-rights-international-law",
+  "folder_slug": "human-rights-international-law",
+  "title": "Human Rights in International Law",
+  "status": "published",
+  "domain": "Human Rights",
+  "series": "International Law Foundations",
+  "description": "This article explains international human rights law, including the UN Charter, Universal Declaration of Human Rights, ICCPR, ICESCR, core human-rights treaties, treaty bodies, regional systems, customary law, jus cogens, state responsibility, Palestine, racial justice, colonial legacies, digital surveillance, climate, migration, corporate power, and the contested politics of universal dignity.",
+  "canonical_url": "https://sustainablecatalyst.com/human-rights-international-law/",
+  "repository_path": "articles/international-law/human-rights-international-law",
+  "primary_source_types": [
+    "United Nations Charter materials",
+    "Universal Declaration of Human Rights materials",
+    "International Covenant on Civil and Political Rights materials",
+    "International Covenant on Economic Social and Cultural Rights materials",
+    "core international human-rights treaty materials",
+    "OHCHR treaty-body materials",
+    "regional human-rights instruments",
+    "International Court of Justice materials",
+    "customary and jus cogens materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Foreground dignity, equality, anti-racism, colonial legacies, Palestine, Gaza, apartheid, refugees, migrants, women, children, disabled persons, Indigenous peoples, digital surveillance, climate, economic and social rights, and unequal enforcement."
+  ]
+}

@@ -1,0 +1,20 @@
+source_id,source_title,source_type,institution,year,url,notes
+1,Charter of the United Nations full text,treaty,United Nations,1945,https://www.un.org/en/about-us/un-charter/full-text,UN Charter provisions on human rights and international cooperation
+2,Universal Declaration of Human Rights,declaration,United Nations General Assembly,1948,https://www.un.org/en/about-us/universal-declaration-of-human-rights,UDHR official text
+3,Universal Declaration of Human Rights OHCHR,official resource,OHCHR,1948,https://www.ohchr.org/en/universal-declaration-of-human-rights,OHCHR UDHR page
+4,International Human Rights Law,official resource,OHCHR,n.d.,https://www.ohchr.org/en/instruments-and-mechanisms/international-human-rights-law,OHCHR overview of international human rights law
+5,International Covenant on Civil and Political Rights,treaty,OHCHR,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights,ICCPR official text
+6,International Covenant on Economic Social and Cultural Rights,treaty,OHCHR,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights,ICESCR official text
+7,Core International Human Rights Instruments and monitoring bodies,official resource,OHCHR,n.d.,https://www.ohchr.org/en/core-international-human-rights-instruments-and-their-monitoring-bodies,Core treaties and treaty bodies
+8,Treaty Bodies,official resource,OHCHR,n.d.,https://www.ohchr.org/en/treaty-bodies,OHCHR treaty bodies overview
+9,Instruments and mechanisms,official resource,OHCHR,n.d.,https://www.ohchr.org/en/instruments-and-mechanisms,OHCHR overview of treaty-based and Charter-based mechanisms
+10,International Convention on the Elimination of All Forms of Racial Discrimination,treaty,OHCHR,1965,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-convention-elimination-all-forms-racial,ICERD official text
+11,Convention against Torture and Other Cruel Inhuman or Degrading Treatment or Punishment,treaty,OHCHR,1984,https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading,CAT official text
+12,Convention on the Rights of the Child,treaty,OHCHR,1989,https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child,CRC official text
+13,European Convention on Human Rights,treaty,European Court of Human Rights,n.d.,https://www.echr.coe.int/documents/d/echr/convention_ENG,ECHR convention text
+14,African Charter on Human and Peoples Rights,treaty,African Union,1981,https://au.int/en/treaties/african-charter-human-and-peoples-rights,African Charter official AU page
+15,African Charter on Human and Peoples Rights PDF,treaty,African Union,1981,https://au.int/sites/default/files/treaties/36390-treaty-0011_-_african_charter_on_human_and_peoples_rights_e.pdf,African Charter PDF
+16,Application of the Genocide Convention in the Gaza Strip South Africa v Israel,ICJ case,International Court of Justice,2023,https://www.icj-cij.org/case/192,South Africa v Israel case page
+17,Order of 26 January 2024,ICJ order,International Court of Justice,2024,https://www.icj-cij.org/node/203447,Provisional measures order in South Africa v Israel
+18,Legal Consequences arising from Policies and Practices of Israel in the Occupied Palestinian Territory including East Jerusalem,ICJ advisory opinion,International Court of Justice,2024,https://www.icj-cij.org/case/186,Palestine advisory opinion
+19,Draft conclusions on peremptory norms of general international law jus cogens,ILC work product,International Law Commission,2022,https://legal.un.org/ilc/texts/instruments/english/draft_articles/1_14_2022.pdf,Jus cogens materials
