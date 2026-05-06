@@ -1,0 +1,17 @@
+concept_id,concept_name,concept_category,description,article_section
+1,International adjudication,system structure,Judicial or quasi-judicial resolution and interpretation of international legal disputes,why-courts-matter
+2,Contentious jurisdiction,ICJ doctrine,Jurisdiction over disputes between states based on consent,icj
+3,Advisory opinion,ICJ doctrine,Authoritative legal opinion requested by authorized UN organs or agencies,advisory-opinions
+4,Consent,jurisdiction principle,State acceptance of jurisdiction through treaty declaration or special agreement,consent-and-jurisdiction
+5,International criminal responsibility,criminal accountability,Individual responsibility for grave international crimes,icc
+6,Complementarity,ICC doctrine,ICC operates as a court of last resort complementary to national jurisdictions,icc
+7,Specialized tribunal,institutional design,Court with subject-matter competence such as ITLOS for law of the sea,itlos
+8,Regional human-rights court,institutional design,Court reviewing state compliance with regional human-rights instruments,regional-human-rights
+9,Ad hoc tribunal,criminal accountability,Tribunal established for particular conflicts or atrocity contexts,hybrid-ad-hoc
+10,Hybrid tribunal,criminal accountability,Court combining domestic and international elements,hybrid-ad-hoc
+11,WTO dispute settlement,economic adjudication,Trade dispute-settlement mechanism under WTO agreements,wto-and-economic-dispute-settlement
+12,Investor-state arbitration,economic adjudication,International forum for investor claims against states under investment treaties,arbitration
+13,Enforcement limits,implementation problem,Weak or politically mediated implementation of judgments and awards,enforcement-limits
+14,Selective justice,critical method,Unequal access and enforcement shaped by geopolitical power,unequal-access
+15,International law from below,critical method,Use of international legality by marginalized peoples and anti-colonial movements,african-american-struggle
+16,Palestine,contemporary adjudication,Central case for advisory opinions recognition occupation and third-state obligations,palestine
