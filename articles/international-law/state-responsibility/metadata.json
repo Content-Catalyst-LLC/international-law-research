@@ -1,0 +1,27 @@
+{
+  "slug": "state-responsibility-international-law",
+  "folder_slug": "state-responsibility",
+  "title": "State Responsibility in International Law",
+  "status": "published",
+  "domain": "Responsibility",
+  "series": "International Law Foundations",
+  "description": "This article explains attribution, breach, circumstances precluding wrongfulness, reparation, countermeasures, serious breaches, peremptory norms, community interest, third-state duties, and the uneven politics of enforcement in the law of state responsibility.",
+  "canonical_url": "https://sustainablecatalyst.com/state-responsibility-international-law/",
+  "repository_path": "articles/international-law/state-responsibility",
+  "primary_source_types": [
+    "International Law Commission materials",
+    "United Nations General Assembly materials",
+    "ICJ cases",
+    "PCIJ cases",
+    "state responsibility materials",
+    "jus cogens and erga omnes materials",
+    "Genocide Convention proceedings"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source legal excerpts.",
+    "Foreground ARSIWA doctrine, attribution, breach, omission, aid or assistance, reparation, countermeasures, serious breaches, Palestine, South Africa v. Israel, colonial legacies, selective enforcement, and marginalized legal claims."
+  ]
+}

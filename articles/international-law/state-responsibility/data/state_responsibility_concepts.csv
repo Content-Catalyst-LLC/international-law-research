@@ -1,0 +1,17 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Internationally wrongful act,core doctrine,Conduct attributable to a state that breaches an international obligation,wrongful-act
+2,Attribution,core doctrine,Legal connection between conduct and the state,attribution
+3,Breach,core doctrine,Conduct not in conformity with an international obligation binding on the state,breach
+4,State organ,attribution,Organ whose conduct is treated as an act of the state under international law,attribution
+5,Direction or control,attribution,State responsibility for conduct of actors acting on instructions or under direction or control,private-actors
+6,Aid or assistance,complicity,Responsibility for knowingly aiding or assisting another state in wrongful conduct,aid-or-assistance
+7,Omission,responsibility by failure,Failure to act where international law requires prevention warning control investigation or remedy,omission
+8,Due diligence,standard of conduct,Required vigilance prevention control and response in specific legal contexts,omission
+9,Circumstances precluding wrongfulness,excuse doctrine,Limited grounds that preclude wrongfulness without extinguishing the obligation,circumstances
+10,Necessity,exceptional doctrine,Strictly limited doctrine involving grave and imminent peril and no lawful alternative,necessity-self-defense-countermeasures
+11,Countermeasures,implementation,Temporary conditioned measures intended to induce compliance by responsible state,countermeasures
+12,Full reparation,consequence,Obligation to repair injury caused by internationally wrongful act,reparation
+13,Serious breach,community interest,Breach of an obligation arising under a peremptory norm involving gross or systematic failure,serious-breaches
+14,Non-recognition,third-state duty,Duty not to recognize as lawful a situation created by serious breach,palestine
+15,Non-assistance,third-state duty,Duty not to aid or assist in maintaining a situation created by serious breach,palestine
+16,Selective enforcement,critical method,Unequal invocation and implementation of responsibility depending on power politics,colonial-power
