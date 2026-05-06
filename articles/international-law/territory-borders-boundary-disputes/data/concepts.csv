@@ -1,0 +1,21 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Territory,foundational concept,Spatial domain over which a state exercises legal authority,territory-sovereignty
+2,Territorial sovereignty,foundational doctrine,Exclusive state authority over territory subject to international law,territory-sovereignty
+3,Territorial integrity,Charter principle,Protection of state territory against unlawful force or annexation,territorial-integrity
+4,Boundary,legal line,Line separating the territorial authority of neighboring states,borders-boundaries
+5,Frontier,border zone,Broader borderland or transition zone sometimes distinguished from a fixed legal boundary,borders-boundaries
+6,Title to territory,territorial claim,Legal basis for sovereignty over territory,title-effectivites
+7,Effectivités,evidence,Effective exercise of state authority used as evidence of sovereignty,title-effectivites
+8,Critical date,evidentiary doctrine,Date after which acts may carry reduced evidentiary weight in a dispute,critical-date
+9,Intertemporal law,temporal doctrine,Evaluation of territorial title according to law at relevant historical times,critical-date
+10,Uti possidetis juris,decolonization doctrine,Transformation of colonial administrative boundaries into international boundaries at independence,uti-possidetis
+11,Delimitation,boundary process,Legal description or determination of a boundary line,delimitation-demarcation
+12,Demarcation,boundary process,Physical marking of the boundary on the ground,delimitation-demarcation
+13,Maps,evidence,Cartographic materials used as evidence but not always title in themselves,maps
+14,Natural boundaries,boundary type,Rivers watersheds mountains and other physical features used in boundary definition,natural-boundaries
+15,Maritime delimitation,law of the sea,Determination of maritime boundaries between overlapping claims,maritime-boundaries
+16,Island sovereignty,territorial issue,Determination of sovereignty over islands rocks reefs or maritime features,islands
+17,Occupation,belligerent situation,Temporary authority over territory by hostile armed forces without transfer of sovereignty,occupation-annexation
+18,Annexation,unlawful acquisition,Claimed incorporation of territory acquired by force or coercion,occupation-annexation
+19,Self-determination,peoplehood right,Right of peoples to determine political status and development,self-determination
+20,Borderlands,critical lens,Communities and ecologies shaped by borders often ignored by state-centered maps,borderlands

@@ -1,0 +1,27 @@
+{
+  "slug": "territory-borders-boundary-disputes-international-law",
+  "folder_slug": "territory-borders-boundary-disputes",
+  "title": "Territory, Borders, and Boundary Disputes in International Law",
+  "status": "draft",
+  "domain": "Foundational Doctrine",
+  "series": "International Law Foundations",
+  "description": "This article explains territory, borders, and boundary disputes in international law, including territorial sovereignty, territorial integrity, acquisition of territory, title, effective control, maps, treaties, uti possidetis juris, colonial boundaries, self-determination, land and maritime delimitation, rivers, islands, enclaves, occupation, annexation, Palestine, Ukraine, Western Sahara, Kashmir, and the role of courts, arbitration, and political negotiation in resolving territorial disputes.",
+  "canonical_url": "https://sustainablecatalyst.com/territory-borders-boundary-disputes-international-law/",
+  "repository_path": "articles/international-law/territory-borders-boundary-disputes",
+  "primary_source_types": [
+    "United Nations Charter materials",
+    "International Court of Justice territorial and boundary cases",
+    "Permanent Court of Arbitration and Reports of International Arbitral Awards materials",
+    "United Nations Convention on the Law of the Sea materials",
+    "United Nations decolonization and self-determination materials",
+    "international law doctrine and scholarship"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use the second gateway button label pattern: kicker Article Map, title International Law.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Frame territorial law through both doctrine and the history of empire, colonial boundary-making, decolonization, indigenous dispossession, occupation, and unequal enforcement."
+  ]
+}
