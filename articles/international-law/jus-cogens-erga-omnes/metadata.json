@@ -1,0 +1,27 @@
+{
+  "slug": "jus-cogens-erga-omnes-and-peremptory-norms-in-international-law",
+  "folder_slug": "jus-cogens-erga-omnes",
+  "title": "Jus Cogens, Erga Omnes, and Peremptory Norms in International Law",
+  "status": "published",
+  "domain": "Foundations",
+  "series": "International Law Foundations",
+  "description": "This article explains jus cogens, obligations erga omnes, erga omnes partes, normative hierarchy, treaty invalidity, non-recognition, non-assistance, state responsibility, and the international community's legal interest in fundamental norms.",
+  "canonical_url": "https://sustainablecatalyst.com/jus-cogens-erga-omnes-and-peremptory-norms-in-international-law/",
+  "repository_path": "articles/international-law/jus-cogens-erga-omnes",
+  "primary_source_types": [
+    "Vienna Convention materials",
+    "International Law Commission materials",
+    "ICJ cases",
+    "state responsibility materials",
+    "UN Charter materials",
+    "advisory opinions",
+    "human rights and humanitarian law materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source legal excerpts.",
+    "Foreground hierarchy, non-derogability, erga omnes legal interest, non-recognition, non-assistance, colonial domination, apartheid, occupation, self-determination, selective enforcement, and the politics of legal universality."
+  ]
+}

@@ -1,0 +1,15 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Jus cogens,normative hierarchy,Peremptory norm of general international law from which no derogation is permitted,jus-cogens-definition
+2,Erga omnes,legal interest,Obligations owed to the international community as a whole,erga-omnes
+3,Erga omnes partes,treaty-community interest,Obligations owed to all parties of a multilateral treaty,erga-omnes-partes
+4,Non-derogability,hierarchy,Inability of states to contract out of or derogate from a peremptory norm,jus-cogens-definition
+5,Treaty invalidity,legal consequence,Treaties conflicting with jus cogens are void,vclt-framework
+6,Emergence of new peremptory norms,legal consequence,Existing treaties conflicting with a new peremptory norm become void and terminate,vclt-framework
+7,Non-recognition,third-state duty,Duty not to recognize as lawful a situation created by serious breach,non-recognition
+8,Non-assistance,third-state duty,Duty not to aid or assist in maintaining a situation created by serious breach,non-recognition
+9,Serious breach,state responsibility,Gross or systematic failure to fulfill an obligation arising under a peremptory norm,state-responsibility
+10,Self-determination,peremptory norm/right,Right of peoples to determine their political status and pursue development,palestine
+11,Apartheid,peremptory norm example,Institutionalized racial domination and systematic oppression,colonial-hierarchy
+12,Aggression,peremptory norm example,Unlawful aggressive use of force,examples
+13,Genocide,peremptory norm example,Destruction of protected groups under international law,examples
+14,Torture,peremptory norm example,Prohibited severe pain or suffering inflicted for prohibited purposes,examples
