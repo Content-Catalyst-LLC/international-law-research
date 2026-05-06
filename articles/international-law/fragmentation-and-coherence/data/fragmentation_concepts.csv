@@ -1,0 +1,14 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Fragmentation,system structure,Diversification of norms institutions and regimes that creates overlap tension or conflict,what-fragmentation-means
+2,Coherence,system structure,Intelligible legal ordering across differentiated regimes,why-fragmentation-matters
+3,Regime complex,institutional structure,Partially overlapping set of norms institutions and procedures governing related subject matter,regime-complexes
+4,Institutional pluralism,institutional structure,Multiplicity of courts tribunals treaty bodies institutions and domestic courts participating in international legal reasoning,institutional-pluralism
+5,Norm conflict,conflict problem,Situation in which multiple valid norms appear to pull in different directions,norm-conflict
+6,Systemic integration,interpretive technique,Reading treaty obligations in relation to relevant rules of international law applicable between the parties,systemic-integration
+7,VCLT Article 31(3)(c),interpretive technique,Treaty interpretation rule requiring relevant rules of international law to be taken into account,systemic-integration
+8,Lex specialis,conflict technique,Use of the more specific rule where appropriate,lex-specialis-lex-posterior
+9,Lex posterior,conflict technique,Use of the later rule where appropriate,lex-specialis-lex-posterior
+10,Self-contained regime,regime theory,Dense specialized regime with its own rules remedies or institutions but not wholly insulated from general law,self-contained-regimes
+11,Judicial multiplicity,institutional structure,Multiple adjudicative bodies developing and applying international law without a single appellate hierarchy,institutional-pluralism
+12,Power asymmetry,critical method,Unequal institutional strength enforcement capacity expertise access and geopolitical power shaping coherence,power-and-asymmetry
+13,Coherence without uniformity,normative method,Maintaining systemic intelligibility while preserving legitimate specialization,coherence-without-unity
