@@ -1,0 +1,27 @@
+{
+  "slug": "reservations-interpretation-and-validity-in-treaty-law",
+  "folder_slug": "reservations-interpretation-validity",
+  "title": "Reservations, Interpretation, and Validity in Treaty Law",
+  "status": "published",
+  "domain": "Foundations",
+  "series": "International Law Foundations",
+  "description": "This article explains how reservations, treaty interpretation, and validity doctrine shape the scope, meaning, and legal effectiveness of treaty obligations under the Vienna Convention on the Law of Treaties and related international legal materials.",
+  "canonical_url": "https://sustainablecatalyst.com/reservations-interpretation-and-validity-in-treaty-law/",
+  "repository_path": "articles/international-law/reservations-interpretation-validity",
+  "primary_source_types": [
+    "Vienna Convention materials",
+    "International Law Commission materials",
+    "ICJ advisory opinions",
+    "treaty-status materials",
+    "reservations guidance",
+    "subsequent practice materials",
+    "jus cogens materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source legal excerpts.",
+    "Foreground consent, reservations, object and purpose, interpretation, multilingual treaties, validity, coercion, unequal treaties, peremptory norms, human rights treaty practice, and the politics of treaty integrity."
+  ]
+}

@@ -1,0 +1,17 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Reservation,reservations,Unilateral statement purporting to exclude or modify legal effect of treaty provisions,reservations-overview
+2,Object and purpose test,reservations,Substantive permissibility limit on reservations under VCLT Article 19(c),object-purpose-test
+3,Acceptance of reservation,reservations,Consent by another party to treaty relations as modified by the reservation,acceptance-objection-effects
+4,Objection to reservation,reservations,Response by a treaty party opposing the reservation and potentially affecting treaty relations,acceptance-objection-effects
+5,Interpretative declaration,reservations,Statement clarifying a state's understanding of treaty meaning without purporting to modify legal effect,interpretative-declarations
+6,Good faith,interpretation,Normative condition governing treaty interpretation and performance,article-31-general-rule
+7,Ordinary meaning,interpretation,Textual meaning of treaty terms read in context,article-31-general-rule
+8,Object and purpose,interpretation,Treaty's central aim used to orient interpretation,article-31-general-rule
+9,Supplementary means,interpretation,Preparatory work and circumstances of conclusion used under Article 32,article-32-supplementary-means
+10,Multiple authentic texts,interpretation,Equal authority of multilingual treaty texts under Article 33,article-33-multiple-authentic-texts
+11,Subsequent agreements,interpretation,Later agreements among parties regarding interpretation,subsequent-practice-agreements
+12,Subsequent practice,interpretation,Later practice establishing agreement of parties regarding interpretation,subsequent-practice-agreements
+13,Validity,validity,Legal effectiveness of treaty consent and treaty obligation,validity-in-treaty-law
+14,Coercion of a state,invalidity,Treaty consent procured by threat or use of force,grounds-of-invalidity
+15,Jus cogens invalidity,invalidity,Treaty void if conflicting with peremptory norm of general international law,jus-cogens-validity
+16,Unequal treaties,critical method,Treaty arrangements shaped by structural power asymmetry and compromised consent,coercion-unequal-consent
