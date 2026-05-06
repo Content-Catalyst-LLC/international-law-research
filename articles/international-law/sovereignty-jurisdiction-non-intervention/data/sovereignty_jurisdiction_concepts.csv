@@ -1,0 +1,19 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Sovereignty,core doctrine,Juridical independence and lawful authority of the state in international law,sovereignty
+2,Sovereign equality,Charter principle,Formal juridical equality of states under the Charter order,sovereign-equality
+3,Jurisdiction,legal competence,Authority to prescribe adjudicate and enforce law,jurisdiction
+4,Prescriptive jurisdiction,jurisdiction category,Authority to make legal rules,jurisdiction
+5,Adjudicative jurisdiction,jurisdiction category,Authority of courts and tribunals to decide cases,jurisdiction
+6,Enforcement jurisdiction,jurisdiction category,Authority to compel compliance through coercive or administrative measures,jurisdiction
+7,Territorial jurisdiction,jurisdiction basis,Authority over persons property acts and events within territory,territorial-jurisdiction
+8,Nationality principle,jurisdiction basis,Authority over nationals abroad,extraterritorial-jurisdiction
+9,Passive personality principle,jurisdiction basis,Authority based on victim nationality in some contexts,extraterritorial-jurisdiction
+10,Protective principle,jurisdiction basis,Authority over conduct threatening security or core governmental interests,extraterritorial-jurisdiction
+11,Universal jurisdiction,jurisdiction basis,Limited jurisdiction over grave offenses regardless of territorial or nationality links,extraterritorial-jurisdiction
+12,Lotus principle,jurisdiction theory,Classical idea that restrictions on state independence cannot be presumed,lotus
+13,Non-intervention,core doctrine,Prohibition on coercive intervention in matters reserved to state freedom,non-intervention
+14,Coercion,intervention element,Defining element of prohibited intervention under Nicaragua,nicaragua
+15,Use of force,Charter rule,Threat or use of force against territorial integrity or political independence,intervention-force
+16,Domestic jurisdiction,Charter concept,Matters essentially within domestic jurisdiction subject to Charter exceptions,non-intervention
+17,Self-determination,peoplehood and status,Right of peoples to determine political status without external interference,palestine
+18,Selective enforcement,critical method,Unequal application of sovereignty non-intervention and force rules,western-impunity
