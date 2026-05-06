@@ -1,0 +1,26 @@
+{
+  "slug": "introduction-to-international-law",
+  "folder_slug": "introduction-to-international-law",
+  "title": "Introduction to International Law",
+  "status": "published",
+  "domain": "Foundational Doctrine",
+  "series": "International Law Foundations",
+  "description": "This introductory article explains international law as the legal framework governing relations among states, international organizations, peoples, individuals, and other global actors. It covers public international law, domestic law, private international law, sovereign equality, sources of international law, treaties, custom, general principles, international institutions, everyday-life examples, enforcement limits, selective application, and the continuing role of law in global governance.",
+  "canonical_url": "https://sustainablecatalyst.com/introduction-to-international-law/",
+  "repository_path": "articles/international-law/introduction-to-international-law",
+  "primary_source_types": [
+    "United Nations Charter materials",
+    "International Court of Justice Statute materials",
+    "Vienna Convention on the Law of Treaties materials",
+    "ASIL everyday international law materials",
+    "international law doctrine and scholarship"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use the second gateway button label pattern: kicker Article Map, title International Law.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Frame international law as real law while remaining honest about decentralized enforcement, unequal power, empire, decolonization, and selective application."
+  ]
+}

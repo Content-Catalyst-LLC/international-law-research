@@ -1,0 +1,17 @@
+concept_id,concept_name,concept_category,description,article_section
+1,International law,field,Legal framework governing relations among states international organizations peoples individuals and other global actors,defining-international-law
+2,Public international law,field,Law governing states international organizations and other international legal subjects,public-private-domestic
+3,Private international law,field,Conflict-of-laws rules for cross-border private disputes,public-private-domestic
+4,Domestic law,field,Law operating within a particular state,public-private-domestic
+5,Sovereign equality,Charter principle,Formal juridical equality of UN members under Article 2(1),historical-development
+6,Horizontal legal order,system structure,Decentralized legal order without a single world sovereign,horizontal-system
+7,Treaties,source,Written international agreements governed by international law,sources
+8,Customary international law,source,General practice accepted as law,sources
+9,General principles,source,Principles recognized across legal systems and used in international adjudication,sources
+10,Judicial decisions,subsidiary means,Decisions used to identify and clarify rules,sources
+11,Scholarly writings,subsidiary means,Teachings of highly qualified publicists as subsidiary means,sources
+12,International organizations,institutional actor,Organizations such as the United Nations created by states and endowed with legal functions,institutions
+13,International legal personality,legal concept,Capacity to bear rights obligations or functions under international law,subjects
+14,Compliance,system function,How international law influences behavior through institutions reciprocity reputation and enforcement,compliance-enforcement
+15,Selective enforcement,critical lens,Unequal application of rules depending on power and institutional politics,law-and-power
+16,Everyday international law,practical lens,International law's role in aviation shipping communications public health trade and mobility,everyday-life
