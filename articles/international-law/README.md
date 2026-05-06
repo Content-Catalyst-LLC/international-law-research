@@ -1,13 +1,5 @@
-# International Law Article Roadmap
+# International Law
 
-This folder stores article-planning notes for the International Law knowledge series.
+Research folder for the International Law knowledge series.
 
-The central roadmap is maintained through:
-
-- data/planned-articles.csv
-- sql/schema.sql
-- sql/seed_international_law.sql
-- sql/views.sql
-- python/export_article_roadmap.py
-
-The pillar is organized around legal regimes, institutions, courts and tribunals, treaty frameworks, case law, advisory opinions, and critical approaches to power, colonial history, selective enforcement, and unequal application of international legal norms.
+This folder stores source hierarchy notes, treaty and institution metadata, article-roadmap data, SQL schemas, citation guidance, and lightweight research utilities for maintaining the International Law series.
