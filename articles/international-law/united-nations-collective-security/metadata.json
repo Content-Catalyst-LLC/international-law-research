@@ -1,0 +1,27 @@
+{
+  "slug": "united-nations-collective-security",
+  "folder_slug": "united-nations-collective-security",
+  "title": "United Nations Collective Security",
+  "status": "published",
+  "domain": "Peace and Security",
+  "series": "International Law Foundations",
+  "description": "This article explains the United Nations collective-security system, including the Security Council, Chapters VI and VII, Article 51 self-defense, peacekeeping, the veto, General Assembly workarounds, Palestine, South Africa v. Israel, NATO power, Iraq, Yugoslavia, selective enforcement, and the gap between universal legal principle and political hierarchy.",
+  "canonical_url": "https://sustainablecatalyst.com/united-nations-collective-security/",
+  "repository_path": "articles/international-law/united-nations-collective-security",
+  "primary_source_types": [
+    "United Nations Charter materials",
+    "Security Council Repertoire materials",
+    "United Nations Peacekeeping materials",
+    "International Court of Justice cases",
+    "United Nations General Assembly resolutions",
+    "Uniting for Peace materials",
+    "Palestine and Gaza materials"
+  ],
+  "editorial_notes": [
+    "Treat the WordPress page as a regular article, not a content pillar.",
+    "Do not duplicate the International Law Foundations article map inside this article.",
+    "Use the five-button navigation gateway near the top.",
+    "Use .cc-source-quote blocks for short primary-source excerpts.",
+    "Foreground collective security as legal architecture and political failure: Security Council authority, veto paralysis, peacekeeping evolution, self-defense, Palestine, South Africa v. Israel, NATO power, Iraq, Yugoslavia, Uniting for Peace, and unequal enforcement."
+  ]
+}

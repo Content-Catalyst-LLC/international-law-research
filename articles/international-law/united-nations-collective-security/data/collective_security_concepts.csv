@@ -1,0 +1,17 @@
+concept_id,concept_name,concept_category,description,article_section
+1,Collective security,system concept,Institutionalized response to threats to peace through common legal mechanisms,idea-of-collective-security
+2,Security Council primary responsibility,Charter principle,Article 24 conferral of primary responsibility for peace and security on the Council,security-council
+3,Veto,Security Council voting,Power of permanent members to block substantive Security Council resolutions,veto
+4,Chapter VI,peaceful settlement,Charter framework for peaceful settlement of disputes,chapter-vi
+5,Chapter VII,enforcement powers,Charter framework for threats to peace breaches of peace and acts of aggression,chapter-vii
+6,Article 39,enforcement gateway,Security Council determination of threat to peace breach of peace or aggression,chapter-vii
+7,Article 41,non-force measures,Security Council measures not involving armed force,chapter-vii
+8,Article 42,force measures,Security Council military enforcement measures when Article 41 is inadequate,chapter-vii
+9,Article 51,self-defense,Inherent right of individual or collective self-defense if armed attack occurs,self-defense
+10,Peacekeeping,UN practice,Operational tool developed beyond explicit Charter text through mandates and practice,peacekeeping
+11,Peace enforcement,UN practice,Use or authorization of coercive force to restore peace and security,peacekeeping
+12,Uniting for Peace,General Assembly workaround,General Assembly emergency procedure when Security Council is blocked,uniting-for-peace
+13,Security Council paralysis,structural problem,Failure to act where permanent-member interests or alliances block decision,veto
+14,Selective enforcement,critical method,Unequal application of collective-security mechanisms,double-standards
+15,Palestine,contemporary crisis,Central case exposing gap between Charter principles and Security Council paralysis,palestine
+16,South Africa v Israel,international adjudication,Example of Global South legal action where collective-security machinery is blocked,south-africa
