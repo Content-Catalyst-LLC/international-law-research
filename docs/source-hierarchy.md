@@ -45,9 +45,9 @@ Examples of authoritative sources:
 
 ## Tier 4: Critical and Historical Sources
 
-- Third World Approaches to International Law
-- Postcolonial legal scholarship
-- Feminist international law
+- Empire, decolonization, and TWAIL / Global South critiques
+- Postcolonial legal scholarship and histories of international legal hierarchy
+- Gender, violence, and feminist international law scholarship
 - Indigenous legal perspectives
 - Histories of empire, sovereignty, and international legal hierarchy
 - Political economy of international law

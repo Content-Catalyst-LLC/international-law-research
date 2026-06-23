@@ -1,11 +1,13 @@
 {
-  "slug": "self-determination-decolonization-rights-of-peoples",
+  "slug": "self-determination-decolonization-and-the-rights-of-peoples",
   "folder_slug": "self-determination-decolonization-rights-of-peoples",
   "title": "Self-Determination, Decolonization, and the Rights of Peoples",
   "status": "draft",
-  "domain": "Foundational Doctrine",
-  "series": "International Law Foundations",
-  "canonical_url": "https://sustainablecatalyst.com/self-determination-decolonization-rights-of-peoples/",
+  "domain": "Sovereignty, Statehood, and Responsibility",
+  "series": "International Law",
+  "canonical_url": "https://sustainablecatalyst.com/self-determination-decolonization-and-the-rights-of-peoples/",
   "repository_path": "articles/international-law/self-determination-decolonization-rights-of-peoples",
-  "description": "Research materials on self-determination, decolonization, peoples, resource sovereignty, Indigenous rights, territorial integrity, Palestine, Western Sahara, Chagos, Namibia, East Timor, Kashmir, and Kosovo."
+  "description": "Research materials on self-determination, decolonization, peoples, resource sovereignty, Indigenous rights, territorial integrity, Palestine, Western Sahara, Chagos, Namibia, East Timor, Kashmir, and Kosovo.",
+  "previous_article": "Territory, Borders, and Boundary Disputes in International Law",
+  "next_article": "Secession, Recognition, and Contested Statehood"
 }
