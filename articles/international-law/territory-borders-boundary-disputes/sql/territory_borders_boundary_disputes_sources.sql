@@ -1,0 +1,2 @@
+-- Source staging schema for Territory, Borders, and Boundary Disputes in International Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

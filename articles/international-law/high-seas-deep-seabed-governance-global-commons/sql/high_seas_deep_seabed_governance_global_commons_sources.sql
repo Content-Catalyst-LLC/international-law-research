@@ -1,0 +1,2 @@
+-- Source staging schema for The High Seas, Deep Seabed Governance, and the Global Commons
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

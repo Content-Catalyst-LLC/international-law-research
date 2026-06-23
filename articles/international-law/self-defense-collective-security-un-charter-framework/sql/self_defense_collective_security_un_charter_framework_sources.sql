@@ -1,0 +1,2 @@
+-- Source staging schema for Self-Defense, Collective Security, and the UN Charter Framework
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

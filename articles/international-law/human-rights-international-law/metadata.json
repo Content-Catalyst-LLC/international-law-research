@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Human Rights",
   "series": "International Law Foundations",
-  "description": "This article explains international human rights law, including the UN Charter, Universal Declaration of Human Rights, ICCPR, ICESCR, core human-rights treaties, treaty bodies, regional systems, customary law, jus cogens, state responsibility, Palestine, racial justice, colonial legacies, digital surveillance, climate, migration, corporate power, and the contested politics of universal dignity.",
   "canonical_url": "https://sustainablecatalyst.com/human-rights-international-law/",
   "repository_path": "articles/international-law/human-rights-international-law",
+  "description": "This article explains international human rights law, including the UN Charter, Universal Declaration of Human Rights, ICCPR, ICESCR, core human-rights treaties, treaty bodies, regional systems, customary law, jus cogens, state responsibility, Palestine, racial justice, colonial legacies, digital surveillance, climate, migration, corporate power, and the contested politics of universal dignity.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/human-rights-international-law.csv",
   "primary_source_types": [
     "United Nations Charter materials",
     "Universal Declaration of Human Rights materials",

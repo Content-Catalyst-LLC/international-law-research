@@ -1,0 +1,2 @@
+-- Source staging schema for International Organizations and the Legal Authority of Global Institutions
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Sovereignty",
   "series": "International Law Foundations",
-  "description": "This article explains the historical and symbolic role of the Peace of Westphalia, the rise of territorially organized sovereign states, sovereign equality, non-intervention, statehood, empire, decolonization, and the hybrid structure of contemporary international legal order.",
   "canonical_url": "https://sustainablecatalyst.com/westphalian-system-state-sovereignty/",
   "repository_path": "articles/international-law/westphalian-system-state-sovereignty",
+  "description": "This article explains the historical and symbolic role of the Peace of Westphalia, the rise of territorially organized sovereign states, sovereign equality, non-intervention, statehood, empire, decolonization, and the hybrid structure of contemporary international legal order.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/westphalian-system-state-sovereignty.csv",
   "primary_source_types": [
     "Peace of Westphalia texts",
     "UN Charter materials",

@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundations",
   "series": "International Law Foundations",
-  "description": "This article explains how reservations, treaty interpretation, and validity doctrine shape the scope, meaning, and legal effectiveness of treaty obligations under the Vienna Convention on the Law of Treaties and related international legal materials.",
   "canonical_url": "https://sustainablecatalyst.com/reservations-interpretation-and-validity-in-treaty-law/",
   "repository_path": "articles/international-law/reservations-interpretation-validity",
+  "description": "This article explains how reservations, treaty interpretation, and validity doctrine shape the scope, meaning, and legal effectiveness of treaty obligations under the Vienna Convention on the Law of Treaties and related international legal materials.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/reservations-interpretation-validity.csv",
   "primary_source_types": [
     "Vienna Convention materials",
     "International Law Commission materials",

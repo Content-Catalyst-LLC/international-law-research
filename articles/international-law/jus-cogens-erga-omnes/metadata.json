@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundations",
   "series": "International Law Foundations",
-  "description": "This article explains jus cogens, obligations erga omnes, erga omnes partes, normative hierarchy, treaty invalidity, non-recognition, non-assistance, state responsibility, and the international community's legal interest in fundamental norms.",
   "canonical_url": "https://sustainablecatalyst.com/jus-cogens-erga-omnes-and-peremptory-norms-in-international-law/",
   "repository_path": "articles/international-law/jus-cogens-erga-omnes",
+  "description": "This article explains jus cogens, obligations erga omnes, erga omnes partes, normative hierarchy, treaty invalidity, non-recognition, non-assistance, state responsibility, and the international community's legal interest in fundamental norms.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/jus-cogens-erga-omnes.csv",
   "primary_source_types": [
     "Vienna Convention materials",
     "International Law Commission materials",

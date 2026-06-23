@@ -1,0 +1,2 @@
+-- Source staging schema for International Courts and Tribunals
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundations",
   "series": "International Law Foundations",
-  "description": "Sources of International Law explains how international legal rules arise, how they acquire authority, and how treaties, customary international law, general principles, judicial decisions, scholarly writings, institutional practice, soft law, and legal hierarchy structure international legal argument.",
   "canonical_url": "https://sustainablecatalyst.com/sources-of-international-law/",
   "repository_path": "articles/international-law/sources-of-international-law",
+  "description": "Sources of International Law explains how international legal rules arise, how they acquire authority, and how treaties, customary international law, general principles, judicial decisions, scholarly writings, institutional practice, soft law, and legal hierarchy structure international legal argument.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/sources-of-international-law.csv",
   "primary_source_types": [
     "ICJ Statute materials",
     "treaties",

@@ -1,0 +1,2 @@
+-- Source staging schema for Refugee Law, Asylum, and the Principle of Non-Refoulement
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

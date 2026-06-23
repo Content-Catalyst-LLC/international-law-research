@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundations",
   "series": "International Law Foundations",
-  "description": "This article explains how international law manages specialization, regime interaction, norm conflict, systemic integration, institutional pluralism, self-contained regimes, and the continuing problem of coherence in a differentiated legal order.",
   "canonical_url": "https://sustainablecatalyst.com/fragmentation-and-coherence-in-international-legal-order/",
   "repository_path": "articles/international-law/fragmentation-and-coherence",
+  "description": "This article explains how international law manages specialization, regime interaction, norm conflict, systemic integration, institutional pluralism, self-contained regimes, and the continuing problem of coherence in a differentiated legal order.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/fragmentation-and-coherence.csv",
   "primary_source_types": [
     "International Law Commission materials",
     "Vienna Convention materials",

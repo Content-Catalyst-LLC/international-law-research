@@ -1,0 +1,2 @@
+-- Source staging schema for Empire, Decolonization, and the Making of International Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

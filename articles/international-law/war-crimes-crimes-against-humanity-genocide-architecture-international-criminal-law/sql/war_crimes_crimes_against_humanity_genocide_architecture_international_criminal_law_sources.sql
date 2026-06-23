@@ -1,0 +1,2 @@
+-- Source staging schema for War Crimes, Crimes Against Humanity, Genocide, and the Architecture of International Criminal Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

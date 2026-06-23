@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundations",
   "series": "International Law Foundations",
-  "description": "Treaty law explains how states and other recognized international legal actors create, interpret, modify, suspend, and terminate binding international agreements, with the Vienna Convention on the Law of Treaties as the central modern framework.",
   "canonical_url": "https://sustainablecatalyst.com/treaty-law-vienna-convention/",
   "repository_path": "articles/international-law/treaty-law",
+  "description": "Treaty law explains how states and other recognized international legal actors create, interpret, modify, suspend, and terminate binding international agreements, with the Vienna Convention on the Law of Treaties as the central modern framework.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/treaty-law.csv",
   "primary_source_types": [
     "treaties",
     "Vienna Convention materials",

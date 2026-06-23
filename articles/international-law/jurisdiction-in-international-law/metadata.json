@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundational Doctrine",
   "series": "International Law Foundations",
-  "description": "This article explains jurisdiction as legal competence in international law, including prescriptive, adjudicative, and enforcement jurisdiction; territoriality; subjective and objective territoriality; nationality; corporate nationality; passive personality; the protective principle; universal jurisdiction; extraterritorial reach; the Lotus principle; immunities; human-rights jurisdiction; maritime and digital jurisdiction; enforcement abroad; sanctions; and the relationship between jurisdiction, sovereignty, and global power.",
   "canonical_url": "https://sustainablecatalyst.com/jurisdiction-in-international-law-territoriality-nationality-universality-extraterritorial-reach/",
   "repository_path": "articles/international-law/jurisdiction-in-international-law",
+  "description": "This article explains jurisdiction as legal competence in international law, including prescriptive, adjudicative, and enforcement jurisdiction; territoriality; subjective and objective territoriality; nationality; corporate nationality; passive personality; the protective principle; universal jurisdiction; extraterritorial reach; the Lotus principle; immunities; human-rights jurisdiction; maritime and digital jurisdiction; enforcement abroad; sanctions; and the relationship between jurisdiction, sovereignty, and global power.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/jurisdiction-in-international-law.csv",
   "primary_source_types": [
     "Permanent Court of International Justice materials",
     "International Court of Justice materials",

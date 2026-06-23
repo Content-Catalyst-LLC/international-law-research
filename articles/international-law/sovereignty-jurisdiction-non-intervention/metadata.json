@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Sovereignty",
   "series": "International Law Foundations",
-  "description": "This article explains sovereignty, sovereign equality, jurisdiction, territoriality, extraterritorial jurisdiction, non-intervention, coercion, the Lotus and Nicaragua cases, Palestine, Western impunity, NATO power, and selective enforcement in international law.",
   "canonical_url": "https://sustainablecatalyst.com/sovereignty-jurisdiction-non-intervention-international-law/",
   "repository_path": "articles/international-law/sovereignty-jurisdiction-non-intervention",
+  "description": "This article explains sovereignty, sovereign equality, jurisdiction, territoriality, extraterritorial jurisdiction, non-intervention, coercion, the Lotus and Nicaragua cases, Palestine, Western impunity, NATO power, and selective enforcement in international law.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/sovereignty-jurisdiction-non-intervention.csv",
   "primary_source_types": [
     "United Nations Charter materials",
     "United Nations Repertory materials",

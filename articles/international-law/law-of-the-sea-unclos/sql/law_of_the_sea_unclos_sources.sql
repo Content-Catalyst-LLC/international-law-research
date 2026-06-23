@@ -1,0 +1,2 @@
+-- Source staging schema for Law of the Sea (UNCLOS)
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

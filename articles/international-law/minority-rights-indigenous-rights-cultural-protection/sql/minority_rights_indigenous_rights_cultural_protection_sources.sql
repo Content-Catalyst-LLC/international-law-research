@@ -1,0 +1,2 @@
+-- Source staging schema for Minority Rights, Indigenous Rights, and Cultural Protection
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

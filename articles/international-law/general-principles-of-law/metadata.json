@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundations",
   "series": "International Law Foundations",
-  "description": "General Principles of Law explains how foundational juridical standards help make international law coherent, operable, and capable of reasoned adjudication beyond treaties and customary international law.",
   "canonical_url": "https://sustainablecatalyst.com/general-principles-of-law-in-international-legal-order/",
   "repository_path": "articles/international-law/general-principles-of-law",
+  "description": "General Principles of Law explains how foundational juridical standards help make international law coherent, operable, and capable of reasoned adjudication beyond treaties and customary international law.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/general-principles-of-law.csv",
   "primary_source_types": [
     "ICJ Statute materials",
     "International Law Commission materials",

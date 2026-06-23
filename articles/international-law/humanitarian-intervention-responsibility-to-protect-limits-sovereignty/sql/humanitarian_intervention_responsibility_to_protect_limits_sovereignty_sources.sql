@@ -1,0 +1,2 @@
+-- Source staging schema for Humanitarian Intervention, Responsibility to Protect, and the Limits of Sovereignty
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

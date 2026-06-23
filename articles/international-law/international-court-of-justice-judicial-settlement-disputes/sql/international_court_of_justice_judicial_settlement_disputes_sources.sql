@@ -1,0 +1,2 @@
+-- Source staging schema for The International Court of Justice and the Judicial Settlement of Disputes
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

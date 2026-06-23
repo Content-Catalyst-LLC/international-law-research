@@ -1,0 +1,2 @@
+-- Source staging schema for Command Responsibility, Individual Criminal Liability, and Modes of Participation
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

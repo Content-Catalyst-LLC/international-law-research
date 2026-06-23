@@ -1,0 +1,2 @@
+-- Source staging schema for Compliance, Enforcement, and the Limits of International Adjudication
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Responsibility",
   "series": "International Law Foundations",
-  "description": "This article explains attribution, breach, circumstances precluding wrongfulness, reparation, countermeasures, serious breaches, peremptory norms, community interest, third-state duties, and the uneven politics of enforcement in the law of state responsibility.",
   "canonical_url": "https://sustainablecatalyst.com/state-responsibility-international-law/",
   "repository_path": "articles/international-law/state-responsibility",
+  "description": "This article explains attribution, breach, circumstances precluding wrongfulness, reparation, countermeasures, serious breaches, peremptory norms, community interest, third-state duties, and the uneven politics of enforcement in the law of state responsibility.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/state-responsibility.csv",
   "primary_source_types": [
     "International Law Commission materials",
     "United Nations General Assembly materials",

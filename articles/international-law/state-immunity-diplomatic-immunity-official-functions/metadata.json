@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Immunities and Official Functions",
   "series": "International Law Foundations",
-  "description": "This article explains state immunity, diplomatic immunity, consular immunity, official immunities, ratione personae, ratione materiae, the protection of diplomatic premises, the Damascus consular strike, the ICJ Arrest Warrant, Jurisdictional Immunities, Tehran Hostages, international crimes, Palestine, Western impunity, and the tension between sovereign equality, orderly relations, and accountability.",
   "canonical_url": "https://sustainablecatalyst.com/state-immunity-diplomatic-immunity-official-functions-international-law/",
   "repository_path": "articles/international-law/state-immunity-diplomatic-immunity-official-functions",
+  "description": "This article explains state immunity, diplomatic immunity, consular immunity, official immunities, ratione personae, ratione materiae, the protection of diplomatic premises, the Damascus consular strike, the ICJ Arrest Warrant, Jurisdictional Immunities, Tehran Hostages, international crimes, Palestine, Western impunity, and the tension between sovereign equality, orderly relations, and accountability.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/state-immunity-diplomatic-immunity-official-functions.csv",
   "primary_source_types": [
     "Vienna Convention on Diplomatic Relations materials",
     "Vienna Convention on Consular Relations materials",

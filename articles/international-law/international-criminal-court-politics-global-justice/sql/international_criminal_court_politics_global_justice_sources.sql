@@ -1,0 +1,2 @@
+-- Source staging schema for The International Criminal Court and the Politics of Global Justice
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

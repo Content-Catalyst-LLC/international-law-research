@@ -1,0 +1,2 @@
+-- Source staging schema for The Prohibition on the Use of Force in International Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

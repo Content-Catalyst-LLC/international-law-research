@@ -1,0 +1,2 @@
+-- Source staging schema for Nuremberg, Tokyo, and the Historical Development of International Criminal Justice
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

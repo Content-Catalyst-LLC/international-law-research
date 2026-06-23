@@ -1,0 +1,2 @@
+-- Source staging schema for Occupation, Detention, and the Legal Governance of War-Torn Territory
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

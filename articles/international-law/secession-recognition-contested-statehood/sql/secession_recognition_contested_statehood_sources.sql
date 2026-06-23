@@ -1,0 +1,2 @@
+-- Source staging schema for Secession, Recognition, and Contested Statehood
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

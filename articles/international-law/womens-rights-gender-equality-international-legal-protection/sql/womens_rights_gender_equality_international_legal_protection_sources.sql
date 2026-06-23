@@ -1,0 +1,2 @@
+-- Source staging schema for Women’s Rights, Gender Equality, and International Legal Protection
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

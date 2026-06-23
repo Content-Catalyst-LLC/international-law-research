@@ -1,0 +1,2 @@
+-- Source staging schema for International Environmental Law and the Governance of Planetary Risk
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

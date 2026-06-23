@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundations",
   "series": "International Law Foundations",
-  "description": "Customary International Law explains how unwritten international legal rules emerge through general state practice accepted as law, with particular attention to state practice, opinio juris, evidence, courts, persistent objection, particular custom, soft law, treaties, colonial history, and the politics of whose practice counts as international law.",
   "canonical_url": "https://sustainablecatalyst.com/customary-international-law/",
   "repository_path": "articles/international-law/customary-international-law",
+  "description": "Customary International Law explains how unwritten international legal rules emerge through general state practice accepted as law, with particular attention to state practice, opinio juris, evidence, courts, persistent objection, particular custom, soft law, treaties, colonial history, and the politics of whose practice counts as international law.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/customary-international-law.csv",
   "primary_source_types": [
     "ICJ Statute materials",
     "International Law Commission materials",

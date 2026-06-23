@@ -1,0 +1,2 @@
+-- Source staging schema for Self-Determination, Decolonization, and the Rights of Peoples
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -1,0 +1,2 @@
+-- Source staging schema for International Trade Law and the Legal Order of Global Commerce
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

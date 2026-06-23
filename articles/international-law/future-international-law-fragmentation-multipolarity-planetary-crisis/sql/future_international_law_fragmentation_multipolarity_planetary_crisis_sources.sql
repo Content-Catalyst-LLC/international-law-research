@@ -1,0 +1,2 @@
+-- Source staging schema for The Future of International Law in an Age of Fragmentation, Multipolarity, and Planetary Crisis
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

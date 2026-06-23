@@ -1,0 +1,2 @@
+-- Source staging schema for Gender, Violence, and the Public/Private Divide in International Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

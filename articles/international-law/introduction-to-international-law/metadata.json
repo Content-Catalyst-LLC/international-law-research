@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Foundational Doctrine",
   "series": "International Law Foundations",
-  "description": "This introductory article explains international law as the legal framework governing relations among states, international organizations, peoples, individuals, and other global actors. It covers public international law, domestic law, private international law, sovereign equality, sources of international law, treaties, custom, general principles, international institutions, everyday-life examples, enforcement limits, selective application, and the continuing role of law in global governance.",
   "canonical_url": "https://sustainablecatalyst.com/introduction-to-international-law/",
   "repository_path": "articles/international-law/introduction-to-international-law",
+  "description": "This introductory article explains international law as the legal framework governing relations among states, international organizations, peoples, individuals, and other global actors. It covers public international law, domestic law, private international law, sovereign equality, sources of international law, treaties, custom, general principles, international institutions, everyday-life examples, enforcement limits, selective application, and the continuing role of law in global governance.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/introduction-to-international-law.csv",
   "primary_source_types": [
     "United Nations Charter materials",
     "International Court of Justice Statute materials",

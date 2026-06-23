@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Ocean Governance",
   "series": "International Law Foundations",
-  "description": "This article explains the law of the sea, UNCLOS, maritime zones, navigation, exclusive economic zones, continental shelves, the high seas, the deep seabed, common heritage of humankind, the International Seabed Authority, marine environmental protection, BBNJ, dispute settlement, South China Sea arbitration, climate change, fisheries, biodiversity, and equity in ocean governance.",
   "canonical_url": "https://sustainablecatalyst.com/law-of-the-sea-unclos/",
   "repository_path": "articles/international-law/law-of-the-sea-unclos",
+  "description": "This article explains the law of the sea, UNCLOS, maritime zones, navigation, exclusive economic zones, continental shelves, the high seas, the deep seabed, common heritage of humankind, the International Seabed Authority, marine environmental protection, BBNJ, dispute settlement, South China Sea arbitration, climate change, fisheries, biodiversity, and equity in ocean governance.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/law-of-the-sea-unclos.csv",
   "primary_source_types": [
     "United Nations Convention on the Law of the Sea materials",
     "International Tribunal for the Law of the Sea materials",

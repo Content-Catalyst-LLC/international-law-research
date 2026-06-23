@@ -1,5 +1,5 @@
 {
-  "slug": "empire-decolonization-making-international-law",
+  "slug": "empire-decolonization-and-the-making-of-international-law",
   "folder_slug": "empire-decolonization-making-international-law",
   "title": "Empire, Decolonization, and the Making of International Law",
   "status": "planned",
@@ -7,5 +7,7 @@
   "series": "International Law",
   "canonical_url": "https://sustainablecatalyst.com/empire-decolonization-making-international-law/",
   "repository_path": "articles/international-law/empire-decolonization-making-international-law",
-  "description": "Research materials on empire, colonial administration, racial hierarchy, mandates, trusteeship, development, TWAIL, Global South critiques, and decolonization as foundations of international legal doctrine."
+  "description": "Research materials on empire, colonial administration, racial hierarchy, mandates, trusteeship, development, TWAIL, Global South critiques, and decolonization as foundations of international legal doctrine.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/empire-decolonization-making-international-law.csv"
 }

@@ -1,11 +1,13 @@
 {
-  "slug": "secession-recognition-contested-statehood",
+  "slug": "secession-recognition-and-contested-statehood",
   "folder_slug": "secession-recognition-contested-statehood",
   "title": "Secession, Recognition, and Contested Statehood",
-  "status": "draft",
-  "domain": "Foundational Doctrine",
+  "status": "planned",
+  "domain": "Sovereignty, Statehood, and Responsibility",
   "series": "International Law Foundations",
   "canonical_url": "https://sustainablecatalyst.com/secession-recognition-contested-statehood/",
   "repository_path": "articles/international-law/secession-recognition-contested-statehood",
-  "description": "Research materials on secession, recognition, statehood, contested states, Montevideo criteria, declaratory and constitutive theories, Kosovo, Palestine, Northern Cyprus, Taiwan, Somaliland, South Sudan, territorial integrity, self-determination, and non-recognition."
+  "description": "Research materials on secessionist claims, recognition politics, remedial secession debates, territorial integrity, self-determination, and the legal instability of contested statehood.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/secession-recognition-contested-statehood.csv"
 }

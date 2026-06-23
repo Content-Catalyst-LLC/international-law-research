@@ -1,0 +1,2 @@
+-- Source staging schema for International Arbitration and the Peaceful Settlement of Disputes
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -1,0 +1,2 @@
+-- Source staging schema for Jurisdiction in International Law: Territoriality, Nationality, Universality, and Extraterritorial Reach
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

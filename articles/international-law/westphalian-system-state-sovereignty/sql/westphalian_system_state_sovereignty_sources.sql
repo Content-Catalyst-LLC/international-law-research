@@ -1,0 +1,2 @@
+-- Source staging schema for The Westphalian System and State Sovereignty
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

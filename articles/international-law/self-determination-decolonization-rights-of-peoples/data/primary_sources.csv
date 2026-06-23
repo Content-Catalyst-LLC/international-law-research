@@ -1,15 +1,15 @@
-source_title,institution,year,url,notes
-Charter of the United Nations,United Nations,1945,https://www.un.org/en/about-us/un-charter/full-text,Articles 1 and 55
-Declaration on the Granting of Independence to Colonial Countries and Peoples,OHCHR / United Nations,1960,https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-granting-independence-colonial-countries-and-peoples,Resolution 1514
-International Covenant on Civil and Political Rights,OHCHR,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights,Common Article 1
-International Covenant on Economic Social and Cultural Rights,OHCHR,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights,Common Article 1
-Friendly Relations Declaration,United Nations General Assembly,1970,https://docs.un.org/en/a/res/2625%28xxv%29,Self-determination and territorial integrity
-Permanent Sovereignty over Natural Resources,OHCHR / United Nations,1962,https://www.ohchr.org/en/instruments-mechanisms/instruments/general-assembly-resolution-1803-xvii-14-december-1962-permanent,Resource sovereignty
-Western Sahara,International Court of Justice,1975,https://www.icj-cij.org/case/61,Self-determination and free expression of will
-Namibia Advisory Opinion,International Court of Justice,1971,https://www.icj-cij.org/case/53,South Africa's continued presence in Namibia
-East Timor,International Court of Justice,1995,https://www.icj-cij.org/case/84,Self-determination as erga omnes
-Chagos Advisory Opinion,International Court of Justice,2019,https://www.icj-cij.org/case/169,Unfinished decolonization
-Kosovo Advisory Opinion,International Court of Justice,2010,https://www.icj-cij.org/case/141,Declaration of independence and international law
-Palestine Advisory Opinion,International Court of Justice,2024,https://www.icj-cij.org/case/186,Palestinian self-determination
-UN Declaration on the Rights of Indigenous Peoples,OHCHR,2007,https://www.ohchr.org/en/indigenous-peoples/un-declaration-rights-indigenous-peoples,Indigenous peoples' rights
-Non-Self-Governing Territories,United Nations Decolonization,2024,https://www.un.org/dppa/decolonization/en/nsgt,UN decolonization list
+source_id,source_title,source_type,institution,year,url,notes
+self-determination-decolonization-rights-of-peoples-primary-001,Charter of the United Nations,treaty,United Nations,1945,https://www.un.org/en/about-us/un-charter/full-text,Articles 1 and 55
+self-determination-decolonization-rights-of-peoples-primary-002,Declaration on the Granting of Independence to Colonial Countries and Peoples,resolution,OHCHR / United Nations,1960,https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-granting-independence-colonial-countries-and-peoples,Resolution 1514
+self-determination-decolonization-rights-of-peoples-primary-003,International Covenant on Civil and Political Rights,treaty,OHCHR,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights,Common Article 1
+self-determination-decolonization-rights-of-peoples-primary-004,International Covenant on Economic Social and Cultural Rights,treaty,OHCHR,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights,Common Article 1
+self-determination-decolonization-rights-of-peoples-primary-005,Friendly Relations Declaration,resolution,United Nations General Assembly,1970,https://docs.un.org/en/a/res/2625%28xxv%29,Self-determination and territorial integrity
+self-determination-decolonization-rights-of-peoples-primary-006,Permanent Sovereignty over Natural Resources,other,OHCHR / United Nations,1962,https://www.ohchr.org/en/instruments-mechanisms/instruments/general-assembly-resolution-1803-xvii-14-december-1962-permanent,Resource sovereignty
+self-determination-decolonization-rights-of-peoples-primary-007,Western Sahara,case,International Court of Justice,1975,https://www.icj-cij.org/case/61,Self-determination and free expression of will
+self-determination-decolonization-rights-of-peoples-primary-008,Namibia Advisory Opinion,case,International Court of Justice,1971,https://www.icj-cij.org/case/53,South Africa's continued presence in Namibia
+self-determination-decolonization-rights-of-peoples-primary-009,East Timor,case,International Court of Justice,1995,https://www.icj-cij.org/case/84,Self-determination as erga omnes
+self-determination-decolonization-rights-of-peoples-primary-010,Chagos Advisory Opinion,case,International Court of Justice,2019,https://www.icj-cij.org/case/169,Unfinished decolonization
+self-determination-decolonization-rights-of-peoples-primary-011,Kosovo Advisory Opinion,case,International Court of Justice,2010,https://www.icj-cij.org/case/141,Declaration of independence and international law
+self-determination-decolonization-rights-of-peoples-primary-012,Palestine Advisory Opinion,case,International Court of Justice,2024,https://www.icj-cij.org/case/186,Palestinian self-determination
+self-determination-decolonization-rights-of-peoples-primary-013,UN Declaration on the Rights of Indigenous Peoples,resolution,OHCHR,2007,https://www.ohchr.org/en/indigenous-peoples/un-declaration-rights-indigenous-peoples,Indigenous peoples' rights
+self-determination-decolonization-rights-of-peoples-primary-014,Non-Self-Governing Territories,other,United Nations Decolonization,2024,https://www.un.org/dppa/decolonization/en/nsgt,UN decolonization list

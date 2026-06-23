@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Dispute Settlement",
   "series": "International Law Foundations",
-  "description": "This article explains the international judicial landscape, including the ICJ, ICC, ITLOS, regional human-rights courts, ad hoc and hybrid tribunals, WTO dispute settlement, investor-state arbitration, advisory opinions, Palestine, South Africa v. Israel, Black internationalism, enforcement limits, and unequal access to justice.",
   "canonical_url": "https://sustainablecatalyst.com/international-courts-and-tribunals/",
   "repository_path": "articles/international-law/international-courts-and-tribunals",
+  "description": "This article explains the international judicial landscape, including the ICJ, ICC, ITLOS, regional human-rights courts, ad hoc and hybrid tribunals, WTO dispute settlement, investor-state arbitration, advisory opinions, Palestine, South Africa v. Israel, Black internationalism, enforcement limits, and unequal access to justice.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/international-courts-and-tribunals.csv",
   "primary_source_types": [
     "International Court of Justice materials",
     "International Criminal Court materials",

@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Sovereignty",
   "series": "International Law Foundations",
-  "description": "This article explains statehood, recognition, non-recognition, United Nations membership, international legal personality, functional personality beyond the state, Palestine, Kosovo, self-determination, and the politics of legal existence in international law.",
   "canonical_url": "https://sustainablecatalyst.com/statehood-recognition-and-legal-personality-in-international-law/",
   "repository_path": "articles/international-law/statehood-recognition-legal-personality",
+  "description": "This article explains statehood, recognition, non-recognition, United Nations membership, international legal personality, functional personality beyond the state, Palestine, Kosovo, self-determination, and the politics of legal existence in international law.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/statehood-recognition-legal-personality.csv",
   "primary_source_types": [
     "Montevideo Convention materials",
     "United Nations Charter materials",

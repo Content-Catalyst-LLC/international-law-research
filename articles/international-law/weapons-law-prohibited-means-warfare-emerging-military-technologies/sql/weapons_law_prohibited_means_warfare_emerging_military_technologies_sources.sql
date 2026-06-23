@@ -1,0 +1,2 @@
+-- Source staging schema for Weapons Law, Prohibited Means of Warfare, and Emerging Military Technologies
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -1,0 +1,2 @@
+-- Source staging schema for Jus Cogens, Erga Omnes, and Peremptory Norms in International Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -1,0 +1,2 @@
+-- Source staging schema for Universal Jurisdiction and Accountability for Atrocity Crimes
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

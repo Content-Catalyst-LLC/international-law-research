@@ -1,0 +1,2 @@
+-- Source staging schema for Customary International Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

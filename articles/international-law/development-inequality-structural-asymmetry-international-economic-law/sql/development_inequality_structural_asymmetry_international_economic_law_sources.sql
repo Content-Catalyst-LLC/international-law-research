@@ -1,0 +1,2 @@
+-- Source staging schema for Development, Inequality, and Structural Asymmetry in International Economic Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

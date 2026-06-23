@@ -1,0 +1,2 @@
+-- Source staging schema for Climate Change Law, Treaties, and the Legal Politics of Decarbonization
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

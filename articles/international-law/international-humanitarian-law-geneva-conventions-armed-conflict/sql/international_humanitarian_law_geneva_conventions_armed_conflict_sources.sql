@@ -1,0 +1,2 @@
+-- Source staging schema for International Humanitarian Law: The Geneva Conventions and the Regulation of Armed Conflict
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

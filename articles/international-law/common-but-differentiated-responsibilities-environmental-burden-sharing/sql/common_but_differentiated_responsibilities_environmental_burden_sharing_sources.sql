@@ -1,0 +1,2 @@
+-- Source staging schema for Common but Differentiated Responsibilities and the Politics of Environmental Burden Sharing
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

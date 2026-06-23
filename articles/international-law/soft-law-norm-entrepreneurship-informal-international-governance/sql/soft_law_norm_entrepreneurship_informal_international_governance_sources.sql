@@ -1,0 +1,2 @@
+-- Source staging schema for Soft Law, Norm Entrepreneurship, and Informal International Governance
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

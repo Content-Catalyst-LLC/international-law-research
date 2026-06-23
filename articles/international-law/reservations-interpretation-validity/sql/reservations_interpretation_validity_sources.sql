@@ -1,0 +1,2 @@
+-- Source staging schema for Reservations, Interpretation, and Validity in Treaty Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

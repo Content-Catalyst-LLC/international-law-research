@@ -1,0 +1,2 @@
+-- Source staging schema for Power, Inequality, and the Critique of International Law
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

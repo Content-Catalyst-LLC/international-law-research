@@ -1,0 +1,2 @@
+-- Source staging schema for General Principles of Law in International Legal Order
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

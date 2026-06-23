@@ -1,0 +1,2 @@
+-- Source staging schema for Investment Treaties, Investor-State Dispute Settlement, and Regulatory Sovereignty
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

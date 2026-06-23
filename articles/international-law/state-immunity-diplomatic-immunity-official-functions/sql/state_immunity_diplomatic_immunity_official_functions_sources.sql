@@ -1,0 +1,2 @@
+-- Source staging schema for State Immunity, Diplomatic Immunity, and the Legal Protection of Official Functions
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

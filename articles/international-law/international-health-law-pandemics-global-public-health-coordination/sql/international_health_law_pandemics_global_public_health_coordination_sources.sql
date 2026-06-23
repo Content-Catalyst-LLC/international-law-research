@@ -1,0 +1,2 @@
+-- Source staging schema for International Health Law, Pandemics, and Global Public Health Coordination
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

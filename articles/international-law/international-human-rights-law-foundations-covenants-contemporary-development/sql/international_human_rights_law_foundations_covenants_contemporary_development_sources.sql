@@ -1,0 +1,2 @@
+-- Source staging schema for International Human Rights Law: Foundations, Covenants, and Contemporary Development
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

@@ -1,0 +1,2 @@
+-- Source staging schema for Sovereignty, Jurisdiction, and Non-Intervention
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

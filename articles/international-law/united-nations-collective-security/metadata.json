@@ -5,9 +5,11 @@
   "status": "published",
   "domain": "Peace and Security",
   "series": "International Law Foundations",
-  "description": "This article explains the United Nations collective-security system, including the Security Council, Chapters VI and VII, Article 51 self-defense, peacekeeping, the veto, General Assembly workarounds, Palestine, South Africa v. Israel, NATO power, Iraq, Yugoslavia, selective enforcement, and the gap between universal legal principle and political hierarchy.",
   "canonical_url": "https://sustainablecatalyst.com/united-nations-collective-security/",
   "repository_path": "articles/international-law/united-nations-collective-security",
+  "description": "This article explains the United Nations collective-security system, including the Security Council, Chapters VI and VII, Article 51 self-defense, peacekeeping, the veto, General Assembly workarounds, Palestine, South Africa v. Israel, NATO power, Iraq, Yugoslavia, selective enforcement, and the gap between universal legal principle and political hierarchy.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/united-nations-collective-security.csv",
   "primary_source_types": [
     "United Nations Charter materials",
     "Security Council Repertoire materials",

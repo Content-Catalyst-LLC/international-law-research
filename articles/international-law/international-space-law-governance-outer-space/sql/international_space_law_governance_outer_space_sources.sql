@@ -1,0 +1,2 @@
+-- Source staging schema for International Space Law and the Governance of Outer Space
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.

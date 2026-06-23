@@ -5,9 +5,11 @@
   "status": "draft",
   "domain": "Foundational Doctrine",
   "series": "International Law Foundations",
-  "description": "This article explains territory, borders, and boundary disputes in international law, including territorial sovereignty, territorial integrity, acquisition of territory, title, effective control, maps, treaties, uti possidetis juris, colonial boundaries, self-determination, land and maritime delimitation, rivers, islands, enclaves, occupation, annexation, Palestine, Ukraine, Western Sahara, Kashmir, and the role of courts, arbitration, and political negotiation in resolving territorial disputes.",
   "canonical_url": "https://sustainablecatalyst.com/territory-borders-boundary-disputes-international-law/",
   "repository_path": "articles/international-law/territory-borders-boundary-disputes",
+  "description": "This article explains territory, borders, and boundary disputes in international law, including territorial sovereignty, territorial integrity, acquisition of territory, title, effective control, maps, treaties, uti possidetis juris, colonial boundaries, self-determination, land and maritime delimitation, rivers, islands, enclaves, occupation, annexation, Palestine, Ukraine, Western Sahara, Kashmir, and the role of courts, arbitration, and political negotiation in resolving territorial disputes.",
+  "catalyst_data_ready": true,
+  "catalyst_data_exports": "catalyst_data_exports/article_sources/territory-borders-boundary-disputes.csv",
   "primary_source_types": [
     "United Nations Charter materials",
     "International Court of Justice territorial and boundary cases",

@@ -1,0 +1,2 @@
+-- Source staging schema for The Law of War: Distinction, Proportionality, Necessity, and Humanity
+-- Canonical Catalyst Data export lives in /catalyst_data_exports/.
