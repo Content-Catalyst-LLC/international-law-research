@@ -1,3 +1,11 @@
-# Source Notes: The Law of War: Distinction, Proportionality, Necessity, and Humanity
+# Source Notes
 
-Track primary authorities, secondary scholarship, source quality, and editorial cautions.
+Primary sources emphasize the Geneva Conventions, Additional Protocol I, Additional Protocol II, ICRC Customary IHL rules, the Rome Statute, and ICJ materials. Secondary sources include IHL treatises, ICRC commentaries, customary-law studies, and general international-law references.
+
+For future expansion, add:
+
+- Case-specific targeting examples.
+- Jurisprudence from international criminal tribunals.
+- State military manuals.
+- Domestic war-crimes decisions.
+- Materials on autonomous weapons, cyber operations, and urban warfare.

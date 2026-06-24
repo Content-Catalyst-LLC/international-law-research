@@ -1,13 +1,25 @@
 {
-  "slug": "law-of-war-distinction-proportionality-necessity-and-humanity",
-  "folder_slug": "law-of-war-distinction-proportionality-necessity-humanity",
   "title": "The Law of War: Distinction, Proportionality, Necessity, and Humanity",
-  "status": "planned",
-  "domain": "Use of Force and International Humanitarian Law",
+  "seo_title": "The Law of War: Distinction, Proportionality, Necessity, and Humanity",
+  "focus_keyword": "law of war principles",
+  "slug": "law-of-war-distinction-proportionality-necessity-humanity",
+  "wordpress_slug": "law-of-war-distinction-proportionality-necessity-humanity",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/law-of-war-distinction-proportionality-necessity-and-humanity/",
-  "repository_path": "articles/international-law/law-of-war-distinction-proportionality-necessity-humanity",
-  "description": "Research materials for The Law of War: Distinction, Proportionality, Necessity, and Humanity in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/law-of-war-distinction-proportionality-necessity-humanity.csv"
+  "series_url": "/international-law-foundations/#international-law-pillar-map",
+  "article_order_note": "Use of Force and International Humanitarian Law cluster; follows International Humanitarian Law: The Geneva Conventions and the Regulation of Armed Conflict; precedes Occupation, Detention, and the Legal Governance of War-Torn Territory.",
+  "github_path": "articles/international-law/law-of-war-distinction-proportionality-necessity-humanity",
+  "excerpt": "The law of war is organized around core principles that restrain how armed conflict is conducted: distinction, proportionality, military necessity, humanity, and precautions. This article explains how these principles operate within international humanitarian law, customary law, Additional Protocol I, the Rome Statute, and modern practice involving urban warfare, siege, drones, cyber operations, AI-enabled targeting, civilian objects, hospitals, humanitarian relief, and command responsibility.",
+  "tags": [
+    "international law",
+    "law of war",
+    "international humanitarian law",
+    "distinction",
+    "proportionality",
+    "military necessity",
+    "humanity",
+    "war crimes"
+  ],
+  "status": "published-ready",
+  "created_by": "Content Catalyst LLC",
+  "updated": "2026-06-24"
 }

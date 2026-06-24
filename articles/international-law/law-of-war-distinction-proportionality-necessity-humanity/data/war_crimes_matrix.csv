@@ -1,0 +1,6 @@
+crime_id,conduct,legal_category,analysis_notes,source_anchor
+intentional-attacks-civilians,Intentionally directing attacks against civilians,war_crime,"Requires analysis of target status, intent/knowledge, and attack context.",Rome Statute art. 8
+civilian-objects,Intentionally directing attacks against civilian objects,war_crime,Focuses on whether the object was civilian or had become a military objective.,Rome Statute art. 8
+disproportionate-attack,Launching a clearly excessive attack,war_crime,Requires expected incidental harm and anticipated military advantage analysis.,Rome Statute art. 8
+medical-units,Attacks on hospitals or medical units,war_crime,Special protection may be lost only under strict conditions after warning where required.,Geneva Conventions; Rome Statute
+humanitarian-relief,Impeding humanitarian relief or starvation methods,war_crime / IHL violation,"Analyze siege, deprivation, consent, access, and civilian survival needs.",Geneva law; Additional Protocols; Rome Statute

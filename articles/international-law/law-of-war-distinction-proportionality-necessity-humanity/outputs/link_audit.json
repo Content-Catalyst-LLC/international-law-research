@@ -1,0 +1,60 @@
+{
+  "data/primary_sources.csv": [
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule1,Core",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14,Core",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule15,Core",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule7,Core",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977,",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977,Treaty",
+    "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court,Source",
+    "https://www.icj-cij.org/case/95,Important",
+    "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries,Foundational",
+    "https://www.un.org/en/about-us/un-charter/full-text,Framework"
+  ],
+  "data/secondary_sources.csv": [
+    "https://www.cambridge.org/core/books/conduct-of-hostilities-under-the-law-of-international-armed-conflict/,Leading",
+    "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1,General",
+    "https://www.e-elgar.com/shop/gbp/international-humanitarian-law-9781800886904.html,Modern",
+    "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries,Authoritative",
+    "https://www.icrc.org/en/publication/0860-customary-international-humanitarian-law-volume-i-rules,ICRC"
+  ],
+  "docs/wordpress_article_html.html": [
+    "https://casebook.icrc.org/",
+    "https://casebook.icrc.org/a_to_z/glossary/fundamental-principles-ihl",
+    "https://github.com/Content-Catalyst-LLC/international-law-research/tree/main/articles/international-law/law-of-war-distinction-proportionality-necessity-humanity",
+    "https://ihl-databases.icrc.org/en/customary-ihl",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule1",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-48",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-51",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-52",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-57",
+    "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+    "https://sustainablecatalyst.com/wp-content/uploads/2026/06/law-of-war-distinction-proportionality-necessity-humanity-international-law.png",
+    "https://www.cambridge.org/core/books/conduct-of-hostilities-under-the-law-of-international-armed-conflict/7F681733A1B391A5F49D30A29C71D314",
+    "https://www.cambridge.org/core/books/constraints-on-the-waging-of-war/",
+    "https://www.cambridge.org/core/books/constraints-on-the-waging-of-war/6E8B7C1E6B3A3D3D7A7C4A43C7A0B6C5",
+    "https://www.cambridge.org/core/books/tallinn-manual-20-on-the-international-law-applicable-to-cyber-operations/",
+    "https://www.cambridge.org/core/books/tallinn-manual-20-on-the-international-law-applicable-to-cyber-operations/E4A28C523EF08870C4E43FC7C2528D99",
+    "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court",
+    "https://www.icj-cij.org/case/95",
+    "https://www.icrc.org/en/document/international-humanitarian-law-comprehensive-introduction",
+    "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries"
+  ],
+  "outputs/law_of_war_matrices.json": [
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule1",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule15",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule7",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977",
+    "https://www.cambridge.org/core/books/conduct-of-hostilities-under-the-law-of-international-armed-conflict/",
+    "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1",
+    "https://www.e-elgar.com/shop/gbp/international-humanitarian-law-9781800886904.html",
+    "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court",
+    "https://www.icj-cij.org/case/95",
+    "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries",
+    "https://www.icrc.org/en/publication/0860-customary-international-humanitarian-law-volume-i-rules",
+    "https://www.un.org/en/about-us/un-charter/full-text"
+  ]
+}

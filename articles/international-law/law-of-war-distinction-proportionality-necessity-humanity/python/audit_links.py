@@ -1,11 +1,35 @@
 #!/usr/bin/env python3
-"""Lightweight CSV link audit for this article folder."""
-from pathlib import Path
-import csv
+"""Extract URLs from article files and write a local audit report.
 
-ROOT = Path(__file__).resolve().parents[1]
-for csv_path in sorted((ROOT / "data").glob("*.csv")):
-    with csv_path.open(newline="", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        missing = [row for row in reader if "url" in row and not (row.get("url") or "").strip()]
-    print(f"{csv_path.name}: {len(missing)} rows missing URL")
+This is intentionally local-only: it does not perform network requests.
+"""
+from __future__ import annotations
+
+import json
+import re
+from pathlib import Path
+
+ARTICLE_DIR = Path(__file__).resolve().parents[1]
+OUTPUT_DIR = ARTICLE_DIR / "outputs"
+URL_RE = re.compile("https?://[^\\s<>\"']+")
+
+
+def main() -> None:
+    urls: dict[str, list[str]] = {}
+    for path in sorted(ARTICLE_DIR.rglob("*")):
+        if path.is_file() and path.suffix.lower() in {".html", ".md", ".csv", ".json", ".sql"}:
+            try:
+                text = path.read_text(encoding="utf-8")
+            except UnicodeDecodeError:
+                continue
+            found = sorted(set(URL_RE.findall(text)))
+            if found:
+                urls[str(path.relative_to(ARTICLE_DIR))] = found
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = OUTPUT_DIR / "link_audit.json"
+    out_path.write_text(json.dumps(urls, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"Wrote {out_path}")
+
+
+if __name__ == "__main__":
+    main()

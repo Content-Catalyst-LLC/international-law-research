@@ -1,0 +1,258 @@
+{
+  "article_slug": "law-of-war-distinction-proportionality-necessity-humanity",
+  "principles": [
+    {
+      "principle_id": "distinction",
+      "principle": "Distinction",
+      "core_question": "Are the persons or objects being targeted lawful military objectives?",
+      "legal_function": "Separates combatants/military objectives from civilians/civilian objects.",
+      "common_authorities": "Additional Protocol I arts. 48, 51, 52; ICRC Customary IHL Rules 1 and 7",
+      "analysis_notes": "Start every conduct-of-hostilities analysis with status and object classification."
+    },
+    {
+      "principle_id": "proportionality",
+      "principle": "Proportionality",
+      "core_question": "Would expected incidental civilian harm be excessive in relation to the concrete and direct military advantage anticipated?",
+      "legal_function": "Restrains attacks even when the target is military.",
+      "common_authorities": "Additional Protocol I art. 51(5)(b); ICRC Customary IHL Rule 14",
+      "analysis_notes": "Do not confuse jus ad bellum proportionality with IHL attack proportionality."
+    },
+    {
+      "principle_id": "precautions",
+      "principle": "Precautions",
+      "core_question": "Were feasible precautions taken to verify targets and minimize civilian harm?",
+      "legal_function": "Requires planning, verification, warnings where feasible, and choice of means and methods.",
+      "common_authorities": "Additional Protocol I art. 57; ICRC Customary IHL Rules 15-21",
+      "analysis_notes": "Evidence often turns on what was feasible based on information available at the time."
+    },
+    {
+      "principle_id": "military-necessity",
+      "principle": "Military Necessity",
+      "core_question": "Is the measure directed toward a legitimate military purpose and not otherwise prohibited?",
+      "legal_function": "Permits only measures necessary to accomplish a legitimate military aim within legal limits.",
+      "common_authorities": "Hague Regulations; customary IHL; IHL commentaries",
+      "analysis_notes": "Necessity never authorizes what IHL specifically prohibits."
+    },
+    {
+      "principle_id": "humanity",
+      "principle": "Humanity",
+      "core_question": "Does the conduct avoid unnecessary suffering and protect persons hors de combat?",
+      "legal_function": "Limits violence through humane treatment, medical protection, and bans on unnecessary suffering.",
+      "common_authorities": "Common Article 3; Hague principles; Additional Protocol I; customary IHL",
+      "analysis_notes": "Humanity operates across targeting, detention, medical care, and treatment of persons."
+    }
+  ],
+  "targeting_rules": [
+    {
+      "issue_id": "civilian-status",
+      "issue": "Civilian status",
+      "primary_rule": "Civilians may not be made the object of attack.",
+      "required_analysis": "Assess status, direct participation, doubt rules, and available intelligence.",
+      "risk_flags": "Labeling all military-age males as combatants; weak intelligence; retrospective justification."
+    },
+    {
+      "issue_id": "civilian-objects",
+      "issue": "Civilian objects",
+      "primary_rule": "Civilian objects may not be attacked unless they become military objectives.",
+      "required_analysis": "Determine nature, location, purpose, or use and contribution to military action.",
+      "risk_flags": "Dual-use infrastructure; hospitals; schools; power grids; communications systems."
+    },
+    {
+      "issue_id": "expected-harm",
+      "issue": "Expected civilian harm",
+      "primary_rule": "Incidental harm must not be excessive relative to concrete and direct military advantage.",
+      "required_analysis": "Compare expected civilian casualties and damage with anticipated military advantage.",
+      "risk_flags": "Speculative military advantage; aggregated campaign benefits; undercounted civilian presence."
+    },
+    {
+      "issue_id": "warnings",
+      "issue": "Warnings and precautions",
+      "primary_rule": "Effective advance warning must be given where circumstances permit.",
+      "required_analysis": "Evaluate feasibility, specificity, timing, safe routes, and actual civilian capacity to comply.",
+      "risk_flags": "Evacuation orders without safe destination; siege conditions; disabled or detained populations."
+    },
+    {
+      "issue_id": "means-methods",
+      "issue": "Means and methods",
+      "primary_rule": "Weapons and tactics must comply with IHL limits.",
+      "required_analysis": "Assess weapon effects, area impact, indiscriminate risks, and special protections.",
+      "risk_flags": "Explosive weapons in dense urban areas; autonomous systems; cyber cascading effects."
+    }
+  ],
+  "war_crimes": [
+    {
+      "crime_id": "intentional-attacks-civilians",
+      "conduct": "Intentionally directing attacks against civilians",
+      "legal_category": "war_crime",
+      "analysis_notes": "Requires analysis of target status, intent/knowledge, and attack context.",
+      "source_anchor": "Rome Statute art. 8"
+    },
+    {
+      "crime_id": "civilian-objects",
+      "conduct": "Intentionally directing attacks against civilian objects",
+      "legal_category": "war_crime",
+      "analysis_notes": "Focuses on whether the object was civilian or had become a military objective.",
+      "source_anchor": "Rome Statute art. 8"
+    },
+    {
+      "crime_id": "disproportionate-attack",
+      "conduct": "Launching a clearly excessive attack",
+      "legal_category": "war_crime",
+      "analysis_notes": "Requires expected incidental harm and anticipated military advantage analysis.",
+      "source_anchor": "Rome Statute art. 8"
+    },
+    {
+      "crime_id": "medical-units",
+      "conduct": "Attacks on hospitals or medical units",
+      "legal_category": "war_crime",
+      "analysis_notes": "Special protection may be lost only under strict conditions after warning where required.",
+      "source_anchor": "Geneva Conventions; Rome Statute"
+    },
+    {
+      "crime_id": "humanitarian-relief",
+      "conduct": "Impeding humanitarian relief or starvation methods",
+      "legal_category": "war_crime / IHL violation",
+      "analysis_notes": "Analyze siege, deprivation, consent, access, and civilian survival needs.",
+      "source_anchor": "Geneva law; Additional Protocols; Rome Statute"
+    }
+  ],
+  "primary_sources": [
+    {
+      "source_id": "un-charter-1945",
+      "source_title": "Charter of the United Nations",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Framework for the prohibition on force and collective security context."
+    },
+    {
+      "source_id": "geneva-conventions-1949",
+      "source_title": "Geneva Conventions of 1949",
+      "source_type": "treaty",
+      "institution": "International Committee of the Red Cross",
+      "year": "1949",
+      "url": "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries",
+      "notes": "Foundational treaty framework for protection in armed conflict."
+    },
+    {
+      "source_id": "additional-protocol-i-1977",
+      "source_title": "Additional Protocol I to the Geneva Conventions",
+      "source_type": "treaty",
+      "institution": "International Committee of the Red Cross",
+      "year": "1977",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977",
+      "notes": "Key source for distinction, proportionality, precautions, and protection of civilians."
+    },
+    {
+      "source_id": "additional-protocol-ii-1977",
+      "source_title": "Additional Protocol II to the Geneva Conventions",
+      "source_type": "treaty",
+      "institution": "International Committee of the Red Cross",
+      "year": "1977",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977",
+      "notes": "Treaty framework for certain non-international armed conflicts."
+    },
+    {
+      "source_id": "icrc-customary-ihl-rule-1",
+      "source_title": "Customary IHL Rule 1: The Principle of Distinction between Civilians and Combatants",
+      "source_type": "customary_rule",
+      "institution": "International Committee of the Red Cross",
+      "year": "2005",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule1",
+      "notes": "Core distinction rule for targeting."
+    },
+    {
+      "source_id": "icrc-customary-ihl-rule-7",
+      "source_title": "Customary IHL Rule 7: The Principle of Distinction between Civilian Objects and Military Objectives",
+      "source_type": "customary_rule",
+      "institution": "International Committee of the Red Cross",
+      "year": "2005",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule7",
+      "notes": "Core distinction rule for objects."
+    },
+    {
+      "source_id": "icrc-customary-ihl-rule-14",
+      "source_title": "Customary IHL Rule 14: Proportionality in Attack",
+      "source_type": "customary_rule",
+      "institution": "International Committee of the Red Cross",
+      "year": "2005",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14",
+      "notes": "Core proportionality rule."
+    },
+    {
+      "source_id": "icrc-customary-ihl-rule-15",
+      "source_title": "Customary IHL Rule 15: Precautions in Attack",
+      "source_type": "customary_rule",
+      "institution": "International Committee of the Red Cross",
+      "year": "2005",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule15",
+      "notes": "Core precautions rule."
+    },
+    {
+      "source_id": "rome-statute-1998",
+      "source_title": "Rome Statute of the International Criminal Court",
+      "source_type": "treaty",
+      "institution": "International Criminal Court",
+      "year": "1998",
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court",
+      "notes": "Source for selected war-crimes categories and individual criminal responsibility."
+    },
+    {
+      "source_id": "icj-nuclear-weapons-1996",
+      "source_title": "Legality of the Threat or Use of Nuclear Weapons",
+      "source_type": "advisory_opinion",
+      "institution": "International Court of Justice",
+      "year": "1996",
+      "url": "https://www.icj-cij.org/case/95",
+      "notes": "Important statement on IHL principles and the conduct of hostilities."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "dinstein-conduct-hostilities",
+      "author": "Dinstein, Y.",
+      "year": "2022",
+      "title": "The Conduct of Hostilities under the Law of International Armed Conflict",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/conduct-of-hostilities-under-the-law-of-international-armed-conflict/",
+      "notes": "Leading doctrinal treatment of conduct-of-hostilities rules."
+    },
+    {
+      "source_id": "icrc-commentaries",
+      "author": "International Committee of the Red Cross",
+      "year": "n.d.",
+      "title": "Updated Commentaries on the Geneva Conventions",
+      "publisher": "ICRC",
+      "url": "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries",
+      "notes": "Authoritative commentary resource for Geneva law."
+    },
+    {
+      "source_id": "henckaerts-doswald-beck",
+      "author": "Henckaerts, J.-M. and Doswald-Beck, L.",
+      "year": "2005",
+      "title": "Customary International Humanitarian Law",
+      "publisher": "Cambridge University Press / ICRC",
+      "url": "https://www.icrc.org/en/publication/0860-customary-international-humanitarian-law-volume-i-rules",
+      "notes": "ICRC customary IHL study."
+    },
+    {
+      "source_id": "sassoli-ihl",
+      "author": "Sassòli, M.",
+      "year": "2024",
+      "title": "International Humanitarian Law: Rules, Controversies, and Solutions to Problems Arising in Warfare",
+      "publisher": "Edward Elgar",
+      "url": "https://www.e-elgar.com/shop/gbp/international-humanitarian-law-9781800886904.html",
+      "notes": "Modern IHL textbook and analytical resource."
+    },
+    {
+      "source_id": "shaw-international-law",
+      "author": "Shaw, M.N.",
+      "year": "2021",
+      "title": "International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1",
+      "notes": "General international-law reference."
+    }
+  ]
+}
