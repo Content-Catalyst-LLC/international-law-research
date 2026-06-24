@@ -1,0 +1,274 @@
+{
+  "civil_political_rights_framework": [
+    {
+      "right_area": "Life",
+      "core_source": "ICCPR Article 6",
+      "core_question": "Was life arbitrarily deprived or insufficiently protected?",
+      "typical_issues": "death penalty, police force, armed operations, disappearances, preventable death, investigation duties"
+    },
+    {
+      "right_area": "Torture and ill-treatment",
+      "core_source": "ICCPR Article 7; CAT",
+      "core_question": "Was treatment absolute prohibited torture or cruel, inhuman, or degrading treatment?",
+      "typical_issues": "detention abuse, interrogation, refoulement, medical abuse, prison conditions"
+    },
+    {
+      "right_area": "Liberty and detention",
+      "core_source": "ICCPR Article 9",
+      "core_question": "Was detention lawful, non-arbitrary, reviewed, and challengeable?",
+      "typical_issues": "pretrial detention, immigration detention, security detention, habeas review, arbitrary arrest"
+    },
+    {
+      "right_area": "Fair trial",
+      "core_source": "ICCPR Article 14",
+      "core_question": "Was the person tried by a competent, independent, impartial tribunal with due process?",
+      "typical_issues": "military courts, secret evidence, counsel access, presumption of innocence, appeal"
+    },
+    {
+      "right_area": "Privacy",
+      "core_source": "ICCPR Article 17",
+      "core_question": "Was interference with privacy, family, home, or correspondence arbitrary or unlawful?",
+      "typical_issues": "surveillance, data collection, searches, family separation, digital privacy"
+    },
+    {
+      "right_area": "Expression",
+      "core_source": "ICCPR Article 19",
+      "core_question": "Was any restriction lawful, legitimate, necessary, and proportionate?",
+      "typical_issues": "censorship, journalism, online speech, national security, misinformation laws"
+    },
+    {
+      "right_area": "Assembly and association",
+      "core_source": "ICCPR Articles 21–22",
+      "core_question": "Were restrictions on protest or association justified under strict limitation tests?",
+      "typical_issues": "protest bans, union restrictions, NGO laws, police dispersal, public order"
+    },
+    {
+      "right_area": "Political participation",
+      "core_source": "ICCPR Article 25",
+      "core_question": "Were citizens able to participate genuinely and equally in public affairs?",
+      "typical_issues": "elections, candidate bans, voting rights, disenfranchisement, political parties"
+    },
+    {
+      "right_area": "Equality and minority rights",
+      "core_source": "ICCPR Articles 26–27",
+      "core_question": "Were rights enjoyed without discrimination and were minority cultural rights respected?",
+      "typical_issues": "racial discrimination, gender inequality, religious minorities, language rights, Indigenous communities"
+    }
+  ],
+  "limitations_derogations_matrix": [
+    {
+      "doctrine": "Legality",
+      "question": "Is the restriction provided by law and accessible?",
+      "risk": "Vague emergency, morality, public-order, or security provisions."
+    },
+    {
+      "doctrine": "Legitimate aim",
+      "question": "Does the restriction pursue a recognized aim in the treaty?",
+      "risk": "Invoking broad political convenience as security or order."
+    },
+    {
+      "doctrine": "Necessity",
+      "question": "Is the restriction necessary in a democratic society or analogous strict test?",
+      "risk": "Using restriction where less intrusive alternatives exist."
+    },
+    {
+      "doctrine": "Proportionality",
+      "question": "Is the measure proportionate to the concrete aim?",
+      "risk": "Blanket bans, excessive policing, mass surveillance, broad censorship."
+    },
+    {
+      "doctrine": "Non-discrimination",
+      "question": "Does the restriction operate equally and without discriminatory effect?",
+      "risk": "Targeting minorities, dissidents, migrants, journalists, or opposition groups."
+    },
+    {
+      "doctrine": "Derogation",
+      "question": "Has the state validly derogated during a public emergency threatening the life of the nation?",
+      "risk": "Normalizing emergency powers or derogating from non-derogable rights."
+    }
+  ],
+  "accountability_mechanisms": [
+    {
+      "mechanism": "Domestic courts",
+      "role": "Primary forum for implementation, remedies, constitutional rights, and incorporation.",
+      "limits": "May lack independence, jurisdiction, enforcement, or treaty incorporation."
+    },
+    {
+      "mechanism": "Human Rights Committee",
+      "role": "Monitors ICCPR implementation, general comments, concluding observations, individual communications where accepted.",
+      "limits": "Views depend on state cooperation and follow-up."
+    },
+    {
+      "mechanism": "Regional courts and commissions",
+      "role": "Judgments, merits decisions, provisional measures, reparations, and regional jurisprudence.",
+      "limits": "Regional availability and state compliance vary."
+    },
+    {
+      "mechanism": "UN Special Procedures",
+      "role": "Communications, country visits, reports, urgent appeals, thematic development.",
+      "limits": "Non-judicial and politically dependent on access/cooperation."
+    },
+    {
+      "mechanism": "Universal Periodic Review",
+      "role": "Peer review of all UN member states.",
+      "limits": "Recommendations may be broad and implementation uneven."
+    }
+  ],
+  "primary_authorities": [
+    {
+      "source_id": "un-charter-1945",
+      "source_title": "Charter of the United Nations",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Places human rights within the purposes and cooperation framework of the United Nations."
+    },
+    {
+      "source_id": "udhr-1948",
+      "source_title": "Universal Declaration of Human Rights",
+      "source_type": "declaration",
+      "institution": "UN General Assembly",
+      "year": "1948",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "notes": "Foundational declaration of dignity, equality, civil, political, economic, social, and cultural rights."
+    },
+    {
+      "source_id": "iccpr-1966",
+      "source_title": "International Covenant on Civil and Political Rights",
+      "source_type": "treaty",
+      "institution": "OHCHR / UN Treaty Collection",
+      "year": "1966",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights",
+      "notes": "Core treaty for civil and political rights."
+    },
+    {
+      "source_id": "first-optional-protocol-iccpr",
+      "source_title": "Optional Protocol to the ICCPR",
+      "source_type": "treaty",
+      "institution": "OHCHR",
+      "year": "1966",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/optional-protocol-international-covenant-civil-and-political",
+      "notes": "Creates individual communications procedure for states parties."
+    },
+    {
+      "source_id": "second-optional-protocol-iccpr",
+      "source_title": "Second Optional Protocol to the ICCPR aiming at abolition of the death penalty",
+      "source_type": "treaty",
+      "institution": "OHCHR",
+      "year": "1989",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/second-optional-protocol-international-covenant-civil-and",
+      "notes": "Abolitionist protocol linked to the right to life."
+    },
+    {
+      "source_id": "human-rights-committee-general-comment-36",
+      "source_title": "General comment No. 36 on article 6: right to life",
+      "source_type": "general comment",
+      "institution": "Human Rights Committee",
+      "year": "2018",
+      "url": "https://docs.un.org/en/CCPR/C/GC/36",
+      "notes": "Authoritative treaty-body interpretation of the right to life."
+    },
+    {
+      "source_id": "human-rights-committee-general-comment-34",
+      "source_title": "General comment No. 34 on freedoms of opinion and expression",
+      "source_type": "general comment",
+      "institution": "Human Rights Committee",
+      "year": "2011",
+      "url": "https://docs.un.org/en/CCPR/C/GC/34",
+      "notes": "Interpretive guidance on ICCPR Article 19."
+    },
+    {
+      "source_id": "human-rights-committee-general-comment-37",
+      "source_title": "General comment No. 37 on the right of peaceful assembly",
+      "source_type": "general comment",
+      "institution": "Human Rights Committee",
+      "year": "2020",
+      "url": "https://docs.un.org/en/CCPR/C/GC/37",
+      "notes": "Interpretive guidance on ICCPR Article 21."
+    },
+    {
+      "source_id": "siracusa-principles",
+      "source_title": "Siracusa Principles on the Limitation and Derogation Provisions in the ICCPR",
+      "source_type": "expert principles",
+      "institution": "UN Economic and Social Council",
+      "year": "1985",
+      "url": "https://digitallibrary.un.org/record/87872",
+      "notes": "Influential framework on limitations and derogations."
+    },
+    {
+      "source_id": "echr",
+      "source_title": "European Convention on Human Rights",
+      "source_type": "regional treaty",
+      "institution": "Council of Europe / ECtHR",
+      "year": "1950",
+      "url": "https://www.echr.coe.int/documents/d/echr/convention_ENG",
+      "notes": "Regional civil and political rights treaty with strong judicial enforcement."
+    },
+    {
+      "source_id": "achr",
+      "source_title": "American Convention on Human Rights",
+      "source_type": "regional treaty",
+      "institution": "Organization of American States",
+      "year": "1969",
+      "url": "https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.htm",
+      "notes": "Core Inter-American human rights treaty."
+    },
+    {
+      "source_id": "african-charter",
+      "source_title": "African Charter on Human and Peoples’ Rights",
+      "source_type": "regional treaty",
+      "institution": "African Union",
+      "year": "1981",
+      "url": "https://au.int/en/treaties/african-charter-human-and-peoples-rights",
+      "notes": "Regional human and peoples’ rights instrument linking individual and collective rights."
+    }
+  ],
+  "further_reading": [
+    {
+      "source_id": "nowak-ccpr-commentary",
+      "author": "Nowak, M.",
+      "year": "2005",
+      "title": "U.N. Covenant on Civil and Political Rights: CCPR Commentary",
+      "publisher": "N.P. Engel",
+      "url": "https://search.worldcat.org/title/62444913",
+      "notes": "Detailed article-by-article commentary on the ICCPR."
+    },
+    {
+      "source_id": "joseph-castan",
+      "author": "Joseph, S. and Castan, M.",
+      "year": "2013",
+      "title": "The International Covenant on Civil and Political Rights: Cases, Materials, and Commentary",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/the-international-covenant-on-civil-and-political-rights-9780199641949",
+      "notes": "Leading case/materials treatment of ICCPR doctrine."
+    },
+    {
+      "source_id": "mccrudden-equality",
+      "author": "McCrudden, C.",
+      "year": "2008",
+      "title": "Human Dignity and Judicial Interpretation of Human Rights",
+      "publisher": "European Journal of International Law",
+      "url": "https://academic.oup.com/ejil/article/19/4/655/349356",
+      "notes": "Important discussion of dignity in rights interpretation."
+    },
+    {
+      "source_id": "alston-goodman",
+      "author": "Alston, P. and Goodman, R.",
+      "year": "2013",
+      "title": "International Human Rights",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-human-rights-9780199578726",
+      "notes": "Broad human rights textbook with doctrinal and institutional context."
+    },
+    {
+      "source_id": "moeckli-human-rights-law",
+      "author": "Moeckli, D., Shah, S. and Sivakumaran, S. (eds.)",
+      "year": "2022",
+      "title": "International Human Rights Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-human-rights-law-9780198860112",
+      "notes": "Comprehensive contemporary treatment of human rights law."
+    }
+  ]
+}
