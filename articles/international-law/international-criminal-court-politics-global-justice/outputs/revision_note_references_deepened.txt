@@ -1,0 +1,7 @@
+Updated WordPress HTML for The International Criminal Court and the Politics of Global Justice.
+
+Revision notes:
+- Corrected TOC markup to use the standard sc-toc wrapper.
+- Deepened Primary Authorities, Further Reading, and References.
+- Converted bibliography sections toward Harvard-style citation format.
+- Preserved Sustainable Catalyst International Law article structure and GitHub CTA text.

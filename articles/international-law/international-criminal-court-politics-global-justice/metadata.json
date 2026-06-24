@@ -1,22 +1,22 @@
 {
-  "title": "The International Criminal Court and the Politics of Global Justice",
-  "seo_title": "The International Criminal Court and the Politics of Global Justice",
+  "actual_title": "The International Criminal Court and the Politics of Global Justice",
+  "seo_title": "The International Criminal Court and Global Justice",
   "focus_keyword": "International Criminal Court",
   "slug": "international-criminal-court-politics-global-justice",
-  "series": "International Law",
-  "cluster": "International Criminal Law",
-  "previous_article": "War Crimes, Crimes Against Humanity, Genocide, and the Architecture of International Criminal Law",
-  "next_article": "Universal Jurisdiction and Accountability for Atrocity Crimes",
-  "excerpt": "The International Criminal Court is a permanent treaty-based criminal court created to prosecute genocide, crimes against humanity, war crimes, and aggression when national systems are unwilling or unable to act. This article explains the ICC through the politics of global justice: Rome Statute jurisdiction, complementarity, admissibility, state cooperation, arrest enforcement, Security Council referrals, prosecutorial independence, victims, evidence, legitimacy, selectivity, and the limits of international criminal accountability. It examines why the Court matters, why it is contested, and how power, sovereignty, enforcement, and legal principle interact in practice.",
+  "excerpt": "The International Criminal Court sits at the center of modern debates over accountability, sovereignty, and global justice. This article explains how the ICC investigates and prosecutes genocide, crimes against humanity, war crimes, and aggression under the Rome Statute, while depending on states for arrests, evidence, cooperation, and enforcement. It examines jurisdiction, admissibility, complementarity, prosecutorial discretion, Security Council referrals, victim participation, reparations, fair trial rights, and the politics of selective justice. The article also addresses legitimacy critiques, African Union tensions, great-power non-participation, arrest warrants, peace-versus-justice dilemmas, domestic courts, universal jurisdiction, digital evidence, and the Court’s institutional limits. By connecting doctrine, institutional design, case studies, and lawyer-facing workflows, it shows how the ICC embodies both the promise and fragility of global criminal accountability: a court built to judge atrocity, but constrained by power, consent, and enforcement in contemporary international legal order.",
   "tags": [
     "international law",
     "International Criminal Court",
+    "ICC",
     "Rome Statute",
+    "global justice",
     "international criminal law",
     "complementarity",
-    "global justice",
-    "atrocity crimes",
-    "ICC"
+    "atrocity crimes"
   ],
-  "github_repository": "https://github.com/Content-Catalyst-LLC/international-law-research"
+  "series": "International Law",
+  "section": "International Criminal Law",
+  "previous_article": "War Crimes, Crimes Against Humanity, Genocide, and the Architecture of International Criminal Law",
+  "next_article": "Universal Jurisdiction and Accountability for Atrocity Crimes",
+  "status": "WordPress HTML revised: TOC fixed and Harvard-style references deepened"
 }
