@@ -1,13 +1,26 @@
 {
-  "slug": "compliance-enforcement-and-the-limits-of-international-adjudication",
-  "folder_slug": "compliance-enforcement-limits-international-adjudication",
+  "article_id": "compliance-enforcement-limits-international-adjudication",
   "title": "Compliance, Enforcement, and the Limits of International Adjudication",
-  "status": "planned",
-  "domain": "Institutions, Courts, and Dispute Settlement",
+  "seo_title": "Compliance and Enforcement in International Adjudication",
+  "focus_keyword": "international adjudication enforcement",
+  "slug": "compliance-enforcement-limits-international-adjudication",
+  "wordpress_slug": "compliance-enforcement-limits-international-adjudication",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/compliance-enforcement-and-the-limits-of-international-adjudication/",
-  "repository_path": "articles/international-law/compliance-enforcement-limits-international-adjudication",
-  "description": "Research materials for Compliance, Enforcement, and the Limits of International Adjudication in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/compliance-enforcement-limits-international-adjudication.csv"
+  "cluster": "Institutions, Courts, and Dispute Settlement",
+  "status": "draft-ready",
+  "repo_folder": "articles/international-law/compliance-enforcement-limits-international-adjudication",
+  "github_url": "https://github.com/Content-Catalyst-LLC/international-law-research/tree/main/articles/international-law/compliance-enforcement-limits-international-adjudication",
+  "description": "A lawyer-facing deep dive on compliance, enforcement, remedies, non-recognition, domestic implementation, and the structural limits of international adjudication.",
+  "excerpt_139_words": "Compliance and enforcement are the central tests of international adjudication. Courts and tribunals may issue judgments, advisory opinions, provisional measures, criminal warrants, human-rights rulings, trade findings, and arbitral awards, but their authority depends on state cooperation, domestic implementation, institutional follow-up, reputational pressure, and political will. This article explains how compliance works across the International Court of Justice, International Criminal Court, regional human-rights courts, WTO dispute settlement, investor-state arbitration, and domestic enforcement systems. It examines Article 94 of the UN Charter, provisional measures, advisory opinions, non-recognition, third-state obligations, sanctions, reparations, remedies, award enforcement, civil-society mobilization, and selective enforcement. By connecting doctrine, procedure, institutions, and practice, the article shows why international adjudication can clarify law and create legal records while remaining constrained by sovereignty, power, access, and the uneven politics of implementation.",
+  "tags": [
+    "international law",
+    "international adjudication",
+    "compliance",
+    "enforcement",
+    "ICJ judgments",
+    "international courts",
+    "legal remedies",
+    "state responsibility"
+  ],
+  "created_utc": "2026-06-24T04:10:58.185891+00:00"
 }

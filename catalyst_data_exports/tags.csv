@@ -1,20 +1,28 @@
-tag_id,tag,article_slug,article_title
-,,,
-,,international-court-of-justice-judicial-settlement-of-disputes,
-,,international-organizations-legal-authority-global-institutions,
-,international law,regional-organizations-regional-courts-pluralism-international-law,
-,regional organizations,regional-organizations-regional-courts-pluralism-international-law,
-,regional courts,regional-organizations-regional-courts-pluralism-international-law,
-,legal pluralism,regional-organizations-regional-courts-pluralism-international-law,
-,human rights courts,regional-organizations-regional-courts-pluralism-international-law,
-,regional integration,regional-organizations-regional-courts-pluralism-international-law,
-,global governance,regional-organizations-regional-courts-pluralism-international-law,
-,international institutions,regional-organizations-regional-courts-pluralism-international-law,
-international-arbitration-peaceful-settlement-disputes-tag-01,international law,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
-international-arbitration-peaceful-settlement-disputes-tag-02,international arbitration,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
-international-arbitration-peaceful-settlement-disputes-tag-03,peaceful settlement of disputes,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
-international-arbitration-peaceful-settlement-disputes-tag-04,Permanent Court of Arbitration,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
-international-arbitration-peaceful-settlement-disputes-tag-05,UNCITRAL,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
-international-arbitration-peaceful-settlement-disputes-tag-06,ICSID,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
-international-arbitration-peaceful-settlement-disputes-tag-07,New York Convention,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
-international-arbitration-peaceful-settlement-disputes-tag-08,investor-state arbitration,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+tag_id,tag,article_id
+,,
+,,
+,,
+,international law,
+,regional organizations,
+,regional courts,
+,legal pluralism,
+,human rights courts,
+,regional integration,
+,global governance,
+,international institutions,
+international-arbitration-peaceful-settlement-disputes-tag-01,international law,
+international-arbitration-peaceful-settlement-disputes-tag-02,international arbitration,
+international-arbitration-peaceful-settlement-disputes-tag-03,peaceful settlement of disputes,
+international-arbitration-peaceful-settlement-disputes-tag-04,Permanent Court of Arbitration,
+international-arbitration-peaceful-settlement-disputes-tag-05,UNCITRAL,
+international-arbitration-peaceful-settlement-disputes-tag-06,ICSID,
+international-arbitration-peaceful-settlement-disputes-tag-07,New York Convention,
+international-arbitration-peaceful-settlement-disputes-tag-08,investor-state arbitration,
+compliance-enforcement-limits-international-adjudication-international-law,international law,compliance-enforcement-limits-international-adjudication
+compliance-enforcement-limits-international-adjudication-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication
+compliance-enforcement-limits-international-adjudication-compliance,compliance,compliance-enforcement-limits-international-adjudication
+compliance-enforcement-limits-international-adjudication-enforcement,enforcement,compliance-enforcement-limits-international-adjudication
+compliance-enforcement-limits-international-adjudication-icj-judgments,ICJ judgments,compliance-enforcement-limits-international-adjudication
+compliance-enforcement-limits-international-adjudication-international-courts,international courts,compliance-enforcement-limits-international-adjudication
+compliance-enforcement-limits-international-adjudication-legal-remedies,legal remedies,compliance-enforcement-limits-international-adjudication
+compliance-enforcement-limits-international-adjudication-state-responsibility,state responsibility,compliance-enforcement-limits-international-adjudication

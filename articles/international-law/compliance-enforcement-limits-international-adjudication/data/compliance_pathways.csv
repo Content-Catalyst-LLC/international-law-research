@@ -1,0 +1,7 @@
+pathway_id,pathway,actors,legal_effect,practical_constraint
+cp001,Voluntary compliance,State or party subject to decision,Direct implementation of judgment or award,"Political cost, domestic opposition, resource constraints"
+cp002,Institutional supervision,"Council of Europe, WTO DSB, treaty bodies","Monitoring, reporting, review, pressure",Limited coercive capacity
+cp003,Domestic implementation,"National courts, legislatures, executives",Internalizes international obligation,"Dualism, constitutional constraints, political resistance"
+cp004,Third-state obligations,Other states and international organizations,"Non-recognition, non-assistance, cooperation duties",Selective application and alliance politics
+cp005,Countermeasures or authorized retaliation,Injured state or authorized forum,Induces compliance through legal pressure,Escalation risk and power asymmetry
+cp006,Civil-society mobilization,"NGOs, victims, scholars, media, movements",Turns legal findings into advocacy and accountability pressure,"Access, resources, and political visibility"

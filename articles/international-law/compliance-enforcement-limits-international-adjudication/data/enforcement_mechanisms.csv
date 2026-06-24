@@ -1,0 +1,9 @@
+mechanism_id,forum,instrument_or_basis,compliance_pathway,main_limit,article_relevance
+em001,International Court of Justice,UN Charter Article 94,"State compliance, Security Council referral, diplomatic pressure",Permanent-member politics and decentralized enforcement,ICJ judgments and enforcement limits
+em002,International Court of Justice,ICJ provisional measures,"Binding interim obligations, public scrutiny, later merits proceedings",No direct coercive enforcement,Urgent protection and compliance monitoring
+em003,International Court of Justice,Advisory jurisdiction,"Legal clarification, UN follow-up, third-state obligations",Not directly binding like a contentious judgment,Advisory opinions and structural injustice
+em004,International Criminal Court,Rome Statute cooperation provisions,"Arrest, surrender, evidence, domestic cooperation",Non-party states and non-cooperation,Criminal accountability and enforcement dependence
+em005,European Court of Human Rights,European Convention Article 46,Committee of Ministers supervision,Political resistance and implementation delay,Regional human-rights judgment compliance
+em006,WTO dispute settlement,DSU Articles 21-22,"Implementation, compensation, suspension of concessions",Appellate Body crisis and power asymmetry,Trade compliance model
+em007,International arbitration,New York Convention,Domestic-court recognition and enforcement,Public policy exceptions and jurisdictional challenges,Commercial award enforcement
+em008,ICSID arbitration,ICSID Convention,Domestic recognition of pecuniary obligations,Sovereign immunity from execution and legitimacy concerns,Investment award enforcement

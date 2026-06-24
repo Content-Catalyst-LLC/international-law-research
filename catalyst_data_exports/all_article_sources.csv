@@ -1,141 +1,159 @@
-article_slug,article_title,source_id,source_title,source_type,institution_or_author,year,url,notes,institution,author,publisher
-,,1,,secondary_source,,1999,https://www.tandfonline.com/doi/abs/10.1080/07075332.1999.9640869,,,,
-,,10,,treaty,,1933,https://www.oas.org/juridico/english/sigs/a-40.html,,,,
-,,2,,secondary_source,,2001,https://www.cambridge.org/core/journals/international-organization/article/abs/sovereignty-international-relations-and-the-westphalian-myth/7D78A7D0D4C6F6F17801E5E28BF9F050,,,,
-,,3,,secondary_source,,1999,https://press.princeton.edu/books/paperback/9780691007113/sovereignty,,,,
-,,4,,secondary_source,,2021,https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1,,,,
-,,5,,secondary_source,,2004,https://www.cambridge.org/core/books/imperialism-sovereignty-and-the-making-of-international-law/8A9B9D74AAB7CA2D7B7D4D83A7E9D59A,,,,
-,,6,,other,,2023,https://legal.un.org/repertory/art2.shtml,,,,
-,,7,,resolution,,1970,https://docs.un.org/en/a/res/2625%28xxv%29,,,,
-,,8,,resolution,,1970,https://treaties.un.org/doc/source/docs/A_RES_2625-Eng.pdf,,,,
-,,9,,resolution,,n.d.,https://legal.un.org/avl/ha/dpilfrcscun/dpilfrcscun.html,,,,
-,,11,,treaty,,1933,https://treaties.un.org/pages/showdetails.aspx?objid=0800000280166aef,,,,
-,,12,,other,,2026,https://peacekeeping.un.org/en/mandates-and-legal-basis-peacekeeping,,,,
-,,13,,other,,2026,https://peacekeeping.un.org/en/principles-of-peacekeeping,,,,
-,,14,,case,,1986,https://www.icj-cij.org/case/70,,,,
-,,15,,case,,1986,https://www.icj-cij.org/node/103143,,,,
-,,16,,treaty,,2023,https://www.icj-cij.org/case/192,,,,
-,,17,,case,,2024,https://www.icj-cij.org/node/203447,,,,
-,,18,,case,,2024,https://www.icj-cij.org/case/186,,,,
-,,19,,case,,2024,https://docs.un.org/en/A/RES/ES-10/24,,,,
-,,secession-recognition-contested-statehood-primary-001,,treaty,,1933,https://treaties.un.org/pages/showdetails.aspx?objid=0800000280166aef,,,,
-,,secession-recognition-contested-statehood-primary-002,,treaty,,1933,https://avalon.law.yale.edu/20th_century/intam03.asp,,,,
-,,secession-recognition-contested-statehood-primary-003,,treaty,,1945,https://www.un.org/en/about-us/un-charter/full-text,,,,
-,,secession-recognition-contested-statehood-primary-004,,resolution,,1970,https://docs.un.org/en/a/res/2625%28xxv%29,,,,
-,,secession-recognition-contested-statehood-primary-005,,case,,2010,https://www.icj-cij.org/case/141,,,,
-,,secession-recognition-contested-statehood-primary-006,,case,,2010,https://www.icj-cij.org/node/101885,,,,
-,,secession-recognition-contested-statehood-primary-007,,resolution,,1999,https://docs.un.org/en/S/RES/1244%281999%29,,,,
-,,secession-recognition-contested-statehood-primary-008,,other,,2026,https://www.un.org/en/about-us/non-member-states,,,,
-,,secession-recognition-contested-statehood-primary-009,,resolution,,2012,https://docs.un.org/en/A/RES/67/19,,,,
-,,secession-recognition-contested-statehood-primary-010,,resolution,,1983,https://docs.un.org/en/S/RES/541%281983%29,,,,
-,,secession-recognition-contested-statehood-primary-011,,resolution,,1984,https://docs.un.org/en/S/RES/550%281984%29,,,,
-,,secession-recognition-contested-statehood-primary-012,,other,,2011,https://www.un.org/en/about-us/member-states/south-sudan,,,,
-,,secession-recognition-contested-statehood-primary-013,,resolution,,1971,https://digitallibrary.un.org/record/192054?ln=en,,,,
-,,secession-recognition-contested-statehood-primary-014,,case,,1995,https://www.icj-cij.org/case/84,,,,
-,,secession-recognition-contested-statehood-primary-015,,case,,2019,https://www.icj-cij.org/case/169,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-001,,treaty,,1945,https://www.un.org/en/about-us/un-charter/full-text,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-002,,resolution,,1960,https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-granting-independence-colonial-countries-and-peoples,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-003,,treaty,,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-004,,treaty,,1966,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-005,,resolution,,1970,https://docs.un.org/en/a/res/2625%28xxv%29,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-006,,other,,1962,https://www.ohchr.org/en/instruments-mechanisms/instruments/general-assembly-resolution-1803-xvii-14-december-1962-permanent,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-007,,case,,1975,https://www.icj-cij.org/case/61,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-008,,case,,1971,https://www.icj-cij.org/case/53,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-009,,case,,1995,https://www.icj-cij.org/case/84,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-010,,case,,2019,https://www.icj-cij.org/case/169,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-011,,case,,2010,https://www.icj-cij.org/case/141,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-012,,case,,2024,https://www.icj-cij.org/case/186,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-013,,resolution,,2007,https://www.ohchr.org/en/indigenous-peoples/un-declaration-rights-indigenous-peoples,,,,
-,,self-determination-decolonization-rights-of-peoples-primary-014,,other,,2024,https://www.un.org/dppa/decolonization/en/nsgt,,,,
-,,20,,resolution,,2024,https://www.un.org/unispal/document/ga-10th-ess-resolution-18sep24/,,,,
-,,21,,resolution,,1950,https://legal.un.org/avl/ha/ufp/ufp.html,,,,
-,,22,,resolution,,1950,https://www.un.org/unispal/document/uniting-for-peace-ga-resolution-03nov1950/,,,,
-,,23,,treaty,,n.d.,https://legal.un.org/avl/ha/unch/unch.html,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,un_charter,Charter of the United Nations,treaty,,1945,https://www.un.org/en/about-us/un-charter/full-text,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,icj_statute,Statute of the International Court of Justice,statute,,1945,https://www.icj-cij.org/statute,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,icj_rules_of_court,Rules of Court,rules,,1978,https://www.icj-cij.org/rules,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,icj_court_overview,The Court,institutional,,n.d.,https://www.icj-cij.org/court,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,icj_contentious_jurisdiction,Contentious jurisdiction,institutional,,n.d.,https://www.icj-cij.org/contentious-jurisdiction,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,icj_advisory_jurisdiction,Advisory jurisdiction,institutional,,n.d.,https://www.icj-cij.org/advisory-jurisdiction,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,nicaragua_1986,Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America),case,,1986,https://www.icj-cij.org/case/70,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,bosnia_genocide_2007,Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Serbia and Montenegro),case,,2007,https://www.icj-cij.org/case/91,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,wall_2004,Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory,advisory_opinion,,2004,https://www.icj-cij.org/case/131,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,kosovo_2010,Accordance with international law of the unilateral declaration of independence in respect of Kosovo,advisory_opinion,,2010,https://www.icj-cij.org/case/141,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,chagos_2019,Legal Consequences of the Separation of the Chagos Archipelago from Mauritius in 1965,advisory_opinion,,2019,https://www.icj-cij.org/case/169,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,gambia_myanmar_2019,Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar),case,,2019,https://www.icj-cij.org/case/178,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,opt_2024,"Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",advisory_opinion,,2024,https://www.icj-cij.org/case/186,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,south_africa_israel_2023,Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel),case,,2023,https://www.icj-cij.org/case/192,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,north_sea_1969,North Sea Continental Shelf (Federal Republic of Germany/Denmark; Federal Republic of Germany/Netherlands),case,,1969,https://www.icj-cij.org/case/51,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,qatar_bahrain_2001,Maritime Delimitation and Territorial Questions between Qatar and Bahrain,case,,2001,https://www.icj-cij.org/case/87,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,cameroon_nigeria_2002,Land and Maritime Boundary between Cameroon and Nigeria,case,,2002,https://www.icj-cij.org/case/94,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,rosenne_law_practice_icj,"The Law and Practice of the International Court, 1920–2005",secondary,,2006,https://brill.com/display/title/11692,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,zimmermann_statute_commentary,The Statute of the International Court of Justice: A Commentary,secondary,,2019,https://global.oup.com/academic/product/the-statute-of-the-international-court-of-justice-9780198814894,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,thirlway_icj,The International Court of Justice,secondary,,2016,https://global.oup.com/academic/product/the-international-court-of-justice-9780198779070,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,shany_competing_jurisdictions,The Competing Jurisdictions of International Courts and Tribunals,secondary,,2003,https://global.oup.com/academic/product/the-competing-jurisdictions-of-international-courts-and-tribunals-9780199258574,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,crawford_brownlie,Brownlie’s Principles of Public International Law,secondary,,2019,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,shaw_international_law,International Law,secondary,,2021,https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,romano_alter_shany_adjudication,The Oxford Handbook of International Adjudication,secondary,,2014,https://global.oup.com/academic/product/the-oxford-handbook-of-international-adjudication-9780199660681,,,,
-international-court-of-justice-judicial-settlement-of-disputes,,alter_new_terrain,"The New Terrain of International Law: Courts, Politics, Rights",secondary,,2014,https://press.princeton.edu/books/paperback/9780691166705/the-new-terrain-of-international-law,,,,
-international-organizations-legal-authority-global-institutions,,io_un_charter,Charter of the United Nations,treaty,,1945,https://www.un.org/en/about-us/un-charter/full-text,,,,
-international-organizations-legal-authority-global-institutions,,io_un_charter_chapter_ix,UN Charter Chapter IX: International Economic and Social Cooperation,treaty_chapter,,1945,https://www.un.org/en/about-us/un-charter/chapter-9,,,,
-international-organizations-legal-authority-global-institutions,,io_un_charter_article_57,UN Charter Article 57,treaty_article,,1945,https://legal.un.org/repertory/art57.shtml,,,,
-international-organizations-legal-authority-global-institutions,,io_un_charter_article_63,UN Charter Article 63,treaty_article,,1945,https://legal.un.org/repertory/art63.shtml,,,,
-international-organizations-legal-authority-global-institutions,,io_reparation_for_injuries,Reparation for Injuries Suffered in the Service of the United Nations,advisory_opinion,,1949,https://www.icj-cij.org/case/4,,,,
-international-organizations-legal-authority-global-institutions,,io_effect_of_awards,Effect of Awards of Compensation Made by the United Nations Administrative Tribunal,advisory_opinion,,1954,https://www.icj-cij.org/case/21,,,,
-international-organizations-legal-authority-global-institutions,,io_who_constitution,Constitution of the World Health Organization,constituent_instrument,,1946,https://www.who.int/about/governance/constitution,,,,
-international-organizations-legal-authority-global-institutions,,io_ilo_constitution,Constitution of the International Labour Organization,constituent_instrument,,1919,https://www.ilo.org/about-ilo/how-ilo-works/departments-and-offices/jur/legal-instruments/constitution-ilo,,,,
-international-organizations-legal-authority-global-institutions,,io_wto_agreement,Marrakesh Agreement Establishing the World Trade Organization,constituent_instrument,,1994,https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm,,,,
-international-organizations-legal-authority-global-institutions,,io_imf_articles,Articles of Agreement of the International Monetary Fund,constituent_instrument,,1944,https://www.imf.org/external/pubs/ft/aa/,,,,
-international-organizations-legal-authority-global-institutions,,io_world_bank_ibrd_articles,IBRD Articles of Agreement,constituent_instrument,,1944,https://thedocs.worldbank.org/en/doc/722361541184234501-0330022018/original/IBRDArticlesOfAgreementEnglish.pdf,,,,
-international-organizations-legal-authority-global-institutions,,io_privileges_immunities_un,Convention on the Privileges and Immunities of the United Nations,treaty,,1946,https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-1&chapter=3,,,,
-international-organizations-legal-authority-global-institutions,,io_privileges_immunities_specialized,Convention on the Privileges and Immunities of the Specialized Agencies,treaty,,1947,https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-2&chapter=3,,,,
-international-organizations-legal-authority-global-institutions,,io_ario_2011,Draft Articles on the Responsibility of International Organizations,draft_articles,,2011,https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_11_2011.pdf,,,,
-international-organizations-legal-authority-global-institutions,,io_icj_who_nuclear_weapons,Legality of the Use by a State of Nuclear Weapons in Armed Conflict,advisory_opinion,,1996,https://www.icj-cij.org/case/93,,,,
-international-organizations-legal-authority-global-institutions,,io_amerasinghe_2005,Principles of the Institutional Law of International Organizations,secondary_source,,2005,https://www.cambridge.org/core/books/principles-of-the-institutional-law-of-international-organizations/,,,,
-international-organizations-legal-authority-global-institutions,,io_klabbers_2022,An Introduction to International Organizations Law,secondary_source,,2022,https://www.cambridge.org/highereducation/books/an-introduction-to-international-organizations-law/,,,,
-international-organizations-legal-authority-global-institutions,,io_alvarez_2005,International Organizations as Law-makers,secondary_source,,2005,https://global.oup.com/academic/product/international-organizations-as-law-makers-9780198765622,,,,
-international-organizations-legal-authority-global-institutions,,io_klabbers_wallendahl_2011,Research Handbook on the Law of International Organizations,secondary_source,,2011,https://www.e-elgar.com/shop/usd/research-handbook-on-the-law-of-international-organizations-9781849801515.html,,,,
-international-organizations-legal-authority-global-institutions,,io_shaw_2021,International Law,secondary_source,,2021,https://www.cambridge.org/highereducation/books/international-law/,,,,
-international-organizations-legal-authority-global-institutions,,io_crawford_2019,Brownlie’s Principles of Public International Law,secondary_source,,2019,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445,,,,
-regional-organizations-regional-courts-pluralism-international-law,,un-charter-chapter-viii,"Charter of the United Nations, Chapter VIII: Regional Arrangements",treaty,,1945,https://www.un.org/en/about-us/un-charter/chapter-8,Core Charter framework for regional arrangements and agencies.,United Nations,,
-regional-organizations-regional-courts-pluralism-international-law,,un-charter-article-52,"Charter of the United Nations, Article 52",treaty,,1945,https://www.un.org/en/about-us/un-charter/chapter-8,Recognizes regional arrangements for matters relating to maintenance of international peace and security.,United Nations,,
-regional-organizations-regional-courts-pluralism-international-law,,un-charter-article-53,"Charter of the United Nations, Article 53",treaty,,1945,https://www.un.org/en/about-us/un-charter/chapter-8,Addresses enforcement action by regional arrangements and Security Council authorization.,United Nations,,
-regional-organizations-regional-courts-pluralism-international-law,,un-charter-article-54,"Charter of the United Nations, Article 54",treaty,,1945,https://www.un.org/en/about-us/un-charter/chapter-8,Requires Security Council to be kept informed of regional actions for international peace and security.,United Nations,,
-regional-organizations-regional-courts-pluralism-international-law,,echr-convention,European Convention on Human Rights,treaty,,1950,https://www.echr.coe.int/documents/d/echr/convention_ENG,Foundational treaty for the European human-rights system.,Council of Europe,,
-regional-organizations-regional-courts-pluralism-international-law,,echr-court-overview,European Court of Human Rights: General Presentation,institutional_material,,n.d.,https://www.echr.coe.int/general-presentation,Official overview of the ECHR judicial system.,European Court of Human Rights,,
-regional-organizations-regional-courts-pluralism-international-law,,cjeu-court-overview,Court of Justice of the European Union: The Institution,institutional_material,,n.d.,https://curia.europa.eu/jcms/jcms/Jo2_7024/en/,Official institutional overview of CJEU authority.,Court of Justice of the European Union,,
-regional-organizations-regional-courts-pluralism-international-law,,oas-charter,Charter of the Organization of American States,treaty,,1948,https://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp,Foundational charter for the OAS regional system.,Organization of American States,,
-regional-organizations-regional-courts-pluralism-international-law,,american-convention-human-rights,American Convention on Human Rights,treaty,,1969,https://www.oas.org/dil/treaties_B-32_American_Convention_on_Human_Rights.htm,Core treaty for the Inter-American human-rights system.,Organization of American States,,
-regional-organizations-regional-courts-pluralism-international-law,,iacthr-court-overview,Inter-American Court of Human Rights: What is the I/A Court H.R.?,institutional_material,,n.d.,https://www.corteidh.or.cr/que_es_la_corte.cfm?lang=en,Official court overview.,Inter-American Court of Human Rights,,
-regional-organizations-regional-courts-pluralism-international-law,,african-charter-human-peoples-rights,African Charter on Human and Peoples’ Rights,treaty,,1981,https://au.int/en/treaties/african-charter-human-and-peoples-rights,Foundational African regional human-rights treaty.,African Union,,
-regional-organizations-regional-courts-pluralism-international-law,,african-court-protocol,Protocol to the African Charter on Human and Peoples’ Rights on the Establishment of an African Court,treaty,,1998,https://au.int/en/treaties/protocol-african-charter-human-and-peoples-rights-establishment-african-court-human-and,Creates the African Court on Human and Peoples’ Rights.,African Union,,
-regional-organizations-regional-courts-pluralism-international-law,,african-court-overview,African Court on Human and Peoples’ Rights: Basic Information,institutional_material,,n.d.,https://www.african-court.org/wpafc/basic-information/,Official overview of African Court mandate and access.,African Court on Human and Peoples’ Rights,,
-regional-organizations-regional-courts-pluralism-international-law,,ecowas-revised-treaty,ECOWAS Revised Treaty,treaty,,1993,https://ecowas.int/ecowas-law/treaties/,Foundational ECOWAS legal instrument.,Economic Community of West African States,,
-regional-organizations-regional-courts-pluralism-international-law,,ecowas-court-overview,ECOWAS Court of Justice: Mandate and Jurisdiction,institutional_material,,n.d.,https://courtecowas.org/,Official materials on ECOWAS Court authority.,ECOWAS Court of Justice,,
-regional-organizations-regional-courts-pluralism-international-law,,asean-charter,ASEAN Charter,treaty,,2007,https://asean.org/asean-charter/,Foundational ASEAN constitutional instrument.,Association of Southeast Asian Nations,,
-regional-organizations-regional-courts-pluralism-international-law,,au-constitutive-act,Constitutive Act of the African Union,treaty,,2000,https://au.int/en/constitutive-act,Foundational African Union constitutional instrument.,African Union,,
-regional-organizations-regional-courts-pluralism-international-law,,alter-new-terrain,"The New Terrain of International Law: Courts, Politics, Rights",secondary,,2014,https://press.princeton.edu/books/paperback/9780691166705/the-new-terrain-of-international-law,Major account of international courts and politics.,,"Alter, K.J.",Princeton University Press
-regional-organizations-regional-courts-pluralism-international-law,,romano-alter-shany-handbook,The Oxford Handbook of International Adjudication,secondary,,2014,https://global.oup.com/academic/product/the-oxford-handbook-of-international-adjudication-9780199660681,Comparative reference on international courts and adjudication.,,"Romano, C.P.R., Alter, K.J. and Shany, Y. (eds.)",Oxford University Press
-regional-organizations-regional-courts-pluralism-international-law,,shany-competing-jurisdictions,The Competing Jurisdictions of International Courts and Tribunals,secondary,,2003,https://global.oup.com/academic/product/the-competing-jurisdictions-of-international-courts-and-tribunals-9780199258574,Core work on fragmentation and overlapping jurisdiction.,,"Shany, Y.",Oxford University Press
-regional-organizations-regional-courts-pluralism-international-law,,kumm-constitutionalism-international-law,The Legitimacy of International Law: A Constitutionalist Framework of Analysis,secondary,,2004,https://academic.oup.com/ejil/article/15/5/907/518104,Useful framing for authority and pluralism.,,"Kumm, M.",European Journal of International Law
-regional-organizations-regional-courts-pluralism-international-law,,slaughter-new-world-order,A New World Order,secondary,,2004,https://press.princeton.edu/books/paperback/9780691123974/a-new-world-order,Networked governance and transgovernmental authority.,,"Slaughter, A.-M.",Princeton University Press
-regional-organizations-regional-courts-pluralism-international-law,,shaw-international-law,International Law,secondary,,2021,https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1,General international law reference.,,"Shaw, M.N.",Cambridge University Press
-regional-organizations-regional-courts-pluralism-international-law,,crawford-brownlie,Brownlie’s Principles of Public International Law,secondary,,2019,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445,General international law reference.,,"Crawford, J.",Oxford University Press
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-001,"Charter of the United Nations, Article 33",treaty,United Nations,1945,https://www.un.org/en/about-us/un-charter/chapter-6,"Foundational peaceful-settlement provision listing negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, regional agencies, and other peaceful means.",,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-002,"Charter of the United Nations, Article 2(3)",treaty,United Nations,1945,https://www.un.org/en/about-us/un-charter/chapter-1,Requires members to settle international disputes by peaceful means.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-003,Convention for the Pacific Settlement of International Disputes,treaty,Permanent Court of Arbitration / Hague Peace Conference,1899/1907,https://pca-cpa.org/en/about/introduction/history/,Historical foundation for the Permanent Court of Arbitration and modern institutional arbitration.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-004,Permanent Court of Arbitration — About / History,institutional_material,Permanent Court of Arbitration,n.d.,https://pca-cpa.org/en/about/introduction/history/,Institutional background on the PCA and its role in international arbitration.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-005,UNCLOS Annex VII Arbitration,treaty_procedure,United Nations Convention on the Law of the Sea,1982,https://www.un.org/depts/los/convention_agreements/texts/unclos/annex7.htm,Default arbitration mechanism for certain law-of-the-sea disputes.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-006,Convention on the Recognition and Enforcement of Foreign Arbitral Awards,treaty,United Nations / UNCITRAL,1958,https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards,New York Convention framework for recognition and enforcement of foreign arbitral awards.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-007,UNCITRAL Arbitration Rules,rules,UNCITRAL,1976/2010/2013/2021,https://uncitral.un.org/en/texts/arbitration/contractualtexts/arbitration,Widely used procedural rules for ad hoc and administered arbitration.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-008,ICSID Convention,treaty,International Centre for Settlement of Investment Disputes,1965,https://icsid.worldbank.org/resources/rules-and-regulations/convention/overview,Framework for arbitration and conciliation of investment disputes between states and nationals of other states.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-009,ICSID Arbitration Rules,rules,International Centre for Settlement of Investment Disputes,2022,https://icsid.worldbank.org/resources/rules-and-regulations/arbitration-rules,Procedural rules for ICSID arbitration.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-010,UNCITRAL Rules on Transparency in Treaty-based Investor-State Arbitration,rules,UNCITRAL,2014,https://uncitral.un.org/en/texts/arbitration/contractualtexts/transparency,Transparency framework for treaty-based investor-state arbitration.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-011,United Nations Convention on Transparency in Treaty-based Investor-State Arbitration,treaty,United Nations / UNCITRAL,2014,https://uncitral.un.org/en/texts/arbitration/conventions/transparency,Mauritius Convention on Transparency.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-012,South China Sea Arbitration,case_award,Permanent Court of Arbitration / UNCLOS Annex VII Tribunal,2016,https://pca-cpa.org/en/cases/7/,Major example of UNCLOS Annex VII arbitration and non-appearance issues.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-001,International Commercial Arbitration,secondary_source,"Born, G.B.",2021,https://kluwerlawonline.com/Manual/InternationalCommercialArbitration,Leading treatise on international commercial arbitration.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-002,Brownlie’s Principles of Public International Law,secondary_source,Brownlie / Crawford,2019,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445,General international law reference including peaceful settlement and dispute resolution.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-003,International Dispute Settlement,secondary_source,"Merrills, J.G.",2017,https://www.cambridge.org/core/books/international-dispute-settlement/,Core text on peaceful dispute settlement mechanisms including arbitration.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-004,Redfern and Hunter on International Arbitration,secondary_source,"Redfern, A. and Hunter, M.",2023,https://global.oup.com/academic/product/redfern-and-hunter-on-international-arbitration-9780192869906,Standard reference on international arbitration practice and procedure.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-005,The ICSID Convention: A Commentary,secondary_source,"Schreuer, C. et al.",2009,https://www.cambridge.org/core/books/icsid-convention/,Leading commentary on ICSID jurisdiction and procedure.,,,
-international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-006,The International Law on Foreign Investment,secondary_source,"Sornarajah, M.",2021,https://www.cambridge.org/core/books/international-law-on-foreign-investment/,Critical and doctrinal treatment of foreign investment law and investor-state arbitration.,,,
+article_id,article_title,source_id,source_title,source_type,url
+,,1,,secondary_source,https://www.tandfonline.com/doi/abs/10.1080/07075332.1999.9640869
+,,10,,treaty,https://www.oas.org/juridico/english/sigs/a-40.html
+,,2,,secondary_source,https://www.cambridge.org/core/journals/international-organization/article/abs/sovereignty-international-relations-and-the-westphalian-myth/7D78A7D0D4C6F6F17801E5E28BF9F050
+,,3,,secondary_source,https://press.princeton.edu/books/paperback/9780691007113/sovereignty
+,,4,,secondary_source,https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1
+,,5,,secondary_source,https://www.cambridge.org/core/books/imperialism-sovereignty-and-the-making-of-international-law/8A9B9D74AAB7CA2D7B7D4D83A7E9D59A
+,,6,,other,https://legal.un.org/repertory/art2.shtml
+,,7,,resolution,https://docs.un.org/en/a/res/2625%28xxv%29
+,,8,,resolution,https://treaties.un.org/doc/source/docs/A_RES_2625-Eng.pdf
+,,9,,resolution,https://legal.un.org/avl/ha/dpilfrcscun/dpilfrcscun.html
+,,11,,treaty,https://treaties.un.org/pages/showdetails.aspx?objid=0800000280166aef
+,,12,,other,https://peacekeeping.un.org/en/mandates-and-legal-basis-peacekeeping
+,,13,,other,https://peacekeeping.un.org/en/principles-of-peacekeeping
+,,14,,case,https://www.icj-cij.org/case/70
+,,15,,case,https://www.icj-cij.org/node/103143
+,,16,,treaty,https://www.icj-cij.org/case/192
+,,17,,case,https://www.icj-cij.org/node/203447
+,,18,,case,https://www.icj-cij.org/case/186
+,,19,,case,https://docs.un.org/en/A/RES/ES-10/24
+,,secession-recognition-contested-statehood-primary-001,,treaty,https://treaties.un.org/pages/showdetails.aspx?objid=0800000280166aef
+,,secession-recognition-contested-statehood-primary-002,,treaty,https://avalon.law.yale.edu/20th_century/intam03.asp
+,,secession-recognition-contested-statehood-primary-003,,treaty,https://www.un.org/en/about-us/un-charter/full-text
+,,secession-recognition-contested-statehood-primary-004,,resolution,https://docs.un.org/en/a/res/2625%28xxv%29
+,,secession-recognition-contested-statehood-primary-005,,case,https://www.icj-cij.org/case/141
+,,secession-recognition-contested-statehood-primary-006,,case,https://www.icj-cij.org/node/101885
+,,secession-recognition-contested-statehood-primary-007,,resolution,https://docs.un.org/en/S/RES/1244%281999%29
+,,secession-recognition-contested-statehood-primary-008,,other,https://www.un.org/en/about-us/non-member-states
+,,secession-recognition-contested-statehood-primary-009,,resolution,https://docs.un.org/en/A/RES/67/19
+,,secession-recognition-contested-statehood-primary-010,,resolution,https://docs.un.org/en/S/RES/541%281983%29
+,,secession-recognition-contested-statehood-primary-011,,resolution,https://docs.un.org/en/S/RES/550%281984%29
+,,secession-recognition-contested-statehood-primary-012,,other,https://www.un.org/en/about-us/member-states/south-sudan
+,,secession-recognition-contested-statehood-primary-013,,resolution,https://digitallibrary.un.org/record/192054?ln=en
+,,secession-recognition-contested-statehood-primary-014,,case,https://www.icj-cij.org/case/84
+,,secession-recognition-contested-statehood-primary-015,,case,https://www.icj-cij.org/case/169
+,,self-determination-decolonization-rights-of-peoples-primary-001,,treaty,https://www.un.org/en/about-us/un-charter/full-text
+,,self-determination-decolonization-rights-of-peoples-primary-002,,resolution,https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-granting-independence-colonial-countries-and-peoples
+,,self-determination-decolonization-rights-of-peoples-primary-003,,treaty,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights
+,,self-determination-decolonization-rights-of-peoples-primary-004,,treaty,https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights
+,,self-determination-decolonization-rights-of-peoples-primary-005,,resolution,https://docs.un.org/en/a/res/2625%28xxv%29
+,,self-determination-decolonization-rights-of-peoples-primary-006,,other,https://www.ohchr.org/en/instruments-mechanisms/instruments/general-assembly-resolution-1803-xvii-14-december-1962-permanent
+,,self-determination-decolonization-rights-of-peoples-primary-007,,case,https://www.icj-cij.org/case/61
+,,self-determination-decolonization-rights-of-peoples-primary-008,,case,https://www.icj-cij.org/case/53
+,,self-determination-decolonization-rights-of-peoples-primary-009,,case,https://www.icj-cij.org/case/84
+,,self-determination-decolonization-rights-of-peoples-primary-010,,case,https://www.icj-cij.org/case/169
+,,self-determination-decolonization-rights-of-peoples-primary-011,,case,https://www.icj-cij.org/case/141
+,,self-determination-decolonization-rights-of-peoples-primary-012,,case,https://www.icj-cij.org/case/186
+,,self-determination-decolonization-rights-of-peoples-primary-013,,resolution,https://www.ohchr.org/en/indigenous-peoples/un-declaration-rights-indigenous-peoples
+,,self-determination-decolonization-rights-of-peoples-primary-014,,other,https://www.un.org/dppa/decolonization/en/nsgt
+,,20,,resolution,https://www.un.org/unispal/document/ga-10th-ess-resolution-18sep24/
+,,21,,resolution,https://legal.un.org/avl/ha/ufp/ufp.html
+,,22,,resolution,https://www.un.org/unispal/document/uniting-for-peace-ga-resolution-03nov1950/
+,,23,,treaty,https://legal.un.org/avl/ha/unch/unch.html
+,,un_charter,Charter of the United Nations,treaty,https://www.un.org/en/about-us/un-charter/full-text
+,,icj_statute,Statute of the International Court of Justice,statute,https://www.icj-cij.org/statute
+,,icj_rules_of_court,Rules of Court,rules,https://www.icj-cij.org/rules
+,,icj_court_overview,The Court,institutional,https://www.icj-cij.org/court
+,,icj_contentious_jurisdiction,Contentious jurisdiction,institutional,https://www.icj-cij.org/contentious-jurisdiction
+,,icj_advisory_jurisdiction,Advisory jurisdiction,institutional,https://www.icj-cij.org/advisory-jurisdiction
+,,nicaragua_1986,Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America),case,https://www.icj-cij.org/case/70
+,,bosnia_genocide_2007,Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Serbia and Montenegro),case,https://www.icj-cij.org/case/91
+,,wall_2004,Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory,advisory_opinion,https://www.icj-cij.org/case/131
+,,kosovo_2010,Accordance with international law of the unilateral declaration of independence in respect of Kosovo,advisory_opinion,https://www.icj-cij.org/case/141
+,,chagos_2019,Legal Consequences of the Separation of the Chagos Archipelago from Mauritius in 1965,advisory_opinion,https://www.icj-cij.org/case/169
+,,gambia_myanmar_2019,Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar),case,https://www.icj-cij.org/case/178
+,,opt_2024,"Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",advisory_opinion,https://www.icj-cij.org/case/186
+,,south_africa_israel_2023,Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel),case,https://www.icj-cij.org/case/192
+,,north_sea_1969,North Sea Continental Shelf (Federal Republic of Germany/Denmark; Federal Republic of Germany/Netherlands),case,https://www.icj-cij.org/case/51
+,,qatar_bahrain_2001,Maritime Delimitation and Territorial Questions between Qatar and Bahrain,case,https://www.icj-cij.org/case/87
+,,cameroon_nigeria_2002,Land and Maritime Boundary between Cameroon and Nigeria,case,https://www.icj-cij.org/case/94
+,,rosenne_law_practice_icj,"The Law and Practice of the International Court, 1920–2005",secondary,https://brill.com/display/title/11692
+,,zimmermann_statute_commentary,The Statute of the International Court of Justice: A Commentary,secondary,https://global.oup.com/academic/product/the-statute-of-the-international-court-of-justice-9780198814894
+,,thirlway_icj,The International Court of Justice,secondary,https://global.oup.com/academic/product/the-international-court-of-justice-9780198779070
+,,shany_competing_jurisdictions,The Competing Jurisdictions of International Courts and Tribunals,secondary,https://global.oup.com/academic/product/the-competing-jurisdictions-of-international-courts-and-tribunals-9780199258574
+,,crawford_brownlie,Brownlie’s Principles of Public International Law,secondary,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445
+,,shaw_international_law,International Law,secondary,https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1
+,,romano_alter_shany_adjudication,The Oxford Handbook of International Adjudication,secondary,https://global.oup.com/academic/product/the-oxford-handbook-of-international-adjudication-9780199660681
+,,alter_new_terrain,"The New Terrain of International Law: Courts, Politics, Rights",secondary,https://press.princeton.edu/books/paperback/9780691166705/the-new-terrain-of-international-law
+,,io_un_charter,Charter of the United Nations,treaty,https://www.un.org/en/about-us/un-charter/full-text
+,,io_un_charter_chapter_ix,UN Charter Chapter IX: International Economic and Social Cooperation,treaty_chapter,https://www.un.org/en/about-us/un-charter/chapter-9
+,,io_un_charter_article_57,UN Charter Article 57,treaty_article,https://legal.un.org/repertory/art57.shtml
+,,io_un_charter_article_63,UN Charter Article 63,treaty_article,https://legal.un.org/repertory/art63.shtml
+,,io_reparation_for_injuries,Reparation for Injuries Suffered in the Service of the United Nations,advisory_opinion,https://www.icj-cij.org/case/4
+,,io_effect_of_awards,Effect of Awards of Compensation Made by the United Nations Administrative Tribunal,advisory_opinion,https://www.icj-cij.org/case/21
+,,io_who_constitution,Constitution of the World Health Organization,constituent_instrument,https://www.who.int/about/governance/constitution
+,,io_ilo_constitution,Constitution of the International Labour Organization,constituent_instrument,https://www.ilo.org/about-ilo/how-ilo-works/departments-and-offices/jur/legal-instruments/constitution-ilo
+,,io_wto_agreement,Marrakesh Agreement Establishing the World Trade Organization,constituent_instrument,https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm
+,,io_imf_articles,Articles of Agreement of the International Monetary Fund,constituent_instrument,https://www.imf.org/external/pubs/ft/aa/
+,,io_world_bank_ibrd_articles,IBRD Articles of Agreement,constituent_instrument,https://thedocs.worldbank.org/en/doc/722361541184234501-0330022018/original/IBRDArticlesOfAgreementEnglish.pdf
+,,io_privileges_immunities_un,Convention on the Privileges and Immunities of the United Nations,treaty,https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-1&chapter=3
+,,io_privileges_immunities_specialized,Convention on the Privileges and Immunities of the Specialized Agencies,treaty,https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-2&chapter=3
+,,io_ario_2011,Draft Articles on the Responsibility of International Organizations,draft_articles,https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_11_2011.pdf
+,,io_icj_who_nuclear_weapons,Legality of the Use by a State of Nuclear Weapons in Armed Conflict,advisory_opinion,https://www.icj-cij.org/case/93
+,,io_amerasinghe_2005,Principles of the Institutional Law of International Organizations,secondary_source,https://www.cambridge.org/core/books/principles-of-the-institutional-law-of-international-organizations/
+,,io_klabbers_2022,An Introduction to International Organizations Law,secondary_source,https://www.cambridge.org/highereducation/books/an-introduction-to-international-organizations-law/
+,,io_alvarez_2005,International Organizations as Law-makers,secondary_source,https://global.oup.com/academic/product/international-organizations-as-law-makers-9780198765622
+,,io_klabbers_wallendahl_2011,Research Handbook on the Law of International Organizations,secondary_source,https://www.e-elgar.com/shop/usd/research-handbook-on-the-law-of-international-organizations-9781849801515.html
+,,io_shaw_2021,International Law,secondary_source,https://www.cambridge.org/highereducation/books/international-law/
+,,io_crawford_2019,Brownlie’s Principles of Public International Law,secondary_source,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445
+,,un-charter-chapter-viii,"Charter of the United Nations, Chapter VIII: Regional Arrangements",treaty,https://www.un.org/en/about-us/un-charter/chapter-8
+,,un-charter-article-52,"Charter of the United Nations, Article 52",treaty,https://www.un.org/en/about-us/un-charter/chapter-8
+,,un-charter-article-53,"Charter of the United Nations, Article 53",treaty,https://www.un.org/en/about-us/un-charter/chapter-8
+,,un-charter-article-54,"Charter of the United Nations, Article 54",treaty,https://www.un.org/en/about-us/un-charter/chapter-8
+,,echr-convention,European Convention on Human Rights,treaty,https://www.echr.coe.int/documents/d/echr/convention_ENG
+,,echr-court-overview,European Court of Human Rights: General Presentation,institutional_material,https://www.echr.coe.int/general-presentation
+,,cjeu-court-overview,Court of Justice of the European Union: The Institution,institutional_material,https://curia.europa.eu/jcms/jcms/Jo2_7024/en/
+,,oas-charter,Charter of the Organization of American States,treaty,https://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp
+,,american-convention-human-rights,American Convention on Human Rights,treaty,https://www.oas.org/dil/treaties_B-32_American_Convention_on_Human_Rights.htm
+,,iacthr-court-overview,Inter-American Court of Human Rights: What is the I/A Court H.R.?,institutional_material,https://www.corteidh.or.cr/que_es_la_corte.cfm?lang=en
+,,african-charter-human-peoples-rights,African Charter on Human and Peoples’ Rights,treaty,https://au.int/en/treaties/african-charter-human-and-peoples-rights
+,,african-court-protocol,Protocol to the African Charter on Human and Peoples’ Rights on the Establishment of an African Court,treaty,https://au.int/en/treaties/protocol-african-charter-human-and-peoples-rights-establishment-african-court-human-and
+,,african-court-overview,African Court on Human and Peoples’ Rights: Basic Information,institutional_material,https://www.african-court.org/wpafc/basic-information/
+,,ecowas-revised-treaty,ECOWAS Revised Treaty,treaty,https://ecowas.int/ecowas-law/treaties/
+,,ecowas-court-overview,ECOWAS Court of Justice: Mandate and Jurisdiction,institutional_material,https://courtecowas.org/
+,,asean-charter,ASEAN Charter,treaty,https://asean.org/asean-charter/
+,,au-constitutive-act,Constitutive Act of the African Union,treaty,https://au.int/en/constitutive-act
+,,alter-new-terrain,"The New Terrain of International Law: Courts, Politics, Rights",secondary,https://press.princeton.edu/books/paperback/9780691166705/the-new-terrain-of-international-law
+,,romano-alter-shany-handbook,The Oxford Handbook of International Adjudication,secondary,https://global.oup.com/academic/product/the-oxford-handbook-of-international-adjudication-9780199660681
+,,shany-competing-jurisdictions,The Competing Jurisdictions of International Courts and Tribunals,secondary,https://global.oup.com/academic/product/the-competing-jurisdictions-of-international-courts-and-tribunals-9780199258574
+,,kumm-constitutionalism-international-law,The Legitimacy of International Law: A Constitutionalist Framework of Analysis,secondary,https://academic.oup.com/ejil/article/15/5/907/518104
+,,slaughter-new-world-order,A New World Order,secondary,https://press.princeton.edu/books/paperback/9780691123974/a-new-world-order
+,,shaw-international-law,International Law,secondary,https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1
+,,crawford-brownlie,Brownlie’s Principles of Public International Law,secondary,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-001,"Charter of the United Nations, Article 33",treaty,https://www.un.org/en/about-us/un-charter/chapter-6
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-002,"Charter of the United Nations, Article 2(3)",treaty,https://www.un.org/en/about-us/un-charter/chapter-1
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-003,Convention for the Pacific Settlement of International Disputes,treaty,https://pca-cpa.org/en/about/introduction/history/
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-004,Permanent Court of Arbitration — About / History,institutional_material,https://pca-cpa.org/en/about/introduction/history/
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-005,UNCLOS Annex VII Arbitration,treaty_procedure,https://www.un.org/depts/los/convention_agreements/texts/unclos/annex7.htm
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-006,Convention on the Recognition and Enforcement of Foreign Arbitral Awards,treaty,https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-007,UNCITRAL Arbitration Rules,rules,https://uncitral.un.org/en/texts/arbitration/contractualtexts/arbitration
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-008,ICSID Convention,treaty,https://icsid.worldbank.org/resources/rules-and-regulations/convention/overview
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-009,ICSID Arbitration Rules,rules,https://icsid.worldbank.org/resources/rules-and-regulations/arbitration-rules
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-010,UNCITRAL Rules on Transparency in Treaty-based Investor-State Arbitration,rules,https://uncitral.un.org/en/texts/arbitration/contractualtexts/transparency
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-011,United Nations Convention on Transparency in Treaty-based Investor-State Arbitration,treaty,https://uncitral.un.org/en/texts/arbitration/conventions/transparency
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-pri-012,South China Sea Arbitration,case_award,https://pca-cpa.org/en/cases/7/
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-001,International Commercial Arbitration,secondary_source,https://kluwerlawonline.com/Manual/InternationalCommercialArbitration
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-002,Brownlie’s Principles of Public International Law,secondary_source,https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-003,International Dispute Settlement,secondary_source,https://www.cambridge.org/core/books/international-dispute-settlement/
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-004,Redfern and Hunter on International Arbitration,secondary_source,https://global.oup.com/academic/product/redfern-and-hunter-on-international-arbitration-9780192869906
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-005,The ICSID Convention: A Commentary,secondary_source,https://www.cambridge.org/core/books/icsid-convention/
+,International Arbitration and the Peaceful Settlement of Disputes,ia-psd-sec-006,The International Law on Foreign Investment,secondary_source,https://www.cambridge.org/core/books/international-law-on-foreign-investment/
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps001,Charter of the United Nations,treaty,https://www.un.org/en/about-us/un-charter/full-text
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps002,Statute of the International Court of Justice,statute,https://www.icj-cij.org/statute
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps003,Rules of Court,rules,https://www.icj-cij.org/rules
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps004,LaGrand (Germany v. United States of America),case,https://www.icj-cij.org/case/104
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps005,Avena and Other Mexican Nationals (Mexico v. United States of America),case,https://www.icj-cij.org/case/128
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps006,Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory,advisory_opinion,https://www.icj-cij.org/case/131
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps007,"Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",advisory_opinion,https://www.icj-cij.org/case/186
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps008,Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel),case,https://www.icj-cij.org/case/192
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps009,Rome Statute of the International Criminal Court,treaty,https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps010,Agreement Establishing the World Trade Organization: DSU,treaty,https://www.wto.org/english/docs_e/legal_e/28-dsu_e.htm
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps011,Convention on the Recognition and Enforcement of Foreign Arbitral Awards,treaty,https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps012,ICSID Convention,treaty,https://icsid.worldbank.org/sites/default/files/ICSID%20Convention%20English.pdf
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ps013,Supervision of the execution of judgments,institutional_material,https://www.coe.int/en/web/execution
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ss001,"The Law and Practice of the International Court, 1920–2005",secondary_source,https://brill.com/display/title/13068
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ss002,Assessing the Effectiveness of International Courts,secondary_source,https://global.oup.com/academic/product/assessing-the-effectiveness-of-international-courts-9780199643295
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ss003,The New Terrain of International Law,secondary_source,https://press.princeton.edu/books/paperback/9780691166705/the-new-terrain-of-international-law
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ss004,The Oxford Handbook of International Adjudication,secondary_source,https://global.oup.com/academic/product/the-oxford-handbook-of-international-adjudication-9780199660681
+compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",ss005,International Law,secondary_source,https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1

@@ -1,0 +1,112 @@
+{
+  "enforcement_mechanisms": [
+    {
+      "mechanism_id": "em001",
+      "forum": "International Court of Justice",
+      "instrument_or_basis": "UN Charter Article 94",
+      "compliance_pathway": "State compliance, Security Council referral, diplomatic pressure",
+      "main_limit": "Permanent-member politics and decentralized enforcement",
+      "article_relevance": "ICJ judgments and enforcement limits"
+    },
+    {
+      "mechanism_id": "em002",
+      "forum": "International Court of Justice",
+      "instrument_or_basis": "ICJ provisional measures",
+      "compliance_pathway": "Binding interim obligations, public scrutiny, later merits proceedings",
+      "main_limit": "No direct coercive enforcement",
+      "article_relevance": "Urgent protection and compliance monitoring"
+    },
+    {
+      "mechanism_id": "em003",
+      "forum": "International Court of Justice",
+      "instrument_or_basis": "Advisory jurisdiction",
+      "compliance_pathway": "Legal clarification, UN follow-up, third-state obligations",
+      "main_limit": "Not directly binding like a contentious judgment",
+      "article_relevance": "Advisory opinions and structural injustice"
+    },
+    {
+      "mechanism_id": "em004",
+      "forum": "International Criminal Court",
+      "instrument_or_basis": "Rome Statute cooperation provisions",
+      "compliance_pathway": "Arrest, surrender, evidence, domestic cooperation",
+      "main_limit": "Non-party states and non-cooperation",
+      "article_relevance": "Criminal accountability and enforcement dependence"
+    },
+    {
+      "mechanism_id": "em005",
+      "forum": "European Court of Human Rights",
+      "instrument_or_basis": "European Convention Article 46",
+      "compliance_pathway": "Committee of Ministers supervision",
+      "main_limit": "Political resistance and implementation delay",
+      "article_relevance": "Regional human-rights judgment compliance"
+    },
+    {
+      "mechanism_id": "em006",
+      "forum": "WTO dispute settlement",
+      "instrument_or_basis": "DSU Articles 21-22",
+      "compliance_pathway": "Implementation, compensation, suspension of concessions",
+      "main_limit": "Appellate Body crisis and power asymmetry",
+      "article_relevance": "Trade compliance model"
+    },
+    {
+      "mechanism_id": "em007",
+      "forum": "International arbitration",
+      "instrument_or_basis": "New York Convention",
+      "compliance_pathway": "Domestic-court recognition and enforcement",
+      "main_limit": "Public policy exceptions and jurisdictional challenges",
+      "article_relevance": "Commercial award enforcement"
+    },
+    {
+      "mechanism_id": "em008",
+      "forum": "ICSID arbitration",
+      "instrument_or_basis": "ICSID Convention",
+      "compliance_pathway": "Domestic recognition of pecuniary obligations",
+      "main_limit": "Sovereign immunity from execution and legitimacy concerns",
+      "article_relevance": "Investment award enforcement"
+    }
+  ],
+  "compliance_pathways": [
+    {
+      "pathway_id": "cp001",
+      "pathway": "Voluntary compliance",
+      "actors": "State or party subject to decision",
+      "legal_effect": "Direct implementation of judgment or award",
+      "practical_constraint": "Political cost, domestic opposition, resource constraints"
+    },
+    {
+      "pathway_id": "cp002",
+      "pathway": "Institutional supervision",
+      "actors": "Council of Europe, WTO DSB, treaty bodies",
+      "legal_effect": "Monitoring, reporting, review, pressure",
+      "practical_constraint": "Limited coercive capacity"
+    },
+    {
+      "pathway_id": "cp003",
+      "pathway": "Domestic implementation",
+      "actors": "National courts, legislatures, executives",
+      "legal_effect": "Internalizes international obligation",
+      "practical_constraint": "Dualism, constitutional constraints, political resistance"
+    },
+    {
+      "pathway_id": "cp004",
+      "pathway": "Third-state obligations",
+      "actors": "Other states and international organizations",
+      "legal_effect": "Non-recognition, non-assistance, cooperation duties",
+      "practical_constraint": "Selective application and alliance politics"
+    },
+    {
+      "pathway_id": "cp005",
+      "pathway": "Countermeasures or authorized retaliation",
+      "actors": "Injured state or authorized forum",
+      "legal_effect": "Induces compliance through legal pressure",
+      "practical_constraint": "Escalation risk and power asymmetry"
+    },
+    {
+      "pathway_id": "cp006",
+      "pathway": "Civil-society mobilization",
+      "actors": "NGOs, victims, scholars, media, movements",
+      "legal_effect": "Turns legal findings into advocacy and accountability pressure",
+      "practical_constraint": "Access, resources, and political visibility"
+    }
+  ]
+}
