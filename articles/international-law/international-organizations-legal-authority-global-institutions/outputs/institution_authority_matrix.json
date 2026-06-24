@@ -1,0 +1,317 @@
+{
+  "article_slug": "international-organizations-legal-authority-global-institutions",
+  "authority_matrix": [
+    {
+      "concept_id": "legal_personality",
+      "principle": "International organizations can possess international legal personality distinct from member states.",
+      "leading_authority_or_example": "Reparation for Injuries",
+      "practice_note": "Claims capacity, treaty capacity, privileges and immunities, responsibility."
+    },
+    {
+      "concept_id": "implied_powers",
+      "principle": "Organizations may possess powers necessary to perform their functions even when not textually explicit.",
+      "leading_authority_or_example": "Reparation for Injuries",
+      "practice_note": "Institutional effectiveness and functional necessity."
+    },
+    {
+      "concept_id": "constituent_instruments",
+      "principle": "Organizations derive authority from treaties or founding instruments.",
+      "leading_authority_or_example": "UN Charter; WHO Constitution; WTO Agreement; IMF Articles",
+      "practice_note": "Mandate analysis begins with text, object, purpose, and institutional practice."
+    },
+    {
+      "concept_id": "delegated_authority",
+      "principle": "Member states delegate powers through treaties, decisions, or institutional practice.",
+      "leading_authority_or_example": "Specialized agencies and treaty bodies",
+      "practice_note": "Authority varies by organization and field."
+    },
+    {
+      "concept_id": "binding_decisions",
+      "principle": "Some bodies issue decisions binding on members under their constituent instruments.",
+      "leading_authority_or_example": "Security Council Chapter VII; WTO dispute settlement",
+      "practice_note": "Binding force must be traced to a legal source."
+    },
+    {
+      "concept_id": "soft_law",
+      "principle": "Organizations generate non-binding standards, guidelines, recommendations, and technical norms.",
+      "leading_authority_or_example": "WHO guidance; ILO recommendations; OECD standards",
+      "practice_note": "Soft law may shape conduct even without formal binding status."
+    },
+    {
+      "concept_id": "technical_authority",
+      "principle": "Expert bodies influence law through knowledge, metrics, classifications, and standards.",
+      "leading_authority_or_example": "WHO; ICAO; IMO; FAO; IAEA",
+      "practice_note": "Authority can be epistemic as well as legal."
+    },
+    {
+      "concept_id": "privileges_immunities",
+      "principle": "Institutions and officials may hold immunities necessary for independent function.",
+      "leading_authority_or_example": "UN Privileges and Immunities Convention",
+      "practice_note": "Immunity must be connected to function and accountability concerns."
+    },
+    {
+      "concept_id": "responsibility",
+      "principle": "International organizations can bear responsibility for internationally wrongful acts.",
+      "leading_authority_or_example": "ILC Draft Articles on Responsibility of International Organizations",
+      "practice_note": "Attribution, breach, aid/assistance, and member-state responsibility must be analyzed carefully."
+    }
+  ],
+  "organization_profiles": [
+    {
+      "organization_id": "un",
+      "organization_name": "United Nations",
+      "primary_field": "peace and security; cooperation; human rights; development",
+      "legal_basis": "UN Charter",
+      "authority_note": "Global political and legal organization with principal organs and specialized-agency coordination."
+    },
+    {
+      "organization_id": "who",
+      "organization_name": "World Health Organization",
+      "primary_field": "global public health",
+      "legal_basis": "WHO Constitution",
+      "authority_note": "Specialized agency issuing health guidance, standards, regulations, and emergency coordination."
+    },
+    {
+      "organization_id": "ilo",
+      "organization_name": "International Labour Organization",
+      "primary_field": "labor standards",
+      "legal_basis": "ILO Constitution",
+      "authority_note": "Tripartite agency developing conventions, recommendations, and supervisory practice."
+    },
+    {
+      "organization_id": "wto",
+      "organization_name": "World Trade Organization",
+      "primary_field": "trade law and dispute settlement",
+      "legal_basis": "Marrakesh Agreement",
+      "authority_note": "Organization administering trade agreements and dispute settlement."
+    },
+    {
+      "organization_id": "imf",
+      "organization_name": "International Monetary Fund",
+      "primary_field": "monetary cooperation and financial stability",
+      "legal_basis": "IMF Articles of Agreement",
+      "authority_note": "Financial institution with surveillance, lending, and conditionality functions."
+    },
+    {
+      "organization_id": "world_bank",
+      "organization_name": "World Bank / IBRD",
+      "primary_field": "development finance",
+      "legal_basis": "IBRD Articles of Agreement",
+      "authority_note": "Development finance institution with project, lending, and policy influence."
+    },
+    {
+      "organization_id": "icao",
+      "organization_name": "International Civil Aviation Organization",
+      "primary_field": "civil aviation standards",
+      "legal_basis": "Chicago Convention",
+      "authority_note": "Technical agency setting aviation safety, navigation, and coordination standards."
+    },
+    {
+      "organization_id": "imo",
+      "organization_name": "International Maritime Organization",
+      "primary_field": "shipping and maritime safety",
+      "legal_basis": "IMO Convention",
+      "authority_note": "Technical agency supporting maritime safety, pollution prevention, and standards."
+    },
+    {
+      "organization_id": "iaea",
+      "organization_name": "International Atomic Energy Agency",
+      "primary_field": "nuclear safeguards and technical cooperation",
+      "legal_basis": "IAEA Statute",
+      "authority_note": "Agency with safeguards, nuclear safety, and technical authority."
+    }
+  ],
+  "primary_sources": [
+    {
+      "source_id": "io_un_charter",
+      "source_title": "Charter of the United Nations",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Constituent instrument for the United Nations; includes institutional powers, specialized-agency relationship, and peace-and-security framework."
+    },
+    {
+      "source_id": "io_un_charter_chapter_ix",
+      "source_title": "UN Charter Chapter IX: International Economic and Social Cooperation",
+      "source_type": "treaty_chapter",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-9",
+      "notes": "Framework for ECOSOC, cooperation, and specialized agency coordination."
+    },
+    {
+      "source_id": "io_un_charter_article_57",
+      "source_title": "UN Charter Article 57",
+      "source_type": "treaty_article",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://legal.un.org/repertory/art57.shtml",
+      "notes": "Specialized agencies brought into relationship with the United Nations."
+    },
+    {
+      "source_id": "io_un_charter_article_63",
+      "source_title": "UN Charter Article 63",
+      "source_type": "treaty_article",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://legal.un.org/repertory/art63.shtml",
+      "notes": "ECOSOC arrangements with specialized agencies and coordination authority."
+    },
+    {
+      "source_id": "io_reparation_for_injuries",
+      "source_title": "Reparation for Injuries Suffered in the Service of the United Nations",
+      "source_type": "advisory_opinion",
+      "institution": "International Court of Justice",
+      "year": "1949",
+      "url": "https://www.icj-cij.org/case/4",
+      "notes": "Foundational advisory opinion on international legal personality and implied powers of international organizations."
+    },
+    {
+      "source_id": "io_effect_of_awards",
+      "source_title": "Effect of Awards of Compensation Made by the United Nations Administrative Tribunal",
+      "source_type": "advisory_opinion",
+      "institution": "International Court of Justice",
+      "year": "1954",
+      "url": "https://www.icj-cij.org/case/21",
+      "notes": "Authority of international administrative tribunals and institutional legal effects."
+    },
+    {
+      "source_id": "io_who_constitution",
+      "source_title": "Constitution of the World Health Organization",
+      "source_type": "constituent_instrument",
+      "institution": "World Health Organization",
+      "year": "1946",
+      "url": "https://www.who.int/about/governance/constitution",
+      "notes": "Constituent instrument and legal basis for WHO authority."
+    },
+    {
+      "source_id": "io_ilo_constitution",
+      "source_title": "Constitution of the International Labour Organization",
+      "source_type": "constituent_instrument",
+      "institution": "International Labour Organization",
+      "year": "1919",
+      "url": "https://www.ilo.org/about-ilo/how-ilo-works/departments-and-offices/jur/legal-instruments/constitution-ilo",
+      "notes": "Constituent instrument for the ILO and its tripartite institutional structure."
+    },
+    {
+      "source_id": "io_wto_agreement",
+      "source_title": "Marrakesh Agreement Establishing the World Trade Organization",
+      "source_type": "constituent_instrument",
+      "institution": "World Trade Organization",
+      "year": "1994",
+      "url": "https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm",
+      "notes": "Constituent instrument of the WTO and basis for its institutional and dispute-settlement structure."
+    },
+    {
+      "source_id": "io_imf_articles",
+      "source_title": "Articles of Agreement of the International Monetary Fund",
+      "source_type": "constituent_instrument",
+      "institution": "International Monetary Fund",
+      "year": "1944",
+      "url": "https://www.imf.org/external/pubs/ft/aa/",
+      "notes": "Constituent instrument for the IMF and its monetary and financial governance authority."
+    },
+    {
+      "source_id": "io_world_bank_ibrd_articles",
+      "source_title": "IBRD Articles of Agreement",
+      "source_type": "constituent_instrument",
+      "institution": "World Bank",
+      "year": "1944",
+      "url": "https://thedocs.worldbank.org/en/doc/722361541184234501-0330022018/original/IBRDArticlesOfAgreementEnglish.pdf",
+      "notes": "Constituent instrument for the International Bank for Reconstruction and Development."
+    },
+    {
+      "source_id": "io_privileges_immunities_un",
+      "source_title": "Convention on the Privileges and Immunities of the United Nations",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1946",
+      "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-1&chapter=3",
+      "notes": "Core treaty on UN privileges and immunities."
+    },
+    {
+      "source_id": "io_privileges_immunities_specialized",
+      "source_title": "Convention on the Privileges and Immunities of the Specialized Agencies",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1947",
+      "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-2&chapter=3",
+      "notes": "Treaty framework for privileges and immunities of specialized agencies."
+    },
+    {
+      "source_id": "io_ario_2011",
+      "source_title": "Draft Articles on the Responsibility of International Organizations",
+      "source_type": "draft_articles",
+      "institution": "International Law Commission",
+      "year": "2011",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_11_2011.pdf",
+      "notes": "ILC framework on responsibility of international organizations."
+    },
+    {
+      "source_id": "io_icj_who_nuclear_weapons",
+      "source_title": "Legality of the Use by a State of Nuclear Weapons in Armed Conflict",
+      "source_type": "advisory_opinion",
+      "institution": "International Court of Justice",
+      "year": "1996",
+      "url": "https://www.icj-cij.org/case/93",
+      "notes": "Advisory opinion addressing WHO competence and limits of specialized agency authority."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "io_amerasinghe_2005",
+      "author": "Amerasinghe, C.F.",
+      "year": "2005",
+      "title": "Principles of the Institutional Law of International Organizations",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/principles-of-the-institutional-law-of-international-organizations/",
+      "notes": "Major treatise on institutional law of international organizations."
+    },
+    {
+      "source_id": "io_klabbers_2022",
+      "author": "Klabbers, J.",
+      "year": "2022",
+      "title": "An Introduction to International Organizations Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/highereducation/books/an-introduction-to-international-organizations-law/",
+      "notes": "Leading introduction to international organizations law."
+    },
+    {
+      "source_id": "io_alvarez_2005",
+      "author": "Alvarez, J.E.",
+      "year": "2005",
+      "title": "International Organizations as Law-makers",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-organizations-as-law-makers-9780198765622",
+      "notes": "Foundational study of law-making by international organizations."
+    },
+    {
+      "source_id": "io_klabbers_wallendahl_2011",
+      "author": "Klabbers, J. and Wallendahl, Å. (eds.)",
+      "year": "2011",
+      "title": "Research Handbook on the Law of International Organizations",
+      "publisher": "Edward Elgar",
+      "url": "https://www.e-elgar.com/shop/usd/research-handbook-on-the-law-of-international-organizations-9781849801515.html",
+      "notes": "Research handbook on institutional law, authority, and accountability."
+    },
+    {
+      "source_id": "io_shaw_2021",
+      "author": "Shaw, M.N.",
+      "year": "2021",
+      "title": "International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/highereducation/books/international-law/",
+      "notes": "General international law textbook including international organizations."
+    },
+    {
+      "source_id": "io_crawford_2019",
+      "author": "Crawford, J.",
+      "year": "2019",
+      "title": "Brownlie’s Principles of Public International Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445",
+      "notes": "General international law treatise."
+    }
+  ]
+}

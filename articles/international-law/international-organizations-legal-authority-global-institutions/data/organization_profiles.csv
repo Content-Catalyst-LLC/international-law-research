@@ -1,0 +1,10 @@
+organization_id,organization_name,primary_field,legal_basis,authority_note
+un,United Nations,peace and security; cooperation; human rights; development,UN Charter,Global political and legal organization with principal organs and specialized-agency coordination.
+who,World Health Organization,global public health,WHO Constitution,"Specialized agency issuing health guidance, standards, regulations, and emergency coordination."
+ilo,International Labour Organization,labor standards,ILO Constitution,"Tripartite agency developing conventions, recommendations, and supervisory practice."
+wto,World Trade Organization,trade law and dispute settlement,Marrakesh Agreement,Organization administering trade agreements and dispute settlement.
+imf,International Monetary Fund,monetary cooperation and financial stability,IMF Articles of Agreement,"Financial institution with surveillance, lending, and conditionality functions."
+world_bank,World Bank / IBRD,development finance,IBRD Articles of Agreement,"Development finance institution with project, lending, and policy influence."
+icao,International Civil Aviation Organization,civil aviation standards,Chicago Convention,"Technical agency setting aviation safety, navigation, and coordination standards."
+imo,International Maritime Organization,shipping and maritime safety,IMO Convention,"Technical agency supporting maritime safety, pollution prevention, and standards."
+iaea,International Atomic Energy Agency,nuclear safeguards and technical cooperation,IAEA Statute,"Agency with safeguards, nuclear safety, and technical authority."

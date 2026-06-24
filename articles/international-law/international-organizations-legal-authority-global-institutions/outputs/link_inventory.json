@@ -1,0 +1,128 @@
+[
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_un_charter",
+    "title": "Charter of the United Nations",
+    "url": "https://www.un.org/en/about-us/un-charter/full-text"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_un_charter_chapter_ix",
+    "title": "UN Charter Chapter IX: International Economic and Social Cooperation",
+    "url": "https://www.un.org/en/about-us/un-charter/chapter-9"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_un_charter_article_57",
+    "title": "UN Charter Article 57",
+    "url": "https://legal.un.org/repertory/art57.shtml"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_un_charter_article_63",
+    "title": "UN Charter Article 63",
+    "url": "https://legal.un.org/repertory/art63.shtml"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_reparation_for_injuries",
+    "title": "Reparation for Injuries Suffered in the Service of the United Nations",
+    "url": "https://www.icj-cij.org/case/4"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_effect_of_awards",
+    "title": "Effect of Awards of Compensation Made by the United Nations Administrative Tribunal",
+    "url": "https://www.icj-cij.org/case/21"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_who_constitution",
+    "title": "Constitution of the World Health Organization",
+    "url": "https://www.who.int/about/governance/constitution"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_ilo_constitution",
+    "title": "Constitution of the International Labour Organization",
+    "url": "https://www.ilo.org/about-ilo/how-ilo-works/departments-and-offices/jur/legal-instruments/constitution-ilo"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_wto_agreement",
+    "title": "Marrakesh Agreement Establishing the World Trade Organization",
+    "url": "https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_imf_articles",
+    "title": "Articles of Agreement of the International Monetary Fund",
+    "url": "https://www.imf.org/external/pubs/ft/aa/"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_world_bank_ibrd_articles",
+    "title": "IBRD Articles of Agreement",
+    "url": "https://thedocs.worldbank.org/en/doc/722361541184234501-0330022018/original/IBRDArticlesOfAgreementEnglish.pdf"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_privileges_immunities_un",
+    "title": "Convention on the Privileges and Immunities of the United Nations",
+    "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-1&chapter=3"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_privileges_immunities_specialized",
+    "title": "Convention on the Privileges and Immunities of the Specialized Agencies",
+    "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=III-2&chapter=3"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_ario_2011",
+    "title": "Draft Articles on the Responsibility of International Organizations",
+    "url": "https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_11_2011.pdf"
+  },
+  {
+    "source_file": "primary_sources.csv",
+    "source_id": "io_icj_who_nuclear_weapons",
+    "title": "Legality of the Use by a State of Nuclear Weapons in Armed Conflict",
+    "url": "https://www.icj-cij.org/case/93"
+  },
+  {
+    "source_file": "secondary_sources.csv",
+    "source_id": "io_amerasinghe_2005",
+    "title": "Principles of the Institutional Law of International Organizations",
+    "url": "https://www.cambridge.org/core/books/principles-of-the-institutional-law-of-international-organizations/"
+  },
+  {
+    "source_file": "secondary_sources.csv",
+    "source_id": "io_klabbers_2022",
+    "title": "An Introduction to International Organizations Law",
+    "url": "https://www.cambridge.org/highereducation/books/an-introduction-to-international-organizations-law/"
+  },
+  {
+    "source_file": "secondary_sources.csv",
+    "source_id": "io_alvarez_2005",
+    "title": "International Organizations as Law-makers",
+    "url": "https://global.oup.com/academic/product/international-organizations-as-law-makers-9780198765622"
+  },
+  {
+    "source_file": "secondary_sources.csv",
+    "source_id": "io_klabbers_wallendahl_2011",
+    "title": "Research Handbook on the Law of International Organizations",
+    "url": "https://www.e-elgar.com/shop/usd/research-handbook-on-the-law-of-international-organizations-9781849801515.html"
+  },
+  {
+    "source_file": "secondary_sources.csv",
+    "source_id": "io_shaw_2021",
+    "title": "International Law",
+    "url": "https://www.cambridge.org/highereducation/books/international-law/"
+  },
+  {
+    "source_file": "secondary_sources.csv",
+    "source_id": "io_crawford_2019",
+    "title": "Brownlie’s Principles of Public International Law",
+    "url": "https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445"
+  }
+]

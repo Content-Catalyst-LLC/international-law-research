@@ -1,13 +1,35 @@
 {
-  "slug": "international-organizations-and-the-legal-authority-of-global-institutions",
-  "folder_slug": "international-organizations-legal-authority-global-institutions",
-  "title": "International Organizations and the Legal Authority of Global Institutions",
-  "status": "planned",
-  "domain": "Institutions, Courts, and Dispute Settlement",
+  "article_title": "International Organizations and the Legal Authority of Global Institutions",
+  "seo_title": "International Organizations and Global Legal Authority",
+  "focus_keyword": "international organizations",
+  "slug": "international-organizations-legal-authority-global-institutions",
+  "wordpress_url": "https://sustainablecatalyst.com/international-organizations-legal-authority-global-institutions/",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/international-organizations-and-the-legal-authority-of-global-institutions/",
-  "repository_path": "articles/international-law/international-organizations-legal-authority-global-institutions",
-  "description": "Research materials for International Organizations and the Legal Authority of Global Institutions in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/international-organizations-legal-authority-global-institutions.csv"
+  "series_url": "https://sustainablecatalyst.com/international-law-foundations/#international-law-pillar-map",
+  "category": "Global Governance",
+  "repo_path": "articles/international-law/international-organizations-legal-authority-global-institutions",
+  "status": "generated_deep_dive",
+  "created_by": "Sustainable Catalyst / Content Catalyst",
+  "updated_at": "2026-06-24",
+  "excerpt_139_words": "International organizations are among the most important legal actors in modern global governance. They administer treaties, coordinate technical systems, issue decisions, develop standards, supervise compliance, support development, manage crises, and shape the practical meaning of international law across fields such as peace and security, health, labor, trade, finance, aviation, food, climate, and human rights. This article explains how global institutions acquire legal authority through constituent instruments, delegated powers, implied powers, institutional practice, legal personality, privileges and immunities, voting rules, treaty mandates, and specialized expertise. It also examines the limits of institutional authority: accountability gaps, democratic deficits, unequal influence, technocratic power, responsibility for harm, and the tension between legal mandate and political legitimacy. By connecting doctrine, institutions, case law, and lawyer-facing workflows, the article shows how international organizations make law operational while remaining constrained by states, power, and institutional design.",
+  "tags": [
+    "international law",
+    "international organizations",
+    "global governance",
+    "legal personality",
+    "institutional authority",
+    "implied powers",
+    "specialized agencies",
+    "international institutions"
+  ],
+  "navigation": {
+    "previous": {
+      "title": "The International Court of Justice and the Judicial Settlement of Disputes",
+      "slug": "international-court-of-justice-judicial-settlement-of-disputes"
+    },
+    "next": {
+      "title": "Regional Organizations, Regional Courts, and Pluralism in International Law",
+      "slug": "regional-organizations-regional-courts-pluralism-in-international-law"
+    }
+  }
 }
