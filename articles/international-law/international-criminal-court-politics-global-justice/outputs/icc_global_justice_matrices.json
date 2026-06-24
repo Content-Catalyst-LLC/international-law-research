@@ -1,0 +1,217 @@
+{
+  "article": "The International Criminal Court and the Politics of Global Justice",
+  "primary_sources": [
+    {
+      "source_id": "rome_statute",
+      "source_title": "Rome Statute of the International Criminal Court",
+      "source_type": "Treaty",
+      "institution": "International Criminal Court",
+      "year": "1998",
+      "url": "https://www.icc-cpi.int/resource-library/documents/rs-eng.pdf",
+      "notes": "Core treaty establishing the ICC and defining jurisdiction, admissibility, crimes, cooperation, and institutional structure."
+    },
+    {
+      "source_id": "icc_how_court_works",
+      "source_title": "How the Court Works",
+      "source_type": "Institutional explainer",
+      "institution": "International Criminal Court",
+      "year": "2026",
+      "url": "https://www.icc-cpi.int/about/how-the-court-works",
+      "notes": "ICC overview of institutional process, jurisdiction, investigations, trials, and enforcement dependence."
+    },
+    {
+      "source_id": "agreement_privileges_immunities",
+      "source_title": "Agreement on the Privileges and Immunities of the ICC",
+      "source_type": "Treaty",
+      "institution": "International Criminal Court",
+      "year": "2002",
+      "url": "https://treaties.un.org/doc/source/recenttexts/18-13_english.pdf",
+      "notes": "Supports practical functioning, privileges, and immunities of the Court."
+    },
+    {
+      "source_id": "un_icc_relationship",
+      "source_title": "Relationship Agreement between the United Nations and the International Criminal Court",
+      "source_type": "Institutional agreement",
+      "institution": "United Nations / ICC",
+      "year": "2004",
+      "url": "https://legal.un.org/icc/relationship/relationship.htm",
+      "notes": "Defines cooperation and institutional relationship between the UN and ICC."
+    },
+    {
+      "source_id": "icc_elements_of_crimes",
+      "source_title": "Elements of Crimes",
+      "source_type": "Institutional legal instrument",
+      "institution": "International Criminal Court",
+      "year": "2011",
+      "url": "https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf",
+      "notes": "Provides legal elements for crimes within ICC jurisdiction."
+    },
+    {
+      "source_id": "icc_rules_procedure_evidence",
+      "source_title": "Rules of Procedure and Evidence",
+      "source_type": "Institutional rules",
+      "institution": "International Criminal Court",
+      "year": "2019",
+      "url": "https://www.icc-cpi.int/sites/default/files/Publications/Rules-of-Procedure-and-Evidence.pdf",
+      "notes": "Procedural and evidentiary framework for ICC proceedings."
+    },
+    {
+      "source_id": "genocide_convention",
+      "source_title": "Convention on the Prevention and Punishment of the Crime of Genocide",
+      "source_type": "Treaty",
+      "institution": "United Nations",
+      "year": "1948",
+      "url": "https://www.un.org/en/genocideprevention/documents/atrocity-crimes/Doc.1_Convention%20on%20the%20Prevention%20and%20Punishment%20of%20the%20Crime%20of%20Genocide.pdf",
+      "notes": "Foundational treaty for genocide law and atrocity prevention."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "schabas_introduction_icc",
+      "author": "William A. Schabas",
+      "year": "2020",
+      "title": "An Introduction to the International Criminal Court",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/an-introduction-to-the-international-criminal-court/",
+      "notes": "Standard overview of ICC history, jurisdiction, procedure, and politics."
+    },
+    {
+      "source_id": "cryer_int_crim_law",
+      "author": "Robert Cryer, Darryl Robinson, Sergey Vasiliev, and others",
+      "year": "2019",
+      "title": "An Introduction to International Criminal Law and Procedure",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/an-introduction-to-international-criminal-law-and-procedure/",
+      "notes": "Comprehensive treatment of ICL institutions, crimes, responsibility, and enforcement."
+    },
+    {
+      "source_id": "bosco_rough_justice",
+      "author": "David Bosco",
+      "year": "2014",
+      "title": "Rough Justice: The International Criminal Court in a World of Power Politics",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/rough-justice-9780199844135",
+      "notes": "Analysis of ICC interaction with major-power politics and legitimacy pressures."
+    },
+    {
+      "source_id": "nouwen_complementarity",
+      "author": "Sarah M.H. Nouwen",
+      "year": "2013",
+      "title": "Complementarity in the Line of Fire",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/complementarity-in-the-line-of-fire/",
+      "notes": "Key account of complementarity as legal doctrine and political practice."
+    },
+    {
+      "source_id": "simpson_law_war_crimes",
+      "author": "Gerry Simpson",
+      "year": "2007",
+      "title": "Law, War and Crime",
+      "publisher": "Polity",
+      "url": "https://www.politybooks.com/bookdetail?book_slug=law-war-and-crime--9780745630236",
+      "notes": "Critical framing of international criminal law, political judgment, and legal order."
+    }
+  ],
+  "institutional_architecture": [
+    {
+      "component": "Rome Statute",
+      "legal_function": "Creates the Court and defines crimes, jurisdiction, admissibility, cooperation, and institutional structure.",
+      "political_tension": "Only binds states parties directly, subject to jurisdictional extensions and referrals.",
+      "lawyer_check": "Identify jurisdictional basis before treating the ICC as generally competent."
+    },
+    {
+      "component": "Office of the Prosecutor",
+      "legal_function": "Receives information, opens preliminary examinations/investigations, requests warrants, and prosecutes cases.",
+      "political_tension": "Prosecutorial selection is scrutinized for legitimacy, consistency, and resource limits.",
+      "lawyer_check": "Separate legal threshold, evidentiary sufficiency, gravity, and policy discretion."
+    },
+    {
+      "component": "Pre-Trial Chamber",
+      "legal_function": "Reviews warrants, summonses, confirmation of charges, and procedural safeguards.",
+      "political_tension": "Judicial authorization can become the public focal point of legitimacy disputes.",
+      "lawyer_check": "Track authorization, confirmation, and challenge stages distinctly."
+    },
+    {
+      "component": "Trial and Appeals Chambers",
+      "legal_function": "Adjudicate guilt, sentence, appeals, reparations, and procedural fairness.",
+      "political_tension": "Length, cost, acquittals, and evidentiary complexity shape public confidence.",
+      "lawyer_check": "Distinguish indictment politics from proved individual guilt."
+    },
+    {
+      "component": "Assembly of States Parties",
+      "legal_function": "Budget, elections, amendments, administration, and oversight by member states.",
+      "political_tension": "State support, funding, and elections affect Court capacity and legitimacy.",
+      "lawyer_check": "Consider institutional incentives without collapsing judicial independence into politics."
+    }
+  ],
+  "admissibility_complementarity_matrix": [
+    {
+      "issue": "Subject-matter jurisdiction",
+      "question": "Is the alleged conduct genocide, crimes against humanity, war crimes, or aggression?",
+      "authority": "Rome Statute arts. 5–8 bis",
+      "risk": "Using atrocity language without matching statutory elements."
+    },
+    {
+      "issue": "Temporal jurisdiction",
+      "question": "Did the relevant conduct occur after the applicable jurisdictional date?",
+      "authority": "Rome Statute arts. 11, 24",
+      "risk": "Assuming jurisdiction over pre-entry-into-force conduct."
+    },
+    {
+      "issue": "Territorial or nationality jurisdiction",
+      "question": "Is there territorial-state, nationality-state, declaration, or referral jurisdiction?",
+      "authority": "Rome Statute arts. 12–13",
+      "risk": "Treating moral gravity as enough for ICC jurisdiction."
+    },
+    {
+      "issue": "Complementarity",
+      "question": "Are national proceedings genuine, or are states unwilling or unable?",
+      "authority": "Rome Statute art. 17",
+      "risk": "Ignoring domestic proceedings or overstating their independence."
+    },
+    {
+      "issue": "Gravity",
+      "question": "Does the case meet the Court’s gravity threshold?",
+      "authority": "Rome Statute art. 17",
+      "risk": "Confusing serious allegations with the ICC’s case-selection threshold."
+    },
+    {
+      "issue": "Interests of justice",
+      "question": "Are there statutory reasons affecting prosecutorial action?",
+      "authority": "Rome Statute art. 53",
+      "risk": "Collapsing legal discretion into political preference."
+    }
+  ],
+  "cooperation_enforcement_matrix": [
+    {
+      "constraint": "Arrest dependence",
+      "legal_position": "The ICC has no independent police force and depends on state cooperation.",
+      "political_effect": "Warrants may remain unenforced when suspects retain power or protection.",
+      "practice_note": "Track arrest feasibility separately from legal validity."
+    },
+    {
+      "constraint": "Evidence access",
+      "legal_position": "Investigations require witness, documentary, digital, forensic, and state cooperation.",
+      "political_effect": "Active conflicts and hostile governments obstruct evidence collection.",
+      "practice_note": "Assess chain of custody, witness security, and digital verification."
+    },
+    {
+      "constraint": "Security Council referrals",
+      "legal_position": "The Council can refer situations but politics affects referral and follow-through.",
+      "political_effect": "Veto dynamics and uneven enforcement fuel selectivity critiques.",
+      "practice_note": "Distinguish referral jurisdiction from enforcement commitment."
+    },
+    {
+      "constraint": "Non-party states",
+      "legal_position": "Jurisdiction may still arise through territorial state acceptance or Council referral.",
+      "political_effect": "Major powers often contest jurisdiction affecting their nationals or allies.",
+      "practice_note": "Avoid assuming non-party status fully blocks jurisdiction."
+    },
+    {
+      "constraint": "Legitimacy and selectivity",
+      "legal_position": "Legal procedures operate within unequal geopolitical conditions.",
+      "political_effect": "Regional imbalance, resource limits, and cooperation gaps shape perception.",
+      "practice_note": "Discuss selectivity without treating it as a complete answer to legality."
+    }
+  ]
+}

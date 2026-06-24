@@ -1,13 +1,22 @@
 {
-  "slug": "international-criminal-court-and-the-politics-of-global-justice",
-  "folder_slug": "international-criminal-court-politics-global-justice",
   "title": "The International Criminal Court and the Politics of Global Justice",
-  "status": "planned",
-  "domain": "International Criminal Law",
+  "seo_title": "The International Criminal Court and the Politics of Global Justice",
+  "focus_keyword": "International Criminal Court",
+  "slug": "international-criminal-court-politics-global-justice",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/international-criminal-court-and-the-politics-of-global-justice/",
-  "repository_path": "articles/international-law/international-criminal-court-politics-global-justice",
-  "description": "Research materials for The International Criminal Court and the Politics of Global Justice in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/international-criminal-court-politics-global-justice.csv"
+  "cluster": "International Criminal Law",
+  "previous_article": "War Crimes, Crimes Against Humanity, Genocide, and the Architecture of International Criminal Law",
+  "next_article": "Universal Jurisdiction and Accountability for Atrocity Crimes",
+  "excerpt": "The International Criminal Court is a permanent treaty-based criminal court created to prosecute genocide, crimes against humanity, war crimes, and aggression when national systems are unwilling or unable to act. This article explains the ICC through the politics of global justice: Rome Statute jurisdiction, complementarity, admissibility, state cooperation, arrest enforcement, Security Council referrals, prosecutorial independence, victims, evidence, legitimacy, selectivity, and the limits of international criminal accountability. It examines why the Court matters, why it is contested, and how power, sovereignty, enforcement, and legal principle interact in practice.",
+  "tags": [
+    "international law",
+    "International Criminal Court",
+    "Rome Statute",
+    "international criminal law",
+    "complementarity",
+    "global justice",
+    "atrocity crimes",
+    "ICC"
+  ],
+  "github_repository": "https://github.com/Content-Catalyst-LLC/international-law-research"
 }
