@@ -1,13 +1,23 @@
 {
-  "slug": "nuremberg-tokyo-and-the-historical-development-of-international-criminal-justice",
-  "folder_slug": "nuremberg-tokyo-historical-development-international-criminal-justice",
   "title": "Nuremberg, Tokyo, and the Historical Development of International Criminal Justice",
-  "status": "planned",
-  "domain": "International Criminal Law",
+  "seo_title": "Nuremberg, Tokyo, and International Criminal Justice",
+  "focus_keyword": "international criminal justice",
+  "slug": "nuremberg-tokyo-historical-development-international-criminal-justice",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/nuremberg-tokyo-and-the-historical-development-of-international-criminal-justice/",
-  "repository_path": "articles/international-law/nuremberg-tokyo-historical-development-international-criminal-justice",
-  "description": "Research materials for Nuremberg, Tokyo, and the Historical Development of International Criminal Justice in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/nuremberg-tokyo-historical-development-international-criminal-justice.csv"
+  "section": "International Criminal Law",
+  "previous_article": "Command Responsibility, Individual Criminal Liability, and Modes of Participation",
+  "next_article": "The International Criminal Court and the Politics of Global Justice",
+  "github_repository": "https://github.com/Content-Catalyst-LLC/international-law-research",
+  "article_folder": "articles/international-law/nuremberg-tokyo-historical-development-international-criminal-justice",
+  "created_or_updated": "2026-06-24",
+  "tags": [
+    "international law",
+    "international criminal justice",
+    "Nuremberg trials",
+    "Tokyo trial",
+    "international criminal law",
+    "war crimes",
+    "crimes against humanity",
+    "genocide"
+  ]
 }

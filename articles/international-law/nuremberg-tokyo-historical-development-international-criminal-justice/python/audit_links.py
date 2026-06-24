@@ -1,11 +1,19 @@
-#!/usr/bin/env python3
-"""Lightweight CSV link audit for this article folder."""
 from pathlib import Path
-import csv
+import json
+import re
 
-ROOT = Path(__file__).resolve().parents[1]
-for csv_path in sorted((ROOT / "data").glob("*.csv")):
-    with csv_path.open(newline="", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        missing = [row for row in reader if "url" in row and not (row.get("url") or "").strip()]
-    print(f"{csv_path.name}: {len(missing)} rows missing URL")
+BASE = Path(__file__).resolve().parents[1]
+HTML = BASE / "docs" / "wordpress_article_html.html"
+OUTPUTS = BASE / "outputs"
+OUTPUTS.mkdir(parents=True, exist_ok=True)
+URL_RE = re.compile("https?://[^\\s\\\"'<>]+")
+html = HTML.read_text(encoding="utf-8")
+urls = sorted(set(URL_RE.findall(html)))
+report = {
+    "article": "Nuremberg, Tokyo, and the Historical Development of International Criminal Justice",
+    "url_count": len(urls),
+    "urls": urls,
+}
+out_path = OUTPUTS / "link_inventory.json"
+out_path.write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\\n", encoding="utf-8")
+print(f"Wrote {out_path}")

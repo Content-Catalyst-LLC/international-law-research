@@ -1,0 +1,155 @@
+{
+  "article": "Nuremberg, Tokyo, and the Historical Development of International Criminal Justice",
+  "matrices": {
+    "development": [
+      {
+        "phase": "Pre-1945 antecedents",
+        "period": "Before 1945",
+        "institution_or_forum": "Treaty law, military manuals, national courts",
+        "legal_contribution": "Developed war-law norms, individual punishment concepts, and early accountability practices",
+        "limits_or_critique": "No stable international criminal court; uneven enforcement and colonial exclusions"
+      },
+      {
+        "phase": "Nuremberg",
+        "period": "1945-1946",
+        "institution_or_forum": "International Military Tribunal",
+        "legal_contribution": "Crimes against peace, war crimes, crimes against humanity, individual responsibility, official-position rejection",
+        "limits_or_critique": "Victor’s justice critique, legality debates, limited treatment of Allied conduct and colonial violence"
+      },
+      {
+        "phase": "Tokyo",
+        "period": "1946-1948",
+        "institution_or_forum": "International Military Tribunal for the Far East",
+        "legal_contribution": "Applied postwar international criminal justice in Asia-Pacific context",
+        "limits_or_critique": "Uneven defendant selection, emperor immunity, colonial and atomic-bombing silences, dissenting opinions"
+      },
+      {
+        "phase": "Subsequent Nuremberg trials",
+        "period": "1946-1949",
+        "institution_or_forum": "U.S. Nuremberg Military Tribunals",
+        "legal_contribution": "Deepened doctrine on medical crimes, industrialists, jurists, ministries, military commands",
+        "limits_or_critique": "Occupation-court context and selective reach"
+      },
+      {
+        "phase": "Ad hoc tribunals",
+        "period": "1990s",
+        "institution_or_forum": "ICTY and ICTR",
+        "legal_contribution": "Renewed ICL after Cold War; developed genocide, crimes against humanity, command responsibility, sexual violence doctrine",
+        "limits_or_critique": "Temporary, expensive, geographically selective, dependent on cooperation"
+      },
+      {
+        "phase": "Hybrid and special courts",
+        "period": "2000s",
+        "institution_or_forum": "SCSL, ECCC, STL, others",
+        "legal_contribution": "Mixed domestic-international forms, local proximity, tailored mandates",
+        "limits_or_critique": "Resource limits, political compromise, uneven legitimacy"
+      },
+      {
+        "phase": "Permanent court",
+        "period": "2002 onward",
+        "institution_or_forum": "International Criminal Court",
+        "legal_contribution": "Institutionalized permanent atrocity-crime jurisdiction and complementarity",
+        "limits_or_critique": "Arrest dependence, selectivity critiques, non-party state limits, geopolitical constraint"
+      }
+    ],
+    "tribunals": [
+      {
+        "tribunal": "IMT Nuremberg",
+        "legal_basis": "London Agreement and Charter",
+        "jurisdiction_focus": "Major European Axis war criminals",
+        "legacy": "Foundational architecture for modern ICL",
+        "core_limitation": "Postwar victor framework"
+      },
+      {
+        "tribunal": "IMTFE Tokyo",
+        "legal_basis": "Special proclamation and Tokyo Charter",
+        "jurisdiction_focus": "Major Japanese war criminals",
+        "legacy": "Asia-Pacific postwar criminal justice record",
+        "core_limitation": "Defendant selection and legitimacy debates"
+      },
+      {
+        "tribunal": "ICTY",
+        "legal_basis": "UN Security Council resolution",
+        "jurisdiction_focus": "Former Yugoslavia serious IHL violations",
+        "legacy": "Modern tribunal revival and doctrinal expansion",
+        "core_limitation": "Temporary and cooperation-dependent"
+      },
+      {
+        "tribunal": "ICTR",
+        "legal_basis": "UN Security Council resolution",
+        "jurisdiction_focus": "Rwanda genocide and related crimes",
+        "legacy": "Major genocide jurisprudence and sexual violence recognition",
+        "core_limitation": "Distance from affected communities and limited scope"
+      },
+      {
+        "tribunal": "SCSL",
+        "legal_basis": "UN-Sierra Leone agreement",
+        "jurisdiction_focus": "Sierra Leone conflict crimes",
+        "legacy": "Hybrid court model and head-of-state accountability",
+        "core_limitation": "Limited temporal and resource scope"
+      },
+      {
+        "tribunal": "ECCC",
+        "legal_basis": "UN-Cambodia agreement and Cambodian law",
+        "jurisdiction_focus": "Khmer Rouge senior leaders",
+        "legacy": "Hybrid historical accountability model",
+        "core_limitation": "Delay, cost, and limited defendant pool"
+      },
+      {
+        "tribunal": "ICC",
+        "legal_basis": "Rome Statute",
+        "jurisdiction_focus": "Genocide, crimes against humanity, war crimes, aggression",
+        "legacy": "Permanent complementary court",
+        "core_limitation": "Arrest and cooperation limits"
+      }
+    ],
+    "doctrine_legacy": [
+      {
+        "doctrine": "Individual criminal responsibility",
+        "postwar_origin_or_development": "Nuremberg and Tokyo rejected state-only accountability",
+        "later_development": "Rome Statute and tribunal jurisprudence elaborate personal liability",
+        "research_question": "How is individual conduct linked to collective atrocity?"
+      },
+      {
+        "doctrine": "Official position no defense",
+        "postwar_origin_or_development": "Nuremberg Charter Article 7",
+        "later_development": "Rome Statute Article 27 and tribunal statutes",
+        "research_question": "When do immunities or official capacity still affect forum access?"
+      },
+      {
+        "doctrine": "Superior orders",
+        "postwar_origin_or_development": "Nuremberg Charter Article 8",
+        "later_development": "Modern mitigation/defense doctrines vary by statute",
+        "research_question": "When can obedience reduce culpability but not erase liability?"
+      },
+      {
+        "doctrine": "Command responsibility",
+        "postwar_origin_or_development": "Postwar military-command trials and tribunal doctrine",
+        "later_development": "ICTY/ICTR and Rome Statute Article 28",
+        "research_question": "What proves effective control, knowledge, and failure to prevent or punish?"
+      },
+      {
+        "doctrine": "Crimes against humanity",
+        "postwar_origin_or_development": "Nuremberg Charter and judgment",
+        "later_development": "Expanded beyond wartime nexus in later law",
+        "research_question": "How did the category move from postwar innovation to modern core crime?"
+      },
+      {
+        "doctrine": "Genocide",
+        "postwar_origin_or_development": "Postwar naming and Genocide Convention",
+        "later_development": "ICTR, ICTY, ICC doctrine",
+        "research_question": "How did genocide become legally distinct from crimes against humanity?"
+      },
+      {
+        "doctrine": "Aggression / crimes against peace",
+        "postwar_origin_or_development": "Nuremberg central charge",
+        "later_development": "Rome Statute Kampala amendments",
+        "research_question": "How does leadership responsibility interact with state use-of-force law?"
+      }
+    ]
+  },
+  "source_counts": {
+    "primary_sources": 8,
+    "secondary_sources": 8
+  }
+}
