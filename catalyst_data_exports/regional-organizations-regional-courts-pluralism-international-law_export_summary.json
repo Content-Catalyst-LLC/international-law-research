@@ -1,0 +1,17 @@
+{
+  "article_slug": "regional-organizations-regional-courts-pluralism-international-law",
+  "article_title": "Regional Organizations, Regional Courts, and Pluralism in International Law",
+  "primary_sources": 17,
+  "secondary_sources": 7,
+  "regional_institutions": 6,
+  "regional_courts": 5,
+  "pluralism_examples": 5,
+  "exports_updated": [
+    "article_repository_map.csv",
+    "all_article_sources.csv",
+    "sources.csv",
+    "legal_instruments.csv",
+    "tags.csv",
+    "instrument_topics.csv"
+  ]
+}
