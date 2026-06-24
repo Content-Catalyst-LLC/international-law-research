@@ -1,13 +1,24 @@
 {
-  "slug": "universal-jurisdiction-and-accountability-for-atrocity-crimes",
-  "folder_slug": "universal-jurisdiction-accountability-atrocity-crimes",
   "title": "Universal Jurisdiction and Accountability for Atrocity Crimes",
-  "status": "planned",
-  "domain": "International Criminal Law",
+  "seo_title": "Universal Jurisdiction and Accountability for Atrocity Crimes",
+  "focus_keyword": "universal jurisdiction",
+  "slug": "universal-jurisdiction-accountability-atrocity-crimes",
+  "excerpt": "Universal jurisdiction allows national courts to investigate and prosecute grave international crimes even when the alleged conduct occurred abroad, involved foreign perpetrators and victims, and lacks an ordinary territorial connection to the forum state. This article explains how universal jurisdiction operates as a decentralized accountability tool for atrocity crimes, including genocide, crimes against humanity, war crimes, torture, enforced disappearance, and related international crimes. It examines treaty duties, customary international law, aut dedere aut judicare, complementarity, immunity, extradition, asylum, evidence-sharing, witness protection, digital documentation, civil-society case files, and strategic litigation. The article also addresses selectivity, political backlash, forum shopping, due process, and the relationship between domestic courts, the ICC, and international investigative mechanisms. By combining doctrine, case studies, and lawyer-facing workflows, it shows how universal jurisdiction can turn impunity gaps into concrete legal proceedings.",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/universal-jurisdiction-and-accountability-for-atrocity-crimes/",
-  "repository_path": "articles/international-law/universal-jurisdiction-accountability-atrocity-crimes",
-  "description": "Research materials for Universal Jurisdiction and Accountability for Atrocity Crimes in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/universal-jurisdiction-accountability-atrocity-crimes.csv"
+  "category": "International Criminal Law",
+  "previous_article": "The International Criminal Court and the Politics of Global Justice",
+  "next_article": "TBD",
+  "github_cta": "View The Full GitHub Repository",
+  "generated_for": "Content Catalyst LLC / Sustainable Catalyst",
+  "article_type": "lawyer-facing deep dive",
+  "tags": [
+    "international law",
+    "universal jurisdiction",
+    "atrocity crimes",
+    "international criminal law",
+    "accountability",
+    "war crimes",
+    "crimes against humanity",
+    "genocide"
+  ]
 }

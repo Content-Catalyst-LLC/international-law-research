@@ -1,11 +1,40 @@
 #!/usr/bin/env python3
-"""Lightweight CSV link audit for this article folder."""
 from pathlib import Path
 import csv
+import json
+import re
+from urllib.parse import urlparse
 
-ROOT = Path(__file__).resolve().parents[1]
-for csv_path in sorted((ROOT / "data").glob("*.csv")):
-    with csv_path.open(newline="", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        missing = [row for row in reader if "url" in row and not (row.get("url") or "").strip()]
-    print(f"{csv_path.name}: {len(missing)} rows missing URL")
+BASE = Path(__file__).resolve().parents[1]
+OUT = BASE / "outputs"
+OUT.mkdir(exist_ok=True)
+URL_RE = re.compile("https?://[^\\s\\\"'<>]+")
+
+files = []
+for pattern in ["README.md", "metadata.json", "docs/*.html", "docs/*.md", "data/*.csv"]:
+    files.extend(BASE.glob(pattern))
+
+rows = []
+seen = set()
+for path in files:
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    for match in URL_RE.findall(text):
+        url = match.rstrip(".,);]")
+        if url in seen:
+            continue
+        seen.add(url)
+        parsed = urlparse(url)
+        rows.append({
+            "url": url,
+            "domain": parsed.netloc,
+            "source_file": str(path.relative_to(BASE)),
+            "status": "found"
+        })
+
+with (OUT / "link_audit.csv").open("w", newline="", encoding="utf-8") as handle:
+    writer = csv.DictWriter(handle, fieldnames=["url", "domain", "source_file", "status"])
+    writer.writeheader()
+    writer.writerows(rows)
+
+(OUT / "link_audit.json").write_text(json.dumps(rows, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+print(f"Audited {len(rows)} unique URLs")
