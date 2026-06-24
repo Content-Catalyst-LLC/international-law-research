@@ -1,0 +1,217 @@
+{
+  "article": "War Crimes, Crimes Against Humanity, Genocide, and the Architecture of International Criminal Law",
+  "primary_sources": [
+    {
+      "source_id": "rome_statute_1998",
+      "source_title": "Rome Statute of the International Criminal Court",
+      "source_type": "treaty",
+      "institution": "International Criminal Court / United Nations",
+      "year": "1998",
+      "url": "https://www.icc-cpi.int/sites/default/files/2024-05/Rome-Statute-eng.pdf",
+      "notes": "Core treaty defining ICC jurisdiction over genocide, crimes against humanity, war crimes, and aggression."
+    },
+    {
+      "source_id": "genocide_convention_1948",
+      "source_title": "Convention on the Prevention and Punishment of the Crime of Genocide",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1948",
+      "url": "https://www.un.org/en/genocideprevention/genocide-convention.shtml",
+      "notes": "Foundational treaty defining genocide and obligations to prevent and punish."
+    },
+    {
+      "source_id": "geneva_conventions_1949",
+      "source_title": "Geneva Conventions of 1949",
+      "source_type": "treaty",
+      "institution": "International Committee of the Red Cross",
+      "year": "1949",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949",
+      "notes": "Humanitarian law foundation for many war-crimes provisions."
+    },
+    {
+      "source_id": "ictystatute",
+      "source_title": "Statute of the International Criminal Tribunal for the former Yugoslavia",
+      "source_type": "tribunal statute",
+      "institution": "United Nations Security Council",
+      "year": "1993",
+      "url": "https://www.icty.org/en/documents/statute-tribunal",
+      "notes": "Ad hoc tribunal statute shaping modern war-crimes, crimes-against-humanity, and modes-of-liability doctrine."
+    },
+    {
+      "source_id": "ictrstatute",
+      "source_title": "Statute of the International Criminal Tribunal for Rwanda",
+      "source_type": "tribunal statute",
+      "institution": "United Nations Security Council",
+      "year": "1994",
+      "url": "https://unictr.irmct.org/en/tribunal",
+      "notes": "Ad hoc tribunal central to genocide and crimes-against-humanity jurisprudence."
+    },
+    {
+      "source_id": "icc_elements",
+      "source_title": "Elements of Crimes",
+      "source_type": "ICC legal instrument",
+      "institution": "International Criminal Court",
+      "year": "2011",
+      "url": "https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf",
+      "notes": "Detailed elements used to plead and analyze Rome Statute crimes."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "werle_jessberger_2020",
+      "author": "Werle and Jessberger",
+      "year": "2020",
+      "title": "Principles of International Criminal Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/principles-of-international-criminal-law-9780198826859",
+      "notes": "Systematic overview of substantive international criminal law."
+    },
+    {
+      "source_id": "cassese_2013",
+      "author": "Cassese et al.",
+      "year": "2013",
+      "title": "Cassese's International Criminal Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/casseses-international-criminal-law-9780199694921",
+      "notes": "Leading doctrinal treatment of international criminal law."
+    },
+    {
+      "source_id": "cryer_2019",
+      "author": "Cryer, Robinson, and Vasiliev",
+      "year": "2019",
+      "title": "An Introduction to International Criminal Law and Procedure",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/highereducation/books/an-introduction-to-international-criminal-law-and-procedure/",
+      "notes": "Accessible procedural and institutional guide."
+    },
+    {
+      "source_id": "schabas_2020",
+      "author": "William A. Schabas",
+      "year": "2020",
+      "title": "An Introduction to the International Criminal Court",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/an-introduction-to-the-international-criminal-court/",
+      "notes": "Overview of ICC jurisdiction, complementarity, and institutional design."
+    }
+  ],
+  "crime_architecture": [
+    {
+      "crime_category": "War crimes",
+      "core_conduct": "Serious violations of IHL in armed conflict",
+      "contextual_element": "International or non-international armed conflict nexus",
+      "mental_element": "Intent and knowledge under applicable framework",
+      "primary_sources": "Rome Statute; Geneva Conventions; customary IHL",
+      "analysis_notes": "Requires conflict classification, protected status, nexus, and specific underlying act."
+    },
+    {
+      "crime_category": "Crimes against humanity",
+      "core_conduct": "Enumerated acts such as murder, enslavement, deportation, torture, rape, persecution, enforced disappearance",
+      "contextual_element": "Widespread or systematic attack directed against a civilian population",
+      "mental_element": "Knowledge of the attack",
+      "primary_sources": "Rome Statute Article 7; ICTY/ICTR jurisprudence",
+      "analysis_notes": "Does not require armed conflict under Rome Statute formulation."
+    },
+    {
+      "crime_category": "Genocide",
+      "core_conduct": "Killing, serious harm, destructive conditions, preventing births, or forcibly transferring children",
+      "contextual_element": "Protected national, ethnical, racial, or religious group",
+      "mental_element": "Specific intent to destroy group in whole or in part",
+      "primary_sources": "Genocide Convention; Rome Statute Article 6",
+      "analysis_notes": "Special intent is the central threshold issue."
+    },
+    {
+      "crime_category": "Aggression",
+      "core_conduct": "Planning, preparation, initiation, or execution of manifest Charter violation by state force",
+      "contextual_element": "Leadership crime connected to act of aggression",
+      "mental_element": "Knowledge of factual circumstances establishing manifest violation",
+      "primary_sources": "Rome Statute Article 8 bis; Kampala amendments",
+      "analysis_notes": "Limited by jurisdictional and leadership constraints."
+    }
+  ],
+  "modes_of_liability": [
+    {
+      "mode": "Direct perpetration",
+      "core_question": "Did the accused personally commit the underlying act?",
+      "evidence_needed": "Witness testimony, documents, digital evidence, forensic proof",
+      "risk_or_pitfall": "Overlooking contextual elements beyond conduct."
+    },
+    {
+      "mode": "Co-perpetration or common plan",
+      "core_question": "Did the accused contribute to a collective criminal design?",
+      "evidence_needed": "Planning records, communications, operational control, coordination evidence",
+      "risk_or_pitfall": "Overstating association without proving contribution and mental element."
+    },
+    {
+      "mode": "Ordering or instigating",
+      "core_question": "Did the accused direct, solicit, or induce crimes?",
+      "evidence_needed": "Orders, speeches, chain-of-command records, timing, compliance evidence",
+      "risk_or_pitfall": "Confusing inflammatory rhetoric with legally sufficient causation."
+    },
+    {
+      "mode": "Aiding and abetting",
+      "core_question": "Did assistance have substantial effect with required knowledge or purpose?",
+      "evidence_needed": "Logistics, financing, intelligence, weapons, access, operational support",
+      "risk_or_pitfall": "Ignoring mens rea variation across tribunals and statutes."
+    },
+    {
+      "mode": "Command responsibility",
+      "core_question": "Did superior know or should have known and fail to prevent or punish?",
+      "evidence_needed": "Hierarchy, effective control, notice, reporting channels, disciplinary capacity",
+      "risk_or_pitfall": "Assuming rank alone establishes effective control."
+    }
+  ],
+  "workflow": [
+    {
+      "step": "1",
+      "task": "Identify alleged conduct and affected victims",
+      "output": "Initial incident and victim map"
+    },
+    {
+      "step": "2",
+      "task": "Classify legal context: armed conflict, civilian attack, protected group, or act of aggression",
+      "output": "Jurisdiction and contextual-elements memo"
+    },
+    {
+      "step": "3",
+      "task": "Match facts to crime categories and underlying acts",
+      "output": "Charge-selection matrix"
+    },
+    {
+      "step": "4",
+      "task": "Analyze mental element, specific intent, and knowledge",
+      "output": "Mens rea evidence table"
+    },
+    {
+      "step": "5",
+      "task": "Map suspects to modes of liability and command structures",
+      "output": "Responsibility chart"
+    },
+    {
+      "step": "6",
+      "task": "Assess admissibility, complementarity, immunity, cooperation, and forum limits",
+      "output": "Forum and enforcement assessment"
+    }
+  ],
+  "war_crimes_analysis": [
+    {
+      "issue": "Conflict nexus",
+      "legal_relevance": "Distinguishes war crimes from ordinary crimes or human-rights violations",
+      "examples": "Attack on civilians, prisoner abuse, unlawful deportation, prohibited weapons use"
+    },
+    {
+      "issue": "Protected status",
+      "legal_relevance": "Identifies victims and objects protected by IHL",
+      "examples": "Civilians, POWs, wounded and sick, hospitals, humanitarian personnel"
+    },
+    {
+      "issue": "Seriousness threshold",
+      "legal_relevance": "Separates grave breaches and serious IHL violations from minor breaches",
+      "examples": "Willful killing, torture, inhuman treatment, extensive destruction"
+    },
+    {
+      "issue": "Command responsibility",
+      "legal_relevance": "Links senior officials to crimes committed by subordinates",
+      "examples": "Failure to prevent, repress, investigate, or punish crimes"
+    }
+  ]
+}

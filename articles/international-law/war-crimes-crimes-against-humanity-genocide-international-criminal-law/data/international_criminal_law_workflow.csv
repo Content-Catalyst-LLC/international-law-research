@@ -1,0 +1,7 @@
+step,task,output
+1,Identify alleged conduct and affected victims,Initial incident and victim map
+2,"Classify legal context: armed conflict, civilian attack, protected group, or act of aggression",Jurisdiction and contextual-elements memo
+3,Match facts to crime categories and underlying acts,Charge-selection matrix
+4,"Analyze mental element, specific intent, and knowledge",Mens rea evidence table
+5,Map suspects to modes of liability and command structures,Responsibility chart
+6,"Assess admissibility, complementarity, immunity, cooperation, and forum limits",Forum and enforcement assessment

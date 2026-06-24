@@ -1,0 +1,22 @@
+[
+  {
+    "crime_category": "War crimes",
+    "contextual_element": "International or non-international armed conflict nexus",
+    "mental_element": "Intent and knowledge under applicable framework"
+  },
+  {
+    "crime_category": "Crimes against humanity",
+    "contextual_element": "Widespread or systematic attack directed against a civilian population",
+    "mental_element": "Knowledge of the attack"
+  },
+  {
+    "crime_category": "Genocide",
+    "contextual_element": "Protected national, ethnical, racial, or religious group",
+    "mental_element": "Specific intent to destroy group in whole or in part"
+  },
+  {
+    "crime_category": "Aggression",
+    "contextual_element": "Leadership crime connected to act of aggression",
+    "mental_element": "Knowledge of factual circumstances establishing manifest violation"
+  }
+]
