@@ -1,0 +1,302 @@
+{
+  "article": "Self-Defense, Collective Security, and the UN Charter Framework",
+  "slug": "self-defense-collective-security-un-charter-framework",
+  "primary_sources": [
+    {
+      "source_id": "un_charter_full_text",
+      "source_title": "Charter of the United Nations",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Primary treaty framework for the prohibition on force self-defense and collective security."
+    },
+    {
+      "source_id": "un_charter_article_51",
+      "source_title": "Charter of the United Nations Article 51",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Recognizes the inherent right of individual or collective self-defense if an armed attack occurs."
+    },
+    {
+      "source_id": "un_charter_chapter_vii",
+      "source_title": "Chapter VII Action with Respect to Threats to the Peace Breaches of the Peace and Acts of Aggression",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-7",
+      "notes": "Security Council enforcement framework for collective security."
+    },
+    {
+      "source_id": "un_repertory_article_51",
+      "source_title": "Repertory of Practice Article 51",
+      "source_type": "official_material",
+      "institution": "United Nations",
+      "year": "2026",
+      "url": "https://legal.un.org/repertory/art51.shtml",
+      "notes": "UN practice materials on Article 51 and self-defense reporting."
+    },
+    {
+      "source_id": "security_council_functions_powers",
+      "source_title": "Security Council Functions and Powers",
+      "source_type": "official_material",
+      "institution": "United Nations Security Council",
+      "year": "2026",
+      "url": "https://main.un.org/securitycouncil/en/content/functions-and-powers",
+      "notes": "Official Security Council description of powers in peace and security."
+    },
+    {
+      "source_id": "unga_definition_aggression",
+      "source_title": "Definition of Aggression General Assembly Resolution 3314 (XXIX)",
+      "source_type": "resolution",
+      "institution": "United Nations General Assembly",
+      "year": "1974",
+      "url": "https://docs.un.org/en/A/RES/3314(XXIX)",
+      "notes": "Canonical General Assembly definition of aggression for use-of-force analysis."
+    },
+    {
+      "source_id": "icj_nicaragua",
+      "source_title": "Military and Paramilitary Activities in and against Nicaragua",
+      "source_type": "case",
+      "institution": "International Court of Justice",
+      "year": "1986",
+      "url": "https://www.icj-cij.org/case/70",
+      "notes": "Leading judgment on use of force intervention armed attack and collective self-defense."
+    },
+    {
+      "source_id": "icj_oil_platforms",
+      "source_title": "Oil Platforms Islamic Republic of Iran v United States of America",
+      "source_type": "case",
+      "institution": "International Court of Justice",
+      "year": "2003",
+      "url": "https://www.icj-cij.org/case/90",
+      "notes": "Important judgment on armed attack necessity and proportionality in self-defense analysis."
+    },
+    {
+      "source_id": "icj_armed_activities",
+      "source_title": "Armed Activities on the Territory of the Congo DRC v Uganda",
+      "source_type": "case",
+      "institution": "International Court of Justice",
+      "year": "2005",
+      "url": "https://www.icj-cij.org/case/116",
+      "notes": "Important judgment on occupation use of force and self-defense claims."
+    },
+    {
+      "source_id": "icj_nuclear_weapons",
+      "source_title": "Legality of the Threat or Use of Nuclear Weapons",
+      "source_type": "advisory_opinion",
+      "institution": "International Court of Justice",
+      "year": "1996",
+      "url": "https://www.icj-cij.org/case/95",
+      "notes": "Advisory opinion discussing threat and use of force necessity and proportionality."
+    },
+    {
+      "source_id": "icj_wall",
+      "source_title": "Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory",
+      "source_type": "advisory_opinion",
+      "institution": "International Court of Justice",
+      "year": "2004",
+      "url": "https://www.icj-cij.org/case/131",
+      "notes": "Addresses occupation self-determination and limits of Article 51 arguments in the advisory context."
+    },
+    {
+      "source_id": "icj_occupied_palestinian_territory",
+      "source_title": "Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory including East Jerusalem",
+      "source_type": "advisory_opinion",
+      "institution": "International Court of Justice",
+      "year": "2024",
+      "url": "https://www.icj-cij.org/case/186",
+      "notes": "Contemporary advisory opinion relevant to occupation non-recognition and third-state obligations."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "gray_use_of_force",
+      "author": "Christine Gray",
+      "year": "2018",
+      "title": "International Law and the Use of Force",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426",
+      "notes": "Authoritative monograph on use-of-force law and self-defense."
+    },
+    {
+      "source_id": "dinstein_war_aggression_self_defence",
+      "author": "Yoram Dinstein",
+      "year": "2017",
+      "title": "War Aggression and Self-Defence",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/war-aggression-and-selfdefence/DE7868D9730FBBC3B8B8B2D60A85E6AB",
+      "notes": "Classic treatment of aggression and self-defense doctrine."
+    },
+    {
+      "source_id": "ruys_armed_attack_self_defence",
+      "author": "Tom Ruys",
+      "year": "2010",
+      "title": "Armed Attack and Article 51 of the UN Charter",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/armed-attack-and-article-51-of-the-un-charter/4FD13DA324E9D7556A6C58F8AFC62DA1",
+      "notes": "Specialized treatment of armed attack under Article 51."
+    },
+    {
+      "source_id": "wilmshurst_international_law_force",
+      "author": "Elizabeth Wilmshurst",
+      "year": "2006",
+      "title": "The Chatham House Principles of International Law on the Use of Force in Self-Defence",
+      "publisher": "International and Comparative Law Quarterly",
+      "url": "https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/chatham-house-principles-of-international-law-on-the-use-of-force-in-selfdefence/9F15BB33827540B219DDC1E66C4E41BC",
+      "notes": "Useful statement of principles on self-defense."
+    },
+    {
+      "source_id": "oconnell_power_and_purpose",
+      "author": "Mary Ellen O'Connell",
+      "year": "2008",
+      "title": "The Power and Purpose of International Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/the-power-and-purpose-of-international-law-9780195368947",
+      "notes": "Addresses international law authority and restraint on force."
+    },
+    {
+      "source_id": "shaw_international_law",
+      "author": "Malcolm N. Shaw",
+      "year": "2021",
+      "title": "International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1",
+      "notes": "General international law reference for use of force and peaceful settlement."
+    }
+  ],
+  "self_defense_framework": [
+    {
+      "issue": "Armed attack",
+      "legal_question": "Has an armed attack occurred that triggers Article 51?",
+      "key_authority": "UN Charter Article 51; ICJ Nicaragua; ICJ Oil Platforms",
+      "analysis_notes": "Do not treat every unlawful force as an armed attack sufficient for self-defense."
+    },
+    {
+      "issue": "Necessity",
+      "legal_question": "Was force necessary to repel or prevent the relevant armed attack?",
+      "key_authority": "ICJ Oil Platforms; Nuclear Weapons Advisory Opinion",
+      "analysis_notes": "Necessity requires more than political usefulness or deterrence."
+    },
+    {
+      "issue": "Proportionality",
+      "legal_question": "Was the defensive response proportionate to the attack and defensive aim?",
+      "key_authority": "ICJ Oil Platforms; Nuclear Weapons Advisory Opinion",
+      "analysis_notes": "Proportionality does not mean symmetry but must remain linked to defense."
+    },
+    {
+      "issue": "Immediacy",
+      "legal_question": "Was the response temporally connected to an ongoing or imminent defensive need?",
+      "key_authority": "Customary self-defense doctrine",
+      "analysis_notes": "Delayed retaliation is vulnerable to being characterized as reprisal."
+    },
+    {
+      "issue": "Reporting",
+      "legal_question": "Was the Security Council notified of measures taken in self-defense?",
+      "key_authority": "UN Charter Article 51",
+      "analysis_notes": "Reporting is a textual requirement and important evidentiary signal."
+    },
+    {
+      "issue": "Collective self-defense",
+      "legal_question": "Was there a request from the victim state and a valid armed attack?",
+      "key_authority": "ICJ Nicaragua; UN Charter Article 51",
+      "analysis_notes": "Collective self-defense cannot become open-ended alliance warfare."
+    },
+    {
+      "issue": "Non-state actors",
+      "legal_question": "Can the attack be attributed to a state or does the unable/unwilling claim arise?",
+      "key_authority": "ICJ Armed Activities; state practice",
+      "analysis_notes": "The doctrine remains contested and fact-sensitive."
+    }
+  ],
+  "collective_security_framework": [
+    {
+      "framework_component": "Prohibition on force",
+      "charter_basis": "Article 2(4)",
+      "function": "Restrains unilateral military force",
+      "limits": "Subject to Security Council authorization and self-defense."
+    },
+    {
+      "framework_component": "Security Council authorization",
+      "charter_basis": "Chapter VII",
+      "function": "Centralizes enforcement authority",
+      "limits": "Dependent on permanent-member politics and implementation by states."
+    },
+    {
+      "framework_component": "Self-defense",
+      "charter_basis": "Article 51",
+      "function": "Preserves inherent defensive right after armed attack",
+      "limits": "Must satisfy necessity proportionality and reporting constraints."
+    },
+    {
+      "framework_component": "Collective self-defense",
+      "charter_basis": "Article 51",
+      "function": "Allows assistance to a state subject to armed attack",
+      "limits": "Requires victim-state request and legal threshold."
+    },
+    {
+      "framework_component": "Peaceful settlement",
+      "charter_basis": "Chapter VI",
+      "function": "Prioritizes negotiation mediation arbitration and judicial settlement",
+      "limits": "May be ineffective where parties refuse good-faith resolution."
+    },
+    {
+      "framework_component": "Regional arrangements",
+      "charter_basis": "Chapter VIII",
+      "function": "Allows regional roles in peace and security",
+      "limits": "Enforcement generally requires Security Council authorization."
+    }
+  ],
+  "case_matrix": [
+    {
+      "case": "Military and Paramilitary Activities in and against Nicaragua",
+      "year": "1986",
+      "forum": "International Court of Justice",
+      "core_issue": "Use of force intervention armed attack and collective self-defense",
+      "article_relevance": "Leading self-defense and collective self-defense authority",
+      "url": "https://www.icj-cij.org/case/70"
+    },
+    {
+      "case": "Oil Platforms",
+      "year": "2003",
+      "forum": "International Court of Justice",
+      "core_issue": "Necessity proportionality and armed attack threshold",
+      "article_relevance": "Important self-defense threshold and evidentiary analysis",
+      "url": "https://www.icj-cij.org/case/90"
+    },
+    {
+      "case": "Armed Activities on the Territory of the Congo",
+      "year": "2005",
+      "forum": "International Court of Justice",
+      "core_issue": "Self-defense occupation and cross-border force",
+      "article_relevance": "Important for claims involving non-state actors and occupation",
+      "url": "https://www.icj-cij.org/case/116"
+    },
+    {
+      "case": "Legality of the Threat or Use of Nuclear Weapons",
+      "year": "1996",
+      "forum": "International Court of Justice",
+      "core_issue": "Threat/use of force and self-defense constraints",
+      "article_relevance": "Connects self-defense to necessity proportionality and humanitarian law",
+      "url": "https://www.icj-cij.org/case/95"
+    },
+    {
+      "case": "Wall Advisory Opinion",
+      "year": "2004",
+      "forum": "International Court of Justice",
+      "core_issue": "Occupation self-determination and Article 51",
+      "article_relevance": "Important limit on Article 51 arguments in occupied territory context",
+      "url": "https://www.icj-cij.org/case/131"
+    },
+    {
+      "case": "Occupied Palestinian Territory Advisory Opinion",
+      "year": "2024",
+      "forum": "International Court of Justice",
+      "core_issue": "Occupation non-recognition and third-state obligations",
+      "article_relevance": "Contemporary use-of-force and collective-security relevance",
+      "url": "https://www.icj-cij.org/case/186"
+    }
+  ]
+}

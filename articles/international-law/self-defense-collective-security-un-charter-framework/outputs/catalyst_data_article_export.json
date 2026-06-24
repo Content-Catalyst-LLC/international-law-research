@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "title": "Self-Defense, Collective Security, and the UN Charter Framework",
+    "seo_title": "Self-Defense and Collective Security in the UN Charter",
+    "focus_keyword": "self-defense in international law",
+    "slug": "self-defense-collective-security-un-charter-framework",
+    "series": "International Law",
+    "series_url": "/international-law-foundations/#international-law-pillar-map",
+    "library": "Global Governance",
+    "status": "published-ready",
+    "article_type": "deep_dive",
+    "repository_folder": "articles/international-law/self-defense-collective-security-un-charter-framework",
+    "github_repository": "https://github.com/Content-Catalyst-LLC/international-law-research",
+    "previous_article": {
+      "title": "The Prohibition on the Use of Force in International Law",
+      "slug": "prohibition-on-use-of-force-in-international-law"
+    },
+    "next_article": {
+      "title": "Humanitarian Intervention, Responsibility to Protect, and the Limits of Sovereignty",
+      "slug": "humanitarian-intervention-responsibility-to-protect-limits-of-sovereignty"
+    },
+    "excerpt": "Self-defense is one of the narrow exceptions to the United Nations Charter prohibition on the use of force, while collective security is the Charter’s institutional framework for responding to threats to peace through common legal authority rather than unilateral war. This article explains Article 51, armed attack, necessity, proportionality, immediacy, Security Council reporting, collective self-defense, Chapter VII authorization, anticipatory and preventive self-defense claims, non-state actors, proxy force, cyber operations, drones, occupation, and selective invocation. It connects doctrine, leading cases, institutional practice, and lawyer-facing workflows to show how the Charter framework tries to balance state survival, international peace, collective enforcement, and legal restraint in a world where powerful states often stretch self-defense language and collective-security mechanisms remain constrained by veto politics, geopolitical hierarchy, and uneven enforcement.",
+    "tags": [
+      "international law",
+      "self-defense",
+      "collective security",
+      "UN Charter",
+      "Article 51",
+      "use of force",
+      "Security Council",
+      "armed attack"
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__un_charter_full_text",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Charter of the United Nations",
+      "source_type": "treaty",
+      "institution_or_author": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Primary treaty framework for the prohibition on force self-defense and collective security."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__un_charter_article_51",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Charter of the United Nations Article 51",
+      "source_type": "treaty",
+      "institution_or_author": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Recognizes the inherent right of individual or collective self-defense if an armed attack occurs."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__un_charter_chapter_vii",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Chapter VII Action with Respect to Threats to the Peace Breaches of the Peace and Acts of Aggression",
+      "source_type": "treaty",
+      "institution_or_author": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-7",
+      "notes": "Security Council enforcement framework for collective security."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__un_repertory_article_51",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Repertory of Practice Article 51",
+      "source_type": "official_material",
+      "institution_or_author": "United Nations",
+      "year": "2026",
+      "url": "https://legal.un.org/repertory/art51.shtml",
+      "notes": "UN practice materials on Article 51 and self-defense reporting."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__security_council_functions_powers",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Security Council Functions and Powers",
+      "source_type": "official_material",
+      "institution_or_author": "United Nations Security Council",
+      "year": "2026",
+      "url": "https://main.un.org/securitycouncil/en/content/functions-and-powers",
+      "notes": "Official Security Council description of powers in peace and security."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__unga_definition_aggression",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Definition of Aggression General Assembly Resolution 3314 (XXIX)",
+      "source_type": "resolution",
+      "institution_or_author": "United Nations General Assembly",
+      "year": "1974",
+      "url": "https://docs.un.org/en/A/RES/3314(XXIX)",
+      "notes": "Canonical General Assembly definition of aggression for use-of-force analysis."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__icj_nicaragua",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Military and Paramilitary Activities in and against Nicaragua",
+      "source_type": "case",
+      "institution_or_author": "International Court of Justice",
+      "year": "1986",
+      "url": "https://www.icj-cij.org/case/70",
+      "notes": "Leading judgment on use of force intervention armed attack and collective self-defense."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__icj_oil_platforms",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Oil Platforms Islamic Republic of Iran v United States of America",
+      "source_type": "case",
+      "institution_or_author": "International Court of Justice",
+      "year": "2003",
+      "url": "https://www.icj-cij.org/case/90",
+      "notes": "Important judgment on armed attack necessity and proportionality in self-defense analysis."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__icj_armed_activities",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Armed Activities on the Territory of the Congo DRC v Uganda",
+      "source_type": "case",
+      "institution_or_author": "International Court of Justice",
+      "year": "2005",
+      "url": "https://www.icj-cij.org/case/116",
+      "notes": "Important judgment on occupation use of force and self-defense claims."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__icj_nuclear_weapons",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Legality of the Threat or Use of Nuclear Weapons",
+      "source_type": "advisory_opinion",
+      "institution_or_author": "International Court of Justice",
+      "year": "1996",
+      "url": "https://www.icj-cij.org/case/95",
+      "notes": "Advisory opinion discussing threat and use of force necessity and proportionality."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__icj_wall",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory",
+      "source_type": "advisory_opinion",
+      "institution_or_author": "International Court of Justice",
+      "year": "2004",
+      "url": "https://www.icj-cij.org/case/131",
+      "notes": "Addresses occupation self-determination and limits of Article 51 arguments in the advisory context."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__icj_occupied_palestinian_territory",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory including East Jerusalem",
+      "source_type": "advisory_opinion",
+      "institution_or_author": "International Court of Justice",
+      "year": "2024",
+      "url": "https://www.icj-cij.org/case/186",
+      "notes": "Contemporary advisory opinion relevant to occupation non-recognition and third-state obligations."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__gray_use_of_force",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "International Law and the Use of Force",
+      "source_type": "secondary",
+      "institution_or_author": "Christine Gray",
+      "year": "2018",
+      "url": "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426",
+      "notes": "Authoritative monograph on use-of-force law and self-defense."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__dinstein_war_aggression_self_defence",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "War Aggression and Self-Defence",
+      "source_type": "secondary",
+      "institution_or_author": "Yoram Dinstein",
+      "year": "2017",
+      "url": "https://www.cambridge.org/core/books/war-aggression-and-selfdefence/DE7868D9730FBBC3B8B8B2D60A85E6AB",
+      "notes": "Classic treatment of aggression and self-defense doctrine."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__ruys_armed_attack_self_defence",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "Armed Attack and Article 51 of the UN Charter",
+      "source_type": "secondary",
+      "institution_or_author": "Tom Ruys",
+      "year": "2010",
+      "url": "https://www.cambridge.org/core/books/armed-attack-and-article-51-of-the-un-charter/4FD13DA324E9D7556A6C58F8AFC62DA1",
+      "notes": "Specialized treatment of armed attack under Article 51."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__wilmshurst_international_law_force",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "The Chatham House Principles of International Law on the Use of Force in Self-Defence",
+      "source_type": "secondary",
+      "institution_or_author": "Elizabeth Wilmshurst",
+      "year": "2006",
+      "url": "https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/chatham-house-principles-of-international-law-on-the-use-of-force-in-selfdefence/9F15BB33827540B219DDC1E66C4E41BC",
+      "notes": "Useful statement of principles on self-defense."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__oconnell_power_and_purpose",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "The Power and Purpose of International Law",
+      "source_type": "secondary",
+      "institution_or_author": "Mary Ellen O'Connell",
+      "year": "2008",
+      "url": "https://global.oup.com/academic/product/the-power-and-purpose-of-international-law-9780195368947",
+      "notes": "Addresses international law authority and restraint on force."
+    },
+    {
+      "source_id": "self-defense-collective-security-un-charter-framework__shaw_international_law",
+      "article_slug": "self-defense-collective-security-un-charter-framework",
+      "source_title": "International Law",
+      "source_type": "secondary",
+      "institution_or_author": "Malcolm N. Shaw",
+      "year": "2021",
+      "url": "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1",
+      "notes": "General international law reference for use of force and peaceful settlement."
+    }
+  ]
+}

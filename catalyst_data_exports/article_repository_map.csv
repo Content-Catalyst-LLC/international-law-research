@@ -1,7 +1,2 @@
-article_id,title,slug,folder_path,series,cluster,status,wordpress_slug
-,,,,International Law,,ready_for_publication,
-,,,,International Law,,generated_deep_dive,
-,,,,International Law,,generated,
-,,,,International Law,,draft-ready,international-arbitration-peaceful-settlement-disputes
-compliance-enforcement-limits-international-adjudication,"Compliance, Enforcement, and the Limits of International Adjudication",compliance-enforcement-limits-international-adjudication,articles/international-law/compliance-enforcement-limits-international-adjudication,International Law,"Institutions, Courts, and Dispute Settlement",draft-ready,compliance-enforcement-limits-international-adjudication
-prohibition-on-use-of-force-in-international-law,The Prohibition on the Use of Force in International Law,prohibition-on-use-of-force-in-international-law,articles/international-law/prohibition-on-use-of-force-in-international-law,International Law,Use of Force and International Humanitarian Law,draft-ready,prohibition-on-use-of-force-in-international-law
+article_slug,article_title,series,repository_path,wordpress_slug,status
+self-defense-collective-security-un-charter-framework,"Self-Defense, Collective Security, and the UN Charter Framework",International Law,articles/international-law/self-defense-collective-security-un-charter-framework,self-defense-collective-security-un-charter-framework,published-ready

@@ -1,36 +1,9 @@
-tag_id,tag,article_id
-,,
-,,
-,,
-,international law,
-,regional organizations,
-,regional courts,
-,legal pluralism,
-,human rights courts,
-,regional integration,
-,global governance,
-,international institutions,
-international-arbitration-peaceful-settlement-disputes-tag-01,international law,
-international-arbitration-peaceful-settlement-disputes-tag-02,international arbitration,
-international-arbitration-peaceful-settlement-disputes-tag-03,peaceful settlement of disputes,
-international-arbitration-peaceful-settlement-disputes-tag-04,Permanent Court of Arbitration,
-international-arbitration-peaceful-settlement-disputes-tag-05,UNCITRAL,
-international-arbitration-peaceful-settlement-disputes-tag-06,ICSID,
-international-arbitration-peaceful-settlement-disputes-tag-07,New York Convention,
-international-arbitration-peaceful-settlement-disputes-tag-08,investor-state arbitration,
-compliance-enforcement-limits-international-adjudication-international-law,international law,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-compliance,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-enforcement,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-icj-judgments,ICJ judgments,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-international-courts,international courts,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-legal-remedies,legal remedies,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-state-responsibility,state responsibility,compliance-enforcement-limits-international-adjudication
-prohibition-on-use-of-force-in-international-law-international-law,international law,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-use-of-force,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-un-charter,UN Charter,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-article-2-4,Article 2(4),prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-self-defense,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-aggression,aggression,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-security-council,Security Council,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-international-peace-and-security,international peace and security,prohibition-on-use-of-force-in-international-law
+tag_key,article_slug,tag
+self-defense-collective-security-un-charter-framework__international law,self-defense-collective-security-un-charter-framework,international law
+self-defense-collective-security-un-charter-framework__self-defense,self-defense-collective-security-un-charter-framework,self-defense
+self-defense-collective-security-un-charter-framework__collective security,self-defense-collective-security-un-charter-framework,collective security
+self-defense-collective-security-un-charter-framework__UN Charter,self-defense-collective-security-un-charter-framework,UN Charter
+self-defense-collective-security-un-charter-framework__Article 51,self-defense-collective-security-un-charter-framework,Article 51
+self-defense-collective-security-un-charter-framework__use of force,self-defense-collective-security-un-charter-framework,use of force
+self-defense-collective-security-un-charter-framework__Security Council,self-defense-collective-security-un-charter-framework,Security Council
+self-defense-collective-security-un-charter-framework__armed attack,self-defense-collective-security-un-charter-framework,armed attack

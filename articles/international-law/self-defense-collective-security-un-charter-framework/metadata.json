@@ -1,13 +1,32 @@
 {
-  "slug": "self-defense-collective-security-and-the-un-charter-framework",
-  "folder_slug": "self-defense-collective-security-un-charter-framework",
   "title": "Self-Defense, Collective Security, and the UN Charter Framework",
-  "status": "planned",
-  "domain": "Use of Force and International Humanitarian Law",
+  "seo_title": "Self-Defense and Collective Security in the UN Charter",
+  "focus_keyword": "self-defense in international law",
+  "slug": "self-defense-collective-security-un-charter-framework",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/self-defense-collective-security-and-the-un-charter-framework/",
-  "repository_path": "articles/international-law/self-defense-collective-security-un-charter-framework",
-  "description": "Research materials for Self-Defense, Collective Security, and the UN Charter Framework in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/self-defense-collective-security-un-charter-framework.csv"
+  "series_url": "/international-law-foundations/#international-law-pillar-map",
+  "library": "Global Governance",
+  "status": "published-ready",
+  "article_type": "deep_dive",
+  "repository_folder": "articles/international-law/self-defense-collective-security-un-charter-framework",
+  "github_repository": "https://github.com/Content-Catalyst-LLC/international-law-research",
+  "previous_article": {
+    "title": "The Prohibition on the Use of Force in International Law",
+    "slug": "prohibition-on-use-of-force-in-international-law"
+  },
+  "next_article": {
+    "title": "Humanitarian Intervention, Responsibility to Protect, and the Limits of Sovereignty",
+    "slug": "humanitarian-intervention-responsibility-to-protect-limits-of-sovereignty"
+  },
+  "excerpt": "Self-defense is one of the narrow exceptions to the United Nations Charter prohibition on the use of force, while collective security is the Charter’s institutional framework for responding to threats to peace through common legal authority rather than unilateral war. This article explains Article 51, armed attack, necessity, proportionality, immediacy, Security Council reporting, collective self-defense, Chapter VII authorization, anticipatory and preventive self-defense claims, non-state actors, proxy force, cyber operations, drones, occupation, and selective invocation. It connects doctrine, leading cases, institutional practice, and lawyer-facing workflows to show how the Charter framework tries to balance state survival, international peace, collective enforcement, and legal restraint in a world where powerful states often stretch self-defense language and collective-security mechanisms remain constrained by veto politics, geopolitical hierarchy, and uneven enforcement.",
+  "tags": [
+    "international law",
+    "self-defense",
+    "collective security",
+    "UN Charter",
+    "Article 51",
+    "use of force",
+    "Security Council",
+    "armed attack"
+  ]
 }
