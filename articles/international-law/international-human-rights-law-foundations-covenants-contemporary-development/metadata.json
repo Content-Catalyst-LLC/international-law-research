@@ -1,13 +1,27 @@
 {
-  "slug": "international-human-rights-law-foundations-covenants-and-contemporary-development",
-  "folder_slug": "international-human-rights-law-foundations-covenants-contemporary-development",
-  "title": "International Human Rights Law: Foundations, Covenants, and Contemporary Development",
-  "status": "planned",
-  "domain": "Human Rights, Refugees, and Protection",
+  "actual_title": "International Human Rights Law: Foundations, Covenants, and Contemporary Development",
+  "seo_title": "International Human Rights Law: Foundations and Covenants",
+  "focus_keyword": "international human rights law",
+  "slug": "international-human-rights-law-foundations-covenants-contemporary-development",
+  "excerpt": "International human rights law places dignity, equality, freedom, participation, material security, and protection from domination within the international legal order. This article explains the foundations of modern human rights law, including the UN Charter, the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, specialized treaties, treaty bodies, regional systems, customary norms, and contemporary institutional practice. It examines civil and political rights, economic, social, and cultural rights, equality, self-determination, remedies, racial justice, protected communities, Palestine, digital surveillance, climate change, corporate power, and enforcement limits. By combining doctrine, sources, institutions, case studies, and lawyer-facing workflows, it shows how human rights law became a central but contested framework for protecting human beings and peoples against state violence, structural domination, and selective legality.",
+  "tags": [
+    "international law",
+    "international human rights law",
+    "human rights",
+    "UDHR",
+    "ICCPR",
+    "ICESCR",
+    "treaty bodies",
+    "regional human rights systems"
+  ],
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/international-human-rights-law-foundations-covenants-and-contemporary-development/",
-  "repository_path": "articles/international-law/international-human-rights-law-foundations-covenants-contemporary-development",
-  "description": "Research materials for International Human Rights Law: Foundations, Covenants, and Contemporary Development in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/international-human-rights-law-foundations-covenants-contemporary-development.csv"
+  "previous_article": {
+    "title": "Nuremberg, Tokyo, and the Historical Development of International Criminal Justice",
+    "slug": "nuremberg-tokyo-historical-development-international-criminal-justice"
+  },
+  "next_article": {
+    "title": "Civil and Political Rights in International Law",
+    "slug": "civil-and-political-rights-in-international-law"
+  },
+  "repository_folder": "articles/international-law/international-human-rights-law-foundations-covenants-contemporary-development"
 }

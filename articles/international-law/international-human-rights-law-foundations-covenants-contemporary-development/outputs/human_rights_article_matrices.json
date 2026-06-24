@@ -1,0 +1,294 @@
+{
+  "human_rights_framework": [
+    {
+      "component": "Foundations",
+      "core_instruments": "UN Charter; UDHR",
+      "legal_function": "Places dignity, equality, and rights within international legal order",
+      "practice_question": "What source grounds the asserted right and who is bound?"
+    },
+    {
+      "component": "Covenants",
+      "core_instruments": "ICCPR; ICESCR",
+      "legal_function": "Converts declaration architecture into binding treaty obligations",
+      "practice_question": "Which covenant applies and what are immediate/progressive obligations?"
+    },
+    {
+      "component": "Specialized treaties",
+      "core_instruments": "ICERD; CEDAW; CAT; CRC; CRPD; CMW; CED",
+      "legal_function": "Deepens general rights for communities and harms requiring specific protection",
+      "practice_question": "Does the specialized treaty provide a more precise standard?"
+    },
+    {
+      "component": "Treaty bodies",
+      "core_instruments": "General comments; concluding observations; individual communications",
+      "legal_function": "Interprets obligations and monitors compliance",
+      "practice_question": "Is the material binding, interpretive, persuasive, or evidentiary?"
+    },
+    {
+      "component": "Regional systems",
+      "core_instruments": "ECHR; ACHR; African Charter",
+      "legal_function": "Provides regional adjudication and institutional practice",
+      "practice_question": "Is there a regional petition, court, or commission route?"
+    },
+    {
+      "component": "Custom and jus cogens",
+      "core_instruments": "Customary law; peremptory norms; ILC materials",
+      "legal_function": "Extends certain obligations beyond treaty consent and marks non-derogable norms",
+      "practice_question": "Is the claimed norm actually customary or peremptory, and what consequence follows?"
+    },
+    {
+      "component": "Contemporary development",
+      "core_instruments": "Digital rights; climate; corporate accountability; Palestine; migration",
+      "legal_function": "Applies human rights to new or intensified configurations of power",
+      "practice_question": "How does the existing rights architecture apply to modern harms?"
+    }
+  ],
+  "rights_categories": [
+    {
+      "rights_category": "Civil and political rights",
+      "core_sources": "ICCPR; regional human-rights treaties",
+      "examples": "life, liberty, fair trial, expression, religion, assembly, political participation",
+      "legal_function": "Limits arbitrary state power and protects public participation"
+    },
+    {
+      "rights_category": "Economic, social, and cultural rights",
+      "core_sources": "ICESCR; regional and domestic constitutional practice",
+      "examples": "food, housing, health, education, work, social security, culture",
+      "legal_function": "Protects material conditions of dignity and equality"
+    },
+    {
+      "rights_category": "Equality and non-discrimination",
+      "core_sources": "UDHR; ICCPR; ICESCR; ICERD; CEDAW; CRPD",
+      "examples": "race, sex, disability, religion, migration status, Indigenous identity, other status",
+      "legal_function": "Requires formal and substantive equality across rights enjoyment"
+    },
+    {
+      "rights_category": "Peoples’ rights and self-determination",
+      "core_sources": "Common Article 1 ICCPR/ICESCR; African Charter; ICJ practice",
+      "examples": "decolonization, self-government, resources, collective existence",
+      "legal_function": "Connects human rights to collective political freedom"
+    },
+    {
+      "rights_category": "Contemporary rights applications",
+      "core_sources": "Treaty interpretation; soft law; domestic/regional jurisprudence",
+      "examples": "digital surveillance, climate, corporate power, migration, occupation",
+      "legal_function": "Extends established rights to modern systems of power and vulnerability"
+    }
+  ],
+  "accountability_mechanisms": [
+    {
+      "mechanism": "Treaty bodies",
+      "institutional_form": "Independent expert committees",
+      "strength": "Interpretation, reporting, individual communications where accepted",
+      "limit": "Limited direct enforcement"
+    },
+    {
+      "mechanism": "Human Rights Council / UPR",
+      "institutional_form": "Charter-based intergovernmental mechanism",
+      "strength": "Universal review and public record-making",
+      "limit": "Political selectivity and uneven follow-up"
+    },
+    {
+      "mechanism": "Special Procedures",
+      "institutional_form": "Independent rapporteurs, experts, working groups",
+      "strength": "Thematic/country scrutiny, communications, reports",
+      "limit": "Access and cooperation depend on states"
+    },
+    {
+      "mechanism": "Regional courts and commissions",
+      "institutional_form": "European, Inter-American, African systems",
+      "strength": "Judgments, petitions, regional doctrine",
+      "limit": "Compliance and access vary"
+    },
+    {
+      "mechanism": "Domestic implementation",
+      "institutional_form": "Courts, legislation, constitutions, administrative systems",
+      "strength": "Most direct route to remedy and daily rights protection",
+      "limit": "Requires political will, capacity, and institutional independence"
+    }
+  ],
+  "primary_authorities": [
+    {
+      "source_id": "UN_CHARTER_1945",
+      "source_title": "Charter of the United Nations",
+      "source_type": "Treaty / constitutive instrument",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Foundational UN instrument placing human rights within UN purposes and cooperation."
+    },
+    {
+      "source_id": "UDHR_1948",
+      "source_title": "Universal Declaration of Human Rights",
+      "source_type": "Declaration",
+      "institution": "UN General Assembly",
+      "year": "1948",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "notes": "Foundational global human-rights declaration."
+    },
+    {
+      "source_id": "ICCPR_1966",
+      "source_title": "International Covenant on Civil and Political Rights",
+      "source_type": "Treaty",
+      "institution": "OHCHR / UN",
+      "year": "1966",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights",
+      "notes": "Civil and political rights covenant."
+    },
+    {
+      "source_id": "ICESCR_1966",
+      "source_title": "International Covenant on Economic, Social and Cultural Rights",
+      "source_type": "Treaty",
+      "institution": "OHCHR / UN",
+      "year": "1966",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights",
+      "notes": "Economic, social, and cultural rights covenant."
+    },
+    {
+      "source_id": "ICERD_1965",
+      "source_title": "International Convention on the Elimination of All Forms of Racial Discrimination",
+      "source_type": "Treaty",
+      "institution": "OHCHR / UN",
+      "year": "1965",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-convention-elimination-all-forms-racial",
+      "notes": "Core anti-racial-discrimination treaty."
+    },
+    {
+      "source_id": "CAT_1984",
+      "source_title": "Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment",
+      "source_type": "Treaty",
+      "institution": "OHCHR / UN",
+      "year": "1984",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading",
+      "notes": "Absolute prohibition and treaty-body architecture for torture prevention."
+    },
+    {
+      "source_id": "CRC_1989",
+      "source_title": "Convention on the Rights of the Child",
+      "source_type": "Treaty",
+      "institution": "OHCHR / UN",
+      "year": "1989",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child",
+      "notes": "Specialized protection for children as rights-holders."
+    },
+    {
+      "source_id": "CRPD_2006",
+      "source_title": "Convention on the Rights of Persons with Disabilities",
+      "source_type": "Treaty",
+      "institution": "OHCHR / UN",
+      "year": "2006",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities",
+      "notes": "Disability rights, accessibility, equality, autonomy, and participation."
+    },
+    {
+      "source_id": "AFRICAN_CHARTER_1981",
+      "source_title": "African Charter on Human and Peoples’ Rights",
+      "source_type": "Regional treaty",
+      "institution": "African Union",
+      "year": "1981",
+      "url": "https://au.int/en/treaties/african-charter-human-and-peoples-rights",
+      "notes": "Regional human-rights instrument integrating individual and peoples’ rights."
+    },
+    {
+      "source_id": "ECHR_1950",
+      "source_title": "European Convention on Human Rights",
+      "source_type": "Regional treaty",
+      "institution": "Council of Europe / ECtHR",
+      "year": "1950",
+      "url": "https://www.echr.coe.int/documents/d/echr/convention_ENG",
+      "notes": "Regional human-rights treaty with strong judicial mechanism."
+    },
+    {
+      "source_id": "ACHR_1969",
+      "source_title": "American Convention on Human Rights",
+      "source_type": "Regional treaty",
+      "institution": "Organization of American States",
+      "year": "1969",
+      "url": "https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.htm",
+      "notes": "Inter-American human-rights treaty."
+    },
+    {
+      "source_id": "ICJ_GAZA_GENOCIDE_192",
+      "source_title": "Application of the Genocide Convention in the Gaza Strip (South Africa v. Israel)",
+      "source_type": "International court case",
+      "institution": "International Court of Justice",
+      "year": "2023-present",
+      "url": "https://www.icj-cij.org/case/192",
+      "notes": "Contemporary proceedings testing atrocity accountability and human-rights universality."
+    },
+    {
+      "source_id": "ICJ_OPT_186",
+      "source_title": "Legal Consequences arising from Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+      "source_type": "Advisory opinion",
+      "institution": "International Court of Justice",
+      "year": "2024",
+      "url": "https://www.icj-cij.org/case/186",
+      "notes": "Advisory opinion connecting occupation, self-determination, human rights, and third-state duties."
+    }
+  ],
+  "further_reading": [
+    {
+      "source_id": "ALSTON_GOODMAN_2013",
+      "author": "Alston, P. and Goodman, R.",
+      "year": "2013",
+      "title": "International Human Rights",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-human-rights-9780199578726",
+      "notes": "Comprehensive human-rights law casebook."
+    },
+    {
+      "source_id": "DONNELLY_2013",
+      "author": "Donnelly, J.",
+      "year": "2013",
+      "title": "Universal Human Rights in Theory and Practice",
+      "publisher": "Cornell University Press",
+      "url": "https://www.cornellpress.cornell.edu/book/9780801477706/universal-human-rights-in-theory-and-practice/",
+      "notes": "Theoretical account of universality and practice."
+    },
+    {
+      "source_id": "MOYN_2010",
+      "author": "Moyn, S.",
+      "year": "2010",
+      "title": "The Last Utopia: Human Rights in History",
+      "publisher": "Harvard University Press",
+      "url": "https://www.hup.harvard.edu/books/9780674064348",
+      "notes": "Historical account of modern human rights politics."
+    },
+    {
+      "source_id": "MUTUA_2002",
+      "author": "Mutua, M.",
+      "year": "2002",
+      "title": "Human Rights: A Political and Cultural Critique",
+      "publisher": "University of Pennsylvania Press",
+      "url": "https://www.pennpress.org/9780812218138/human-rights/",
+      "notes": "Critical perspective on human rights and power."
+    },
+    {
+      "source_id": "ANGHIE_2004",
+      "author": "Anghie, A.",
+      "year": "2004",
+      "title": "Imperialism, Sovereignty and the Making of International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/imperialism-sovereignty-and-the-making-of-international-law/8A9B9D74AAB7CA2D7B7D4D83A7E9D59A",
+      "notes": "Imperial and postcolonial critique relevant to human-rights universality."
+    },
+    {
+      "source_id": "FREEMAN_2022",
+      "author": "Freeman, M.",
+      "year": "2022",
+      "title": "Human Rights: An Interdisciplinary Approach",
+      "publisher": "Polity",
+      "url": "https://www.politybooks.com/bookdetail?book_slug=human-rights-an-interdisciplinary-approach-4th-edition--9781509546039",
+      "notes": "Interdisciplinary foundations of human rights."
+    },
+    {
+      "source_id": "MERRY_2006",
+      "author": "Merry, S.E.",
+      "year": "2006",
+      "title": "Human Rights and Gender Violence: Translating International Law into Local Justice",
+      "publisher": "University of Chicago Press",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/H/bo3684000.html",
+      "notes": "Human rights, gender violence, and local legal translation."
+    }
+  ]
+}

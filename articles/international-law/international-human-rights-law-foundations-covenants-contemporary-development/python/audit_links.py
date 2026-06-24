@@ -1,11 +1,18 @@
 #!/usr/bin/env python3
-"""Lightweight CSV link audit for this article folder."""
-from pathlib import Path
+from __future__ import annotations
 import csv
+import re
+from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-for csv_path in sorted((ROOT / "data").glob("*.csv")):
-    with csv_path.open(newline="", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        missing = [row for row in reader if "url" in row and not (row.get("url") or "").strip()]
-    print(f"{csv_path.name}: {len(missing)} rows missing URL")
+HTML = ROOT / "docs" / "wordpress_article_html.html"
+OUTPUTS = ROOT / "outputs"
+OUTPUTS.mkdir(exist_ok=True)
+URL_RE = re.compile("https?://[^\\s\\\"'<>]+")
+urls = sorted(set(URL_RE.findall(HTML.read_text(encoding="utf-8"))))
+with (OUTPUTS / "link_inventory.csv").open("w", newline="", encoding="utf-8") as handle:
+    writer = csv.writer(handle)
+    writer.writerow(["url"])
+    for url in urls:
+        writer.writerow([url])
+print(f"Wrote outputs/link_inventory.csv with {len(urls)} links")
