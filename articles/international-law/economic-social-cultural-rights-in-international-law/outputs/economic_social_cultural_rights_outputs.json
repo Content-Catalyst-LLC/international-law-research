@@ -1,0 +1,270 @@
+{
+  "article": "Economic, Social, and Cultural Rights in International Law",
+  "framework": [
+    {
+      "right_area": "Work and labor",
+      "core_rights": "Right to work; just and favorable conditions; trade union rights",
+      "primary_sources": "ICESCR Articles 6, 7, 8; ILO materials",
+      "analysis_notes": "Analyze legal framework, labor-market access, non-discrimination, safety, wages, union rights, and enforcement."
+    },
+    {
+      "right_area": "Social security and family protection",
+      "core_rights": "Social security; family; maternity; child protection",
+      "primary_sources": "ICESCR Articles 9, 10",
+      "analysis_notes": "Assess coverage, accessibility, adequacy, non-discrimination, and vulnerability."
+    },
+    {
+      "right_area": "Adequate standard of living",
+      "core_rights": "Food, clothing, housing, continuous improvement of living conditions",
+      "primary_sources": "ICESCR Article 11; CESCR General Comments",
+      "analysis_notes": "Assess availability, accessibility, affordability, adequacy, security of tenure, and remedies."
+    },
+    {
+      "right_area": "Health",
+      "core_rights": "Highest attainable standard of physical and mental health",
+      "primary_sources": "ICESCR Article 12; CESCR General Comment No. 14",
+      "analysis_notes": "Apply availability, accessibility, acceptability, quality, and non-discrimination."
+    },
+    {
+      "right_area": "Education",
+      "core_rights": "Primary, secondary, higher, and fundamental education",
+      "primary_sources": "ICESCR Articles 13, 14; CESCR General Comment No. 13",
+      "analysis_notes": "Assess availability, accessibility, acceptability, adaptability, and equality."
+    },
+    {
+      "right_area": "Culture and science",
+      "core_rights": "Cultural participation; scientific progress; authorship interests",
+      "primary_sources": "ICESCR Article 15",
+      "analysis_notes": "Assess cultural access, Indigenous rights, language, heritage, technology, and scientific benefits."
+    }
+  ],
+  "progressive_realization": [
+    {
+      "concept": "Progressive realization",
+      "meaning": "Full realization may occur over time but requires deliberate steps.",
+      "lawyer_question": "What concrete measures has the state taken and how are they measured?"
+    },
+    {
+      "concept": "Maximum available resources",
+      "meaning": "States must use available resources toward realization.",
+      "lawyer_question": "What budgetary, tax, debt, and allocation evidence shows resource use or failure?"
+    },
+    {
+      "concept": "Minimum core",
+      "meaning": "Essential minimum levels of rights require special justification when unmet.",
+      "lawyer_question": "What minimum essential food, health, housing, education, water, or social protection is missing?"
+    },
+    {
+      "concept": "Non-discrimination",
+      "meaning": "Equality obligations are immediate.",
+      "lawyer_question": "Who is excluded, disadvantaged, or disproportionately affected?"
+    },
+    {
+      "concept": "Non-retrogression",
+      "meaning": "Backward steps require strong justification.",
+      "lawyer_question": "Did policy reduce rights protection, and was it necessary, proportionate, temporary, and justified?"
+    }
+  ],
+  "accountability_mechanisms": [
+    {
+      "mechanism": "CESCR reporting",
+      "function": "Reviews periodic state reports and issues concluding observations.",
+      "limits": "Depends on reporting, follow-up, publicity, and state implementation."
+    },
+    {
+      "mechanism": "Optional Protocol communications",
+      "function": "Allows individual/group complaints where accepted.",
+      "limits": "Only applies to states parties to the Optional Protocol and requires admissibility."
+    },
+    {
+      "mechanism": "Domestic courts",
+      "function": "Can enforce constitutional, statutory, or treaty-incorporated ESC rights.",
+      "limits": "Varies by legal system, remedy design, and judicial capacity."
+    },
+    {
+      "mechanism": "Regional systems",
+      "function": "Regional human-rights bodies may address ESC dimensions.",
+      "limits": "Scope and enforceability vary by region and instrument."
+    },
+    {
+      "mechanism": "Advocacy and monitoring",
+      "function": "Civil society documents violations and pushes institutional response.",
+      "limits": "Requires evidence discipline, safety, and legal framing."
+    }
+  ],
+  "primary_authorities": [
+    {
+      "source_id": "un-charter",
+      "source_title": "Charter of the United Nations",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Foundational Charter provisions for human rights cooperation and dignity."
+    },
+    {
+      "source_id": "udhr",
+      "source_title": "Universal Declaration of Human Rights",
+      "source_type": "declaration",
+      "institution": "United Nations General Assembly",
+      "year": "1948",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "notes": "Foundational declaration linking dignity, equality, civil, political, economic, social, and cultural rights."
+    },
+    {
+      "source_id": "icescr",
+      "source_title": "International Covenant on Economic, Social and Cultural Rights",
+      "source_type": "treaty",
+      "institution": "OHCHR / United Nations",
+      "year": "1966",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights",
+      "notes": "Core treaty source for economic, social, and cultural rights."
+    },
+    {
+      "source_id": "op-icescr",
+      "source_title": "Optional Protocol to the International Covenant on Economic, Social and Cultural Rights",
+      "source_type": "treaty",
+      "institution": "OHCHR / United Nations",
+      "year": "2008",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/optional-protocol-international-covenant-economic-social-and-cultural",
+      "notes": "Creates individual communications and related procedures for ICESCR rights where accepted."
+    },
+    {
+      "source_id": "cescr",
+      "source_title": "Committee on Economic, Social and Cultural Rights",
+      "source_type": "treaty body",
+      "institution": "OHCHR",
+      "year": "n.d.",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cescr",
+      "notes": "Treaty body supervising ICESCR implementation."
+    },
+    {
+      "source_id": "cescr-gc3",
+      "source_title": "CESCR General Comment No. 3: The Nature of States Parties’ Obligations",
+      "source_type": "general comment",
+      "institution": "CESCR",
+      "year": "1990",
+      "url": "https://www.refworld.org/legal/general/cescr/1990/en/5613",
+      "notes": "Authoritative interpretation of progressive realization and maximum available resources."
+    },
+    {
+      "source_id": "cescr-gc12",
+      "source_title": "CESCR General Comment No. 12: The Right to Adequate Food",
+      "source_type": "general comment",
+      "institution": "CESCR",
+      "year": "1999",
+      "url": "https://www.refworld.org/legal/general/cescr/1999/en/87491",
+      "notes": "Key interpretation of the right to adequate food."
+    },
+    {
+      "source_id": "cescr-gc13",
+      "source_title": "CESCR General Comment No. 13: The Right to Education",
+      "source_type": "general comment",
+      "institution": "CESCR",
+      "year": "1999",
+      "url": "https://www.refworld.org/legal/general/cescr/1999/en/37937",
+      "notes": "Key interpretation of the right to education."
+    },
+    {
+      "source_id": "cescr-gc14",
+      "source_title": "CESCR General Comment No. 14: The Right to the Highest Attainable Standard of Health",
+      "source_type": "general comment",
+      "institution": "CESCR",
+      "year": "2000",
+      "url": "https://www.refworld.org/legal/general/cescr/2000/en/36991",
+      "notes": "Key interpretation of the right to health."
+    },
+    {
+      "source_id": "cescr-gc15",
+      "source_title": "CESCR General Comment No. 15: The Right to Water",
+      "source_type": "general comment",
+      "institution": "CESCR",
+      "year": "2002",
+      "url": "https://www.refworld.org/legal/general/cescr/2003/en/39347",
+      "notes": "Key interpretation of the right to water."
+    },
+    {
+      "source_id": "right-development",
+      "source_title": "Declaration on the Right to Development",
+      "source_type": "declaration",
+      "institution": "United Nations General Assembly",
+      "year": "1986",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-right-development",
+      "notes": "Important source connecting development, participation, equity, and rights."
+    }
+  ],
+  "further_reading": [
+    {
+      "source_id": "alston-goodman",
+      "author": "Alston, P. and Goodman, R.",
+      "year": "2013",
+      "title": "International Human Rights",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-human-rights-9780199578726",
+      "notes": "Comprehensive casebook and sourcebook for international human rights law."
+    },
+    {
+      "source_id": "langford",
+      "author": "Langford, M. (ed.)",
+      "year": "2008",
+      "title": "Social Rights Jurisprudence: Emerging Trends in International and Comparative Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/social-rights-jurisprudence/50723267D8907060387AE974EB9B3C35",
+      "notes": "Major comparative treatment of economic and social rights adjudication."
+    },
+    {
+      "source_id": "craven",
+      "author": "Craven, M.",
+      "year": "1995",
+      "title": "The International Covenant on Economic, Social and Cultural Rights: A Perspective on its Development",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/the-international-covenant-on-economic-social-and-cultural-rights-9780198258742",
+      "notes": "Specialized monograph on the development and interpretation of the ICESCR."
+    },
+    {
+      "source_id": "de-schutter",
+      "author": "De Schutter, O.",
+      "year": "2019",
+      "title": "International Human Rights Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/highereducation/books/international-human-rights-law/4D888FD81D9BA9E12C4ACB0A37C6754D",
+      "notes": "Broad human-rights law reference with attention to ESC rights."
+    },
+    {
+      "source_id": "eide",
+      "author": "Eide, A., Krause, C. and Rosas, A. (eds.)",
+      "year": "2001",
+      "title": "Economic, Social and Cultural Rights: A Textbook",
+      "publisher": "Brill",
+      "url": "https://brill.com/display/title/10799",
+      "notes": "Classic edited volume on ESC rights doctrine and practice."
+    },
+    {
+      "source_id": "sepulveda",
+      "author": "Sepúlveda, M.",
+      "year": "2003",
+      "title": "The Nature of the Obligations under the International Covenant on Economic, Social and Cultural Rights",
+      "publisher": "Intersentia",
+      "url": "https://intersentia.com/en/the-nature-of-the-obligations-under-the-international-covenant-on-economic-social-and-cultural-rights.html",
+      "notes": "Detailed doctrinal treatment of ICESCR obligations."
+    },
+    {
+      "source_id": "dennis-stewart",
+      "author": "Dennis, M.J. and Stewart, D.P.",
+      "year": "2004",
+      "title": "Justiciability of Economic, Social, and Cultural Rights: Should There Be an International Complaints Mechanism to Adjudicate the Rights to Food, Water, Housing, and Health?",
+      "publisher": "American Journal of International Law",
+      "url": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/justiciability-of-economic-social-and-cultural-rights-should-there-be-an-international-complaints-mechanism-to-adjudicate-the-rights-to-food-water-housing-and-health/0AB6428DB75C659134E15394D8D2F454",
+      "notes": "Important article on justiciability and complaints mechanisms."
+    },
+    {
+      "source_id": "ohchr-factsheet",
+      "author": "OHCHR",
+      "year": "2008",
+      "title": "Fact Sheet No. 33: Frequently Asked Questions on Economic, Social and Cultural Rights",
+      "publisher": "OHCHR",
+      "url": "https://www.ohchr.org/en/publications/fact-sheets/fact-sheet-no-33-frequently-asked-questions-economic-social-and-cultural-rights",
+      "notes": "Accessible official explanation of ESC rights."
+    }
+  ]
+}
