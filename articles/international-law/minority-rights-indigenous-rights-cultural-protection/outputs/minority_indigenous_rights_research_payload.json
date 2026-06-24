@@ -1,0 +1,247 @@
+{
+  "article": {
+    "title": "Minority Rights, Indigenous Rights, and Cultural Protection",
+    "seo_title": "Minority Rights, Indigenous Rights, and Cultural Protection",
+    "focus_keyword": "minority rights",
+    "slug": "minority-rights-indigenous-rights-cultural-protection",
+    "series": "International Law",
+    "section": "International Human Rights Law",
+    "article_type": "deep-dive",
+    "repo_folder": "articles/international-law/minority-rights-indigenous-rights-cultural-protection",
+    "wordpress_html": "docs/wordpress_article_html.html",
+    "previous_article": "Women’s Rights, Gender Equality, and International Legal Protection",
+    "next_article": "Children’s Rights and the Rights of the Child in International Law",
+    "tags": [
+      "international law",
+      "minority rights",
+      "Indigenous rights",
+      "cultural protection",
+      "UNDRIP",
+      "ICCPR Article 27",
+      "human rights",
+      "cultural rights"
+    ]
+  },
+  "tables": {
+    "cultural_protection_matrix": [
+      {
+        "issue": "Language education",
+        "legal_concern": "Cultural continuity and equality",
+        "evidence_needed": "Curricula, school access, language policy, community testimony",
+        "risk": "Assimilation through administrative neutrality"
+      },
+      {
+        "issue": "Sacred sites",
+        "legal_concern": "Religion, culture, land, and Indigenous identity",
+        "evidence_needed": "Maps, oral histories, expert reports, state permits",
+        "risk": "Development framed as overriding culture"
+      },
+      {
+        "issue": "Extractive projects",
+        "legal_concern": "Land, resources, FPIC, environment",
+        "evidence_needed": "Concession documents, consultation records, impact assessments",
+        "risk": "Token consultation and irreversible harm"
+      },
+      {
+        "issue": "Conflict heritage loss",
+        "legal_concern": "Cultural destruction and displacement",
+        "evidence_needed": "Satellite imagery, inventories, witness accounts",
+        "risk": "Loss of evidence and politicized heritage narratives"
+      }
+    ],
+    "further_reading": [
+      {
+        "source_id": "anaya_2004",
+        "author": "Anaya, S.J.",
+        "year": "2004",
+        "title": "Indigenous Peoples in International Law",
+        "publisher": "Oxford University Press",
+        "url": "https://global.oup.com/academic/product/indigenous-peoples-in-international-law-9780195173505",
+        "notes": "Foundational account of Indigenous peoples in international law."
+      },
+      {
+        "source_id": "xanthaki_2007",
+        "author": "Xanthaki, A.",
+        "year": "2007",
+        "title": "Indigenous Rights and United Nations Standards",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/indigenous-rights-and-united-nations-standards/",
+        "notes": "Analysis of UNDRIP and international Indigenous-rights standards."
+      },
+      {
+        "source_id": "thornberry_1991",
+        "author": "Thornberry, P.",
+        "year": "1991",
+        "title": "International Law and the Rights of Minorities",
+        "publisher": "Oxford University Press",
+        "url": "https://global.oup.com/academic/product/international-law-and-the-rights-of-minorities-9780198258292",
+        "notes": "Classic treatment of minority-rights doctrine."
+      },
+      {
+        "source_id": "gilbert_2016",
+        "author": "Gilbert, J.",
+        "year": "2016",
+        "title": "Indigenous Peoples’ Land Rights under International Law",
+        "publisher": "Brill",
+        "url": "https://brill.com/display/title/32471",
+        "notes": "Specialist work on Indigenous land rights and international law."
+      },
+      {
+        "source_id": "un_special_rapporteur_indigenous",
+        "author": "United Nations Special Rapporteur on the Rights of Indigenous Peoples",
+        "year": "n.d.",
+        "title": "Mandate and reports",
+        "publisher": "OHCHR",
+        "url": "https://www.ohchr.org/en/special-procedures/sr-indigenous-peoples",
+        "notes": "Institutional source for Indigenous-rights implementation."
+      },
+      {
+        "source_id": "un_special_rapporteur_cultural",
+        "author": "United Nations Special Rapporteur in the field of cultural rights",
+        "year": "n.d.",
+        "title": "Mandate and reports",
+        "publisher": "OHCHR",
+        "url": "https://www.ohchr.org/en/special-procedures/sr-cultural-rights",
+        "notes": "Institutional source for cultural rights and cultural protection."
+      }
+    ],
+    "implementation_mechanisms_matrix": [
+      {
+        "forum": "Human Rights Committee",
+        "function": "Interprets ICCPR Article 27",
+        "possible_use": "Individual communications and general comments",
+        "limitation": "Requires procedural admissibility and state acceptance where relevant"
+      },
+      {
+        "forum": "ILO supervisory system",
+        "function": "Monitors ILO Convention No. 169",
+        "possible_use": "Reports, complaints, observations",
+        "limitation": "Only applies to ratifying states"
+      },
+      {
+        "forum": "UN Special Procedures",
+        "function": "Investigation and reporting",
+        "possible_use": "Communications, country visits, thematic reports",
+        "limitation": "No direct enforcement power"
+      },
+      {
+        "forum": "Regional human rights systems",
+        "function": "Judicial and quasi-judicial accountability",
+        "possible_use": "Land, consultation, discrimination, culture, remedies",
+        "limitation": "Regional access and compliance vary"
+      },
+      {
+        "forum": "Domestic courts",
+        "function": "Implementation and remedies",
+        "possible_use": "Constitutional claims, administrative review, land litigation",
+        "limitation": "Domestic law may narrow international standards"
+      }
+    ],
+    "minority_indigenous_rights_matrix": [
+      {
+        "domain": "Minority rights",
+        "core_right": "Culture, religion, and language",
+        "authority": "ICCPR Article 27",
+        "analysis_question": "Is the affected community a national, ethnic, religious, or linguistic minority?",
+        "practice_note": "Do not reduce Article 27 to symbolic recognition; analyze practical enjoyment."
+      },
+      {
+        "domain": "Indigenous rights",
+        "core_right": "Self-determination and institutions",
+        "authority": "UNDRIP",
+        "analysis_question": "Does the claim concern Indigenous governance, identity, land, or political participation?",
+        "practice_note": "Separate internal self-determination from secession claims unless the facts require otherwise."
+      },
+      {
+        "domain": "Land and resources",
+        "core_right": "Traditional lands and territories",
+        "authority": "UNDRIP; ILO 169",
+        "analysis_question": "Was there consultation, consent, displacement, or resource extraction?",
+        "practice_note": "Map tenure, use, spiritual connection, and environmental dependency."
+      },
+      {
+        "domain": "Cultural protection",
+        "core_right": "Heritage, language, education, and memory",
+        "authority": "UNESCO instruments; ICESCR",
+        "analysis_question": "Is cultural survival affected by state policy, conflict, development, or assimilation?",
+        "practice_note": "Treat culture as living practice, not museum preservation."
+      }
+    ],
+    "primary_authorities": [
+      {
+        "source_id": "iccpr_1966",
+        "source_title": "International Covenant on Civil and Political Rights",
+        "source_type": "Treaty",
+        "institution": "OHCHR / United Nations",
+        "year": "1966",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights",
+        "notes": "Article 27 is central for minority cultural, religious, and linguistic rights."
+      },
+      {
+        "source_id": "minorities_declaration_1992",
+        "source_title": "Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities",
+        "source_type": "Declaration",
+        "institution": "United Nations General Assembly",
+        "year": "1992",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-rights-persons-belonging-national-or-ethnic-religious-and-linguistic",
+        "notes": "Framework for minority identity, participation, language, religion, and cultural life."
+      },
+      {
+        "source_id": "undrip_2007",
+        "source_title": "United Nations Declaration on the Rights of Indigenous Peoples",
+        "source_type": "Declaration",
+        "institution": "United Nations General Assembly",
+        "year": "2007",
+        "url": "https://www.un.org/development/desa/indigenouspeoples/declaration-on-the-rights-of-indigenous-peoples.html",
+        "notes": "Core global statement on Indigenous rights, self-determination, land, culture, FPIC, and institutions."
+      },
+      {
+        "source_id": "ilo_169_1989",
+        "source_title": "Indigenous and Tribal Peoples Convention, 1989 (No. 169)",
+        "source_type": "Treaty",
+        "institution": "International Labour Organization",
+        "year": "1989",
+        "url": "https://www.ilo.org/resource/other/indigenous-and-tribal-peoples-convention-1989-no-169",
+        "notes": "Binding treaty framework for ratifying states on Indigenous and tribal peoples."
+      },
+      {
+        "source_id": "icescr_1966",
+        "source_title": "International Covenant on Economic, Social and Cultural Rights",
+        "source_type": "Treaty",
+        "institution": "OHCHR / United Nations",
+        "year": "1966",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights",
+        "notes": "Protects cultural participation and material conditions relevant to minority and Indigenous rights."
+      },
+      {
+        "source_id": "unesco_2003",
+        "source_title": "Convention for the Safeguarding of the Intangible Cultural Heritage",
+        "source_type": "Treaty",
+        "institution": "UNESCO",
+        "year": "2003",
+        "url": "https://ich.unesco.org/en/convention",
+        "notes": "Protects intangible cultural heritage, living traditions, practices, knowledge, and cultural transmission."
+      },
+      {
+        "source_id": "unesco_2005",
+        "source_title": "Convention on the Protection and Promotion of the Diversity of Cultural Expressions",
+        "source_type": "Treaty",
+        "institution": "UNESCO",
+        "year": "2005",
+        "url": "https://www.unesco.org/creativity/en/2005-convention",
+        "notes": "Protects cultural diversity and cultural expression in global governance."
+      },
+      {
+        "source_id": "ohchr_minorities",
+        "source_title": "About minorities and human rights",
+        "source_type": "Institutional guidance",
+        "institution": "OHCHR",
+        "year": "n.d.",
+        "url": "https://www.ohchr.org/en/minorities/about-minorities-and-human-rights",
+        "notes": "Official OHCHR overview for minority rights."
+      }
+    ],
+    "primary_sources": [],
+    "secondary_sources": []
+  }
+}

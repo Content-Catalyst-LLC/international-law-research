@@ -1,13 +1,23 @@
 {
-  "slug": "minority-rights-indigenous-rights-and-cultural-protection",
-  "folder_slug": "minority-rights-indigenous-rights-cultural-protection",
   "title": "Minority Rights, Indigenous Rights, and Cultural Protection",
-  "status": "planned",
-  "domain": "Human Rights, Refugees, and Protection",
+  "seo_title": "Minority Rights, Indigenous Rights, and Cultural Protection",
+  "focus_keyword": "minority rights",
+  "slug": "minority-rights-indigenous-rights-cultural-protection",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/minority-rights-indigenous-rights-and-cultural-protection/",
-  "repository_path": "articles/international-law/minority-rights-indigenous-rights-cultural-protection",
-  "description": "Research materials for Minority Rights, Indigenous Rights, and Cultural Protection in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/minority-rights-indigenous-rights-cultural-protection.csv"
+  "section": "International Human Rights Law",
+  "article_type": "deep-dive",
+  "repo_folder": "articles/international-law/minority-rights-indigenous-rights-cultural-protection",
+  "wordpress_html": "docs/wordpress_article_html.html",
+  "previous_article": "Women’s Rights, Gender Equality, and International Legal Protection",
+  "next_article": "Children’s Rights and the Rights of the Child in International Law",
+  "tags": [
+    "international law",
+    "minority rights",
+    "Indigenous rights",
+    "cultural protection",
+    "UNDRIP",
+    "ICCPR Article 27",
+    "human rights",
+    "cultural rights"
+  ]
 }
