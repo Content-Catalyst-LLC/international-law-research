@@ -1,0 +1,14 @@
+{
+  "title": "The High Seas, Deep Seabed Governance, and the Global Commons",
+  "slug": "high-seas-deep-seabed-global-commons",
+  "focus_keyword": "high seas",
+  "series": "International Law",
+  "repository_folder": "articles/international-law/high-seas-deep-seabed-global-commons",
+  "primary_data_files": [
+    "data/global_commons_framework_matrix.csv",
+    "data/ocean_commons_institutions.csv",
+    "data/risk_and_governance_matrix.csv",
+    "references/primary_authorities.csv",
+    "references/further_reading.csv"
+  ]
+}
