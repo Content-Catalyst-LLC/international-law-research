@@ -1,0 +1,17 @@
+{
+  "article_slug": "international-humanitarian-law-geneva-conventions-regulation-armed-conflict",
+  "article_title": "International Humanitarian Law: The Geneva Conventions and the Regulation of Armed Conflict",
+  "source_counts": {
+    "primary_sources": 10,
+    "secondary_sources": 5,
+    "ihl_framework_rows": 5,
+    "classification_rows": 4,
+    "protected_person_rows": 5,
+    "war_crime_rows": 4
+  },
+  "outputs": [
+    "ihl_matrices.json",
+    "link_audit.csv",
+    "link_audit.json"
+  ]
+}

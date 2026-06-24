@@ -1,0 +1,5 @@
+classification_id,classification,legal_trigger,core_law,common_issues
+ihl_class_001,International armed conflict,"Resort to armed force between states, including occupation","Four Geneva Conventions, Additional Protocol I where applicable, customary IHL","Occupation, POW status, protected persons, inter-state hostilities."
+ihl_class_002,Non-international armed conflict,Protracted armed violence between state and organized armed group or between organized armed groups,"Common Article 3, Additional Protocol II where applicable, customary IHL","Organization of armed group, intensity threshold, detention, humanitarian access."
+ihl_class_003,Occupation,Territory placed under authority of hostile army without sovereign consent,"Hague Regulations, Geneva Convention IV, customary IHL","Public order, resource use, settlements, detention, humanitarian relief, protected civilians."
+ihl_class_004,Mixed or parallel conflicts,Multiple actors and legal relationships operating simultaneously,Classify each bilateral relationship separately,"Foreign intervention, proxy actors, internationalized NIACs, cross-border operations."

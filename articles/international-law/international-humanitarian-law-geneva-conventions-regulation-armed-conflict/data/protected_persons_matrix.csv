@@ -1,0 +1,6 @@
+category_id,protected_category,primary_source,core_protections,analysis_note
+ihl_person_001,Wounded and sick armed forces in the field,Geneva Convention I,"Respect, protection, care, medical neutrality",Applies regardless of nationality once persons are hors de combat.
+ihl_person_002,"Wounded, sick, and shipwrecked forces at sea",Geneva Convention II,"Rescue, care, protection of hospital ships and medical personnel",Naval warfare protection framework.
+ihl_person_003,Prisoners of war,Geneva Convention III,"Humane treatment, status protections, fair process, repatriation rules",POW classification is central in international armed conflicts.
+ihl_person_004,Civilian persons and occupied populations,Geneva Convention IV,"Humane treatment, protection from deportation, collective punishment, unlawful transfer, and abuse","Central to occupation, displacement, siege, and civilian-protection analysis."
+ihl_person_005,Persons taking no active part in hostilities,Common Article 3,"Protection from violence to life, torture, cruel treatment, hostage-taking, humiliating treatment, and unfair trial",Baseline protection in non-international armed conflicts.

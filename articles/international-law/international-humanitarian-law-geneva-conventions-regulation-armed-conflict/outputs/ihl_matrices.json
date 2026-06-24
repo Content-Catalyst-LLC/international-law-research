@@ -1,0 +1,280 @@
+{
+  "article_slug": "international-humanitarian-law-geneva-conventions-regulation-armed-conflict",
+  "article_title": "International Humanitarian Law: The Geneva Conventions and the Regulation of Armed Conflict",
+  "generated_from": "article data CSV matrices",
+  "matrices": {
+    "conflict_classification_matrix": [
+      {
+        "classification_id": "ihl_class_001",
+        "classification": "International armed conflict",
+        "legal_trigger": "Resort to armed force between states, including occupation",
+        "core_law": "Four Geneva Conventions, Additional Protocol I where applicable, customary IHL",
+        "common_issues": "Occupation, POW status, protected persons, inter-state hostilities."
+      },
+      {
+        "classification_id": "ihl_class_002",
+        "classification": "Non-international armed conflict",
+        "legal_trigger": "Protracted armed violence between state and organized armed group or between organized armed groups",
+        "core_law": "Common Article 3, Additional Protocol II where applicable, customary IHL",
+        "common_issues": "Organization of armed group, intensity threshold, detention, humanitarian access."
+      },
+      {
+        "classification_id": "ihl_class_003",
+        "classification": "Occupation",
+        "legal_trigger": "Territory placed under authority of hostile army without sovereign consent",
+        "core_law": "Hague Regulations, Geneva Convention IV, customary IHL",
+        "common_issues": "Public order, resource use, settlements, detention, humanitarian relief, protected civilians."
+      },
+      {
+        "classification_id": "ihl_class_004",
+        "classification": "Mixed or parallel conflicts",
+        "legal_trigger": "Multiple actors and legal relationships operating simultaneously",
+        "core_law": "Classify each bilateral relationship separately",
+        "common_issues": "Foreign intervention, proxy actors, internationalized NIACs, cross-border operations."
+      }
+    ],
+    "ihl_framework_matrix": [
+      {
+        "concept_id": "ihl_fw_001",
+        "concept": "Jus in bello / jus ad bellum separation",
+        "legal_basis": "Geneva Conventions; UN Charter distinction",
+        "analysis_question": "Is the analysis separating legality of resort to force from rules governing conduct during conflict?",
+        "practice_note": "IHL applies regardless of whether the initial use of force was lawful."
+      },
+      {
+        "concept_id": "ihl_fw_002",
+        "concept": "Common Article 3 minimum protections",
+        "legal_basis": "Common Article 3",
+        "analysis_question": "Does the situation involve a non-international armed conflict or other minimum-protection trigger?",
+        "practice_note": "Common Article 3 is a baseline safeguard against murder, torture, cruel treatment, hostage-taking, and unfair trial."
+      },
+      {
+        "concept_id": "ihl_fw_003",
+        "concept": "Distinction",
+        "legal_basis": "Additional Protocol I; customary IHL",
+        "analysis_question": "Are parties distinguishing civilians and civilian objects from combatants and military objectives?",
+        "practice_note": "Distinction is central to conduct-of-hostilities analysis."
+      },
+      {
+        "concept_id": "ihl_fw_004",
+        "concept": "Proportionality",
+        "legal_basis": "Additional Protocol I; customary IHL",
+        "analysis_question": "Is expected incidental civilian harm excessive in relation to anticipated concrete and direct military advantage?",
+        "practice_note": "Requires ex ante assessment, not hindsight alone."
+      },
+      {
+        "concept_id": "ihl_fw_005",
+        "concept": "Precautions in attack",
+        "legal_basis": "Additional Protocol I; customary IHL",
+        "analysis_question": "Were feasible precautions taken to verify targets and minimize civilian harm?",
+        "practice_note": "Important in urban warfare, drones, siege contexts, and emerging technologies."
+      }
+    ],
+    "primary_sources": [
+      {
+        "source_id": "ihl_primary_001",
+        "source_title": "Geneva Convention I for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field",
+        "source_type": "treaty",
+        "institution": "ICRC / States Parties",
+        "year": "1949",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949",
+        "notes": "Core Geneva Convention protecting wounded and sick members of armed forces in the field."
+      },
+      {
+        "source_id": "ihl_primary_002",
+        "source_title": "Geneva Convention II for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea",
+        "source_type": "treaty",
+        "institution": "ICRC / States Parties",
+        "year": "1949",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gcii-1949",
+        "notes": "Core Geneva Convention addressing naval warfare protections."
+      },
+      {
+        "source_id": "ihl_primary_003",
+        "source_title": "Geneva Convention III relative to the Treatment of Prisoners of War",
+        "source_type": "treaty",
+        "institution": "ICRC / States Parties",
+        "year": "1949",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949",
+        "notes": "Primary treaty framework for prisoners of war."
+      },
+      {
+        "source_id": "ihl_primary_004",
+        "source_title": "Geneva Convention IV relative to the Protection of Civilian Persons in Time of War",
+        "source_type": "treaty",
+        "institution": "ICRC / States Parties",
+        "year": "1949",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949",
+        "notes": "Primary treaty framework for civilian protection and occupation."
+      },
+      {
+        "source_id": "ihl_primary_005",
+        "source_title": "Common Article 3 to the Geneva Conventions",
+        "source_type": "treaty provision",
+        "institution": "ICRC / States Parties",
+        "year": "1949",
+        "url": "https://casebook.icrc.org/a_to_z/glossary/common-article-3",
+        "notes": "Minimum protections in non-international armed conflicts."
+      },
+      {
+        "source_id": "ihl_primary_006",
+        "source_title": "Additional Protocol I to the Geneva Conventions",
+        "source_type": "treaty",
+        "institution": "ICRC / States Parties",
+        "year": "1977",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977",
+        "notes": "Additional rules for international armed conflicts, including conduct-of-hostilities principles."
+      },
+      {
+        "source_id": "ihl_primary_007",
+        "source_title": "Additional Protocol II to the Geneva Conventions",
+        "source_type": "treaty",
+        "institution": "ICRC / States Parties",
+        "year": "1977",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977",
+        "notes": "Additional treaty rules for certain non-international armed conflicts."
+      },
+      {
+        "source_id": "ihl_primary_008",
+        "source_title": "ICRC Customary International Humanitarian Law Database",
+        "source_type": "database",
+        "institution": "International Committee of the Red Cross",
+        "year": "2005",
+        "url": "https://ihl-databases.icrc.org/en/customary-ihl",
+        "notes": "Structured customary IHL rules and supporting practice."
+      },
+      {
+        "source_id": "ihl_primary_009",
+        "source_title": "Legality of the Threat or Use of Nuclear Weapons",
+        "source_type": "advisory opinion",
+        "institution": "International Court of Justice",
+        "year": "1996",
+        "url": "https://www.icj-cij.org/case/95",
+        "notes": "Important ICJ discussion of IHL principles in the nuclear weapons context."
+      },
+      {
+        "source_id": "ihl_primary_010",
+        "source_title": "Rome Statute of the International Criminal Court",
+        "source_type": "treaty",
+        "institution": "International Criminal Court",
+        "year": "1998",
+        "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court",
+        "notes": "Defines war crimes and international criminal jurisdiction architecture."
+      }
+    ],
+    "protected_persons_matrix": [
+      {
+        "category_id": "ihl_person_001",
+        "protected_category": "Wounded and sick armed forces in the field",
+        "primary_source": "Geneva Convention I",
+        "core_protections": "Respect, protection, care, medical neutrality",
+        "analysis_note": "Applies regardless of nationality once persons are hors de combat."
+      },
+      {
+        "category_id": "ihl_person_002",
+        "protected_category": "Wounded, sick, and shipwrecked forces at sea",
+        "primary_source": "Geneva Convention II",
+        "core_protections": "Rescue, care, protection of hospital ships and medical personnel",
+        "analysis_note": "Naval warfare protection framework."
+      },
+      {
+        "category_id": "ihl_person_003",
+        "protected_category": "Prisoners of war",
+        "primary_source": "Geneva Convention III",
+        "core_protections": "Humane treatment, status protections, fair process, repatriation rules",
+        "analysis_note": "POW classification is central in international armed conflicts."
+      },
+      {
+        "category_id": "ihl_person_004",
+        "protected_category": "Civilian persons and occupied populations",
+        "primary_source": "Geneva Convention IV",
+        "core_protections": "Humane treatment, protection from deportation, collective punishment, unlawful transfer, and abuse",
+        "analysis_note": "Central to occupation, displacement, siege, and civilian-protection analysis."
+      },
+      {
+        "category_id": "ihl_person_005",
+        "protected_category": "Persons taking no active part in hostilities",
+        "primary_source": "Common Article 3",
+        "core_protections": "Protection from violence to life, torture, cruel treatment, hostage-taking, humiliating treatment, and unfair trial",
+        "analysis_note": "Baseline protection in non-international armed conflicts."
+      }
+    ],
+    "secondary_sources": [
+      {
+        "source_id": "ihl_secondary_001",
+        "author": "Henckaerts, J.-M. and Doswald-Beck, L.",
+        "year": "2005",
+        "title": "Customary International Humanitarian Law",
+        "publisher": "Cambridge University Press / ICRC",
+        "url": "https://www.cambridge.org/core/books/customary-international-humanitarian-law/4FA9100B83CE7D5D0B2A54A49BB700E7",
+        "notes": "Foundational ICRC customary IHL study."
+      },
+      {
+        "source_id": "ihl_secondary_002",
+        "author": "Dinstein, Y.",
+        "year": "2016",
+        "title": "The Conduct of Hostilities under the Law of International Armed Conflict",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/conduct-of-hostilities-under-the-law-of-international-armed-conflict/8B895C686F7CB8E099343EB96F4A0349",
+        "notes": "Major doctrinal treatment of conduct-of-hostilities law."
+      },
+      {
+        "source_id": "ihl_secondary_003",
+        "author": "Sassòli, M.",
+        "year": "2019",
+        "title": "International Humanitarian Law: Rules, Controversies, and Solutions to Problems Arising in Warfare",
+        "publisher": "Edward Elgar",
+        "url": "https://www.e-elgar.com/shop/gbp/international-humanitarian-law-9781786438543.html",
+        "notes": "Comprehensive contemporary IHL reference."
+      },
+      {
+        "source_id": "ihl_secondary_004",
+        "author": "Crawford, E. and Pert, A.",
+        "year": "2020",
+        "title": "International Humanitarian Law",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/highereducation/books/international-humanitarian-law/84C0AA12623F889DC7D6D239B1469FCA",
+        "notes": "Accessible doctrinal guide."
+      },
+      {
+        "source_id": "ihl_secondary_005",
+        "author": "ICRC",
+        "year": "2016",
+        "title": "Commentary on the First Geneva Convention",
+        "publisher": "International Committee of the Red Cross",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949/commentary/2016",
+        "notes": "Modern ICRC commentary on Geneva Convention I."
+      }
+    ],
+    "war_crimes_matrix": [
+      {
+        "crime_id": "ihl_wc_001",
+        "war_crime_category": "Grave breaches of Geneva Conventions",
+        "legal_reference": "Geneva Conventions grave-breaches provisions; Rome Statute",
+        "conduct_examples": "Wilful killing, torture, inhuman treatment, extensive destruction not justified by military necessity",
+        "analysis_note": "Grave breaches trigger penal obligations under Geneva law."
+      },
+      {
+        "crime_id": "ihl_wc_002",
+        "war_crime_category": "Attacks on civilians",
+        "legal_reference": "Rome Statute; customary IHL",
+        "conduct_examples": "Intentionally directing attacks against civilian population or individual civilians not taking direct part",
+        "analysis_note": "Requires distinction between civilians and lawful military objectives."
+      },
+      {
+        "crime_id": "ihl_wc_003",
+        "war_crime_category": "Disproportionate attacks",
+        "legal_reference": "Additional Protocol I; Rome Statute; customary IHL",
+        "conduct_examples": "Launching attack with excessive expected incidental civilian harm",
+        "analysis_note": "Requires assessment of expected harm versus anticipated concrete and direct military advantage."
+      },
+      {
+        "crime_id": "ihl_wc_004",
+        "war_crime_category": "Starvation and obstruction of relief",
+        "legal_reference": "Additional Protocols; Rome Statute amendments; customary IHL",
+        "conduct_examples": "Using starvation as method of warfare; unlawfully impeding humanitarian relief",
+        "analysis_note": "Highly relevant in siege and humanitarian-access disputes."
+      }
+    ]
+  }
+}

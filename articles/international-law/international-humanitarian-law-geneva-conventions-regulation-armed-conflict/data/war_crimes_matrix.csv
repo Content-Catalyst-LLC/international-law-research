@@ -1,0 +1,5 @@
+crime_id,war_crime_category,legal_reference,conduct_examples,analysis_note
+ihl_wc_001,Grave breaches of Geneva Conventions,Geneva Conventions grave-breaches provisions; Rome Statute,"Wilful killing, torture, inhuman treatment, extensive destruction not justified by military necessity",Grave breaches trigger penal obligations under Geneva law.
+ihl_wc_002,Attacks on civilians,Rome Statute; customary IHL,Intentionally directing attacks against civilian population or individual civilians not taking direct part,Requires distinction between civilians and lawful military objectives.
+ihl_wc_003,Disproportionate attacks,Additional Protocol I; Rome Statute; customary IHL,Launching attack with excessive expected incidental civilian harm,Requires assessment of expected harm versus anticipated concrete and direct military advantage.
+ihl_wc_004,Starvation and obstruction of relief,Additional Protocols; Rome Statute amendments; customary IHL,Using starvation as method of warfare; unlawfully impeding humanitarian relief,Highly relevant in siege and humanitarian-access disputes.

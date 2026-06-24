@@ -1,0 +1,6 @@
+concept_id,concept,legal_basis,analysis_question,practice_note
+ihl_fw_001,Jus in bello / jus ad bellum separation,Geneva Conventions; UN Charter distinction,Is the analysis separating legality of resort to force from rules governing conduct during conflict?,IHL applies regardless of whether the initial use of force was lawful.
+ihl_fw_002,Common Article 3 minimum protections,Common Article 3,Does the situation involve a non-international armed conflict or other minimum-protection trigger?,"Common Article 3 is a baseline safeguard against murder, torture, cruel treatment, hostage-taking, and unfair trial."
+ihl_fw_003,Distinction,Additional Protocol I; customary IHL,Are parties distinguishing civilians and civilian objects from combatants and military objectives?,Distinction is central to conduct-of-hostilities analysis.
+ihl_fw_004,Proportionality,Additional Protocol I; customary IHL,Is expected incidental civilian harm excessive in relation to anticipated concrete and direct military advantage?,"Requires ex ante assessment, not hindsight alone."
+ihl_fw_005,Precautions in attack,Additional Protocol I; customary IHL,Were feasible precautions taken to verify targets and minimize civilian harm?,"Important in urban warfare, drones, siege contexts, and emerging technologies."

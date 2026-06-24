@@ -1,0 +1,157 @@
+{
+  "url_count": 38,
+  "urls": [
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://casebook.icrc.org/a_to_z/glossary/common-article-3,Minimum"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl,Structured"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977,Additional"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949,Core"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gcii-1949,Core"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949,Primary"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949,Primary"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court,Defines"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "url": "https://www.icj-cij.org/case/95,Important"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949/commentary/2016,Modern"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "url": "https://www.cambridge.org/core/books/conduct-of-hostilities-under-the-law-of-international-armed-conflict/8B895C686F7CB8E099343EB96F4A0349,Major"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "url": "https://www.cambridge.org/core/books/customary-international-humanitarian-law/4FA9100B83CE7D5D0B2A54A49BB700E7,Foundational"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "url": "https://www.cambridge.org/highereducation/books/international-humanitarian-law/84C0AA12623F889DC7D6D239B1469FCA,Accessible"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "url": "https://www.e-elgar.com/shop/gbp/international-humanitarian-law-9781786438543.html,Comprehensive"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://casebook.icrc.org/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://github.com/Content-Catalyst-LLC/international-law-research/tree/main/articles/international-law/international-humanitarian-law-geneva-conventions-regulation-armed-conflict"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule1"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/apiii-2005"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gcii-1949"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://sustainablecatalyst.com/wp-content/uploads/2026/06/international-humanitarian-law-geneva-conventions-armed-conflict.png"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.bloomsbury.com/us/introduction-to-the-international-law-of-armed-conflicts-9781841137995/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.cambridge.org/core/books/conduct-of-hostilities-under-the-law-of-international-armed-conflict/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.e-elgar.com/shop/gbp/international-humanitarian-law-9781786438546.html"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.icj-cij.org/case/95"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.icrc.org/en/publication/0860-customary-international-humanitarian-law-volume-i-rules"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.icrc.org/en/publication/4231-international-humanitarian-law-comprehensive-introduction"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url": "https://www.icty.org/x/cases/tadic/acdec/en/51002.htm"
+    },
+    {
+      "file": "metadata.json",
+      "url": "https://sustainablecatalyst.com/international-humanitarian-law-geneva-conventions-regulation-armed-conflict/"
+    }
+  ]
+}
