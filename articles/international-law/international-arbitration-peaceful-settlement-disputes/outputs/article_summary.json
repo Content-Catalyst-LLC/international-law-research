@@ -1,0 +1,15 @@
+{
+  "article_slug": "international-arbitration-peaceful-settlement-disputes",
+  "title": "International Arbitration and the Peaceful Settlement of Disputes",
+  "series": "International Law",
+  "repo_path": "articles/international-law/international-arbitration-peaceful-settlement-disputes",
+  "primary_source_count": 12,
+  "secondary_source_count": 6,
+  "matrices": [
+    "arbitration_institution_matrix.csv",
+    "dispute_settlement_matrix.csv",
+    "enforcement_framework_matrix.csv"
+  ],
+  "next_article": "Compliance, Enforcement, and the Limits of International Adjudication",
+  "previous_article": "Regional Organizations, Regional Courts, and Pluralism in International Law"
+}

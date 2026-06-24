@@ -16,5 +16,16 @@
       "legal_instrument_count": 17,
       "catalyst_data_ready": true
     }
-  }
+  },
+  "articles": {
+    "international-arbitration-peaceful-settlement-disputes": {
+      "title": "International Arbitration and the Peaceful Settlement of Disputes",
+      "repo_path": "articles/international-law/international-arbitration-peaceful-settlement-disputes",
+      "primary_sources": 12,
+      "secondary_sources": 6,
+      "updated": "2026-06-24",
+      "status": "draft-ready"
+    }
+  },
+  "last_updated": "2026-06-24"
 }

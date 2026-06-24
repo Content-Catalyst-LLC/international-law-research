@@ -1,0 +1,315 @@
+{
+  "arbitration_institutions": [
+    {
+      "institution_id": "ia-inst-001",
+      "institution_name": "Permanent Court of Arbitration",
+      "forum_type": "intergovernmental arbitral institution",
+      "primary_legal_basis": "1899 and 1907 Hague Conventions; party agreements; treaty clauses",
+      "typical_parties": "states, state entities, international organizations, private parties where agreed",
+      "dispute_types": "state-to-state, investor-state, contract, boundary, maritime, environmental, mixed disputes",
+      "award_or_decision_form": "arbitral award or procedural order",
+      "enforcement_pathway": "party compliance, treaty mechanisms, domestic enforcement where applicable",
+      "notes": "Administrative institution rather than a single standing court."
+    },
+    {
+      "institution_id": "ia-inst-002",
+      "institution_name": "UNCLOS Annex VII Tribunal",
+      "forum_type": "ad hoc treaty arbitration",
+      "primary_legal_basis": "UNCLOS Part XV and Annex VII",
+      "typical_parties": "states parties to UNCLOS",
+      "dispute_types": "law of the sea disputes, maritime entitlements, marine environment, fisheries, navigation",
+      "award_or_decision_form": "binding arbitral award",
+      "enforcement_pathway": "UNCLOS compliance obligations and diplomatic/legal pressure",
+      "notes": "Default dispute-settlement procedure where parties have not chosen the same forum."
+    },
+    {
+      "institution_id": "ia-inst-003",
+      "institution_name": "ICSID",
+      "forum_type": "investment arbitration institution",
+      "primary_legal_basis": "ICSID Convention, investment treaties, contracts, investment laws",
+      "typical_parties": "host states and foreign investors",
+      "dispute_types": "investment disputes, expropriation, fair and equitable treatment, discrimination, denial of justice",
+      "award_or_decision_form": "ICSID award",
+      "enforcement_pathway": "ICSID Convention recognition and enforcement duties",
+      "notes": "Designed for investor-state disputes; source of major legitimacy debates."
+    },
+    {
+      "institution_id": "ia-inst-004",
+      "institution_name": "UNCITRAL arbitration",
+      "forum_type": "ad hoc or administered procedural framework",
+      "primary_legal_basis": "party agreement, investment treaties, contracts, UNCITRAL Arbitration Rules",
+      "typical_parties": "states, investors, commercial parties",
+      "dispute_types": "commercial, investor-state, treaty-based, contract-based disputes",
+      "award_or_decision_form": "arbitral award",
+      "enforcement_pathway": "New York Convention or other applicable enforcement frameworks",
+      "notes": "Rules are widely used even when an institution administers the case."
+    },
+    {
+      "institution_id": "ia-inst-005",
+      "institution_name": "Commercial arbitration institutions",
+      "forum_type": "private/institutional arbitration",
+      "primary_legal_basis": "arbitration agreement, institutional rules, national arbitration laws",
+      "typical_parties": "commercial parties, sometimes state entities",
+      "dispute_types": "contract, construction, energy, shipping, finance, sale of goods, technology",
+      "award_or_decision_form": "commercial arbitral award",
+      "enforcement_pathway": "New York Convention and domestic arbitration law",
+      "notes": "Important to cross-border private dispute resolution but distinct from public international adjudication."
+    }
+  ],
+  "dispute_settlement_mechanisms": [
+    {
+      "mechanism_id": "ia-dsm-001",
+      "mechanism": "negotiation",
+      "legal_basis": "UN Charter Article 33; general diplomatic practice",
+      "degree_of_party_control": "very high",
+      "public_or_private_orientation": "diplomatic/public",
+      "binding_effect": "none unless agreement results",
+      "typical_use": "first-line dispute resolution",
+      "key_risks": "power asymmetry, delay, lack of record, coercive bargaining"
+    },
+    {
+      "mechanism_id": "ia-dsm-002",
+      "mechanism": "mediation and good offices",
+      "legal_basis": "UN Charter Article 33; institutional practice; party consent",
+      "degree_of_party_control": "high",
+      "public_or_private_orientation": "diplomatic/public or mixed",
+      "binding_effect": "non-binding unless agreement results",
+      "typical_use": "political, territorial, peace-process, humanitarian disputes",
+      "key_risks": "non-binding outcomes, unequal leverage, confidentiality concerns"
+    },
+    {
+      "mechanism_id": "ia-dsm-003",
+      "mechanism": "judicial settlement",
+      "legal_basis": "treaty jurisdiction, optional declarations, compromissory clauses, special agreements",
+      "degree_of_party_control": "lower after jurisdiction is established",
+      "public_or_private_orientation": "public/legal",
+      "binding_effect": "binding judgment for parties where jurisdiction exists",
+      "typical_use": "state-to-state legal disputes",
+      "key_risks": "jurisdictional limits, enforcement limits, cost, time"
+    },
+    {
+      "mechanism_id": "ia-dsm-004",
+      "mechanism": "international arbitration",
+      "legal_basis": "compromis, treaty clause, contract, investment treaty, UNCLOS, institutional rules",
+      "degree_of_party_control": "moderate to high",
+      "public_or_private_orientation": "public, private, or mixed",
+      "binding_effect": "binding award",
+      "typical_use": "state-to-state, maritime, investment, commercial, mixed claims",
+      "key_risks": "cost, arbitrator conflicts, transparency, unequal access, enforcement politics"
+    },
+    {
+      "mechanism_id": "ia-dsm-005",
+      "mechanism": "conciliation",
+      "legal_basis": "treaty or party agreement",
+      "degree_of_party_control": "high",
+      "public_or_private_orientation": "diplomatic/legal mixed",
+      "binding_effect": "usually non-binding recommendations",
+      "typical_use": "technical or political disputes needing structured settlement proposals",
+      "key_risks": "non-binding character and limited uptake"
+    }
+  ],
+  "enforcement_frameworks": [
+    {
+      "framework_id": "ia-enf-001",
+      "framework": "New York Convention",
+      "scope": "foreign commercial and non-ICSID arbitral awards",
+      "enforcement_mechanism": "domestic court recognition and enforcement subject to limited defenses",
+      "strengths": "broad global adoption and strong pro-enforcement structure",
+      "limits": "domestic court variation, public policy defenses, arbitrability, set-aside issues",
+      "article_relevance": "explains why arbitration is attractive for cross-border commercial disputes"
+    },
+    {
+      "framework_id": "ia-enf-002",
+      "framework": "ICSID Convention",
+      "scope": "ICSID investment awards",
+      "enforcement_mechanism": "contracting states must recognize and enforce awards as if final domestic judgments",
+      "strengths": "specialized investment enforcement regime; limited annulment pathway",
+      "limits": "state compliance politics, sovereign immunity from execution, legitimacy disputes",
+      "article_relevance": "central to investor-state arbitration and critique"
+    },
+    {
+      "framework_id": "ia-enf-003",
+      "framework": "UNCLOS dispute settlement",
+      "scope": "law-of-the-sea awards and decisions",
+      "enforcement_mechanism": "treaty compliance, diplomatic pressure, reputational and institutional consequence",
+      "strengths": "binding dispute-settlement architecture for maritime disputes",
+      "limits": "non-appearance, enforcement through state compliance, strategic non-compliance",
+      "article_relevance": "shows arbitration in public international law disputes"
+    },
+    {
+      "framework_id": "ia-enf-004",
+      "framework": "state-to-state arbitration compromis",
+      "scope": "specific dispute agreed by states",
+      "enforcement_mechanism": "state compliance, treaty terms, diplomatic/legal follow-up",
+      "strengths": "flexible procedure and issue-specific jurisdiction",
+      "limits": "depends heavily on consent and post-award compliance",
+      "article_relevance": "classic public international arbitration model"
+    }
+  ],
+  "primary_sources": [
+    {
+      "source_id": "ia-psd-pri-001",
+      "source_title": "Charter of the United Nations, Article 33",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-6",
+      "notes": "Foundational peaceful-settlement provision listing negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, regional agencies, and other peaceful means."
+    },
+    {
+      "source_id": "ia-psd-pri-002",
+      "source_title": "Charter of the United Nations, Article 2(3)",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-1",
+      "notes": "Requires members to settle international disputes by peaceful means."
+    },
+    {
+      "source_id": "ia-psd-pri-003",
+      "source_title": "Convention for the Pacific Settlement of International Disputes",
+      "source_type": "treaty",
+      "institution": "Permanent Court of Arbitration / Hague Peace Conference",
+      "year": "1899/1907",
+      "url": "https://pca-cpa.org/en/about/introduction/history/",
+      "notes": "Historical foundation for the Permanent Court of Arbitration and modern institutional arbitration."
+    },
+    {
+      "source_id": "ia-psd-pri-004",
+      "source_title": "Permanent Court of Arbitration — About / History",
+      "source_type": "institutional_material",
+      "institution": "Permanent Court of Arbitration",
+      "year": "n.d.",
+      "url": "https://pca-cpa.org/en/about/introduction/history/",
+      "notes": "Institutional background on the PCA and its role in international arbitration."
+    },
+    {
+      "source_id": "ia-psd-pri-005",
+      "source_title": "UNCLOS Annex VII Arbitration",
+      "source_type": "treaty_procedure",
+      "institution": "United Nations Convention on the Law of the Sea",
+      "year": "1982",
+      "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/annex7.htm",
+      "notes": "Default arbitration mechanism for certain law-of-the-sea disputes."
+    },
+    {
+      "source_id": "ia-psd-pri-006",
+      "source_title": "Convention on the Recognition and Enforcement of Foreign Arbitral Awards",
+      "source_type": "treaty",
+      "institution": "United Nations / UNCITRAL",
+      "year": "1958",
+      "url": "https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards",
+      "notes": "New York Convention framework for recognition and enforcement of foreign arbitral awards."
+    },
+    {
+      "source_id": "ia-psd-pri-007",
+      "source_title": "UNCITRAL Arbitration Rules",
+      "source_type": "rules",
+      "institution": "UNCITRAL",
+      "year": "1976/2010/2013/2021",
+      "url": "https://uncitral.un.org/en/texts/arbitration/contractualtexts/arbitration",
+      "notes": "Widely used procedural rules for ad hoc and administered arbitration."
+    },
+    {
+      "source_id": "ia-psd-pri-008",
+      "source_title": "ICSID Convention",
+      "source_type": "treaty",
+      "institution": "International Centre for Settlement of Investment Disputes",
+      "year": "1965",
+      "url": "https://icsid.worldbank.org/resources/rules-and-regulations/convention/overview",
+      "notes": "Framework for arbitration and conciliation of investment disputes between states and nationals of other states."
+    },
+    {
+      "source_id": "ia-psd-pri-009",
+      "source_title": "ICSID Arbitration Rules",
+      "source_type": "rules",
+      "institution": "International Centre for Settlement of Investment Disputes",
+      "year": "2022",
+      "url": "https://icsid.worldbank.org/resources/rules-and-regulations/arbitration-rules",
+      "notes": "Procedural rules for ICSID arbitration."
+    },
+    {
+      "source_id": "ia-psd-pri-010",
+      "source_title": "UNCITRAL Rules on Transparency in Treaty-based Investor-State Arbitration",
+      "source_type": "rules",
+      "institution": "UNCITRAL",
+      "year": "2014",
+      "url": "https://uncitral.un.org/en/texts/arbitration/contractualtexts/transparency",
+      "notes": "Transparency framework for treaty-based investor-state arbitration."
+    },
+    {
+      "source_id": "ia-psd-pri-011",
+      "source_title": "United Nations Convention on Transparency in Treaty-based Investor-State Arbitration",
+      "source_type": "treaty",
+      "institution": "United Nations / UNCITRAL",
+      "year": "2014",
+      "url": "https://uncitral.un.org/en/texts/arbitration/conventions/transparency",
+      "notes": "Mauritius Convention on Transparency."
+    },
+    {
+      "source_id": "ia-psd-pri-012",
+      "source_title": "South China Sea Arbitration",
+      "source_type": "case_award",
+      "institution": "Permanent Court of Arbitration / UNCLOS Annex VII Tribunal",
+      "year": "2016",
+      "url": "https://pca-cpa.org/en/cases/7/",
+      "notes": "Major example of UNCLOS Annex VII arbitration and non-appearance issues."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "ia-psd-sec-001",
+      "author": "Born, G.B.",
+      "year": "2021",
+      "title": "International Commercial Arbitration",
+      "publisher": "Kluwer Law International",
+      "url": "https://kluwerlawonline.com/Manual/InternationalCommercialArbitration",
+      "notes": "Leading treatise on international commercial arbitration."
+    },
+    {
+      "source_id": "ia-psd-sec-002",
+      "author": "Brownlie / Crawford",
+      "year": "2019",
+      "title": "Brownlie’s Principles of Public International Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/brownlies-principles-of-public-international-law-9780198737445",
+      "notes": "General international law reference including peaceful settlement and dispute resolution."
+    },
+    {
+      "source_id": "ia-psd-sec-003",
+      "author": "Merrills, J.G.",
+      "year": "2017",
+      "title": "International Dispute Settlement",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/international-dispute-settlement/",
+      "notes": "Core text on peaceful dispute settlement mechanisms including arbitration."
+    },
+    {
+      "source_id": "ia-psd-sec-004",
+      "author": "Redfern, A. and Hunter, M.",
+      "year": "2023",
+      "title": "Redfern and Hunter on International Arbitration",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/redfern-and-hunter-on-international-arbitration-9780192869906",
+      "notes": "Standard reference on international arbitration practice and procedure."
+    },
+    {
+      "source_id": "ia-psd-sec-005",
+      "author": "Schreuer, C. et al.",
+      "year": "2009",
+      "title": "The ICSID Convention: A Commentary",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/icsid-convention/",
+      "notes": "Leading commentary on ICSID jurisdiction and procedure."
+    },
+    {
+      "source_id": "ia-psd-sec-006",
+      "author": "Sornarajah, M.",
+      "year": "2021",
+      "title": "The International Law on Foreign Investment",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/international-law-on-foreign-investment/",
+      "notes": "Critical and doctrinal treatment of foreign investment law and investor-state arbitration."
+    }
+  ]
+}

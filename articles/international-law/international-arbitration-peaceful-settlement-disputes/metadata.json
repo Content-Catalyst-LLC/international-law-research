@@ -1,13 +1,28 @@
 {
-  "slug": "international-arbitration-and-the-peaceful-settlement-of-disputes",
-  "folder_slug": "international-arbitration-peaceful-settlement-disputes",
+  "article_slug": "international-arbitration-peaceful-settlement-disputes",
   "title": "International Arbitration and the Peaceful Settlement of Disputes",
-  "status": "planned",
-  "domain": "Institutions, Courts, and Dispute Settlement",
+  "seo_title": "International Arbitration and Peaceful Dispute Settlement",
+  "focus_keyword": "international arbitration",
+  "wordpress_slug": "international-arbitration-peaceful-settlement-disputes",
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/international-arbitration-and-the-peaceful-settlement-of-disputes/",
-  "repository_path": "articles/international-law/international-arbitration-peaceful-settlement-disputes",
-  "description": "Research materials for International Arbitration and the Peaceful Settlement of Disputes in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/international-arbitration-peaceful-settlement-disputes.csv"
+  "category": "Global Governance",
+  "status": "draft-ready",
+  "repository_folder": "articles/international-law/international-arbitration-peaceful-settlement-disputes",
+  "github_repository": "https://github.com/Content-Catalyst-LLC/international-law-research",
+  "excerpt": "International arbitration is one of the major legal mechanisms through which states, investors, institutions, and private actors resolve cross-border disputes without relying solely on diplomacy, unilateral pressure, or permanent courts. This article explains arbitration as part of the peaceful settlement of disputes under Article 33 of the United Nations Charter, examining consent, arbitral jurisdiction, party appointment of arbitrators, procedure, evidence, awards, enforcement, confidentiality, transparency, and institutional support. It covers the Permanent Court of Arbitration, state-to-state arbitration, maritime and boundary disputes, UNCLOS Annex VII proceedings, commercial arbitration, the New York Convention, investment arbitration, ICSID, UNCITRAL rules, and mixed claims. It also addresses legitimacy concerns, including unequal bargaining power, public-interest regulation, investor access, enforceability, cost, and Global South critique. By connecting doctrine, institutions, and practice, the article shows how arbitration advances peaceful dispute settlement while raising questions of accountability and power.",
+  "tags": [
+    "international law",
+    "international arbitration",
+    "peaceful settlement of disputes",
+    "Permanent Court of Arbitration",
+    "UNCITRAL",
+    "ICSID",
+    "New York Convention",
+    "investor-state arbitration"
+  ],
+  "previous_article": "Regional Organizations, Regional Courts, and Pluralism in International Law",
+  "previous_slug": "regional-organizations-regional-courts-pluralism-international-law",
+  "next_article": "Compliance, Enforcement, and the Limits of International Adjudication",
+  "next_slug": "compliance-enforcement-limits-international-adjudication",
+  "generated_at": "2026-06-24T02:33:07Z"
 }

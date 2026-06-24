@@ -1,12 +1,20 @@
-article_slug,tag
-,
-international-court-of-justice-judicial-settlement-of-disputes,
-international-organizations-legal-authority-global-institutions,
-regional-organizations-regional-courts-pluralism-international-law,international law
-regional-organizations-regional-courts-pluralism-international-law,regional organizations
-regional-organizations-regional-courts-pluralism-international-law,regional courts
-regional-organizations-regional-courts-pluralism-international-law,legal pluralism
-regional-organizations-regional-courts-pluralism-international-law,human rights courts
-regional-organizations-regional-courts-pluralism-international-law,regional integration
-regional-organizations-regional-courts-pluralism-international-law,global governance
-regional-organizations-regional-courts-pluralism-international-law,international institutions
+tag_id,tag,article_slug,article_title
+,,,
+,,international-court-of-justice-judicial-settlement-of-disputes,
+,,international-organizations-legal-authority-global-institutions,
+,international law,regional-organizations-regional-courts-pluralism-international-law,
+,regional organizations,regional-organizations-regional-courts-pluralism-international-law,
+,regional courts,regional-organizations-regional-courts-pluralism-international-law,
+,legal pluralism,regional-organizations-regional-courts-pluralism-international-law,
+,human rights courts,regional-organizations-regional-courts-pluralism-international-law,
+,regional integration,regional-organizations-regional-courts-pluralism-international-law,
+,global governance,regional-organizations-regional-courts-pluralism-international-law,
+,international institutions,regional-organizations-regional-courts-pluralism-international-law,
+international-arbitration-peaceful-settlement-disputes-tag-01,international law,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+international-arbitration-peaceful-settlement-disputes-tag-02,international arbitration,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+international-arbitration-peaceful-settlement-disputes-tag-03,peaceful settlement of disputes,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+international-arbitration-peaceful-settlement-disputes-tag-04,Permanent Court of Arbitration,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+international-arbitration-peaceful-settlement-disputes-tag-05,UNCITRAL,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+international-arbitration-peaceful-settlement-disputes-tag-06,ICSID,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+international-arbitration-peaceful-settlement-disputes-tag-07,New York Convention,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
+international-arbitration-peaceful-settlement-disputes-tag-08,investor-state arbitration,international-arbitration-peaceful-settlement-disputes,International Arbitration and the Peaceful Settlement of Disputes
