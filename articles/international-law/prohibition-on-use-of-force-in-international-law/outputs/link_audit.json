@@ -1,0 +1,464 @@
+{
+  "article": "prohibition-on-use-of-force-in-international-law",
+  "audit_type": "local_url_inventory",
+  "network_requests_performed": false,
+  "total_url_mentions": 84,
+  "unique_url_count": 33,
+  "unique_urls": [
+    "https://asp.icc-cpi.int/crime-of-aggression,Defines",
+    "https://digitallibrary.un.org/record/190983?ln=en",
+    "https://docs.un.org/en/A/RES/3314%28XXIX%29,Key",
+    "https://docs.un.org/en/a/res/2625%28xxv%29",
+    "https://github.com/Content-Catalyst-LLC/international-law-research/tree/main/articles/international-law/prohibition-on-use-of-force-in-international-law",
+    "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426",
+    "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426,Leading",
+    "https://global.oup.com/academic/product/the-use-of-force-in-international-law-9780198784361,Case-based",
+    "https://legal.un.org/avl/ha/da/da.html",
+    "https://legal.un.org/avl/ha/unch/unch.html",
+    "https://legal.un.org/repertory/art51.shtml",
+    "https://press.princeton.edu/books/hardcover/9780691170114/how-to-do-things-with-international-law",
+    "https://sustainablecatalyst.com/wp-content/uploads/2026/06/prohibition-use-of-force-international-law.png",
+    "https://www.bloomsbury.com/us/law-against-war-9781509949007/",
+    "https://www.bloomsbury.com/us/law-against-war-9781509949007/,Detailed",
+    "https://www.cambridge.org/core/books/armed-attack-and-article-51-of-the-un-charter/",
+    "https://www.cambridge.org/core/books/war-aggression-and-selfdefence/",
+    "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1",
+    "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1,General",
+    "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court",
+    "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court,Includes",
+    "https://www.icj-cij.org/case/116",
+    "https://www.icj-cij.org/case/131",
+    "https://www.icj-cij.org/case/186",
+    "https://www.icj-cij.org/case/70",
+    "https://www.icj-cij.org/case/90",
+    "https://www.icj-cij.org/case/95",
+    "https://www.icj-cij.org/node/103143",
+    "https://www.icj-cij.org/node/204176",
+    "https://www.un.org/en/about-us/un-charter/chapter-1",
+    "https://www.un.org/en/about-us/un-charter/chapter-7",
+    "https://www.un.org/en/about-us/un-charter/chapter-7,Security",
+    "https://www.un.org/en/about-us/un-charter/full-text"
+  ],
+  "records": [
+    {
+      "file": "data/primary_sources.csv",
+      "line": 2,
+      "url": "https://www.un.org/en/about-us/un-charter/full-text"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 3,
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-1"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 4,
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-7,Security"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 5,
+      "url": "https://docs.un.org/en/a/res/2625%28xxv%29"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 6,
+      "url": "https://docs.un.org/en/A/RES/3314%28XXIX%29,Key"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 7,
+      "url": "https://www.icj-cij.org/case/70"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 8,
+      "url": "https://www.icj-cij.org/case/90"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 9,
+      "url": "https://www.icj-cij.org/case/116"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 10,
+      "url": "https://www.icj-cij.org/case/95"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 11,
+      "url": "https://www.icj-cij.org/case/131"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 12,
+      "url": "https://www.icj-cij.org/case/186"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 13,
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court,Includes"
+    },
+    {
+      "file": "data/primary_sources.csv",
+      "line": 14,
+      "url": "https://asp.icc-cpi.int/crime-of-aggression,Defines"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "line": 2,
+      "url": "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426,Leading"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "line": 3,
+      "url": "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1,General"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "line": 4,
+      "url": "https://www.bloomsbury.com/us/law-against-war-9781509949007/,Detailed"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "line": 5,
+      "url": "https://global.oup.com/academic/product/the-use-of-force-in-international-law-9780198784361,Case-based"
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "line": 6,
+      "url": "https://press.princeton.edu/books/hardcover/9780691170114/how-to-do-things-with-international-law"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 38,
+      "url": "https://sustainablecatalyst.com/wp-content/uploads/2026/06/prohibition-use-of-force-international-law.png"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 481,
+      "url": "https://github.com/Content-Catalyst-LLC/international-law-research/tree/main/articles/international-law/prohibition-on-use-of-force-in-international-law"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 503,
+      "url": "https://www.un.org/en/about-us/un-charter/full-text"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 503,
+      "url": "https://www.un.org/en/about-us/un-charter/full-text"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 504,
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-1"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 504,
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-1"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 505,
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-7"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 505,
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-7"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 506,
+      "url": "https://legal.un.org/repertory/art51.shtml"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 506,
+      "url": "https://legal.un.org/repertory/art51.shtml"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 507,
+      "url": "https://docs.un.org/en/a/res/2625%28xxv%29"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 507,
+      "url": "https://docs.un.org/en/a/res/2625%28xxv%29"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 508,
+      "url": "https://digitallibrary.un.org/record/190983?ln=en"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 508,
+      "url": "https://digitallibrary.un.org/record/190983?ln=en"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 509,
+      "url": "https://legal.un.org/avl/ha/da/da.html"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 509,
+      "url": "https://legal.un.org/avl/ha/da/da.html"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 510,
+      "url": "https://www.icj-cij.org/case/70"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 510,
+      "url": "https://www.icj-cij.org/case/70"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 511,
+      "url": "https://www.icj-cij.org/node/103143"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 511,
+      "url": "https://www.icj-cij.org/node/103143"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 512,
+      "url": "https://www.icj-cij.org/case/95"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 512,
+      "url": "https://www.icj-cij.org/case/95"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 513,
+      "url": "https://www.icj-cij.org/case/90"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 513,
+      "url": "https://www.icj-cij.org/case/90"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 514,
+      "url": "https://www.icj-cij.org/case/116"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 514,
+      "url": "https://www.icj-cij.org/case/116"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 515,
+      "url": "https://www.icj-cij.org/case/186"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 515,
+      "url": "https://www.icj-cij.org/case/186"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 516,
+      "url": "https://www.icj-cij.org/node/204176"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 516,
+      "url": "https://www.icj-cij.org/node/204176"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 517,
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 517,
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 523,
+      "url": "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 523,
+      "url": "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 524,
+      "url": "https://www.cambridge.org/core/books/war-aggression-and-selfdefence/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 524,
+      "url": "https://www.cambridge.org/core/books/war-aggression-and-selfdefence/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 525,
+      "url": "https://www.cambridge.org/core/books/armed-attack-and-article-51-of-the-un-charter/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 525,
+      "url": "https://www.cambridge.org/core/books/armed-attack-and-article-51-of-the-un-charter/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 526,
+      "url": "https://www.bloomsbury.com/us/law-against-war-9781509949007/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 526,
+      "url": "https://www.bloomsbury.com/us/law-against-war-9781509949007/"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 527,
+      "url": "https://press.princeton.edu/books/hardcover/9780691170114/how-to-do-things-with-international-law"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 527,
+      "url": "https://press.princeton.edu/books/hardcover/9780691170114/how-to-do-things-with-international-law"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 528,
+      "url": "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 528,
+      "url": "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 529,
+      "url": "https://legal.un.org/avl/ha/unch/unch.html"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 529,
+      "url": "https://legal.un.org/avl/ha/unch/unch.html"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 535,
+      "url": "https://www.icj-cij.org/case/70"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 535,
+      "url": "https://www.icj-cij.org/case/70"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 536,
+      "url": "https://www.icj-cij.org/case/95"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 536,
+      "url": "https://www.icj-cij.org/case/95"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 537,
+      "url": "https://www.icj-cij.org/case/90"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 537,
+      "url": "https://www.icj-cij.org/case/90"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 538,
+      "url": "https://www.icj-cij.org/case/116"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 538,
+      "url": "https://www.icj-cij.org/case/116"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 539,
+      "url": "https://www.icj-cij.org/case/186"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 539,
+      "url": "https://www.icj-cij.org/case/186"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 540,
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 540,
+      "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 541,
+      "url": "https://www.un.org/en/about-us/un-charter/full-text"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 541,
+      "url": "https://www.un.org/en/about-us/un-charter/full-text"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 542,
+      "url": "https://docs.un.org/en/a/res/2625%28xxv%29"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 542,
+      "url": "https://docs.un.org/en/a/res/2625%28xxv%29"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 543,
+      "url": "https://digitallibrary.un.org/record/190983?ln=en"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 543,
+      "url": "https://digitallibrary.un.org/record/190983?ln=en"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 544,
+      "url": "https://legal.un.org/repertory/art51.shtml"
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "line": 544,
+      "url": "https://legal.un.org/repertory/art51.shtml"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "use_of_force_authorities": [
+    {
+      "authority_id": "ufa001",
+      "authority": "UN Charter Article 2(4)",
+      "legal_role": "primary rule",
+      "core_rule": "Prohibits the threat or use of force against territorial integrity or political independence",
+      "article_relevance": "Core prohibition"
+    },
+    {
+      "authority_id": "ufa002",
+      "authority": "UN Charter Article 51",
+      "legal_role": "exception",
+      "core_rule": "Preserves inherent right of individual or collective self-defense if an armed attack occurs",
+      "article_relevance": "Self-defense boundary"
+    },
+    {
+      "authority_id": "ufa003",
+      "authority": "UN Charter Chapter VII",
+      "legal_role": "collective-security pathway",
+      "core_rule": "Security Council may authorize enforcement action",
+      "article_relevance": "Council authorization"
+    },
+    {
+      "authority_id": "ufa004",
+      "authority": "Friendly Relations Declaration",
+      "legal_role": "interpretive resolution",
+      "core_rule": "Connects force, non-intervention, self-determination, and territorial integrity",
+      "article_relevance": "General Assembly elaboration"
+    },
+    {
+      "authority_id": "ufa005",
+      "authority": "Definition of Aggression",
+      "legal_role": "institutional definition",
+      "core_rule": "Lists acts that may qualify as aggression",
+      "article_relevance": "Aggression framework"
+    },
+    {
+      "authority_id": "ufa006",
+      "authority": "Nicaragua",
+      "legal_role": "ICJ jurisprudence",
+      "core_rule": "Separates use of force, armed attack, and intervention",
+      "article_relevance": "Proxy force and collective self-defense"
+    },
+    {
+      "authority_id": "ufa007",
+      "authority": "Oil Platforms",
+      "legal_role": "ICJ jurisprudence",
+      "core_rule": "Emphasizes evidentiary burden, necessity, and proportionality",
+      "article_relevance": "Self-defense analysis"
+    },
+    {
+      "authority_id": "ufa008",
+      "authority": "Armed Activities",
+      "legal_role": "ICJ jurisprudence",
+      "core_rule": "Addresses unlawful force, occupation, and responsibility",
+      "article_relevance": "Territorial intervention and occupation"
+    }
+  ],
+  "exceptions_framework": [
+    {
+      "exception_id": "ex001",
+      "claimed_basis": "Security Council authorization",
+      "legal_status": "Charter-recognized",
+      "required_showing": "Valid Council mandate under Chapter VII or related authority",
+      "main_risk": "Mandate creep or contested interpretation"
+    },
+    {
+      "exception_id": "ex002",
+      "claimed_basis": "Individual self-defense",
+      "legal_status": "Charter-recognized",
+      "required_showing": "Armed attack, necessity, proportionality, reporting",
+      "main_risk": "Expansion into preventive or retaliatory force"
+    },
+    {
+      "exception_id": "ex003",
+      "claimed_basis": "Collective self-defense",
+      "legal_status": "Charter-recognized",
+      "required_showing": "Armed attack on victim state and request for assistance",
+      "main_risk": "Alliance warfare disguised as defense"
+    },
+    {
+      "exception_id": "ex004",
+      "claimed_basis": "Consent by territorial state",
+      "legal_status": "Potentially lawful outside Article 2(4) if valid",
+      "required_showing": "Valid consent from competent government within lawful limits",
+      "main_risk": "Coerced, contested, or ultra vires consent"
+    },
+    {
+      "exception_id": "ex005",
+      "claimed_basis": "Humanitarian intervention without Council authorization",
+      "legal_status": "Highly contested",
+      "required_showing": "Claimed necessity to prevent mass atrocity",
+      "main_risk": "Undermines Charter if used as unilateral license"
+    },
+    {
+      "exception_id": "ex006",
+      "claimed_basis": "Protection of nationals abroad",
+      "legal_status": "Contested",
+      "required_showing": "Narrow rescue claim, necessity, proportionality",
+      "main_risk": "Pretext for intervention"
+    },
+    {
+      "exception_id": "ex007",
+      "claimed_basis": "Counterterrorism against non-state actors",
+      "legal_status": "Contested at margins",
+      "required_showing": "Armed attack attribution/unwilling-unable arguments, necessity, proportionality",
+      "main_risk": "Erosion of territorial sovereignty"
+    }
+  ],
+  "case_matrix": [
+    {
+      "case_id": "case001",
+      "case_or_authority": "Nicaragua",
+      "forum": "ICJ",
+      "year": "1986",
+      "issue": "Use of force, intervention, self-defense",
+      "use_of_force_significance": "Leading authority separating armed attack from lesser uses of force"
+    },
+    {
+      "case_id": "case002",
+      "case_or_authority": "Oil Platforms",
+      "forum": "ICJ",
+      "year": "2003",
+      "issue": "Self-defense and evidence",
+      "use_of_force_significance": "Strict scrutiny of necessity and proportionality claims"
+    },
+    {
+      "case_id": "case003",
+      "case_or_authority": "Armed Activities",
+      "forum": "ICJ",
+      "year": "2005",
+      "issue": "Intervention and occupation",
+      "use_of_force_significance": "Condemns unlawful use of force and occupation-related responsibility"
+    },
+    {
+      "case_id": "case004",
+      "case_or_authority": "Nuclear Weapons",
+      "forum": "ICJ",
+      "year": "1996",
+      "issue": "Threat or use of nuclear weapons",
+      "use_of_force_significance": "Links threats of force, self-defense, and humanitarian law"
+    },
+    {
+      "case_id": "case005",
+      "case_or_authority": "Wall Advisory Opinion",
+      "forum": "ICJ",
+      "year": "2004",
+      "issue": "Occupation and self-determination",
+      "use_of_force_significance": "Relevant to territorial status, non-recognition, and unlawful situations"
+    },
+    {
+      "case_id": "case006",
+      "case_or_authority": "Occupied Palestinian Territory Advisory Opinion",
+      "forum": "ICJ",
+      "year": "2024",
+      "issue": "Occupation, annexation, self-determination",
+      "use_of_force_significance": "Contemporary authority on legal consequences of unlawful presence"
+    }
+  ]
+}

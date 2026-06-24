@@ -1,0 +1,8 @@
+exception_id,claimed_basis,legal_status,required_showing,main_risk
+ex001,Security Council authorization,Charter-recognized,Valid Council mandate under Chapter VII or related authority,Mandate creep or contested interpretation
+ex002,Individual self-defense,Charter-recognized,"Armed attack, necessity, proportionality, reporting",Expansion into preventive or retaliatory force
+ex003,Collective self-defense,Charter-recognized,Armed attack on victim state and request for assistance,Alliance warfare disguised as defense
+ex004,Consent by territorial state,Potentially lawful outside Article 2(4) if valid,Valid consent from competent government within lawful limits,"Coerced, contested, or ultra vires consent"
+ex005,Humanitarian intervention without Council authorization,Highly contested,Claimed necessity to prevent mass atrocity,Undermines Charter if used as unilateral license
+ex006,Protection of nationals abroad,Contested,"Narrow rescue claim, necessity, proportionality",Pretext for intervention
+ex007,Counterterrorism against non-state actors,Contested at margins,"Armed attack attribution/unwilling-unable arguments, necessity, proportionality",Erosion of territorial sovereignty

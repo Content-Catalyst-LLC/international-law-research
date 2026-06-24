@@ -1,0 +1,9 @@
+authority_id,authority,legal_role,core_rule,article_relevance
+ufa001,UN Charter Article 2(4),primary rule,Prohibits the threat or use of force against territorial integrity or political independence,Core prohibition
+ufa002,UN Charter Article 51,exception,Preserves inherent right of individual or collective self-defense if an armed attack occurs,Self-defense boundary
+ufa003,UN Charter Chapter VII,collective-security pathway,Security Council may authorize enforcement action,Council authorization
+ufa004,Friendly Relations Declaration,interpretive resolution,"Connects force, non-intervention, self-determination, and territorial integrity",General Assembly elaboration
+ufa005,Definition of Aggression,institutional definition,Lists acts that may qualify as aggression,Aggression framework
+ufa006,Nicaragua,ICJ jurisprudence,"Separates use of force, armed attack, and intervention",Proxy force and collective self-defense
+ufa007,Oil Platforms,ICJ jurisprudence,"Emphasizes evidentiary burden, necessity, and proportionality",Self-defense analysis
+ufa008,Armed Activities,ICJ jurisprudence,"Addresses unlawful force, occupation, and responsibility",Territorial intervention and occupation
