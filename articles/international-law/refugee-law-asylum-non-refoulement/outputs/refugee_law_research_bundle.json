@@ -1,0 +1,238 @@
+{
+  "article": "Refugee Law, Asylum, and the Principle of Non-Refoulement",
+  "slug": "refugee-law-asylum-non-refoulement",
+  "matrices": {
+    "framework": [
+      {
+        "component": "Refugee definition",
+        "legal_source": "1951 Refugee Convention Article 1A(2)",
+        "core_question": "Does the person have a well-founded fear of persecution for a Convention ground?",
+        "lawyer_use": "Structure eligibility, credibility, nexus, and country-condition analysis."
+      },
+      {
+        "component": "Non-refoulement",
+        "legal_source": "1951 Refugee Convention Article 33; CAT Article 3; human-rights law",
+        "core_question": "Would removal expose the person to persecution, torture, inhuman treatment, or threats to life?",
+        "lawyer_use": "Analyze return risk, destination conditions, assurances, and chain refoulement."
+      },
+      {
+        "component": "Exclusion",
+        "legal_source": "1951 Refugee Convention Article 1F",
+        "core_question": "Is the applicant excluded because of serious crimes or acts contrary to UN principles?",
+        "lawyer_use": "Separate protection need from eligibility limits and criminal accountability."
+      },
+      {
+        "component": "Cessation",
+        "legal_source": "1951 Refugee Convention Article 1C",
+        "core_question": "Have circumstances changed so materially and durably that protection is no longer required?",
+        "lawyer_use": "Assess status-review and return arguments."
+      },
+      {
+        "component": "Complementary protection",
+        "legal_source": "CAT, ICCPR, regional human rights instruments, domestic statutes",
+        "core_question": "Is protection required even if Convention refugee status is not established?",
+        "lawyer_use": "Preserve non-return claims under human-rights law."
+      }
+    ],
+    "non_refoulement": [
+      {
+        "pathway": "Convention non-refoulement",
+        "source": "1951 Refugee Convention Article 33",
+        "threshold": "Threat to life or freedom on account of protected ground",
+        "common_issue": "Exceptions, danger to community, serious crimes, chain refoulement"
+      },
+      {
+        "pathway": "Torture non-refoulement",
+        "source": "Convention Against Torture Article 3",
+        "threshold": "Substantial grounds for believing the person would be in danger of torture",
+        "common_issue": "Diplomatic assurances, individualized risk, state custody or acquiescence"
+      },
+      {
+        "pathway": "Life and ill-treatment protection",
+        "source": "ICCPR and regional human-rights instruments",
+        "threshold": "Real risk of arbitrary deprivation of life or cruel, inhuman, or degrading treatment",
+        "common_issue": "Complementary protection where refugee definition is not met"
+      },
+      {
+        "pathway": "Maritime and border interception",
+        "source": "Refugee law and human-rights jurisdiction doctrine",
+        "threshold": "Effective control or jurisdiction triggering protection duties",
+        "common_issue": "Pushbacks, interdiction, externalization, access to procedure"
+      },
+      {
+        "pathway": "Chain refoulement",
+        "source": "Refugee and human-rights non-refoulement",
+        "threshold": "Risk of indirect transfer to persecution or serious harm",
+        "common_issue": "Safe third country analysis and reception conditions"
+      }
+    ],
+    "protection_pathways": [
+      {
+        "pathway": "Asylum / refugee status",
+        "purpose": "Recognition and protection for Convention refugees",
+        "key_institution": "National asylum authorities; UNHCR in some settings",
+        "risk": "Procedural barriers, credibility bias, unsafe return"
+      },
+      {
+        "pathway": "Complementary protection",
+        "purpose": "Protection from torture, death, inhuman treatment, or serious harm",
+        "key_institution": "National authorities; courts; human-rights bodies",
+        "risk": "Narrow thresholds or temporary status insecurity"
+      },
+      {
+        "pathway": "Temporary protection",
+        "purpose": "Group-based short-term protection during mass influx",
+        "key_institution": "States and regional systems",
+        "risk": "Prolonged limbo and unequal access to durable status"
+      },
+      {
+        "pathway": "Resettlement",
+        "purpose": "Third-country durable solution for vulnerable refugees",
+        "key_institution": "UNHCR and resettlement states",
+        "risk": "Insufficient quotas and long wait times"
+      },
+      {
+        "pathway": "Voluntary repatriation",
+        "purpose": "Return in safety and dignity when conditions permit",
+        "key_institution": "UNHCR, origin and host states",
+        "risk": "Premature or coerced return"
+      },
+      {
+        "pathway": "Local integration",
+        "purpose": "Long-term residence and rights in host state",
+        "key_institution": "Host-state institutions",
+        "risk": "Political resistance and limited rights access"
+      }
+    ],
+    "primary_authorities": [
+      {
+        "source_id": "primary_001",
+        "source_title": "Convention relating to the Status of Refugees",
+        "source_type": "treaty",
+        "institution": "United Nations / UNHCR",
+        "year": "1951",
+        "url": "https://www.unhcr.org/media/convention-and-protocol-relating-status-refugees",
+        "notes": "Core refugee treaty; includes Article 33 non-refoulement."
+      },
+      {
+        "source_id": "primary_002",
+        "source_title": "Protocol relating to the Status of Refugees",
+        "source_type": "treaty",
+        "institution": "United Nations / UNHCR",
+        "year": "1967",
+        "url": "https://www.unhcr.org/media/convention-and-protocol-relating-status-refugees",
+        "notes": "Removes temporal and geographic limits from the 1951 framework for parties."
+      },
+      {
+        "source_id": "primary_003",
+        "source_title": "UNHCR Handbook on Procedures and Criteria for Determining Refugee Status",
+        "source_type": "institutional guidance",
+        "institution": "UNHCR",
+        "year": "2019",
+        "url": "https://www.unhcr.org/media/handbook-procedures-and-criteria-determining-refugee-status-under-1951-convention-and-1967",
+        "notes": "Leading interpretive guide for refugee status determination."
+      },
+      {
+        "source_id": "primary_004",
+        "source_title": "Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment",
+        "source_type": "treaty",
+        "institution": "OHCHR",
+        "year": "1984",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading",
+        "notes": "Article 3 prohibits return to a state where there are substantial grounds for believing a person would be in danger of torture."
+      },
+      {
+        "source_id": "primary_005",
+        "source_title": "International Covenant on Civil and Political Rights",
+        "source_type": "treaty",
+        "institution": "OHCHR",
+        "year": "1966",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights",
+        "notes": "Supports human-rights non-refoulement through rights to life, liberty, and freedom from cruel treatment."
+      },
+      {
+        "source_id": "primary_006",
+        "source_title": "Global Compact on Refugees",
+        "source_type": "UN framework",
+        "institution": "United Nations / UNHCR",
+        "year": "2018",
+        "url": "https://globalcompactrefugees.org/about/what-global-compact-refugees",
+        "notes": "Responsibility-sharing framework for refugee protection and durable solutions."
+      },
+      {
+        "source_id": "primary_007",
+        "source_title": "Cartagena Declaration on Refugees",
+        "source_type": "regional declaration",
+        "institution": "Latin American states / UNHCR context",
+        "year": "1984",
+        "url": "https://www.unhcr.org/media/cartagena-declaration-refugees-adopted-colloquium-international-protection-refugees-central",
+        "notes": "Influential expanded regional refugee definition."
+      },
+      {
+        "source_id": "primary_008",
+        "source_title": "OAU Convention Governing the Specific Aspects of Refugee Problems in Africa",
+        "source_type": "regional treaty",
+        "institution": "Organization of African Unity / African Union",
+        "year": "1969",
+        "url": "https://au.int/en/treaties/oau-convention-governing-specific-aspects-refugee-problems-africa",
+        "notes": "Regional African refugee treaty with expanded definition."
+      }
+    ],
+    "further_reading": [
+      {
+        "source_id": "secondary_001",
+        "author": "Hathaway, J.C. and Foster, M.",
+        "year": "2014",
+        "title": "The Law of Refugee Status",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/law-of-refugee-status/2D4E6E0CE2B9739088419DF84E4D5E5D",
+        "notes": "Major doctrinal treatment of refugee definition and status."
+      },
+      {
+        "source_id": "secondary_002",
+        "author": "Goodwin-Gill, G.S. and McAdam, J.",
+        "year": "2021",
+        "title": "The Refugee in International Law",
+        "publisher": "Oxford University Press",
+        "url": "https://global.oup.com/academic/product/the-refugee-in-international-law-9780198808565",
+        "notes": "Leading treatise on refugee law and non-refoulement."
+      },
+      {
+        "source_id": "secondary_003",
+        "author": "Foster, M.",
+        "year": "2007",
+        "title": "International Refugee Law and Socio-Economic Rights",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/international-refugee-law-and-socioeconomic-rights/25E513CF67238940645BA99B8D2E517F",
+        "notes": "Important work on socio-economic persecution and refugee protection."
+      },
+      {
+        "source_id": "secondary_004",
+        "author": "McAdam, J.",
+        "year": "2007",
+        "title": "Complementary Protection in International Refugee Law",
+        "publisher": "Oxford University Press",
+        "url": "https://global.oup.com/academic/product/complementary-protection-in-international-refugee-law-9780199203062",
+        "notes": "Key source on non-refoulement beyond the Refugee Convention."
+      },
+      {
+        "source_id": "secondary_005",
+        "author": "UNHCR",
+        "year": "2023",
+        "title": "Global Trends: Forced Displacement",
+        "publisher": "UNHCR",
+        "url": "https://www.unhcr.org/global-trends",
+        "notes": "Current institutional data and analysis on displacement."
+      },
+      {
+        "source_id": "secondary_006",
+        "author": "OHCHR",
+        "year": "n.d.",
+        "title": "Migration and Human Rights",
+        "publisher": "OHCHR",
+        "url": "https://www.ohchr.org/en/migration",
+        "notes": "Human-rights framing for migration, borders, and protection."
+      }
+    ]
+  }
+}
