@@ -1,0 +1,230 @@
+{
+  "article": "Statelessness, Nationality, and International Protection",
+  "primary_authorities": [
+    {
+      "source_id": "stateless-1954",
+      "source_title": "Convention relating to the Status of Stateless Persons",
+      "source_type": "Treaty",
+      "institution": "United Nations",
+      "year": "1954",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-relating-status-stateless-persons",
+      "notes": "Defines stateless person and creates protection standards for persons not recognized as nationals by any state."
+    },
+    {
+      "source_id": "reduction-1961",
+      "source_title": "Convention on the Reduction of Statelessness",
+      "source_type": "Treaty",
+      "institution": "United Nations",
+      "year": "1961",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-reduction-statelessness",
+      "notes": "Framework for preventing statelessness at birth, in loss of nationality, and in state succession contexts."
+    },
+    {
+      "source_id": "udhr-1948",
+      "source_title": "Universal Declaration of Human Rights",
+      "source_type": "Declaration",
+      "institution": "United Nations General Assembly",
+      "year": "1948",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "notes": "Article 15 recognizes the right to a nationality and protection against arbitrary deprivation."
+    },
+    {
+      "source_id": "iccpr-1966",
+      "source_title": "International Covenant on Civil and Political Rights",
+      "source_type": "Treaty",
+      "institution": "OHCHR",
+      "year": "1966",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights",
+      "notes": "Protects legal personality, equality, family life, child registration, and related rights."
+    },
+    {
+      "source_id": "crc-1989",
+      "source_title": "Convention on the Rights of the Child",
+      "source_type": "Treaty",
+      "institution": "OHCHR",
+      "year": "1989",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child",
+      "notes": "Article 7 addresses birth registration, name, and nationality for children."
+    },
+    {
+      "source_id": "cedaw-1979",
+      "source_title": "Convention on the Elimination of All Forms of Discrimination against Women",
+      "source_type": "Treaty",
+      "institution": "OHCHR",
+      "year": "1979",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women",
+      "notes": "Article 9 addresses equality in nationality law and transmission of nationality to children."
+    },
+    {
+      "source_id": "cerd-1965",
+      "source_title": "International Convention on the Elimination of All Forms of Racial Discrimination",
+      "source_type": "Treaty",
+      "institution": "OHCHR",
+      "year": "1965",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-convention-elimination-all-forms-racial",
+      "notes": "Important for racialized nationality denial and discrimination in citizenship regimes."
+    },
+    {
+      "source_id": "unhcr-conventions",
+      "source_title": "UN Conventions on Statelessness",
+      "source_type": "Institutional guidance",
+      "institution": "UNHCR",
+      "year": "n.d.",
+      "url": "https://www.unhcr.org/us/what-we-do/protect-human-rights/ending-statelessness/un-conventions-statelessness",
+      "notes": "UNHCR overview of the 1954 and 1961 statelessness conventions."
+    },
+    {
+      "source_id": "unhcr-handbook",
+      "source_title": "Handbook on Protection of Stateless Persons",
+      "source_type": "Institutional guidance",
+      "institution": "UNHCR",
+      "year": "2014",
+      "url": "https://www.unhcr.org/media/handbook-protection-stateless-persons",
+      "notes": "Guidance on definition, status determination, and protection for stateless persons."
+    },
+    {
+      "source_id": "global-action-2",
+      "source_title": "Global Action Plan to End Statelessness 2.0",
+      "source_type": "Institutional strategy",
+      "institution": "UNHCR",
+      "year": "2024",
+      "url": "https://www.unhcr.org/ibelong/global-action-plan/",
+      "notes": "Current UNHCR strategy for reducing and preventing statelessness."
+    }
+  ],
+  "further_reading": [
+    {
+      "source_id": "blitz-lynch",
+      "author": "Blitz, B. and Lynch, M. (eds.)",
+      "year": "2011",
+      "title": "Statelessness and Citizenship: A Comparative Study on the Benefits of Nationality",
+      "publisher": "Edward Elgar",
+      "url": "https://www.e-elgar.com/shop/gbp/statelessness-and-citizenship-9781849800672.html",
+      "notes": "Comparative study of nationality, exclusion, and practical consequences of statelessness."
+    },
+    {
+      "source_id": "edwards-waas",
+      "author": "Edwards, A. and van Waas, L. (eds.)",
+      "year": "2014",
+      "title": "Nationality and Statelessness under International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/nationality-and-statelessness-under-international-law/6C62F3228A58909BC0AE6C728C81A47E",
+      "notes": "Major scholarly collection on nationality, statelessness, and international protection."
+    },
+    {
+      "source_id": "van-waas",
+      "author": "van Waas, L.",
+      "year": "2008",
+      "title": "Nationality Matters: Statelessness under International Law",
+      "publisher": "Intersentia",
+      "url": "https://intersentia.com/en/nationality-matters.html",
+      "notes": "Foundational monograph on statelessness doctrine and international law."
+    },
+    {
+      "source_id": "kingston",
+      "author": "Kingston, L.N.",
+      "year": "2019",
+      "title": "Fully Human: Personhood, Citizenship and Rights",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/fully-human-9780190638277",
+      "notes": "Connects statelessness, personhood, dignity, and human rights."
+    },
+    {
+      "source_id": "unhcr-good-practices",
+      "author": "UNHCR",
+      "year": "2021",
+      "title": "Good Practices Paper: Action 6 - Establishing Statelessness Determination Procedures",
+      "publisher": "UNHCR",
+      "url": "https://www.refworld.org/policy/opguidance/unhcr/2021/en/123548",
+      "notes": "Practical guidance on determination procedures and protection pathways."
+    }
+  ],
+  "statelessness_framework": [
+    {
+      "concept": "Stateless person",
+      "legal_source": "1954 Convention Article 1",
+      "core_question": "Is the person not considered a national by any state under the operation of its law?",
+      "practice_use": "Threshold classification for protection and determination procedures."
+    },
+    {
+      "concept": "Right to nationality",
+      "legal_source": "UDHR Article 15; ICCPR/CRC/CEDAW principles",
+      "core_question": "Has nationality been denied, withheld, or arbitrarily deprived?",
+      "practice_use": "Frame claims involving legal identity, birth registration, and citizenship exclusion."
+    },
+    {
+      "concept": "Childhood statelessness",
+      "legal_source": "1961 Convention; CRC Article 7",
+      "core_question": "Was the child able to acquire a nationality at birth or soon after birth?",
+      "practice_use": "Assess birth registration, foundling rules, and safeguards against inherited statelessness."
+    },
+    {
+      "concept": "Gender discrimination",
+      "legal_source": "CEDAW Article 9",
+      "core_question": "Do nationality laws discriminate in transmission, retention, or spouse/child nationality?",
+      "practice_use": "Challenge unequal citizenship regimes and intergenerational statelessness."
+    },
+    {
+      "concept": "Racial or ethnic exclusion",
+      "legal_source": "CERD; human rights equality norms",
+      "core_question": "Are nationality rules or practices excluding racial, ethnic, religious, or linguistic groups?",
+      "practice_use": "Analyze structural discrimination and arbitrary deprivation."
+    },
+    {
+      "concept": "Denationalization",
+      "legal_source": "UDHR Article 15; human rights due process",
+      "core_question": "Has nationality been stripped arbitrarily or without safeguards?",
+      "practice_use": "Assess security-based citizenship deprivation and exile-by-law."
+    },
+    {
+      "concept": "Statelessness determination",
+      "legal_source": "UNHCR Handbook and national law",
+      "core_question": "Is there a fair procedure to identify and protect stateless persons?",
+      "practice_use": "Build administrative, litigation, or advisory pathways."
+    }
+  ],
+  "protection_pathways": [
+    {
+      "pathway": "Statelessness determination procedure",
+      "trigger": "Person lacks recognized nationality",
+      "institutional_actor": "Administrative authority or court",
+      "legal_question": "Does the person meet the Article 1 definition?",
+      "output": "Status recognition and protection against removal limbo."
+    },
+    {
+      "pathway": "Birth registration intervention",
+      "trigger": "Child born without proof of legal identity",
+      "institutional_actor": "Civil registry, child-protection authority, court",
+      "legal_question": "Can birth registration and nationality safeguards prevent statelessness?",
+      "output": "Registration, documentation, or nationality recognition."
+    },
+    {
+      "pathway": "Gender-equality challenge",
+      "trigger": "Mother cannot transmit nationality equally",
+      "institutional_actor": "Court, treaty body, legislature",
+      "legal_question": "Does nationality law discriminate contrary to CEDAW/equality norms?",
+      "output": "Legal reform, remedy, or individual recognition."
+    },
+    {
+      "pathway": "Anti-discrimination claim",
+      "trigger": "Ethnic or religious group excluded from citizenship",
+      "institutional_actor": "Court, treaty body, human rights mechanism",
+      "legal_question": "Is exclusion arbitrary or discriminatory?",
+      "output": "Recognition, remedy, monitoring, or advocacy record."
+    },
+    {
+      "pathway": "Refugee/stateless overlap assessment",
+      "trigger": "Person is both stateless and displaced",
+      "institutional_actor": "Asylum authority, UNHCR, court",
+      "legal_question": "Does refugee law, statelessness law, or complementary protection apply?",
+      "output": "Protection status and non-removal safeguards."
+    },
+    {
+      "pathway": "Detention/removal challenge",
+      "trigger": "Person cannot be removed because no state recognizes them",
+      "institutional_actor": "Court, immigration authority",
+      "legal_question": "Is detention arbitrary when removal is not reasonably foreseeable?",
+      "output": "Release, status regularization, or alternative measures."
+    }
+  ]
+}

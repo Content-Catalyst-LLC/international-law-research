@@ -1,13 +1,22 @@
 {
-  "slug": "statelessness-nationality-and-international-protection",
-  "folder_slug": "statelessness-nationality-international-protection",
-  "title": "Statelessness, Nationality, and International Protection",
-  "status": "planned",
-  "domain": "Human Rights, Refugees, and Protection",
+  "actual_title": "Statelessness, Nationality, and International Protection",
+  "seo_title": "Statelessness, Nationality, and International Protection",
+  "focus_keyword": "statelessness",
+  "slug": "statelessness-nationality-international-protection",
+  "excerpt": "Statelessness, nationality, and international protection explain how international law protects people who are not recognized as nationals by any state or who are at risk of losing legal belonging. This article examines the 1954 Convention relating to the Status of Stateless Persons, the 1961 Convention on the Reduction of Statelessness, the right to a nationality, arbitrary deprivation of nationality, birth registration, childhood statelessness, gender discrimination in nationality law, racialized exclusion, denationalization, state succession, stateless refugees, statelessness determination procedures, detention, removal limbo, documentation, and access to rights. It also addresses UNHCR protection, human rights treaty bodies, regional systems, migration control, security policy, decolonization, and contemporary citizenship crises. By connecting doctrine, institutions, case studies, and lawyer-facing workflows, it shows how nationality can function as both legal protection and a gatekeeping mechanism.",
+  "tags": [
+    "international law",
+    "statelessness",
+    "nationality",
+    "international protection",
+    "UNHCR",
+    "right to nationality",
+    "migration law",
+    "human rights"
+  ],
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/statelessness-nationality-and-international-protection/",
-  "repository_path": "articles/international-law/statelessness-nationality-international-protection",
-  "description": "Research materials for Statelessness, Nationality, and International Protection in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/statelessness-nationality-international-protection.csv"
+  "section": "International Human Rights Law",
+  "previous_article": "Refugee Law, Asylum, and the Principle of Non-Refoulement",
+  "next_article": "Children’s Rights and the Rights of the Child in International Law",
+  "repository_folder": "articles/international-law/statelessness-nationality-international-protection"
 }

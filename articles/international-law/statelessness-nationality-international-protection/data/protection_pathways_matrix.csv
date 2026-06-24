@@ -1,0 +1,7 @@
+pathway,trigger,institutional_actor,legal_question,output
+Statelessness determination procedure,Person lacks recognized nationality,Administrative authority or court,Does the person meet the Article 1 definition?,Status recognition and protection against removal limbo.
+Birth registration intervention,Child born without proof of legal identity,"Civil registry, child-protection authority, court",Can birth registration and nationality safeguards prevent statelessness?,"Registration, documentation, or nationality recognition."
+Gender-equality challenge,Mother cannot transmit nationality equally,"Court, treaty body, legislature",Does nationality law discriminate contrary to CEDAW/equality norms?,"Legal reform, remedy, or individual recognition."
+Anti-discrimination claim,Ethnic or religious group excluded from citizenship,"Court, treaty body, human rights mechanism",Is exclusion arbitrary or discriminatory?,"Recognition, remedy, monitoring, or advocacy record."
+Refugee/stateless overlap assessment,Person is both stateless and displaced,"Asylum authority, UNHCR, court","Does refugee law, statelessness law, or complementary protection apply?",Protection status and non-removal safeguards.
+Detention/removal challenge,Person cannot be removed because no state recognizes them,"Court, immigration authority",Is detention arbitrary when removal is not reasonably foreseeable?,"Release, status regularization, or alternative measures."
