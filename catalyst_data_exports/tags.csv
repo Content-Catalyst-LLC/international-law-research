@@ -1,9 +1,17 @@
-tag_key,article_slug,tag
-self-defense-collective-security-un-charter-framework__international law,self-defense-collective-security-un-charter-framework,international law
-self-defense-collective-security-un-charter-framework__self-defense,self-defense-collective-security-un-charter-framework,self-defense
-self-defense-collective-security-un-charter-framework__collective security,self-defense-collective-security-un-charter-framework,collective security
-self-defense-collective-security-un-charter-framework__UN Charter,self-defense-collective-security-un-charter-framework,UN Charter
-self-defense-collective-security-un-charter-framework__Article 51,self-defense-collective-security-un-charter-framework,Article 51
-self-defense-collective-security-un-charter-framework__use of force,self-defense-collective-security-un-charter-framework,use of force
-self-defense-collective-security-un-charter-framework__Security Council,self-defense-collective-security-un-charter-framework,Security Council
-self-defense-collective-security-un-charter-framework__armed attack,self-defense-collective-security-un-charter-framework,armed attack
+article_id,tag,tag_key,article_slug
+,international law,self-defense-collective-security-un-charter-framework__international law,self-defense-collective-security-un-charter-framework
+,self-defense,self-defense-collective-security-un-charter-framework__self-defense,self-defense-collective-security-un-charter-framework
+,collective security,self-defense-collective-security-un-charter-framework__collective security,self-defense-collective-security-un-charter-framework
+,UN Charter,self-defense-collective-security-un-charter-framework__UN Charter,self-defense-collective-security-un-charter-framework
+,Article 51,self-defense-collective-security-un-charter-framework__Article 51,self-defense-collective-security-un-charter-framework
+,use of force,self-defense-collective-security-un-charter-framework__use of force,self-defense-collective-security-un-charter-framework
+,Security Council,self-defense-collective-security-un-charter-framework__Security Council,self-defense-collective-security-un-charter-framework
+,armed attack,self-defense-collective-security-un-charter-framework__armed attack,self-defense-collective-security-un-charter-framework
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,international law,,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,humanitarian intervention,,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,responsibility to protect,,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,R2P,,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,sovereignty,,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,use of force,,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,Security Council,,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,atrocity prevention,,

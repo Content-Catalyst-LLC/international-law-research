@@ -1,0 +1,283 @@
+{
+  "article": "Humanitarian Intervention, Responsibility to Protect, and the Limits of Sovereignty",
+  "primary_sources": [
+    {
+      "source_id": "un-charter-1945",
+      "source_title": "Charter of the United Nations",
+      "source_type": "treaty",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Core Charter framework for sovereignty, non-intervention, use of force, Security Council authority, and collective security."
+    },
+    {
+      "source_id": "un-charter-art-2-4",
+      "source_title": "UN Charter Article 2(4): Prohibition on the threat or use of force",
+      "source_type": "treaty provision",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "notes": "Prohibits the threat or use of force against the territorial integrity or political independence of any state."
+    },
+    {
+      "source_id": "un-charter-chapter-vii",
+      "source_title": "UN Charter Chapter VII",
+      "source_type": "treaty chapter",
+      "institution": "United Nations",
+      "year": "1945",
+      "url": "https://www.un.org/en/about-us/un-charter/chapter-7",
+      "notes": "Framework for Security Council action with respect to threats to peace, breaches of peace, and acts of aggression."
+    },
+    {
+      "source_id": "un-world-summit-2005",
+      "source_title": "2005 World Summit Outcome",
+      "source_type": "general assembly resolution",
+      "institution": "United Nations General Assembly",
+      "year": "2005",
+      "url": "https://docs.un.org/en/A/RES/60/1",
+      "notes": "Canonical UN formulation of the responsibility to protect in paragraphs 138 and 139."
+    },
+    {
+      "source_id": "sc-res-1674-2006",
+      "source_title": "Security Council Resolution 1674 on Protection of Civilians in Armed Conflict",
+      "source_type": "security council resolution",
+      "institution": "United Nations Security Council",
+      "year": "2006",
+      "url": "https://docs.un.org/en/S/RES/1674(2006)",
+      "notes": "Reaffirms provisions of the 2005 World Summit Outcome concerning responsibility to protect populations."
+    },
+    {
+      "source_id": "sc-res-1973-2011",
+      "source_title": "Security Council Resolution 1973 concerning Libya",
+      "source_type": "security council resolution",
+      "institution": "United Nations Security Council",
+      "year": "2011",
+      "url": "https://docs.un.org/en/S/RES/1973(2011)",
+      "notes": "Authorizes measures to protect civilians in Libya and remains central to debates over R2P mandate discipline."
+    },
+    {
+      "source_id": "unga-definition-aggression-3314",
+      "source_title": "Definition of Aggression, General Assembly Resolution 3314",
+      "source_type": "general assembly resolution",
+      "institution": "United Nations General Assembly",
+      "year": "1974",
+      "url": "https://docs.un.org/en/A/RES/3314(XXIX)",
+      "notes": "Defines aggression and helps distinguish lawful security claims from unlawful force."
+    },
+    {
+      "source_id": "icj-nicaragua-1986",
+      "source_title": "Military and Paramilitary Activities in and against Nicaragua",
+      "source_type": "case",
+      "institution": "International Court of Justice",
+      "year": "1986",
+      "url": "https://www.icj-cij.org/case/70",
+      "notes": "Foundational ICJ authority on non-intervention, use of force, and limits on unilateral coercion."
+    },
+    {
+      "source_id": "icj-oil-platforms-2003",
+      "source_title": "Oil Platforms (Islamic Republic of Iran v. United States of America)",
+      "source_type": "case",
+      "institution": "International Court of Justice",
+      "year": "2003",
+      "url": "https://www.icj-cij.org/case/90",
+      "notes": "Important ICJ treatment of self-defense, necessity, and proportionality."
+    },
+    {
+      "source_id": "icj-armed-activities-2005",
+      "source_title": "Armed Activities on the Territory of the Congo",
+      "source_type": "case",
+      "institution": "International Court of Justice",
+      "year": "2005",
+      "url": "https://www.icj-cij.org/case/116",
+      "notes": "Major ICJ authority on use of force, occupation, and violations of sovereignty."
+    },
+    {
+      "source_id": "un-r2p-office",
+      "source_title": "United Nations Office on Genocide Prevention and the Responsibility to Protect",
+      "source_type": "institutional resource",
+      "institution": "United Nations",
+      "year": "n.d.",
+      "url": "https://www.un.org/en/genocideprevention/about-responsibility-to-protect.shtml",
+      "notes": "Official UN resource explaining the responsibility to protect and its three pillars."
+    },
+    {
+      "source_id": "sg-implementing-r2p-2009",
+      "source_title": "Implementing the Responsibility to Protect",
+      "source_type": "secretary-general report",
+      "institution": "United Nations Secretary-General",
+      "year": "2009",
+      "url": "https://docs.un.org/en/A/63/677",
+      "notes": "Secretary-General report elaborating the three-pillar strategy for implementing R2P."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "secondary-evans-2008",
+      "author": "Evans",
+      "year": "2008",
+      "title": "The Responsibility to Protect: Ending Mass Atrocity Crimes Once and For All",
+      "publisher": "Brookings Institution Press",
+      "url": "https://www.brookings.edu/books/the-responsibility-to-protect/",
+      "notes": "Major policy and scholarly treatment of R2P."
+    },
+    {
+      "source_id": "secondary-bellamy-2009",
+      "author": "Bellamy",
+      "year": "2009",
+      "title": "Responsibility to Protect: The Global Effort to End Mass Atrocities",
+      "publisher": "Polity",
+      "url": "https://www.politybooks.com/bookdetail?book_slug=responsibility-to-protect-the-global-effort-to-end-mass-atrocities--9780745643472",
+      "notes": "Accessible major treatment of R2P history and practice."
+    },
+    {
+      "source_id": "secondary-orford-2011",
+      "author": "Orford",
+      "year": "2011",
+      "title": "International Authority and the Responsibility to Protect",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/international-authority-and-the-responsibility-to-protect/27F3FE263BAF2E12E5C344FF155FDD51",
+      "notes": "Critical account of authority, intervention, and R2P."
+    },
+    {
+      "source_id": "secondary-gray-2018",
+      "author": "Gray",
+      "year": "2018",
+      "title": "International Law and the Use of Force",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-law-and-the-use-of-force-9780198808426",
+      "notes": "Leading use-of-force treatise."
+    },
+    {
+      "source_id": "secondary-welsh-2004",
+      "author": "Welsh",
+      "year": "2004",
+      "title": "Humanitarian Intervention and International Relations",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/humanitarian-intervention-and-international-relations-9780199267217",
+      "notes": "Key edited collection on humanitarian intervention."
+    },
+    {
+      "source_id": "secondary-chesterman-2001",
+      "author": "Chesterman",
+      "year": "2001",
+      "title": "Just War or Just Peace? Humanitarian Intervention and International Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/just-war-or-just-peace-9780199257997",
+      "notes": "Important legal study of humanitarian intervention."
+    },
+    {
+      "source_id": "secondary-shaw-2021",
+      "author": "Shaw",
+      "year": "2021",
+      "title": "International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/highereducation/books/international-law/2AB3E3A1B863D0F1D9B22F7862B1F0F1",
+      "notes": "General international law reference."
+    },
+    {
+      "source_id": "secondary-anghie-2004",
+      "author": "Anghie",
+      "year": "2004",
+      "title": "Imperialism, Sovereignty and the Making of International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/imperialism-sovereignty-and-the-making-of-international-law/8A9B9D74AAB7CA2D7B7D4D83A7E9D59A",
+      "notes": "Critical account of international law, empire, sovereignty, and hierarchy."
+    }
+  ],
+  "r2p_pillars": [
+    {
+      "pillar": "Pillar I",
+      "description": "The state has the primary responsibility to protect its populations from genocide, war crimes, ethnic cleansing, and crimes against humanity.",
+      "legal_function": "Locates first responsibility in the territorial state.",
+      "limits": "Can be invoked by abusive states rhetorically while failing in practice."
+    },
+    {
+      "pillar": "Pillar II",
+      "description": "The international community should assist states in fulfilling protection responsibilities.",
+      "legal_function": "Emphasizes prevention, capacity-building, diplomacy, and support.",
+      "limits": "Often underfunded or neglected before crises escalate."
+    },
+    {
+      "pillar": "Pillar III",
+      "description": "The international community should take timely and decisive collective action through the UN when national authorities manifestly fail.",
+      "legal_function": "Links coercive responses to collective Charter processes.",
+      "limits": "Does not create a general unilateral right of force."
+    }
+  ],
+  "humanitarian_intervention_framework": [
+    {
+      "issue": "unilateral humanitarian intervention",
+      "core_question": "May force be used without host-state consent or Security Council authorization?",
+      "legal_risk": "High Charter-legality risk under Article 2(4).",
+      "lawyer_focus": "Identify legal basis; distinguish moral claim from lawful authority."
+    },
+    {
+      "issue": "Security Council authorization",
+      "core_question": "Did the Council authorize force or other coercive measures?",
+      "legal_risk": "Mandate overreach or ambiguity.",
+      "lawyer_focus": "Read operative paragraphs closely; identify objective, scope, duration, and reporting obligations."
+    },
+    {
+      "issue": "R2P prevention and assistance",
+      "core_question": "Can non-force tools protect populations before atrocity escalates?",
+      "legal_risk": "Over-securitization or underuse of peaceful tools.",
+      "lawyer_focus": "Map Pillars I and II before Pillar III coercive options."
+    },
+    {
+      "issue": "Civilian protection mandate",
+      "core_question": "Does the mandate authorize protection of civilians?",
+      "legal_risk": "Risk of regime-change interpretation.",
+      "lawyer_focus": "Separate protection measures from political objectives beyond authorization."
+    },
+    {
+      "issue": "Atrocity threshold",
+      "core_question": "Are genocide, war crimes, ethnic cleansing, or crimes against humanity implicated?",
+      "legal_risk": "Threshold inflation or politicized labeling.",
+      "lawyer_focus": "Tie factual record to recognized atrocity categories and source evidence."
+    },
+    {
+      "issue": "Global South critique",
+      "core_question": "Does the claim reproduce imperial or selective intervention patterns?",
+      "legal_risk": "Legitimacy deficit and selective enforcement.",
+      "lawyer_focus": "Address double standards, colonial history, and equal application."
+    }
+  ],
+  "case_matrix": [
+    {
+      "case_or_situation": "Rwanda",
+      "year": "1994",
+      "legal_issue": "Failure to prevent genocide and limits of international response.",
+      "article_use": "Illustrates atrocity-prevention failure and moral impetus behind R2P."
+    },
+    {
+      "case_or_situation": "Srebrenica",
+      "year": "1995",
+      "legal_issue": "Mass atrocity despite UN presence and safe-area language.",
+      "article_use": "Shows limits of protection without credible mandate and capacity."
+    },
+    {
+      "case_or_situation": "Kosovo / Yugoslavia",
+      "year": "1999",
+      "legal_issue": "NATO force without Security Council authorization.",
+      "article_use": "Central humanitarian-intervention controversy."
+    },
+    {
+      "case_or_situation": "Libya",
+      "year": "2011",
+      "legal_issue": "Security Council authorization under Resolution 1973.",
+      "article_use": "Central R2P and mandate-discipline example."
+    },
+    {
+      "case_or_situation": "Syria",
+      "year": "2011-present",
+      "legal_issue": "Atrocity, veto paralysis, and failed collective action.",
+      "article_use": "Illustrates limits of Security Council-centered protection."
+    },
+    {
+      "case_or_situation": "Palestine / Gaza",
+      "year": "2023-present",
+      "legal_issue": "Civilian protection, atrocity allegations, occupation, and institutional selectivity.",
+      "article_use": "Shows contemporary crisis of protection, legality, and selective enforcement."
+    }
+  ]
+}

@@ -1,5 +1,3 @@
-# Editorial Notes: Humanitarian Intervention, Responsibility to Protect, and the Limits of Sovereignty
+# Editorial Notes
 
-- Status: planned
-- Series: International Law
-- Catalyst Data: source CSVs use normalized headers for ingestion.
+Maintain a careful distinction between humanitarian justification and legal authorization. The article should take civilian protection seriously while resisting unilateral-war, regime-change, and mandate-overreach arguments.

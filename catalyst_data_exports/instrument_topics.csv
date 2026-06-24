@@ -1,510 +1,514 @@
-instrument_id,topic,article_id
-instr-customary-international-law-1,,
-instr-customary-international-law-10,,
-instr-customary-international-law-2,,
-instr-customary-international-law-3,,
-instr-customary-international-law-4,,
-instr-customary-international-law-5,,
-instr-customary-international-law-6,,
-instr-customary-international-law-7,,
-instr-customary-international-law-8,,
-instr-customary-international-law-9,,
-instr-fragmentation-and-coherence-1,,
-instr-fragmentation-and-coherence-10,,
-instr-fragmentation-and-coherence-2,,
-instr-fragmentation-and-coherence-3,,
-instr-fragmentation-and-coherence-4,,
-instr-fragmentation-and-coherence-5,,
-instr-fragmentation-and-coherence-6,,
-instr-fragmentation-and-coherence-7,,
-instr-fragmentation-and-coherence-8,,
-instr-fragmentation-and-coherence-9,,
-instr-general-principles-of-law-1,,
-instr-general-principles-of-law-2,,
-instr-general-principles-of-law-3,,
-instr-general-principles-of-law-4,,
-instr-general-principles-of-law-5,,
-instr-general-principles-of-law-6,,
-instr-general-principles-of-law-7,,
-instr-general-principles-of-law-8,,
-instr-general-principles-of-law-9,,
-instr-human-rights-international-law-1,,
-instr-human-rights-international-law-10,,
-instr-human-rights-international-law-11,,
-instr-human-rights-international-law-12,,
-instr-human-rights-international-law-13,,
-instr-human-rights-international-law-14,,
-instr-human-rights-international-law-15,,
-instr-human-rights-international-law-16,,
-instr-human-rights-international-law-17,,
-instr-human-rights-international-law-18,,
-instr-human-rights-international-law-19,,
-instr-human-rights-international-law-2,,
-instr-human-rights-international-law-3,,
-instr-human-rights-international-law-4,,
-instr-human-rights-international-law-5,,
-instr-human-rights-international-law-6,,
-instr-human-rights-international-law-7,,
-instr-human-rights-international-law-8,,
-instr-human-rights-international-law-9,,
-instr-international-courts-and-tribunals-1,,
-instr-international-courts-and-tribunals-10,,
-instr-international-courts-and-tribunals-11,,
-instr-international-courts-and-tribunals-12,,
-instr-international-courts-and-tribunals-13,,
-instr-international-courts-and-tribunals-14,,
-instr-international-courts-and-tribunals-15,,
-instr-international-courts-and-tribunals-16,,
-instr-international-courts-and-tribunals-17,,
-instr-international-courts-and-tribunals-18,,
-instr-international-courts-and-tribunals-19,,
-instr-international-courts-and-tribunals-2,,
-instr-international-courts-and-tribunals-3,,
-instr-international-courts-and-tribunals-4,,
-instr-international-courts-and-tribunals-5,,
-instr-international-courts-and-tribunals-6,,
-instr-international-courts-and-tribunals-7,,
-instr-international-courts-and-tribunals-8,,
-instr-international-courts-and-tribunals-9,,
-instr-introduction-to-international-law-1,,
-instr-introduction-to-international-law-2,,
-instr-introduction-to-international-law-3,,
-instr-introduction-to-international-law-4,,
-instr-introduction-to-international-law-5,,
-instr-introduction-to-international-law-6,,
-instr-jurisdiction-in-international-law-1,,
-instr-jurisdiction-in-international-law-10,,
-instr-jurisdiction-in-international-law-11,,
-instr-jurisdiction-in-international-law-12,,
-instr-jurisdiction-in-international-law-13,,
-instr-jurisdiction-in-international-law-14,,
-instr-jurisdiction-in-international-law-2,,
-instr-jurisdiction-in-international-law-3,,
-instr-jurisdiction-in-international-law-4,,
-instr-jurisdiction-in-international-law-5,,
-instr-jurisdiction-in-international-law-6,,
-instr-jurisdiction-in-international-law-7,,
-instr-jurisdiction-in-international-law-8,,
-instr-jurisdiction-in-international-law-9,,
-instr-jus-cogens-erga-omnes-1,,
-instr-jus-cogens-erga-omnes-10,,
-instr-jus-cogens-erga-omnes-2,,
-instr-jus-cogens-erga-omnes-3,,
-instr-jus-cogens-erga-omnes-4,,
-instr-jus-cogens-erga-omnes-5,,
-instr-jus-cogens-erga-omnes-6,,
-instr-jus-cogens-erga-omnes-7,,
-instr-jus-cogens-erga-omnes-8,,
-instr-jus-cogens-erga-omnes-9,,
-instr-law-of-the-sea-unclos-1,,
-instr-law-of-the-sea-unclos-10,,
-instr-law-of-the-sea-unclos-11,,
-instr-law-of-the-sea-unclos-12,,
-instr-law-of-the-sea-unclos-13,,
-instr-law-of-the-sea-unclos-14,,
-instr-law-of-the-sea-unclos-15,,
-instr-law-of-the-sea-unclos-16,,
-instr-law-of-the-sea-unclos-17,,
-instr-law-of-the-sea-unclos-18,,
-instr-law-of-the-sea-unclos-2,,
-instr-law-of-the-sea-unclos-3,,
-instr-law-of-the-sea-unclos-4,,
-instr-law-of-the-sea-unclos-5,,
-instr-law-of-the-sea-unclos-6,,
-instr-law-of-the-sea-unclos-7,,
-instr-law-of-the-sea-unclos-8,,
-instr-law-of-the-sea-unclos-9,,
-instr-public-vs-private-international-law-1,,
-instr-public-vs-private-international-law-10,,
-instr-public-vs-private-international-law-11,,
-instr-public-vs-private-international-law-12,,
-instr-public-vs-private-international-law-13,,
-instr-public-vs-private-international-law-14,,
-instr-public-vs-private-international-law-2,,
-instr-public-vs-private-international-law-3,,
-instr-public-vs-private-international-law-4,,
-instr-public-vs-private-international-law-5,,
-instr-public-vs-private-international-law-6,,
-instr-public-vs-private-international-law-7,,
-instr-public-vs-private-international-law-8,,
-instr-public-vs-private-international-law-9,,
-instr-reservations-interpretation-validity-1,,
-instr-reservations-interpretation-validity-10,,
-instr-reservations-interpretation-validity-2,,
-instr-reservations-interpretation-validity-3,,
-instr-reservations-interpretation-validity-4,,
-instr-reservations-interpretation-validity-5,,
-instr-reservations-interpretation-validity-6,,
-instr-reservations-interpretation-validity-7,,
-instr-reservations-interpretation-validity-8,,
-instr-reservations-interpretation-validity-9,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-001,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-002,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-003,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-004,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-005,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-006,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-007,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-008,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-009,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-010,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-011,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-012,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-013,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-014,,
-instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-015,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-001,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-002,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-003,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-004,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-005,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-006,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-007,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-008,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-009,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-010,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-011,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-012,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-013,,
-instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-014,,
-instr-sources-of-international-law-1,,
-instr-sources-of-international-law-10,,
-instr-sources-of-international-law-2,,
-instr-sources-of-international-law-3,,
-instr-sources-of-international-law-4,,
-instr-sources-of-international-law-5,,
-instr-sources-of-international-law-6,,
-instr-sources-of-international-law-7,,
-instr-sources-of-international-law-8,,
-instr-sources-of-international-law-9,,
-instr-sovereignty-jurisdiction-non-intervention-1,,
-instr-sovereignty-jurisdiction-non-intervention-10,,
-instr-sovereignty-jurisdiction-non-intervention-11,,
-instr-sovereignty-jurisdiction-non-intervention-12,,
-instr-sovereignty-jurisdiction-non-intervention-13,,
-instr-sovereignty-jurisdiction-non-intervention-2,,
-instr-sovereignty-jurisdiction-non-intervention-3,,
-instr-sovereignty-jurisdiction-non-intervention-4,,
-instr-sovereignty-jurisdiction-non-intervention-5,,
-instr-sovereignty-jurisdiction-non-intervention-6,,
-instr-sovereignty-jurisdiction-non-intervention-7,,
-instr-sovereignty-jurisdiction-non-intervention-8,,
-instr-sovereignty-jurisdiction-non-intervention-9,,
-instr-state-immunity-diplomatic-immunity-official-functions-1,,
-instr-state-immunity-diplomatic-immunity-official-functions-10,,
-instr-state-immunity-diplomatic-immunity-official-functions-11,,
-instr-state-immunity-diplomatic-immunity-official-functions-12,,
-instr-state-immunity-diplomatic-immunity-official-functions-13,,
-instr-state-immunity-diplomatic-immunity-official-functions-14,,
-instr-state-immunity-diplomatic-immunity-official-functions-15,,
-instr-state-immunity-diplomatic-immunity-official-functions-16,,
-instr-state-immunity-diplomatic-immunity-official-functions-17,,
-instr-state-immunity-diplomatic-immunity-official-functions-18,,
-instr-state-immunity-diplomatic-immunity-official-functions-19,,
-instr-state-immunity-diplomatic-immunity-official-functions-2,,
-instr-state-immunity-diplomatic-immunity-official-functions-20,,
-instr-state-immunity-diplomatic-immunity-official-functions-3,,
-instr-state-immunity-diplomatic-immunity-official-functions-4,,
-instr-state-immunity-diplomatic-immunity-official-functions-5,,
-instr-state-immunity-diplomatic-immunity-official-functions-6,,
-instr-state-immunity-diplomatic-immunity-official-functions-7,,
-instr-state-immunity-diplomatic-immunity-official-functions-8,,
-instr-state-immunity-diplomatic-immunity-official-functions-9,,
-instr-state-responsibility-1,,
-instr-state-responsibility-10,,
-instr-state-responsibility-11,,
-instr-state-responsibility-12,,
-instr-state-responsibility-2,,
-instr-state-responsibility-3,,
-instr-state-responsibility-4,,
-instr-state-responsibility-5,,
-instr-state-responsibility-6,,
-instr-state-responsibility-7,,
-instr-state-responsibility-8,,
-instr-state-responsibility-9,,
-instr-statehood-recognition-legal-personality-1,,
-instr-statehood-recognition-legal-personality-10,,
-instr-statehood-recognition-legal-personality-11,,
-instr-statehood-recognition-legal-personality-12,,
-instr-statehood-recognition-legal-personality-13,,
-instr-statehood-recognition-legal-personality-14,,
-instr-statehood-recognition-legal-personality-2,,
-instr-statehood-recognition-legal-personality-3,,
-instr-statehood-recognition-legal-personality-4,,
-instr-statehood-recognition-legal-personality-5,,
-instr-statehood-recognition-legal-personality-6,,
-instr-statehood-recognition-legal-personality-7,,
-instr-statehood-recognition-legal-personality-8,,
-instr-statehood-recognition-legal-personality-9,,
-instr-territory-borders-boundary-disputes-1,,
-instr-territory-borders-boundary-disputes-10,,
-instr-territory-borders-boundary-disputes-11,,
-instr-territory-borders-boundary-disputes-12,,
-instr-territory-borders-boundary-disputes-13,,
-instr-territory-borders-boundary-disputes-14,,
-instr-territory-borders-boundary-disputes-15,,
-instr-territory-borders-boundary-disputes-2,,
-instr-territory-borders-boundary-disputes-3,,
-instr-territory-borders-boundary-disputes-4,,
-instr-territory-borders-boundary-disputes-5,,
-instr-territory-borders-boundary-disputes-6,,
-instr-territory-borders-boundary-disputes-7,,
-instr-territory-borders-boundary-disputes-8,,
-instr-territory-borders-boundary-disputes-9,,
-instr-treaty-law-1,,
-instr-treaty-law-2,,
-instr-treaty-law-3,,
-instr-treaty-law-4,,
-instr-treaty-law-5,,
-instr-treaty-law-6,,
-instr-treaty-law-7,,
-instr-united-nations-collective-security-1,,
-instr-united-nations-collective-security-10,,
-instr-united-nations-collective-security-11,,
-instr-united-nations-collective-security-12,,
-instr-united-nations-collective-security-13,,
-instr-united-nations-collective-security-14,,
-instr-united-nations-collective-security-15,,
-instr-united-nations-collective-security-16,,
-instr-united-nations-collective-security-17,,
-instr-united-nations-collective-security-18,,
-instr-united-nations-collective-security-19,,
-instr-united-nations-collective-security-2,,
-instr-united-nations-collective-security-20,,
-instr-united-nations-collective-security-21,,
-instr-united-nations-collective-security-22,,
-instr-united-nations-collective-security-23,,
-instr-united-nations-collective-security-3,,
-instr-united-nations-collective-security-4,,
-instr-united-nations-collective-security-5,,
-instr-united-nations-collective-security-6,,
-instr-united-nations-collective-security-7,,
-instr-united-nations-collective-security-8,,
-instr-united-nations-collective-security-9,,
-instr-westphalian-system-state-sovereignty-1,,
-instr-westphalian-system-state-sovereignty-10,,
-instr-westphalian-system-state-sovereignty-11,,
-instr-westphalian-system-state-sovereignty-2,,
-instr-westphalian-system-state-sovereignty-3,,
-instr-westphalian-system-state-sovereignty-4,,
-instr-westphalian-system-state-sovereignty-5,,
-instr-westphalian-system-state-sovereignty-6,,
-instr-westphalian-system-state-sovereignty-7,,
-instr-westphalian-system-state-sovereignty-8,,
-instr-westphalian-system-state-sovereignty-9,,
-un_charter,UN Charter and judicial settlement,
-icj_statute,ICJ Statute,
-icj_rules_of_court,ICJ procedure,
-icj_court_overview,ICJ authority,
-icj_contentious_jurisdiction,Contentious jurisdiction,
-icj_advisory_jurisdiction,Advisory jurisdiction,
-nicaragua_1986,Use of force and customary international law,
-bosnia_genocide_2007,Genocide and state responsibility,
-wall_2004,Occupation and self-determination,
-kosovo_2010,Contested statehood,
-chagos_2019,Decolonization and self-determination,
-gambia_myanmar_2019,Genocide Convention litigation,
-opt_2024,Occupation and third-state obligations,
-south_africa_israel_2023,Genocide Convention and provisional measures,
-north_sea_1969,ICJ authority,
-qatar_bahrain_2001,ICJ authority,
-cameroon_nigeria_2002,ICJ authority,
-io_un_charter,international organizations,
-io_un_charter_chapter_ix,international organizations,
-io_un_charter_article_57,international organizations,
-io_un_charter_article_63,international organizations,
-io_reparation_for_injuries,international organizations,
-io_effect_of_awards,international organizations,
-io_who_constitution,international organizations,
-io_ilo_constitution,international organizations,
-io_wto_agreement,international organizations,
-io_imf_articles,international organizations,
-io_world_bank_ibrd_articles,international organizations,
-io_privileges_immunities_un,international organizations,
-io_privileges_immunities_specialized,international organizations,
-io_ario_2011,international organizations,
-io_icj_who_nuclear_weapons,international organizations,
-un-charter-chapter-viii,international law,
-un-charter-chapter-viii,regional organizations,
-un-charter-chapter-viii,regional courts,
-un-charter-chapter-viii,legal pluralism,
-un-charter-chapter-viii,global governance,
-un-charter-article-52,international law,
-un-charter-article-52,regional organizations,
-un-charter-article-52,regional courts,
-un-charter-article-52,legal pluralism,
-un-charter-article-52,global governance,
-un-charter-article-53,international law,
-un-charter-article-53,regional organizations,
-un-charter-article-53,regional courts,
-un-charter-article-53,legal pluralism,
-un-charter-article-53,global governance,
-un-charter-article-54,international law,
-un-charter-article-54,regional organizations,
-un-charter-article-54,regional courts,
-un-charter-article-54,legal pluralism,
-un-charter-article-54,global governance,
-echr-convention,international law,
-echr-convention,regional organizations,
-echr-convention,regional courts,
-echr-convention,legal pluralism,
-echr-convention,global governance,
-echr-court-overview,international law,
-echr-court-overview,regional organizations,
-echr-court-overview,regional courts,
-echr-court-overview,legal pluralism,
-echr-court-overview,global governance,
-cjeu-court-overview,international law,
-cjeu-court-overview,regional organizations,
-cjeu-court-overview,regional courts,
-cjeu-court-overview,legal pluralism,
-cjeu-court-overview,global governance,
-oas-charter,international law,
-oas-charter,regional organizations,
-oas-charter,regional courts,
-oas-charter,legal pluralism,
-oas-charter,global governance,
-american-convention-human-rights,international law,
-american-convention-human-rights,regional organizations,
-american-convention-human-rights,regional courts,
-american-convention-human-rights,legal pluralism,
-american-convention-human-rights,global governance,
-iacthr-court-overview,international law,
-iacthr-court-overview,regional organizations,
-iacthr-court-overview,regional courts,
-iacthr-court-overview,legal pluralism,
-iacthr-court-overview,global governance,
-african-charter-human-peoples-rights,international law,
-african-charter-human-peoples-rights,regional organizations,
-african-charter-human-peoples-rights,regional courts,
-african-charter-human-peoples-rights,legal pluralism,
-african-charter-human-peoples-rights,global governance,
-african-court-protocol,international law,
-african-court-protocol,regional organizations,
-african-court-protocol,regional courts,
-african-court-protocol,legal pluralism,
-african-court-protocol,global governance,
-african-court-overview,international law,
-african-court-overview,regional organizations,
-african-court-overview,regional courts,
-african-court-overview,legal pluralism,
-african-court-overview,global governance,
-ecowas-revised-treaty,international law,
-ecowas-revised-treaty,regional organizations,
-ecowas-revised-treaty,regional courts,
-ecowas-revised-treaty,legal pluralism,
-ecowas-revised-treaty,global governance,
-ecowas-court-overview,international law,
-ecowas-court-overview,regional organizations,
-ecowas-court-overview,regional courts,
-ecowas-court-overview,legal pluralism,
-ecowas-court-overview,global governance,
-asean-charter,international law,
-asean-charter,regional organizations,
-asean-charter,regional courts,
-asean-charter,legal pluralism,
-asean-charter,global governance,
-au-constitutive-act,international law,
-au-constitutive-act,regional organizations,
-au-constitutive-act,regional courts,
-au-constitutive-act,legal pluralism,
-au-constitutive-act,global governance,
-international-arbitration-peaceful-settlement-disputes-arbitration,international arbitration,
-international-arbitration-peaceful-settlement-disputes-peaceful-settlement,peaceful settlement of disputes,
-international-arbitration-peaceful-settlement-disputes-pca,Permanent Court of Arbitration,
-international-arbitration-peaceful-settlement-disputes-unclos-annex-vii,UNCLOS Annex VII arbitration,
-international-arbitration-peaceful-settlement-disputes-new-york-convention,recognition and enforcement of arbitral awards,
-international-arbitration-peaceful-settlement-disputes-icsid,ICSID and investor-state arbitration,
-international-arbitration-peaceful-settlement-disputes-uncitral,UNCITRAL arbitration rules,
-international-arbitration-peaceful-settlement-disputes-legitimacy,"transparency, public interest, and Global South critique",
-compliance-enforcement-limits-international-adjudication-ps001,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps001,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps001,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps002,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps002,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps002,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps003,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps003,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps003,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps004,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps004,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps004,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps005,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps005,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps005,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps006,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps006,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps006,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps007,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps007,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps007,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps008,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps008,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps008,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps009,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps009,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps009,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps010,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps010,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps010,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps011,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps011,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps011,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps012,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps012,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps012,international adjudication,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps013,compliance,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps013,enforcement,compliance-enforcement-limits-international-adjudication
-compliance-enforcement-limits-international-adjudication-ps013,international adjudication,compliance-enforcement-limits-international-adjudication
-prohibition-on-use-of-force-in-international-law-ps001,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps001,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps001,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps001,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps002,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps002,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps002,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps002,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps003,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps003,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps003,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps003,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps004,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps004,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps004,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps004,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps005,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps005,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps005,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps005,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps006,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps006,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps006,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps006,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps007,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps007,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps007,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps007,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps008,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps008,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps008,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps008,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps009,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps009,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps009,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps009,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps010,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps010,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps010,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps010,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps011,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps011,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps011,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps011,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps012,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps012,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps012,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps012,international peace and security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps013,use of force,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps013,self-defense,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps013,collective security,prohibition-on-use-of-force-in-international-law
-prohibition-on-use-of-force-in-international-law-ps013,international peace and security,prohibition-on-use-of-force-in-international-law
+article_id,topic,instrument_id
+,,instr-customary-international-law-1
+,,instr-customary-international-law-10
+,,instr-customary-international-law-2
+,,instr-customary-international-law-3
+,,instr-customary-international-law-4
+,,instr-customary-international-law-5
+,,instr-customary-international-law-6
+,,instr-customary-international-law-7
+,,instr-customary-international-law-8
+,,instr-customary-international-law-9
+,,instr-fragmentation-and-coherence-1
+,,instr-fragmentation-and-coherence-10
+,,instr-fragmentation-and-coherence-2
+,,instr-fragmentation-and-coherence-3
+,,instr-fragmentation-and-coherence-4
+,,instr-fragmentation-and-coherence-5
+,,instr-fragmentation-and-coherence-6
+,,instr-fragmentation-and-coherence-7
+,,instr-fragmentation-and-coherence-8
+,,instr-fragmentation-and-coherence-9
+,,instr-general-principles-of-law-1
+,,instr-general-principles-of-law-2
+,,instr-general-principles-of-law-3
+,,instr-general-principles-of-law-4
+,,instr-general-principles-of-law-5
+,,instr-general-principles-of-law-6
+,,instr-general-principles-of-law-7
+,,instr-general-principles-of-law-8
+,,instr-general-principles-of-law-9
+,,instr-human-rights-international-law-1
+,,instr-human-rights-international-law-10
+,,instr-human-rights-international-law-11
+,,instr-human-rights-international-law-12
+,,instr-human-rights-international-law-13
+,,instr-human-rights-international-law-14
+,,instr-human-rights-international-law-15
+,,instr-human-rights-international-law-16
+,,instr-human-rights-international-law-17
+,,instr-human-rights-international-law-18
+,,instr-human-rights-international-law-19
+,,instr-human-rights-international-law-2
+,,instr-human-rights-international-law-3
+,,instr-human-rights-international-law-4
+,,instr-human-rights-international-law-5
+,,instr-human-rights-international-law-6
+,,instr-human-rights-international-law-7
+,,instr-human-rights-international-law-8
+,,instr-human-rights-international-law-9
+,,instr-international-courts-and-tribunals-1
+,,instr-international-courts-and-tribunals-10
+,,instr-international-courts-and-tribunals-11
+,,instr-international-courts-and-tribunals-12
+,,instr-international-courts-and-tribunals-13
+,,instr-international-courts-and-tribunals-14
+,,instr-international-courts-and-tribunals-15
+,,instr-international-courts-and-tribunals-16
+,,instr-international-courts-and-tribunals-17
+,,instr-international-courts-and-tribunals-18
+,,instr-international-courts-and-tribunals-19
+,,instr-international-courts-and-tribunals-2
+,,instr-international-courts-and-tribunals-3
+,,instr-international-courts-and-tribunals-4
+,,instr-international-courts-and-tribunals-5
+,,instr-international-courts-and-tribunals-6
+,,instr-international-courts-and-tribunals-7
+,,instr-international-courts-and-tribunals-8
+,,instr-international-courts-and-tribunals-9
+,,instr-introduction-to-international-law-1
+,,instr-introduction-to-international-law-2
+,,instr-introduction-to-international-law-3
+,,instr-introduction-to-international-law-4
+,,instr-introduction-to-international-law-5
+,,instr-introduction-to-international-law-6
+,,instr-jurisdiction-in-international-law-1
+,,instr-jurisdiction-in-international-law-10
+,,instr-jurisdiction-in-international-law-11
+,,instr-jurisdiction-in-international-law-12
+,,instr-jurisdiction-in-international-law-13
+,,instr-jurisdiction-in-international-law-14
+,,instr-jurisdiction-in-international-law-2
+,,instr-jurisdiction-in-international-law-3
+,,instr-jurisdiction-in-international-law-4
+,,instr-jurisdiction-in-international-law-5
+,,instr-jurisdiction-in-international-law-6
+,,instr-jurisdiction-in-international-law-7
+,,instr-jurisdiction-in-international-law-8
+,,instr-jurisdiction-in-international-law-9
+,,instr-jus-cogens-erga-omnes-1
+,,instr-jus-cogens-erga-omnes-10
+,,instr-jus-cogens-erga-omnes-2
+,,instr-jus-cogens-erga-omnes-3
+,,instr-jus-cogens-erga-omnes-4
+,,instr-jus-cogens-erga-omnes-5
+,,instr-jus-cogens-erga-omnes-6
+,,instr-jus-cogens-erga-omnes-7
+,,instr-jus-cogens-erga-omnes-8
+,,instr-jus-cogens-erga-omnes-9
+,,instr-law-of-the-sea-unclos-1
+,,instr-law-of-the-sea-unclos-10
+,,instr-law-of-the-sea-unclos-11
+,,instr-law-of-the-sea-unclos-12
+,,instr-law-of-the-sea-unclos-13
+,,instr-law-of-the-sea-unclos-14
+,,instr-law-of-the-sea-unclos-15
+,,instr-law-of-the-sea-unclos-16
+,,instr-law-of-the-sea-unclos-17
+,,instr-law-of-the-sea-unclos-18
+,,instr-law-of-the-sea-unclos-2
+,,instr-law-of-the-sea-unclos-3
+,,instr-law-of-the-sea-unclos-4
+,,instr-law-of-the-sea-unclos-5
+,,instr-law-of-the-sea-unclos-6
+,,instr-law-of-the-sea-unclos-7
+,,instr-law-of-the-sea-unclos-8
+,,instr-law-of-the-sea-unclos-9
+,,instr-public-vs-private-international-law-1
+,,instr-public-vs-private-international-law-10
+,,instr-public-vs-private-international-law-11
+,,instr-public-vs-private-international-law-12
+,,instr-public-vs-private-international-law-13
+,,instr-public-vs-private-international-law-14
+,,instr-public-vs-private-international-law-2
+,,instr-public-vs-private-international-law-3
+,,instr-public-vs-private-international-law-4
+,,instr-public-vs-private-international-law-5
+,,instr-public-vs-private-international-law-6
+,,instr-public-vs-private-international-law-7
+,,instr-public-vs-private-international-law-8
+,,instr-public-vs-private-international-law-9
+,,instr-reservations-interpretation-validity-1
+,,instr-reservations-interpretation-validity-10
+,,instr-reservations-interpretation-validity-2
+,,instr-reservations-interpretation-validity-3
+,,instr-reservations-interpretation-validity-4
+,,instr-reservations-interpretation-validity-5
+,,instr-reservations-interpretation-validity-6
+,,instr-reservations-interpretation-validity-7
+,,instr-reservations-interpretation-validity-8
+,,instr-reservations-interpretation-validity-9
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-001
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-002
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-003
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-004
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-005
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-006
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-007
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-008
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-009
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-010
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-011
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-012
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-013
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-014
+,,instr-secession-recognition-contested-statehood-secession-recognition-contested-statehood-primary-015
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-001
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-002
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-003
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-004
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-005
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-006
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-007
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-008
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-009
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-010
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-011
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-012
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-013
+,,instr-self-determination-decolonization-rights-of-peoples-self-determination-decolonization-rights-of-peoples-primary-014
+,,instr-sources-of-international-law-1
+,,instr-sources-of-international-law-10
+,,instr-sources-of-international-law-2
+,,instr-sources-of-international-law-3
+,,instr-sources-of-international-law-4
+,,instr-sources-of-international-law-5
+,,instr-sources-of-international-law-6
+,,instr-sources-of-international-law-7
+,,instr-sources-of-international-law-8
+,,instr-sources-of-international-law-9
+,,instr-sovereignty-jurisdiction-non-intervention-1
+,,instr-sovereignty-jurisdiction-non-intervention-10
+,,instr-sovereignty-jurisdiction-non-intervention-11
+,,instr-sovereignty-jurisdiction-non-intervention-12
+,,instr-sovereignty-jurisdiction-non-intervention-13
+,,instr-sovereignty-jurisdiction-non-intervention-2
+,,instr-sovereignty-jurisdiction-non-intervention-3
+,,instr-sovereignty-jurisdiction-non-intervention-4
+,,instr-sovereignty-jurisdiction-non-intervention-5
+,,instr-sovereignty-jurisdiction-non-intervention-6
+,,instr-sovereignty-jurisdiction-non-intervention-7
+,,instr-sovereignty-jurisdiction-non-intervention-8
+,,instr-sovereignty-jurisdiction-non-intervention-9
+,,instr-state-immunity-diplomatic-immunity-official-functions-1
+,,instr-state-immunity-diplomatic-immunity-official-functions-10
+,,instr-state-immunity-diplomatic-immunity-official-functions-11
+,,instr-state-immunity-diplomatic-immunity-official-functions-12
+,,instr-state-immunity-diplomatic-immunity-official-functions-13
+,,instr-state-immunity-diplomatic-immunity-official-functions-14
+,,instr-state-immunity-diplomatic-immunity-official-functions-15
+,,instr-state-immunity-diplomatic-immunity-official-functions-16
+,,instr-state-immunity-diplomatic-immunity-official-functions-17
+,,instr-state-immunity-diplomatic-immunity-official-functions-18
+,,instr-state-immunity-diplomatic-immunity-official-functions-19
+,,instr-state-immunity-diplomatic-immunity-official-functions-2
+,,instr-state-immunity-diplomatic-immunity-official-functions-20
+,,instr-state-immunity-diplomatic-immunity-official-functions-3
+,,instr-state-immunity-diplomatic-immunity-official-functions-4
+,,instr-state-immunity-diplomatic-immunity-official-functions-5
+,,instr-state-immunity-diplomatic-immunity-official-functions-6
+,,instr-state-immunity-diplomatic-immunity-official-functions-7
+,,instr-state-immunity-diplomatic-immunity-official-functions-8
+,,instr-state-immunity-diplomatic-immunity-official-functions-9
+,,instr-state-responsibility-1
+,,instr-state-responsibility-10
+,,instr-state-responsibility-11
+,,instr-state-responsibility-12
+,,instr-state-responsibility-2
+,,instr-state-responsibility-3
+,,instr-state-responsibility-4
+,,instr-state-responsibility-5
+,,instr-state-responsibility-6
+,,instr-state-responsibility-7
+,,instr-state-responsibility-8
+,,instr-state-responsibility-9
+,,instr-statehood-recognition-legal-personality-1
+,,instr-statehood-recognition-legal-personality-10
+,,instr-statehood-recognition-legal-personality-11
+,,instr-statehood-recognition-legal-personality-12
+,,instr-statehood-recognition-legal-personality-13
+,,instr-statehood-recognition-legal-personality-14
+,,instr-statehood-recognition-legal-personality-2
+,,instr-statehood-recognition-legal-personality-3
+,,instr-statehood-recognition-legal-personality-4
+,,instr-statehood-recognition-legal-personality-5
+,,instr-statehood-recognition-legal-personality-6
+,,instr-statehood-recognition-legal-personality-7
+,,instr-statehood-recognition-legal-personality-8
+,,instr-statehood-recognition-legal-personality-9
+,,instr-territory-borders-boundary-disputes-1
+,,instr-territory-borders-boundary-disputes-10
+,,instr-territory-borders-boundary-disputes-11
+,,instr-territory-borders-boundary-disputes-12
+,,instr-territory-borders-boundary-disputes-13
+,,instr-territory-borders-boundary-disputes-14
+,,instr-territory-borders-boundary-disputes-15
+,,instr-territory-borders-boundary-disputes-2
+,,instr-territory-borders-boundary-disputes-3
+,,instr-territory-borders-boundary-disputes-4
+,,instr-territory-borders-boundary-disputes-5
+,,instr-territory-borders-boundary-disputes-6
+,,instr-territory-borders-boundary-disputes-7
+,,instr-territory-borders-boundary-disputes-8
+,,instr-territory-borders-boundary-disputes-9
+,,instr-treaty-law-1
+,,instr-treaty-law-2
+,,instr-treaty-law-3
+,,instr-treaty-law-4
+,,instr-treaty-law-5
+,,instr-treaty-law-6
+,,instr-treaty-law-7
+,,instr-united-nations-collective-security-1
+,,instr-united-nations-collective-security-10
+,,instr-united-nations-collective-security-11
+,,instr-united-nations-collective-security-12
+,,instr-united-nations-collective-security-13
+,,instr-united-nations-collective-security-14
+,,instr-united-nations-collective-security-15
+,,instr-united-nations-collective-security-16
+,,instr-united-nations-collective-security-17
+,,instr-united-nations-collective-security-18
+,,instr-united-nations-collective-security-19
+,,instr-united-nations-collective-security-2
+,,instr-united-nations-collective-security-20
+,,instr-united-nations-collective-security-21
+,,instr-united-nations-collective-security-22
+,,instr-united-nations-collective-security-23
+,,instr-united-nations-collective-security-3
+,,instr-united-nations-collective-security-4
+,,instr-united-nations-collective-security-5
+,,instr-united-nations-collective-security-6
+,,instr-united-nations-collective-security-7
+,,instr-united-nations-collective-security-8
+,,instr-united-nations-collective-security-9
+,,instr-westphalian-system-state-sovereignty-1
+,,instr-westphalian-system-state-sovereignty-10
+,,instr-westphalian-system-state-sovereignty-11
+,,instr-westphalian-system-state-sovereignty-2
+,,instr-westphalian-system-state-sovereignty-3
+,,instr-westphalian-system-state-sovereignty-4
+,,instr-westphalian-system-state-sovereignty-5
+,,instr-westphalian-system-state-sovereignty-6
+,,instr-westphalian-system-state-sovereignty-7
+,,instr-westphalian-system-state-sovereignty-8
+,,instr-westphalian-system-state-sovereignty-9
+,UN Charter and judicial settlement,un_charter
+,ICJ Statute,icj_statute
+,ICJ procedure,icj_rules_of_court
+,ICJ authority,icj_court_overview
+,Contentious jurisdiction,icj_contentious_jurisdiction
+,Advisory jurisdiction,icj_advisory_jurisdiction
+,Use of force and customary international law,nicaragua_1986
+,Genocide and state responsibility,bosnia_genocide_2007
+,Occupation and self-determination,wall_2004
+,Contested statehood,kosovo_2010
+,Decolonization and self-determination,chagos_2019
+,Genocide Convention litigation,gambia_myanmar_2019
+,Occupation and third-state obligations,opt_2024
+,Genocide Convention and provisional measures,south_africa_israel_2023
+,ICJ authority,north_sea_1969
+,ICJ authority,qatar_bahrain_2001
+,ICJ authority,cameroon_nigeria_2002
+,international organizations,io_un_charter
+,international organizations,io_un_charter_chapter_ix
+,international organizations,io_un_charter_article_57
+,international organizations,io_un_charter_article_63
+,international organizations,io_reparation_for_injuries
+,international organizations,io_effect_of_awards
+,international organizations,io_who_constitution
+,international organizations,io_ilo_constitution
+,international organizations,io_wto_agreement
+,international organizations,io_imf_articles
+,international organizations,io_world_bank_ibrd_articles
+,international organizations,io_privileges_immunities_un
+,international organizations,io_privileges_immunities_specialized
+,international organizations,io_ario_2011
+,international organizations,io_icj_who_nuclear_weapons
+,international law,un-charter-chapter-viii
+,regional organizations,un-charter-chapter-viii
+,regional courts,un-charter-chapter-viii
+,legal pluralism,un-charter-chapter-viii
+,global governance,un-charter-chapter-viii
+,international law,un-charter-article-52
+,regional organizations,un-charter-article-52
+,regional courts,un-charter-article-52
+,legal pluralism,un-charter-article-52
+,global governance,un-charter-article-52
+,international law,un-charter-article-53
+,regional organizations,un-charter-article-53
+,regional courts,un-charter-article-53
+,legal pluralism,un-charter-article-53
+,global governance,un-charter-article-53
+,international law,un-charter-article-54
+,regional organizations,un-charter-article-54
+,regional courts,un-charter-article-54
+,legal pluralism,un-charter-article-54
+,global governance,un-charter-article-54
+,international law,echr-convention
+,regional organizations,echr-convention
+,regional courts,echr-convention
+,legal pluralism,echr-convention
+,global governance,echr-convention
+,international law,echr-court-overview
+,regional organizations,echr-court-overview
+,regional courts,echr-court-overview
+,legal pluralism,echr-court-overview
+,global governance,echr-court-overview
+,international law,cjeu-court-overview
+,regional organizations,cjeu-court-overview
+,regional courts,cjeu-court-overview
+,legal pluralism,cjeu-court-overview
+,global governance,cjeu-court-overview
+,international law,oas-charter
+,regional organizations,oas-charter
+,regional courts,oas-charter
+,legal pluralism,oas-charter
+,global governance,oas-charter
+,international law,american-convention-human-rights
+,regional organizations,american-convention-human-rights
+,regional courts,american-convention-human-rights
+,legal pluralism,american-convention-human-rights
+,global governance,american-convention-human-rights
+,international law,iacthr-court-overview
+,regional organizations,iacthr-court-overview
+,regional courts,iacthr-court-overview
+,legal pluralism,iacthr-court-overview
+,global governance,iacthr-court-overview
+,international law,african-charter-human-peoples-rights
+,regional organizations,african-charter-human-peoples-rights
+,regional courts,african-charter-human-peoples-rights
+,legal pluralism,african-charter-human-peoples-rights
+,global governance,african-charter-human-peoples-rights
+,international law,african-court-protocol
+,regional organizations,african-court-protocol
+,regional courts,african-court-protocol
+,legal pluralism,african-court-protocol
+,global governance,african-court-protocol
+,international law,african-court-overview
+,regional organizations,african-court-overview
+,regional courts,african-court-overview
+,legal pluralism,african-court-overview
+,global governance,african-court-overview
+,international law,ecowas-revised-treaty
+,regional organizations,ecowas-revised-treaty
+,regional courts,ecowas-revised-treaty
+,legal pluralism,ecowas-revised-treaty
+,global governance,ecowas-revised-treaty
+,international law,ecowas-court-overview
+,regional organizations,ecowas-court-overview
+,regional courts,ecowas-court-overview
+,legal pluralism,ecowas-court-overview
+,global governance,ecowas-court-overview
+,international law,asean-charter
+,regional organizations,asean-charter
+,regional courts,asean-charter
+,legal pluralism,asean-charter
+,global governance,asean-charter
+,international law,au-constitutive-act
+,regional organizations,au-constitutive-act
+,regional courts,au-constitutive-act
+,legal pluralism,au-constitutive-act
+,global governance,au-constitutive-act
+,international arbitration,international-arbitration-peaceful-settlement-disputes-arbitration
+,peaceful settlement of disputes,international-arbitration-peaceful-settlement-disputes-peaceful-settlement
+,Permanent Court of Arbitration,international-arbitration-peaceful-settlement-disputes-pca
+,UNCLOS Annex VII arbitration,international-arbitration-peaceful-settlement-disputes-unclos-annex-vii
+,recognition and enforcement of arbitral awards,international-arbitration-peaceful-settlement-disputes-new-york-convention
+,ICSID and investor-state arbitration,international-arbitration-peaceful-settlement-disputes-icsid
+,UNCITRAL arbitration rules,international-arbitration-peaceful-settlement-disputes-uncitral
+,"transparency, public interest, and Global South critique",international-arbitration-peaceful-settlement-disputes-legitimacy
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps001
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps001
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps001
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps002
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps002
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps002
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps003
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps003
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps003
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps004
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps004
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps004
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps005
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps005
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps005
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps006
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps006
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps006
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps007
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps007
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps007
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps008
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps008
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps008
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps009
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps009
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps009
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps010
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps010
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps010
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps011
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps011
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps011
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps012
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps012
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps012
+compliance-enforcement-limits-international-adjudication,compliance,compliance-enforcement-limits-international-adjudication-ps013
+compliance-enforcement-limits-international-adjudication,enforcement,compliance-enforcement-limits-international-adjudication-ps013
+compliance-enforcement-limits-international-adjudication,international adjudication,compliance-enforcement-limits-international-adjudication-ps013
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps001
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps001
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps001
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps001
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps002
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps002
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps002
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps002
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps003
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps003
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps003
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps003
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps004
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps004
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps004
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps004
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps005
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps005
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps005
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps005
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps006
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps006
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps006
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps006
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps007
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps007
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps007
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps007
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps008
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps008
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps008
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps008
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps009
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps009
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps009
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps009
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps010
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps010
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps010
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps010
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps011
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps011
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps011
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps011
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps012
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps012
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps012
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps012
+prohibition-on-use-of-force-in-international-law,use of force,prohibition-on-use-of-force-in-international-law-ps013
+prohibition-on-use-of-force-in-international-law,self-defense,prohibition-on-use-of-force-in-international-law-ps013
+prohibition-on-use-of-force-in-international-law,collective security,prohibition-on-use-of-force-in-international-law-ps013
+prohibition-on-use-of-force-in-international-law,international peace and security,prohibition-on-use-of-force-in-international-law-ps013
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,Use of Force,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,Humanitarian Intervention,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,Responsibility to Protect,
+humanitarian-intervention-responsibility-to-protect-limits-sovereignty,Collective Security,

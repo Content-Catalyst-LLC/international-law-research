@@ -1,3 +1,3 @@
-# Source Notes: Humanitarian Intervention, Responsibility to Protect, and the Limits of Sovereignty
+# Source Notes
 
-Track primary authorities, secondary scholarship, source quality, and editorial cautions.
+Primary authorities emphasize the UN Charter, the 2005 World Summit Outcome, Security Council protection-of-civilians and Libya resolutions, the Definition of Aggression, and ICJ use-of-force jurisprudence.
