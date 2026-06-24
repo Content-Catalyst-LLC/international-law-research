@@ -1,13 +1,22 @@
 {
-  "slug": "womens-rights-gender-equality-and-international-legal-protection",
-  "folder_slug": "womens-rights-gender-equality-international-legal-protection",
-  "title": "Women’s Rights, Gender Equality, and International Legal Protection",
-  "status": "planned",
-  "domain": "Human Rights, Refugees, and Protection",
+  "actual_title": "Women’s Rights, Gender Equality, and International Legal Protection",
+  "seo_title": "Women’s Rights, Gender Equality, and International Legal Protection",
+  "focus_keyword": "women's rights international law",
+  "slug": "womens-rights-gender-equality-international-legal-protection",
+  "excerpt": "Women’s rights and gender equality are central to international legal protection because discrimination, violence, exclusion, and unequal power shape whether rights can be enjoyed in practice. This article explains CEDAW, substantive equality, temporary special measures, gender-based violence, due diligence, political participation, education, employment, health, family law, reproductive autonomy, trafficking, migration, Women Peace and Security, conflict-related sexual violence, regional systems, and implementation limits. It examines how international law protects women and girls while addressing intersectionality, race, poverty, disability, Indigenous status, migration, sexuality, occupation, climate change, technology, and backlash against gender equality. By connecting treaties, institutions, case studies, and lawyer-facing workflows, it shows how women’s rights law transforms equality from an abstract promise into legal duties of prevention, protection, participation, accountability, and structural change across global, regional, and domestic legal systems today.",
+  "tags": [
+    "international law",
+    "women's rights",
+    "gender equality",
+    "CEDAW",
+    "gender-based violence",
+    "human rights",
+    "Women Peace and Security",
+    "international legal protection"
+  ],
   "series": "International Law",
-  "canonical_url": "https://sustainablecatalyst.com/womens-rights-gender-equality-and-international-legal-protection/",
-  "repository_path": "articles/international-law/womens-rights-gender-equality-international-legal-protection",
-  "description": "Research materials for Women’s Rights, Gender Equality, and International Legal Protection in the International Law knowledge series.",
-  "catalyst_data_ready": true,
-  "catalyst_data_exports": "catalyst_data_exports/article_sources/womens-rights-gender-equality-international-legal-protection.csv"
+  "section": "International Human Rights Law",
+  "previous_article": "Economic, Social, and Cultural Rights in International Law",
+  "next_article": "Children’s Rights and the Rights of the Child in International Law",
+  "repository_folder": "articles/international-law/womens-rights-gender-equality-international-legal-protection"
 }

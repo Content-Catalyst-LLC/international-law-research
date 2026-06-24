@@ -1,0 +1,169 @@
+{
+  "article": "Women’s Rights, Gender Equality, and International Legal Protection",
+  "primary_authorities": [
+    {
+      "source_id": "cedaw-1979",
+      "source_title": "Convention on the Elimination of All Forms of Discrimination against Women",
+      "source_type": "treaty",
+      "institution": "United Nations / OHCHR",
+      "year": "1979",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women",
+      "notes": "Core global treaty on discrimination against women."
+    },
+    {
+      "source_id": "cedaw-op-1999",
+      "source_title": "Optional Protocol to CEDAW",
+      "source_type": "treaty",
+      "institution": "United Nations / OHCHR",
+      "year": "1999",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/optional-protocol-convention-elimination-all-forms-discrimination-against-women",
+      "notes": "Individual communications and inquiry procedure."
+    },
+    {
+      "source_id": "cedaw-gr-35",
+      "source_title": "CEDAW General Recommendation No. 35 on gender-based violence against women",
+      "source_type": "general recommendation",
+      "institution": "CEDAW Committee",
+      "year": "2017",
+      "url": "https://documents.un.org/doc/undoc/gen/n17/231/54/pdf/n1723154.pdf",
+      "notes": "Updates General Recommendation No. 19 and frames gender-based violence as discrimination."
+    },
+    {
+      "source_id": "devaw-1993",
+      "source_title": "Declaration on the Elimination of Violence against Women",
+      "source_type": "declaration",
+      "institution": "UN General Assembly",
+      "year": "1993",
+      "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-elimination-violence-against-women",
+      "notes": "Major UN declaration on violence against women."
+    },
+    {
+      "source_id": "unscr-1325",
+      "source_title": "Security Council Resolution 1325 on Women, Peace and Security",
+      "source_type": "security council resolution",
+      "institution": "UN Security Council",
+      "year": "2000",
+      "url": "https://documents.un.org/doc/undoc/gen/n00/720/18/pdf/n0072018.pdf",
+      "notes": "Foundational Women, Peace and Security resolution."
+    },
+    {
+      "source_id": "ilo-c190",
+      "source_title": "ILO Convention No. 190 on Violence and Harassment",
+      "source_type": "treaty",
+      "institution": "International Labour Organization",
+      "year": "2019",
+      "url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C190",
+      "notes": "International labor standard on violence and harassment in the world of work."
+    },
+    {
+      "source_id": "istanbul-2011",
+      "source_title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "source_type": "regional treaty",
+      "institution": "Council of Europe",
+      "year": "2011",
+      "url": "https://www.coe.int/en/web/istanbul-convention/text-of-the-convention",
+      "notes": "Regional treaty addressing violence against women and domestic violence."
+    }
+  ],
+  "further_reading": [
+    {
+      "source_id": "cook-1994",
+      "author": "Cook, R.J. (ed.)",
+      "year": "1994",
+      "title": "Human Rights of Women: National and International Perspectives",
+      "publisher": "University of Pennsylvania Press",
+      "url": "https://www.pennpress.org/9780812215380/human-rights-of-women/",
+      "notes": "Foundational edited collection on women’s human rights."
+    },
+    {
+      "source_id": "charlesworth-1991",
+      "author": "Charlesworth, H., Chinkin, C. and Wright, S.",
+      "year": "1991",
+      "title": "Feminist Approaches to International Law",
+      "publisher": "American Journal of International Law",
+      "url": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/feminist-approaches-to-international-law/6B8396FCBCE84154AA3577F03AAFA50F",
+      "notes": "Classic article in feminist international legal theory."
+    },
+    {
+      "source_id": "chinkin-2022",
+      "author": "Chinkin, C. and Rees, M.",
+      "year": "2022",
+      "title": "Women, Peace and Security and International Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/women-peace-and-security-and-international-law/B1929F93E2B60982E7B90F213B7D01F2",
+      "notes": "Comprehensive treatment of WPS and international law."
+    },
+    {
+      "source_id": "otto-2017",
+      "author": "Otto, D. (ed.)",
+      "year": "2017",
+      "title": "Queering International Law: Possibilities, Alliances, Complicities, Risks",
+      "publisher": "Routledge",
+      "url": "https://www.routledge.com/Queering-International-Law-Possibilities-Alliances-Complicities-Risks/Otto/p/book/9781138288997",
+      "notes": "Useful for gender, sexuality, and international law critiques."
+    },
+    {
+      "source_id": "unwomen-cedaw",
+      "author": "UN Women",
+      "year": "n.d.",
+      "title": "Convention on the Elimination of All Forms of Discrimination against Women",
+      "publisher": "UN Women",
+      "url": "https://www.unwomen.org/en/digital-library/publications/2016/12/cedaw-for-youth",
+      "notes": "Accessible institutional material on CEDAW."
+    }
+  ],
+  "gender_equality_framework": [
+    {
+      "doctrine": "Formal equality",
+      "legal_function": "Prohibits explicit sex-based discrimination.",
+      "practice_question": "Does the law or policy distinguish on sex, gender, pregnancy, marital status, or related grounds?"
+    },
+    {
+      "doctrine": "Substantive equality",
+      "legal_function": "Addresses unequal effects and structural barriers.",
+      "practice_question": "Does neutral language reproduce disadvantage in practice?"
+    },
+    {
+      "doctrine": "Transformative equality",
+      "legal_function": "Targets institutional and social structures that produce subordination.",
+      "practice_question": "Does the measure change the conditions that make inequality durable?"
+    },
+    {
+      "doctrine": "Temporary special measures",
+      "legal_function": "Permits targeted measures to accelerate de facto equality.",
+      "practice_question": "Is the measure aimed at correcting persistent underrepresentation or disadvantage?"
+    },
+    {
+      "doctrine": "Due diligence",
+      "legal_function": "Requires prevention, investigation, punishment, and remedies for gender-based violence.",
+      "practice_question": "Did the state act reasonably before, during, and after the harm?"
+    }
+  ],
+  "protection_mechanisms": [
+    {
+      "mechanism": "CEDAW Committee",
+      "legal_role": "Monitors CEDAW implementation and issues concluding observations/general recommendations.",
+      "use_case": "Treaty reporting, shadow reports, individual communications where accepted."
+    },
+    {
+      "mechanism": "Optional Protocol to CEDAW",
+      "legal_role": "Creates communications and inquiry procedures.",
+      "use_case": "Individual or group petitions and grave/systematic violation inquiries."
+    },
+    {
+      "mechanism": "UN Women Peace and Security framework",
+      "legal_role": "Connects gender equality to conflict prevention, participation, protection, relief, and recovery.",
+      "use_case": "Conflict, peace processes, sanctions, peacekeeping, post-conflict governance."
+    },
+    {
+      "mechanism": "ILO Convention No. 190",
+      "legal_role": "Addresses violence and harassment in the world of work.",
+      "use_case": "Labor law reform, workplace protections, harassment prevention, remedies."
+    },
+    {
+      "mechanism": "Regional human-rights systems",
+      "legal_role": "Interpret equality and violence standards through regional courts and commissions.",
+      "use_case": "Domestic violence, reproductive rights, political participation, trafficking, and state responsibility claims."
+    }
+  ]
+}
