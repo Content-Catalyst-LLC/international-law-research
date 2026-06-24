@@ -1,0 +1,260 @@
+{
+  "article": "Command Responsibility, Individual Criminal Liability, and Modes of Participation",
+  "article_slug": "command-responsibility-individual-criminal-liability-modes-of-participation",
+  "liability_modes": [
+    {
+      "mode": "Direct perpetration",
+      "core_question": "Did the accused physically or personally commit the prohibited conduct?",
+      "key_evidence": "Direct acts, eyewitness accounts, forensic proof, admissions, video or documentary evidence",
+      "common_risk": "Over-focusing on physical perpetrators while missing organizers and commanders"
+    },
+    {
+      "mode": "Co-perpetration",
+      "core_question": "Did the accused make an essential contribution to a common plan?",
+      "key_evidence": "Joint planning, division of roles, control over execution, communications, operational coordination",
+      "common_risk": "Treating association or ideology as proof of control"
+    },
+    {
+      "mode": "Indirect perpetration",
+      "core_question": "Did the accused commit through another person or organized apparatus?",
+      "key_evidence": "Hierarchy, control mechanisms, orders, compliance patterns, institutional machinery",
+      "common_risk": "Weak proof that intermediaries were instruments rather than independent actors"
+    },
+    {
+      "mode": "Ordering",
+      "core_question": "Did the accused direct another person to commit a crime?",
+      "key_evidence": "Orders, chain of command, witness testimony, command logs, operational messages",
+      "common_risk": "Ambiguous language or insufficient proof of causation/contribution"
+    },
+    {
+      "mode": "Aiding and abetting",
+      "core_question": "Did the accused substantially assist, encourage, or facilitate the crime with the required mental element?",
+      "key_evidence": "Logistics, weapons, intelligence, transport, detention support, advice, knowledge of criminal purpose",
+      "common_risk": "Confusing ordinary assistance with criminally significant assistance"
+    },
+    {
+      "mode": "Common-purpose liability",
+      "core_question": "Did the accused contribute to a group acting with a common criminal purpose?",
+      "key_evidence": "Group structure, shared objective, contribution, knowledge/intent, foreseeable crimes",
+      "common_risk": "Guilt by association if contribution and mental element are not shown"
+    },
+    {
+      "mode": "Command or superior responsibility",
+      "core_question": "Did the superior have effective control, knowledge or reason to know, and fail to prevent, repress, or report crimes?",
+      "key_evidence": "Authority, reporting lines, prior incidents, orders, disciplinary capacity, failure to act",
+      "common_risk": "Assuming rank equals effective control without proof"
+    }
+  ],
+  "command_responsibility_elements": [
+    {
+      "element": "Superior-subordinate relationship",
+      "proof_question": "Was there a real relationship of authority or control?",
+      "evidence": "Rank, appointment, functional role, communications, unit structure, de facto authority",
+      "analysis_note": "Formal title helps but is not enough; effective control is the key."
+    },
+    {
+      "element": "Effective control",
+      "proof_question": "Could the accused prevent, punish, discipline, or report crimes?",
+      "evidence": "Capacity to issue orders, remove personnel, discipline, deploy forces, control resources",
+      "analysis_note": "The doctrine turns on material ability, not honorific status."
+    },
+    {
+      "element": "Knowledge or reason to know",
+      "proof_question": "Did the superior know or have reason to know crimes were being or had been committed?",
+      "evidence": "Reports, prior incidents, complaints, media, inspections, scale of violence, patterns",
+      "analysis_note": "Knowledge may be inferred from circumstances, but inference must be grounded."
+    },
+    {
+      "element": "Failure to prevent",
+      "proof_question": "Did the superior take necessary and reasonable measures before or during crimes?",
+      "evidence": "Orders, warnings, deployments, restrictions, removal from posts, protective measures",
+      "analysis_note": "Measures are judged in context of actual capacity and available information."
+    },
+    {
+      "element": "Failure to punish or report",
+      "proof_question": "Did the superior respond after crimes became known?",
+      "evidence": "Investigations, referrals, discipline, cover-up, retention, destruction of records",
+      "analysis_note": "Post-crime inaction can be evidence of responsibility."
+    }
+  ],
+  "evidence_linkage": [
+    {
+      "evidence_category": "Crime-base evidence",
+      "function": "Proves that underlying crimes occurred",
+      "examples": "Victim testimony, forensic reports, satellite imagery, hospital records, mass-grave evidence",
+      "linkage_issue": "Does not itself connect the accused to the crime."
+    },
+    {
+      "evidence_category": "Linkage evidence",
+      "function": "Connects accused to perpetrators, policies, orders, assistance, or failures to act",
+      "examples": "Orders, meeting minutes, radio intercepts, command logs, insider witnesses, organizational charts",
+      "linkage_issue": "Often the hardest evidentiary layer."
+    },
+    {
+      "evidence_category": "Contextual evidence",
+      "function": "Shows armed conflict, widespread/systematic attack, policy, or group intent",
+      "examples": "Pattern evidence, government documents, tribunal findings, NGO reports, expert reports",
+      "linkage_issue": "Must be connected to the relevant crime category."
+    },
+    {
+      "evidence_category": "Mental-element evidence",
+      "function": "Supports intent, knowledge, awareness, or reason to know",
+      "examples": "Statements, warnings, prior incidents, scale, repetition, training, reports",
+      "linkage_issue": "Inference must not replace proof."
+    },
+    {
+      "evidence_category": "Exculpatory or limiting evidence",
+      "function": "Tests defenses, duress, mistake, lack of control, or reasonable measures",
+      "examples": "Contrary orders, attempts to prevent, loss of control, rescue or discipline records",
+      "linkage_issue": "Must be preserved and assessed fairly."
+    }
+  ],
+  "primary_sources": [
+    {
+      "source_id": "rome_statute_1998",
+      "source_title": "Rome Statute of the International Criminal Court",
+      "source_type": "treaty",
+      "institution": "International Criminal Court",
+      "year": "1998/2024",
+      "url": "https://www.icc-cpi.int/sites/default/files/2024-05/Rome-Statute-eng.pdf",
+      "notes": "Articles 25, 28, and 30 structure individual criminal responsibility, command responsibility, and mental elements."
+    },
+    {
+      "source_id": "icc_elements_2011",
+      "source_title": "Elements of Crimes",
+      "source_type": "court instrument",
+      "institution": "International Criminal Court",
+      "year": "2011",
+      "url": "https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf",
+      "notes": "Elements framework for ICC crimes and contextual requirements."
+    },
+    {
+      "source_id": "icc_rpe_2019",
+      "source_title": "Rules of Procedure and Evidence",
+      "source_type": "court rules",
+      "institution": "International Criminal Court",
+      "year": "2019",
+      "url": "https://www.icc-cpi.int/sites/default/files/Publications/Rules-of-Procedure-and-Evidence.pdf",
+      "notes": "Procedural framework for evidence, participation, disclosure, and fair trial rights."
+    },
+    {
+      "source_id": "icty_statute",
+      "source_title": "Updated Statute of the International Criminal Tribunal for the Former Yugoslavia",
+      "source_type": "tribunal statute",
+      "institution": "ICTY",
+      "year": "2009",
+      "url": "https://www.icty.org/x/file/Legal%20Library/Statute/statute_sept09_en.pdf",
+      "notes": "Articles 7(1) and 7(3) are central to individual and superior responsibility doctrine."
+    },
+    {
+      "source_id": "ictr_statute",
+      "source_title": "Statute of the International Criminal Tribunal for Rwanda",
+      "source_type": "tribunal statute",
+      "institution": "ICTR",
+      "year": "1994",
+      "url": "https://unictr.irmct.org/sites/unictr.org/files/legal-library/100131_Statute_en_fr_0.pdf",
+      "notes": "Articles 6(1) and 6(3) shaped modes of liability and command responsibility jurisprudence."
+    },
+    {
+      "source_id": "tadic_appeals_1999",
+      "source_title": "Prosecutor v. Tadić, Appeals Judgment",
+      "source_type": "case law",
+      "institution": "ICTY",
+      "year": "1999",
+      "url": "https://www.icty.org/x/cases/tadic/acjug/en/tad-aj990715e.pdf",
+      "notes": "Foundational ICTY authority on joint criminal enterprise and individual responsibility."
+    },
+    {
+      "source_id": "celebici_appeals_2001",
+      "source_title": "Prosecutor v. Delalić et al. (Čelebići), Appeals Judgment",
+      "source_type": "case law",
+      "institution": "ICTY",
+      "year": "2001",
+      "url": "https://www.icty.org/x/cases/mucic/acjug/en/cel-aj010220.pdf",
+      "notes": "Important superior-responsibility authority on effective control and superior-subordinate relationship."
+    },
+    {
+      "source_id": "bagilishema_appeals_2002",
+      "source_title": "Prosecutor v. Bagilishema, Appeals Judgment",
+      "source_type": "case law",
+      "institution": "ICTR",
+      "year": "2002",
+      "url": "https://unictr.irmct.org/sites/unictr.org/files/case-documents/ictr-95-1a/appeals-chamber-judgements/en/020703.pdf",
+      "notes": "ICTR authority on command responsibility, knowledge, and effective control."
+    },
+    {
+      "source_id": "irmct_digest",
+      "source_title": "IRMCT / ICTY Case Law Research Tool",
+      "source_type": "case-law database",
+      "institution": "IRMCT",
+      "year": "n.d.",
+      "url": "https://cld.irmct.org/",
+      "notes": "Research tool for ICTY, ICTR, and IRMCT jurisprudence on liability doctrines."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "cassese_2003",
+      "author": "Cassese, A.",
+      "year": "2003",
+      "title": "International Criminal Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/international-criminal-law-9780199203109",
+      "notes": "Classic account of international criminal law and liability architecture."
+    },
+    {
+      "source_id": "cryer_robinson_vasiliev_2019",
+      "author": "Cryer, R., Robinson, D. and Vasiliev, S.",
+      "year": "2019",
+      "title": "An Introduction to International Criminal Law and Procedure",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/an-introduction-to-international-criminal-law-and-procedure/E4F21C5E720E5FD3E9B4E7B89160B0CE",
+      "notes": "Accessible but rigorous treatment of crimes, liability, procedure, and institutions."
+    },
+    {
+      "source_id": "werle_jessberger_2020",
+      "author": "Werle, G. and Jessberger, F.",
+      "year": "2020",
+      "title": "Principles of International Criminal Law",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/principles-of-international-criminal-law-9780198826859",
+      "notes": "Systematic treatment of general principles and modes of liability."
+    },
+    {
+      "source_id": "stahn_2019",
+      "author": "Stahn, C.",
+      "year": "2019",
+      "title": "A Critical Introduction to International Criminal Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/critical-introduction-to-international-criminal-law/9E70FB0A2551F65C4EB016D364D7EC5F",
+      "notes": "Critical and doctrinal account of ICL institutions and liability."
+    },
+    {
+      "source_id": "boas_bischoff_reid_2007",
+      "author": "Boas, G., Bischoff, J.L. and Reid, N.L.",
+      "year": "2007",
+      "title": "International Criminal Law Practitioner Library, Volume I: Forms of Responsibility in International Criminal Law",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/international-criminal-law-practitioner-library/7F2A392B4CB0E18DC15C6A7C48D263EE",
+      "notes": "Practitioner-focused account of forms of responsibility."
+    },
+    {
+      "source_id": "meloni_2010",
+      "author": "Meloni, C.",
+      "year": "2010",
+      "title": "Command Responsibility in International Criminal Law",
+      "publisher": "T.M.C. Asser Press",
+      "url": "https://link.springer.com/book/10.1007/978-90-6704-605-3",
+      "notes": "Focused monograph on superior responsibility and command structures."
+    },
+    {
+      "source_id": "ambos_2013",
+      "author": "Ambos, K.",
+      "year": "2013",
+      "title": "Treatise on International Criminal Law, Volume I: Foundations and General Part",
+      "publisher": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/treatise-on-international-criminal-law-9780199657926",
+      "notes": "Detailed doctrinal account of general part of ICL."
+    }
+  ]
+}

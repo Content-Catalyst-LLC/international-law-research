@@ -1,0 +1,6 @@
+evidence_category,function,examples,linkage_issue
+Crime-base evidence,Proves that underlying crimes occurred,"Victim testimony, forensic reports, satellite imagery, hospital records, mass-grave evidence",Does not itself connect the accused to the crime.
+Linkage evidence,"Connects accused to perpetrators, policies, orders, assistance, or failures to act","Orders, meeting minutes, radio intercepts, command logs, insider witnesses, organizational charts",Often the hardest evidentiary layer.
+Contextual evidence,"Shows armed conflict, widespread/systematic attack, policy, or group intent","Pattern evidence, government documents, tribunal findings, NGO reports, expert reports",Must be connected to the relevant crime category.
+Mental-element evidence,"Supports intent, knowledge, awareness, or reason to know","Statements, warnings, prior incidents, scale, repetition, training, reports",Inference must not replace proof.
+Exculpatory or limiting evidence,"Tests defenses, duress, mistake, lack of control, or reasonable measures","Contrary orders, attempts to prevent, loss of control, rescue or discipline records",Must be preserved and assessed fairly.
