@@ -1,0 +1,68 @@
+{
+  "files_scanned": 15,
+  "records": [
+    {
+      "file": "data/primary_sources.csv",
+      "url_count": 12,
+      "urls": [
+        "https://ihl-databases.icrc.org/en/customary-ihl/v1,",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977,",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977,NIAC",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949/article-3,",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949,Core",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949,",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-iv-1907,",
+        "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf,",
+        "https://www.icj-cij.org/case/131,",
+        "https://www.icj-cij.org/case/186,",
+        "https://www.icrc.org/en/law-and-policy/detention,",
+        "https://www.icrc.org/en/law-and-policy/occupation,ICRC"
+      ]
+    },
+    {
+      "file": "data/secondary_sources.csv",
+      "url_count": 6,
+      "urls": [
+        "https://global.oup.com/academic/product/the-1949-geneva-conventions-9780199675449,Major",
+        "https://global.oup.com/academic/product/the-international-law-of-occupation-9780199588893,Leading",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949/commentary/2020,Updated",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/commentary/1958,Classic",
+        "https://www.cambridge.org/core/books/international-law-of-belligerent-occupation/,Major",
+        "https://www.e-elgar.com/shop/usd/international-humanitarian-law-9781786438546.html,"
+      ]
+    },
+    {
+      "file": "docs/wordpress_article_html.html",
+      "url_count": 20,
+      "urls": [
+        "https://casebook.icrc.org/",
+        "https://github.com/Content-Catalyst-LLC/international-law-research/tree/main/articles/international-law/occupation-detention-legal-governance-war-torn-territory",
+        "https://global.oup.com/academic/product/the-international-law-of-occupation-9780199588893",
+        "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule124",
+        "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule129",
+        "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule130",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-49",
+        "https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-iv-1907/regulations",
+        "https://sustainablecatalyst.com/wp-content/uploads/2026/06/occupation-detention-legal-governance-war-torn-territory-international-law.png",
+        "https://www.cambridge.org/core/books/international-law-of-belligerent-occupation/8C8D02AF9196F6B39B13E5E69E09E3B5",
+        "https://www.e-elgar.com/shop/gbp/international-humanitarian-law-9781786438543.html",
+        "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf",
+        "https://www.icj-cij.org/case/131",
+        "https://www.icj-cij.org/case/186",
+        "https://www.icrc.org/en/law-and-policy/detention",
+        "https://www.icrc.org/en/law-and-policy/occupation",
+        "https://www.icrc.org/en/law-and-policy/protected-persons-prisoners-war-and-detainees",
+        "https://www.icrc.org/en/publication/4231-international-humanitarian-law-comprehensive-introduction"
+      ]
+    },
+    {
+      "file": "metadata.json",
+      "url_count": 1,
+      "urls": [
+        "https://github.com/Content-Catalyst-LLC/international-law-research"
+      ]
+    }
+  ]
+}

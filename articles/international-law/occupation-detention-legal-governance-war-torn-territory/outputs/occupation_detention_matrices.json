@@ -1,0 +1,270 @@
+{
+  "article": "Occupation, Detention, and the Legal Governance of War-Torn Territory",
+  "slug": "occupation-detention-legal-governance-war-torn-territory",
+  "matrices": {
+    "occupation_framework_matrix": [
+      {
+        "concept": "effective_control",
+        "rule_summary": "Occupation generally turns on effective control over territory by hostile armed forces rather than formal annexation.",
+        "key_authorities": "Hague Regulations; Geneva Convention IV; ICJ Wall Advisory Opinion"
+      },
+      {
+        "concept": "public_order",
+        "rule_summary": "Occupying power must restore and ensure public order and civil life while respecting existing laws unless absolutely prevented.",
+        "key_authorities": "Hague Regulations Article 43"
+      },
+      {
+        "concept": "temporary_authority",
+        "rule_summary": "Occupation does not transfer sovereignty and should not become a project of annexation, settlement, or permanent domination.",
+        "key_authorities": "Hague Regulations; Geneva Convention IV; ICJ 2024 OPT Advisory Opinion"
+      },
+      {
+        "concept": "civilian_protection",
+        "rule_summary": "Protected persons retain humanitarian protections against coercion, collective punishment, deportation, transfer, and unlawful confinement.",
+        "key_authorities": "Geneva Convention IV"
+      },
+      {
+        "concept": "property_resources",
+        "rule_summary": "Private property, public property, resources, and economic administration are constrained by usufruct, necessity, and humanitarian duties.",
+        "key_authorities": "Hague Regulations; Geneva Convention IV; Customary IHL"
+      }
+    ],
+    "detention_framework_matrix": [
+      {
+        "concept": "prisoners_of_war",
+        "rule_summary": "Combatants captured in international armed conflict may be detained as POWs and must receive Geneva Convention III protections.",
+        "key_authorities": "Geneva Convention III"
+      },
+      {
+        "concept": "protected_civilians",
+        "rule_summary": "Civilians in occupied territory may be interned only on imperative security grounds and with procedural safeguards.",
+        "key_authorities": "Geneva Convention IV"
+      },
+      {
+        "concept": "common_article_3",
+        "rule_summary": "All persons not taking active part in hostilities must be treated humanely in NIAC settings.",
+        "key_authorities": "Common Article 3"
+      },
+      {
+        "concept": "fair_trial",
+        "rule_summary": "Sentencing and punishment require regularly constituted courts and indispensable judicial guarantees.",
+        "key_authorities": "Common Article 3; Geneva Convention IV; Additional Protocols"
+      },
+      {
+        "concept": "icrc_access",
+        "rule_summary": "ICRC visits and humanitarian access are central safeguards against disappearance, abuse, and unlawful detention.",
+        "key_authorities": "Geneva Conventions; ICRC institutional practice"
+      }
+    ],
+    "protected_persons_matrix": [
+      {
+        "protected_group": "wounded_and_sick",
+        "protection_summary": "Medical care and humane treatment must be provided without adverse distinction.",
+        "key_authorities": "Geneva Conventions I and II; Customary IHL"
+      },
+      {
+        "protected_group": "prisoners_of_war",
+        "protection_summary": "POWs are protected against violence, intimidation, insults, reprisals, and unlawful punishment.",
+        "key_authorities": "Geneva Convention III"
+      },
+      {
+        "protected_group": "civilians",
+        "protection_summary": "Civilians are protected against violence, coercion, collective penalties, deportation, transfer, and unlawful confinement.",
+        "key_authorities": "Geneva Convention IV"
+      },
+      {
+        "protected_group": "detainees_in_niac",
+        "protection_summary": "NIAC detainees retain humane treatment and judicial guarantees under Common Article 3 and customary IHL.",
+        "key_authorities": "Common Article 3; Additional Protocol II; Customary IHL"
+      }
+    ],
+    "war_crimes_matrix": [
+      {
+        "issue": "unlawful_deportation_or_transfer",
+        "rule_summary": "Deportation or transfer of protected persons from occupied territory may constitute a grave breach or war crime.",
+        "key_authorities": "Geneva Convention IV; Rome Statute"
+      },
+      {
+        "issue": "unlawful_confinement",
+        "rule_summary": "Unlawful confinement of protected persons may constitute a grave breach or war crime.",
+        "key_authorities": "Geneva Convention IV; Rome Statute"
+      },
+      {
+        "issue": "settlement_transfer",
+        "rule_summary": "Transfer by an occupying power of parts of its own civilian population into occupied territory is prohibited and criminalized in the Rome Statute.",
+        "key_authorities": "Geneva Convention IV Article 49; Rome Statute"
+      },
+      {
+        "issue": "denial_of_fair_trial",
+        "rule_summary": "Sentencing without indispensable judicial guarantees may constitute a war crime.",
+        "key_authorities": "Common Article 3; Rome Statute"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source_id": "primary_occupation_001",
+        "source_title": "Hague Convention IV and Regulations Respecting the Laws and Customs of War on Land",
+        "source_type": "treaty",
+        "institution": "International Peace Conference",
+        "year": "1907",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-iv-1907",
+        "notes": "Core source for occupation duties, public order, property, and military authority in occupied territory."
+      },
+      {
+        "source_id": "primary_occupation_002",
+        "source_title": "Geneva Convention III Relative to the Treatment of Prisoners of War",
+        "source_type": "treaty",
+        "institution": "Diplomatic Conference of Geneva",
+        "year": "1949",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949",
+        "notes": "Core treaty governing prisoner-of-war status and treatment."
+      },
+      {
+        "source_id": "primary_occupation_003",
+        "source_title": "Geneva Convention IV Relative to the Protection of Civilian Persons in Time of War",
+        "source_type": "treaty",
+        "institution": "Diplomatic Conference of Geneva",
+        "year": "1949",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949",
+        "notes": "Core treaty for protected civilians, occupation, internment, transfer, deportation, and relief."
+      },
+      {
+        "source_id": "primary_occupation_004",
+        "source_title": "Common Article 3 of the Geneva Conventions",
+        "source_type": "treaty provision",
+        "institution": "Diplomatic Conference of Geneva",
+        "year": "1949",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949/article-3",
+        "notes": "Minimum protections in non-international armed conflicts, including humane treatment and judicial guarantees."
+      },
+      {
+        "source_id": "primary_occupation_005",
+        "source_title": "Additional Protocol I to the Geneva Conventions",
+        "source_type": "treaty",
+        "institution": "Diplomatic Conference of Geneva",
+        "year": "1977",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977",
+        "notes": "Additional IAC protections relevant to civilians, relief, and conduct of hostilities."
+      },
+      {
+        "source_id": "primary_occupation_006",
+        "source_title": "Additional Protocol II to the Geneva Conventions",
+        "source_type": "treaty",
+        "institution": "Diplomatic Conference of Geneva",
+        "year": "1977",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/apii-1977",
+        "notes": "NIAC protections relevant to persons deprived of liberty and civilian protection."
+      },
+      {
+        "source_id": "primary_occupation_007",
+        "source_title": "ICRC Customary International Humanitarian Law Database",
+        "source_type": "customary law database",
+        "institution": "International Committee of the Red Cross",
+        "year": "2005",
+        "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1",
+        "notes": "Customary IHL rules on detention, displacement, relief, humane treatment, and occupation-related protections."
+      },
+      {
+        "source_id": "primary_occupation_008",
+        "source_title": "Rome Statute of the International Criminal Court",
+        "source_type": "treaty",
+        "institution": "International Criminal Court",
+        "year": "1998",
+        "url": "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf",
+        "notes": "War-crimes framework for unlawful deportation, transfer, confinement, settlement transfer, and related conduct."
+      },
+      {
+        "source_id": "primary_occupation_009",
+        "source_title": "Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory",
+        "source_type": "advisory opinion",
+        "institution": "International Court of Justice",
+        "year": "2004",
+        "url": "https://www.icj-cij.org/case/131",
+        "notes": "ICJ advisory opinion addressing occupation, self-determination, humanitarian law, and human-rights law."
+      },
+      {
+        "source_id": "primary_occupation_010",
+        "source_title": "Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+        "source_type": "advisory opinion",
+        "institution": "International Court of Justice",
+        "year": "2024",
+        "url": "https://www.icj-cij.org/case/186",
+        "notes": "ICJ advisory opinion addressing occupation, unlawful presence, non-recognition, self-determination, and third-state obligations."
+      },
+      {
+        "source_id": "primary_occupation_011",
+        "source_title": "ICRC Occupation Law Overview",
+        "source_type": "institutional guidance",
+        "institution": "International Committee of the Red Cross",
+        "year": "2024",
+        "url": "https://www.icrc.org/en/law-and-policy/occupation",
+        "notes": "ICRC overview of the law of occupation and the duties of occupying powers."
+      },
+      {
+        "source_id": "primary_occupation_012",
+        "source_title": "ICRC Detention in Armed Conflict",
+        "source_type": "institutional guidance",
+        "institution": "International Committee of the Red Cross",
+        "year": "2024",
+        "url": "https://www.icrc.org/en/law-and-policy/detention",
+        "notes": "ICRC overview of detention protections, visits, safeguards, and humane treatment."
+      }
+    ],
+    "secondary_sources": [
+      {
+        "source_id": "secondary_occupation_001",
+        "author": "Eyal Benvenisti",
+        "year": "2012",
+        "title": "The International Law of Occupation",
+        "publisher": "Oxford University Press",
+        "url": "https://global.oup.com/academic/product/the-international-law-of-occupation-9780199588893",
+        "notes": "Leading monograph on occupation law and the legal governance of occupied territory."
+      },
+      {
+        "source_id": "secondary_occupation_002",
+        "author": "Yoram Dinstein",
+        "year": "2019",
+        "title": "The International Law of Belligerent Occupation",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/international-law-of-belligerent-occupation/",
+        "notes": "Major doctrinal treatment of belligerent occupation."
+      },
+      {
+        "source_id": "secondary_occupation_003",
+        "author": "Marco Sassòli",
+        "year": "2019",
+        "title": "International Humanitarian Law: Rules, Controversies, and Solutions to Problems Arising in Warfare",
+        "publisher": "Edward Elgar",
+        "url": "https://www.e-elgar.com/shop/usd/international-humanitarian-law-9781786438546.html",
+        "notes": "Comprehensive IHL analysis including occupation, detention, and armed-conflict classification."
+      },
+      {
+        "source_id": "secondary_occupation_004",
+        "author": "ICRC",
+        "year": "2020",
+        "title": "Commentary on the Third Geneva Convention",
+        "publisher": "International Committee of the Red Cross",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciii-1949/commentary/2020",
+        "notes": "Updated commentary on prisoner-of-war protections and detention obligations."
+      },
+      {
+        "source_id": "secondary_occupation_005",
+        "author": "ICRC",
+        "year": "1958",
+        "title": "Commentary on the Fourth Geneva Convention",
+        "publisher": "International Committee of the Red Cross",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/commentary/1958",
+        "notes": "Classic commentary on civilian protection and occupation provisions."
+      },
+      {
+        "source_id": "secondary_occupation_006",
+        "author": "Andrew Clapham, Paola Gaeta, and Marco Sassòli",
+        "year": "2015",
+        "title": "The 1949 Geneva Conventions: A Commentary",
+        "publisher": "Oxford University Press",
+        "url": "https://global.oup.com/academic/product/the-1949-geneva-conventions-9780199675449",
+        "notes": "Major commentary volume on the Geneva Conventions."
+      }
+    ]
+  }
+}

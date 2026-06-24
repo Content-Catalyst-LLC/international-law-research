@@ -1,5 +1,8 @@
-# Editorial Notes: Occupation, Detention, and the Legal Governance of War-Torn Territory
+# Editorial Notes
 
-- Status: planned
-- Series: International Law
-- Catalyst Data: source CSVs use normalized headers for ingestion.
+Use this article to bridge the general Geneva Conventions article and the more specific weapons-law article. The article should remain lawyer-facing and doctrinal, while retaining the International Law series' broader concern with occupation, domination, civilian protection, detention, accountability, and unequal enforcement.
+
+Navigation:
+
+- Previous: The Law of War: Distinction, Proportionality, Necessity, and Humanity
+- Next: Weapons Law, Prohibited Means of Warfare, and Emerging Military Technologies
