@@ -1,0 +1,9 @@
+pathway_id,basis,description,article_or_source,example,notes
+special_agreement,Special agreement,States jointly submit a dispute to the Court by compromis or special agreement.,ICJ Statute Article 36(1),Territorial or maritime boundary disputes,Strongest consent pathway because both parties agree to litigate the specific dispute.
+compromissory_clause,Treaty compromissory clause,A treaty clause gives the Court jurisdiction over disputes concerning interpretation or application of that treaty.,ICJ Statute Article 36(1),Genocide Convention cases,Often central in modern ICJ litigation.
+optional_clause,Optional clause declarations,"States accept compulsory jurisdiction under Article 36(2), often with reservations.",ICJ Statute Article 36(2),Nicaragua; preliminary-objection disputes,"Powerful but limited by reservations, reciprocity, and withdrawals."
+forum_prorogatum,Forum prorogatum,A respondent state accepts jurisdiction after proceedings are initiated.,ICJ practice,Exceptional pathway,Requires clear consent.
+advisory_opinion,Advisory opinion,Authorized UN organs or agencies request an opinion on a legal question.,ICJ Statute Article 65,Wall; Kosovo; Chagos; OPT,"Not a contentious case, but often doctrinally influential."
+provisional_measures,Provisional measures,Interim orders preserving rights pending final decision when jurisdiction appears prima facie.,ICJ Statute Article 41,The Gambia v. Myanmar; South Africa v. Israel,Key tool in urgent cases.
+preliminary_objections,Preliminary objections,Objections to jurisdiction or admissibility before merits.,Rules of Court,Many contentious cases,Often decisive in complex disputes.
+article_94_compliance,Judgment compliance,UN Charter obligation to comply with ICJ judgments in cases to which a state is party.,UN Charter Article 94,Judgment enforcement debates,Security Council follow-up is politically constrained.

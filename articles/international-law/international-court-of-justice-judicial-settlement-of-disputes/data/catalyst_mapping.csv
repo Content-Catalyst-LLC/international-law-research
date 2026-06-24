@@ -1,0 +1,6 @@
+mapping_id,article_slug,source_id,catalyst_table,catalyst_key,topic,notes
+map_icj_statute,international-court-of-justice-judicial-settlement-of-disputes,icj_statute,legal_instruments,instrument_id,ICJ Statute,"Core legal instrument for jurisdiction, sources, judgments, and advisory opinions."
+map_un_charter,international-court-of-justice-judicial-settlement-of-disputes,un_charter,legal_instruments,instrument_id,UN Charter and judicial settlement,Charter foundation for peaceful settlement and ICJ authority.
+map_cases,international-court-of-justice-judicial-settlement-of-disputes,nicaragua_1986,legal_instruments,instrument_id,ICJ contentious cases,Use as leading use-of-force and customary-law case.
+map_advisory,international-court-of-justice-judicial-settlement-of-disputes,wall_2004,legal_instruments,instrument_id,ICJ advisory opinions,Use as leading advisory-opinion example.
+map_opt_2024,international-court-of-justice-judicial-settlement-of-disputes,opt_2024,legal_instruments,instrument_id,Occupation and self-determination,Contemporary advisory opinion on legal consequences.

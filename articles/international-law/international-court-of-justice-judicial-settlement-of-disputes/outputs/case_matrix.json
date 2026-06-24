@@ -1,0 +1,104 @@
+{
+  "case_count": 11,
+  "cases": [
+    {
+      "case_id": "nicaragua_1986",
+      "case_title": "Military and Paramilitary Activities in and against Nicaragua",
+      "year": "1986",
+      "proceeding_type": "contentious",
+      "legal_area": "use_of_force",
+      "key_issue": "Self-defense, intervention, attribution, customary international law",
+      "url": "https://www.icj-cij.org/case/70"
+    },
+    {
+      "case_id": "bosnia_genocide_2007",
+      "case_title": "Bosnia and Herzegovina v. Serbia and Montenegro",
+      "year": "2007",
+      "proceeding_type": "contentious",
+      "legal_area": "genocide",
+      "key_issue": "State responsibility, prevention, punishment, attribution",
+      "url": "https://www.icj-cij.org/case/91"
+    },
+    {
+      "case_id": "wall_2004",
+      "case_title": "Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory",
+      "year": "2004",
+      "proceeding_type": "advisory",
+      "legal_area": "occupation_self_determination",
+      "key_issue": "Occupation, self-determination, humanitarian law, third-state obligations",
+      "url": "https://www.icj-cij.org/case/131"
+    },
+    {
+      "case_id": "kosovo_2010",
+      "case_title": "Kosovo Advisory Opinion",
+      "year": "2010",
+      "proceeding_type": "advisory",
+      "legal_area": "statehood_self_determination",
+      "key_issue": "Unilateral declaration of independence and contested statehood",
+      "url": "https://www.icj-cij.org/case/141"
+    },
+    {
+      "case_id": "chagos_2019",
+      "case_title": "Chagos Advisory Opinion",
+      "year": "2019",
+      "proceeding_type": "advisory",
+      "legal_area": "decolonization",
+      "key_issue": "Self-determination, decolonization, territorial integrity",
+      "url": "https://www.icj-cij.org/case/169"
+    },
+    {
+      "case_id": "gambia_myanmar_2019",
+      "case_title": "The Gambia v. Myanmar",
+      "year": "2019",
+      "proceeding_type": "contentious",
+      "legal_area": "genocide",
+      "key_issue": "Genocide Convention obligations erga omnes partes and provisional measures",
+      "url": "https://www.icj-cij.org/case/178"
+    },
+    {
+      "case_id": "opt_2024",
+      "case_title": "Occupied Palestinian Territory Advisory Opinion",
+      "year": "2024",
+      "proceeding_type": "advisory",
+      "legal_area": "occupation_self_determination",
+      "key_issue": "Unlawful presence, non-recognition, non-assistance, legal consequences",
+      "url": "https://www.icj-cij.org/case/186"
+    },
+    {
+      "case_id": "south_africa_israel_2023",
+      "case_title": "South Africa v. Israel",
+      "year": "2023",
+      "proceeding_type": "contentious",
+      "legal_area": "genocide",
+      "key_issue": "Genocide Convention, provisional measures, Gaza",
+      "url": "https://www.icj-cij.org/case/192"
+    },
+    {
+      "case_id": "north_sea_1969",
+      "case_title": "North Sea Continental Shelf",
+      "year": "1969",
+      "proceeding_type": "contentious",
+      "legal_area": "maritime_custom",
+      "key_issue": "Continental shelf delimitation and customary international law",
+      "url": "https://www.icj-cij.org/case/51"
+    },
+    {
+      "case_id": "qatar_bahrain_2001",
+      "case_title": "Qatar v. Bahrain",
+      "year": "2001",
+      "proceeding_type": "contentious",
+      "legal_area": "territory_maritime",
+      "key_issue": "Territorial questions and maritime delimitation",
+      "url": "https://www.icj-cij.org/case/87"
+    },
+    {
+      "case_id": "cameroon_nigeria_2002",
+      "case_title": "Cameroon v. Nigeria",
+      "year": "2002",
+      "proceeding_type": "contentious",
+      "legal_area": "boundary",
+      "key_issue": "Land and maritime boundary; implementation",
+      "url": "https://www.icj-cij.org/case/94"
+    }
+  ]
+}

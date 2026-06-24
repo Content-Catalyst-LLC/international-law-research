@@ -1,0 +1,36 @@
+{
+  "title": "The International Court of Justice and the Judicial Settlement of Disputes",
+  "seo_title": "International Court of Justice and Judicial Settlement of Disputes",
+  "focus_keyword": "International Court of Justice",
+  "slug": "international-court-of-justice-judicial-settlement-of-disputes",
+  "wordpress_url": "/international-court-of-justice-judicial-settlement-of-disputes/",
+  "series": "International Law",
+  "article_order": 19,
+  "status": "generated_deep_dive_ready_for_publication",
+  "repository_path": "articles/international-law/international-court-of-justice-judicial-settlement-of-disputes",
+  "github_repository": "https://github.com/Content-Catalyst-LLC/international-law-research",
+  "github_folder": "https://github.com/Content-Catalyst-LLC/international-law-research/tree/main/articles/international-law/international-court-of-justice-judicial-settlement-of-disputes",
+  "previous_article": {
+    "title": "The United Nations and Collective Security",
+    "slug": "united-nations-collective-security",
+    "url": "/united-nations-collective-security/"
+  },
+  "next_article": {
+    "title": "International Organizations and the Legal Authority of Global Institutions",
+    "slug": "international-organizations-legal-authority-global-institutions",
+    "url": "/international-organizations-legal-authority-global-institutions/"
+  },
+  "excerpt": "The International Court of Justice is the principal judicial organ of the United Nations and the central forum for the judicial settlement of disputes between states. This article explains the Court’s Charter foundation, contentious jurisdiction, advisory jurisdiction, provisional measures, preliminary objections, evidentiary practice, judgments, compliance, and doctrinal influence across state responsibility, self-determination, territorial disputes, maritime delimitation, use of force, genocide, occupation, and the legal consequences of unlawful situations.",
+  "tags": [
+    "international law",
+    "International Court of Justice",
+    "judicial settlement",
+    "ICJ Statute",
+    "advisory opinions",
+    "contentious jurisdiction",
+    "provisional measures",
+    "state responsibility"
+  ],
+  "catalyst_data_ready": true,
+  "created_by_script": "update_international_law_research_icj_article.sh"
+}

@@ -6,5 +6,15 @@
   "tag_count": 39,
   "instrument_topic_count": 1172,
   "all_article_sources_count": 413,
-  "status": "catalyst_data_ready"
+  "status": "catalyst_data_ready",
+  "updated_articles": {
+    "international-court-of-justice-judicial-settlement-of-disputes": {
+      "title": "The International Court of Justice and the Judicial Settlement of Disputes",
+      "repo_path": "articles/international-law/international-court-of-justice-judicial-settlement-of-disputes",
+      "primary_source_count": 17,
+      "total_source_count": 25,
+      "legal_instrument_count": 17,
+      "catalyst_data_ready": true
+    }
+  }
 }
