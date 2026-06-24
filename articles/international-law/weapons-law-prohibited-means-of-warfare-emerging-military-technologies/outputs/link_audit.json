@@ -1,0 +1,52 @@
+{
+  "data/primary_sources.csv": [
+    "https://disarmament.unoda.org/anti-personnel-landmines-convention/,Prohibits",
+    "https://disarmament.unoda.org/biological-weapons/,Prohibits",
+    "https://disarmament.unoda.org/convention-on-cluster-munitions/,Prohibits",
+    "https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/,Framework",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977,\"Core",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-iv-1907,Classic",
+    "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf,Defines",
+    "https://www.opcw.org/chemical-weapons-convention,Prohibits"
+  ],
+  "data/secondary_sources.csv": [
+    "https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/background-on-laws-in-the-ccw/,UNODA",
+    "https://www.dfa.ie/our-role-policies/international-priorities/peace-and-security/ewipa-consultations/,Non-binding",
+    "https://www.icrc.org/en/doc/assets/files/other/icrc_002_0902.pdf,Practical",
+    "https://www.icrc.org/en/law-and-policy/autonomous-weapons,Current",
+    "https://www.icrc.org/en/law-and-policy/cyber-operations-during-armed-conflicts,Current",
+    "https://www.icrc.org/en/law-and-policy/methods-and-means-warfare,ICRC"
+  ],
+  "docs/wordpress_article_html.html": [
+    "https://disarmament.unoda.org/en/our-work/conventional-arms/convention-certain-conventional-weapons\"",
+    "https://ewipa.org/\"",
+    "https://github.com/Content-Catalyst-LLC/international-law-research\"",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule70\"",
+    "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule73\"",
+    "https://library.icrc.org/library/docs/DOC/icrc_002_0902.pdf\"",
+    "https://meetings.unoda.org/ccw/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapons-systems-2025\"",
+    "https://sustainablecatalyst.com/wp-content/uploads/2026/06/weapons-law-prohibited-means-warfare-emerging-military-technologies-international-law.png\"",
+    "https://www.apminebanconvention.org/en/convention-text\"",
+    "https://www.clusterconvention.org/convention-text/\"",
+    "https://www.icrc.org/en/law-and-policy/autonomous-weapons\"",
+    "https://www.icrc.org/en/law-and-policy/cyber-and-information-operations\"",
+    "https://www.icrc.org/en/law-and-policy/methods-and-means-warfare\"",
+    "https://www.icrc.org/en/law-and-policy/weapons-and-disarmament\""
+  ],
+  "outputs/weapons_law_matrices.json": [
+    "https://disarmament.unoda.org/anti-personnel-landmines-convention/\",",
+    "https://disarmament.unoda.org/biological-weapons/\",",
+    "https://disarmament.unoda.org/convention-on-cluster-munitions/\",",
+    "https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/\",",
+    "https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/background-on-laws-in-the-ccw/\",",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977\",",
+    "https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-iv-1907\",",
+    "https://www.dfa.ie/our-role-policies/international-priorities/peace-and-security/ewipa-consultations/\",",
+    "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf\",",
+    "https://www.icrc.org/en/doc/assets/files/other/icrc_002_0902.pdf\",",
+    "https://www.icrc.org/en/law-and-policy/autonomous-weapons\",",
+    "https://www.icrc.org/en/law-and-policy/cyber-operations-during-armed-conflicts\",",
+    "https://www.icrc.org/en/law-and-policy/methods-and-means-warfare\",",
+    "https://www.opcw.org/chemical-weapons-convention\","
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "weapons_law_matrix": [
+    {
+      "category": "General weapons principle",
+      "legal_question": "Does the weapon cause superfluous injury, unnecessary suffering, or inherently indiscriminate effects?",
+      "key_sources": "Additional Protocol I arts. 35, 36, 51; customary IHL",
+      "lawyer_task": "Identify design effects, failure modes, foreseeable civilian harm, controllability, and available precautions."
+    },
+    {
+      "category": "Chemical weapons",
+      "legal_question": "Is the substance used as a method of warfare or designed for toxic effects?",
+      "key_sources": "Chemical Weapons Convention; customary IHL; Rome Statute",
+      "lawyer_task": "Distinguish law-enforcement context from armed-conflict use and assess treaty-party obligations."
+    },
+    {
+      "category": "Biological weapons",
+      "legal_question": "Does the agent, toxin, delivery system, or stockpile violate biological-weapons prohibitions?",
+      "key_sources": "Biological Weapons Convention; customary IHL",
+      "lawyer_task": "Assess development, acquisition, stockpiling, transfer, deployment, and dual-use claims."
+    },
+    {
+      "category": "Mines and booby traps",
+      "legal_question": "Are mines directed, recorded, marked, fenced, monitored, and cleared consistent with treaty rules?",
+      "key_sources": "CCW Amended Protocol II; Ottawa Convention for states parties",
+      "lawyer_task": "Map treaty status, clearance duties, civilian warning duties, and post-conflict harm."
+    },
+    {
+      "category": "Cluster munitions",
+      "legal_question": "Does the munition fall within a treaty prohibition, and what clearance or victim-assistance duties follow?",
+      "key_sources": "Convention on Cluster Munitions; customary civilian-protection rules",
+      "lawyer_task": "Evaluate treaty status, transfer risk, stockpile rules, unexploded ordnance, and remediation."
+    },
+    {
+      "category": "Autonomous weapons and AI-enabled targeting",
+      "legal_question": "Can humans understand, supervise, constrain, and be accountable for the weapon system’s effects?",
+      "key_sources": "Article 36; IHL principles; CCW LAWS discussions",
+      "lawyer_task": "Test human control, explainability, operational boundaries, target profiles, data integrity, and audit trails."
+    },
+    {
+      "category": "Cyber operations",
+      "legal_question": "Can the cyber operation be directed at military objectives and limited to lawful effects?",
+      "key_sources": "IHL principles; ICRC cyber guidance; state practice",
+      "lawyer_task": "Assess civilian infrastructure dependencies, malware containment, reverberating effects, and attribution evidence."
+    },
+    {
+      "category": "Explosive weapons in populated areas",
+      "legal_question": "Are foreseeable blast, fragmentation, infrastructure, and reverberating effects compatible with civilian protection?",
+      "key_sources": "IHL principles; EWIPA Declaration; customary precautions",
+      "lawyer_task": "Assess weapon choice, population density, expected military advantage, feasible alternatives, and warnings."
+    }
+  ],
+  "article_36_review_matrix": [
+    {
+      "stage": "Technical description",
+      "review_question": "What is the weapon, means, or method, and how does it work?",
+      "evidence": "Specifications, testing records, software design, target profile, delivery mechanism, operator role."
+    },
+    {
+      "stage": "Legal classification",
+      "review_question": "Is the system a weapon, means, method, munition, platform, software effect, or combination?",
+      "evidence": "Functional description, operational concept, intended effects, foreseeable modes of use."
+    },
+    {
+      "stage": "Treaty screening",
+      "review_question": "Is it prohibited or restricted by treaty obligations binding on the state?",
+      "evidence": "Treaty status, declarations, reservations, national implementing law, export-control obligations."
+    },
+    {
+      "stage": "Customary IHL screening",
+      "review_question": "Would use violate distinction, proportionality, precautions, unnecessary suffering, or humanity?",
+      "evidence": "Testing, simulation, effects data, civilian-environment modeling, reliability data."
+    },
+    {
+      "stage": "Operational constraints",
+      "review_question": "Can lawful use depend on limits, training, geography, target type, or command authorization?",
+      "evidence": "Rules of engagement, operator manuals, mission constraints, geofencing, human-control measures."
+    },
+    {
+      "stage": "Accountability design",
+      "review_question": "Can decisions, data, warnings, approvals, and failures be reconstructed after use?",
+      "evidence": "Logs, audit records, chain of command, weapons-release documentation, incident review procedure."
+    }
+  ],
+  "emerging_military_technologies_matrix": [
+    {
+      "technology": "Drones and remotely piloted systems",
+      "core_issue": "Distance from the battlefield does not reduce obligations of distinction, proportionality, precautions, or accountability.",
+      "review_focus": "Sensor reliability, target identification, strike approval, communications delay, civilian harm tracking."
+    },
+    {
+      "technology": "AI-enabled targeting support",
+      "core_issue": "Decision support can distort targeting judgment through automation bias, flawed data, or opaque ranking systems.",
+      "review_focus": "Data quality, explainability, human review, confidence thresholds, error analysis, override procedures."
+    },
+    {
+      "technology": "Autonomous weapon systems",
+      "core_issue": "Autonomy raises questions of human control, predictability, accountability, and lawful target selection.",
+      "review_focus": "Operational constraints, target categories, environmental boundaries, abort mechanisms, logs."
+    },
+    {
+      "technology": "Cyber capabilities",
+      "core_issue": "Digital effects can propagate across civilian systems and cause indirect or reverberating harm.",
+      "review_focus": "Containment, civilian infrastructure mapping, medical and water-system dependencies, malware persistence."
+    },
+    {
+      "technology": "Space-enabled military systems",
+      "core_issue": "Dual-use satellites and space infrastructure connect military advantage with civilian life.",
+      "review_focus": "Civilian reliance, cascading effects, communications dependencies, proportionality and alternatives."
+    }
+  ],
+  "war_crimes_weapons_law_matrix": [
+    {
+      "risk_area": "Indiscriminate attack",
+      "legal_concern": "Use of weapons or methods that cannot be directed at specific military objectives or whose effects cannot be limited.",
+      "documentation_needed": "Targeting file, weapon effects model, civilian presence data, alternatives considered."
+    },
+    {
+      "risk_area": "Superfluous injury or unnecessary suffering",
+      "legal_concern": "Use of weapons calculated to cause injury beyond legitimate military purpose.",
+      "documentation_needed": "Technical design, medical effects, treaty screening, review memoranda."
+    },
+    {
+      "risk_area": "Protected objects and persons",
+      "legal_concern": "Use against hospitals, humanitarian operations, cultural property, or civilians.",
+      "documentation_needed": "Object status analysis, warnings, intelligence reliability, proportionality assessment."
+    },
+    {
+      "risk_area": "Environmental harm",
+      "legal_concern": "Severe, widespread, long-term, or otherwise unlawful environmental damage.",
+      "documentation_needed": "Environmental effects assessment, alternatives, command approvals, mitigation."
+    },
+    {
+      "risk_area": "Command responsibility",
+      "legal_concern": "Failure to prevent, suppress, or report unlawful weapons use by subordinates.",
+      "documentation_needed": "Training, orders, knowledge evidence, disciplinary records, reporting chains."
+    }
+  ],
+  "primary_sources": [
+    {
+      "source_id": "api-1977",
+      "source_title": "Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Additional Protocol I)",
+      "source_type": "treaty",
+      "institution": "Diplomatic Conference / ICRC repository",
+      "year": "1977",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/api-1977",
+      "notes": "Core treaty source for distinction, means and methods, precautions, and Article 36 weapons reviews."
+    },
+    {
+      "source_id": "hague-1907",
+      "source_title": "Hague Convention IV and Regulations Respecting the Laws and Customs of War on Land",
+      "source_type": "treaty",
+      "institution": "International Peace Conference",
+      "year": "1907",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/hague-conv-iv-1907",
+      "notes": "Classic source for limits on means and methods of warfare and military necessity."
+    },
+    {
+      "source_id": "cwc-1993",
+      "source_title": "Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction",
+      "source_type": "treaty",
+      "institution": "OPCW / United Nations",
+      "year": "1993",
+      "url": "https://www.opcw.org/chemical-weapons-convention",
+      "notes": "Prohibits chemical weapons and regulates destruction and verification."
+    },
+    {
+      "source_id": "bwc-1972",
+      "source_title": "Convention on the Prohibition of Biological Weapons",
+      "source_type": "treaty",
+      "institution": "United Nations Office for Disarmament Affairs",
+      "year": "1972",
+      "url": "https://disarmament.unoda.org/biological-weapons/",
+      "notes": "Prohibits biological and toxin weapons."
+    },
+    {
+      "source_id": "ccw-1980",
+      "source_title": "Convention on Certain Conventional Weapons",
+      "source_type": "treaty framework",
+      "institution": "United Nations Office for Disarmament Affairs",
+      "year": "1980",
+      "url": "https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/",
+      "notes": "Framework convention and protocols on excessively injurious or indiscriminate conventional weapons."
+    },
+    {
+      "source_id": "ottawa-1997",
+      "source_title": "Convention on the Prohibition of Anti-Personnel Mines",
+      "source_type": "treaty",
+      "institution": "United Nations / States Parties",
+      "year": "1997",
+      "url": "https://disarmament.unoda.org/anti-personnel-landmines-convention/",
+      "notes": "Prohibits anti-personnel mines for states parties."
+    },
+    {
+      "source_id": "cluster-2008",
+      "source_title": "Convention on Cluster Munitions",
+      "source_type": "treaty",
+      "institution": "United Nations / States Parties",
+      "year": "2008",
+      "url": "https://disarmament.unoda.org/convention-on-cluster-munitions/",
+      "notes": "Prohibits cluster munitions for states parties and addresses clearance and victim assistance."
+    },
+    {
+      "source_id": "rome-1998",
+      "source_title": "Rome Statute of the International Criminal Court",
+      "source_type": "treaty",
+      "institution": "International Criminal Court",
+      "year": "1998",
+      "url": "https://www.icc-cpi.int/sites/default/files/RS-Eng.pdf",
+      "notes": "Defines war crimes relevant to prohibited means and methods of warfare."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "source_id": "icrc-weapon-review",
+      "author": "International Committee of the Red Cross",
+      "year": "2006",
+      "title": "A Guide to the Legal Review of New Weapons, Means and Methods of Warfare",
+      "publisher": "ICRC",
+      "url": "https://www.icrc.org/en/doc/assets/files/other/icrc_002_0902.pdf",
+      "notes": "Practical guide to Article 36 weapons review methodology."
+    },
+    {
+      "source_id": "icrc-means-methods",
+      "author": "International Committee of the Red Cross",
+      "year": "2026",
+      "title": "Methods and Means of Warfare",
+      "publisher": "ICRC",
+      "url": "https://www.icrc.org/en/law-and-policy/methods-and-means-warfare",
+      "notes": "ICRC overview of weapons law and restrictions on means and methods."
+    },
+    {
+      "source_id": "icrc-autonomous-weapons",
+      "author": "International Committee of the Red Cross",
+      "year": "2026",
+      "title": "Autonomous Weapons",
+      "publisher": "ICRC",
+      "url": "https://www.icrc.org/en/law-and-policy/autonomous-weapons",
+      "notes": "Current ICRC framing on autonomous weapons systems and human control."
+    },
+    {
+      "source_id": "icrc-cyber",
+      "author": "International Committee of the Red Cross",
+      "year": "2026",
+      "title": "Cyber Operations During Armed Conflicts",
+      "publisher": "ICRC",
+      "url": "https://www.icrc.org/en/law-and-policy/cyber-operations-during-armed-conflicts",
+      "notes": "Current ICRC framing on cyber operations under IHL."
+    },
+    {
+      "source_id": "unoda-laws",
+      "author": "United Nations Office for Disarmament Affairs",
+      "year": "2026",
+      "title": "Lethal Autonomous Weapons Systems",
+      "publisher": "UNODA",
+      "url": "https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/background-on-laws-in-the-ccw/",
+      "notes": "UNODA background on CCW discussions regarding lethal autonomous weapons systems."
+    },
+    {
+      "source_id": "ewipa-declaration",
+      "author": "Government of Ireland / United Nations OCHA",
+      "year": "2022",
+      "title": "Political Declaration on Strengthening the Protection of Civilians from the Humanitarian Consequences Arising from the Use of Explosive Weapons in Populated Areas",
+      "publisher": "EWIPA Declaration process",
+      "url": "https://www.dfa.ie/our-role-policies/international-priorities/peace-and-security/ewipa-consultations/",
+      "notes": "Non-binding political declaration on explosive weapons in populated areas."
+    }
+  ]
+}

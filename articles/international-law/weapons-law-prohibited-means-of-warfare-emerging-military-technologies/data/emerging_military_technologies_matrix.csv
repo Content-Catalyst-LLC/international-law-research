@@ -1,0 +1,6 @@
+technology,core_issue,review_focus
+Drones and remotely piloted systems,"Distance from the battlefield does not reduce obligations of distinction, proportionality, precautions, or accountability.","Sensor reliability, target identification, strike approval, communications delay, civilian harm tracking."
+AI-enabled targeting support,"Decision support can distort targeting judgment through automation bias, flawed data, or opaque ranking systems.","Data quality, explainability, human review, confidence thresholds, error analysis, override procedures."
+Autonomous weapon systems,"Autonomy raises questions of human control, predictability, accountability, and lawful target selection.","Operational constraints, target categories, environmental boundaries, abort mechanisms, logs."
+Cyber capabilities,Digital effects can propagate across civilian systems and cause indirect or reverberating harm.,"Containment, civilian infrastructure mapping, medical and water-system dependencies, malware persistence."
+Space-enabled military systems,Dual-use satellites and space infrastructure connect military advantage with civilian life.,"Civilian reliance, cascading effects, communications dependencies, proportionality and alternatives."

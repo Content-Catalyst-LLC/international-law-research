@@ -1,0 +1,6 @@
+risk_area,legal_concern,documentation_needed
+Indiscriminate attack,Use of weapons or methods that cannot be directed at specific military objectives or whose effects cannot be limited.,"Targeting file, weapon effects model, civilian presence data, alternatives considered."
+Superfluous injury or unnecessary suffering,Use of weapons calculated to cause injury beyond legitimate military purpose.,"Technical design, medical effects, treaty screening, review memoranda."
+Protected objects and persons,"Use against hospitals, humanitarian operations, cultural property, or civilians.","Object status analysis, warnings, intelligence reliability, proportionality assessment."
+Environmental harm,"Severe, widespread, long-term, or otherwise unlawful environmental damage.","Environmental effects assessment, alternatives, command approvals, mitigation."
+Command responsibility,"Failure to prevent, suppress, or report unlawful weapons use by subordinates.","Training, orders, knowledge evidence, disciplinary records, reporting chains."

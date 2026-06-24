@@ -1,0 +1,7 @@
+stage,review_question,evidence
+Technical description,"What is the weapon, means, or method, and how does it work?","Specifications, testing records, software design, target profile, delivery mechanism, operator role."
+Legal classification,"Is the system a weapon, means, method, munition, platform, software effect, or combination?","Functional description, operational concept, intended effects, foreseeable modes of use."
+Treaty screening,Is it prohibited or restricted by treaty obligations binding on the state?,"Treaty status, declarations, reservations, national implementing law, export-control obligations."
+Customary IHL screening,"Would use violate distinction, proportionality, precautions, unnecessary suffering, or humanity?","Testing, simulation, effects data, civilian-environment modeling, reliability data."
+Operational constraints,"Can lawful use depend on limits, training, geography, target type, or command authorization?","Rules of engagement, operator manuals, mission constraints, geofencing, human-control measures."
+Accountability design,"Can decisions, data, warnings, approvals, and failures be reconstructed after use?","Logs, audit records, chain of command, weapons-release documentation, incident review procedure."
