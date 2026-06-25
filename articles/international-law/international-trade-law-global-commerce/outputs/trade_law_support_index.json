@@ -1,0 +1,254 @@
+{
+  "architecture": [
+    {
+      "area": "Market access",
+      "core_question": "How do states limit trade barriers without eliminating all policy choice?",
+      "legal_tools": "Tariff bindings quotas MFN schedules customs rules",
+      "governance_tension": "Liberalization versus domestic policy space"
+    },
+    {
+      "area": "Non-discrimination",
+      "core_question": "How are like foreign and domestic products or services treated?",
+      "legal_tools": "MFN national treatment likeness less favourable treatment",
+      "governance_tension": "Formal equality versus regulatory difference"
+    },
+    {
+      "area": "Services",
+      "core_question": "How does trade law govern cross-border services and commercial presence?",
+      "legal_tools": "GATS modes commitments limitations domestic regulation",
+      "governance_tension": "Market access versus public-service regulation"
+    },
+    {
+      "area": "Intellectual property",
+      "core_question": "How does trade law protect IP while preserving public-interest flexibility?",
+      "legal_tools": "TRIPS patents copyright trademarks compulsory licensing",
+      "governance_tension": "Innovation incentives versus access and development"
+    },
+    {
+      "area": "Technical regulation",
+      "core_question": "How are product standards and technical rules disciplined?",
+      "legal_tools": "TBT agreement standards conformity assessment transparency",
+      "governance_tension": "Regulatory autonomy versus disguised protectionism"
+    },
+    {
+      "area": "Sanitary measures",
+      "core_question": "How are food safety animal health and plant health rules assessed?",
+      "legal_tools": "SPS agreement science risk assessment necessity equivalence",
+      "governance_tension": "Health protection versus trade restriction"
+    },
+    {
+      "area": "Subsidies",
+      "core_question": "When does public support distort trade?",
+      "legal_tools": "SCM agreement specificity prohibited subsidies actionable subsidies",
+      "governance_tension": "Industrial policy versus unfair competition"
+    },
+    {
+      "area": "Trade remedies",
+      "core_question": "When may states respond to import surges or unfair trade?",
+      "legal_tools": "Anti-dumping countervailing safeguards",
+      "governance_tension": "Protection against injury versus protectionism"
+    },
+    {
+      "area": "Dispute settlement",
+      "core_question": "How are trade disputes legalized and enforced?",
+      "legal_tools": "DSU panels appellate review retaliation compliance",
+      "governance_tension": "Rule adjudication versus political blockage"
+    },
+    {
+      "area": "Development",
+      "core_question": "How does the trade order address unequal capacity?",
+      "legal_tools": "Special and differential treatment Aid for Trade preferences",
+      "governance_tension": "Integration versus structural asymmetry"
+    },
+    {
+      "area": "Environment and climate",
+      "core_question": "How do trade rules interact with ecological regulation?",
+      "legal_tools": "General exceptions environmental measures border measures fisheries subsidies",
+      "governance_tension": "Open commerce versus planetary limits"
+    },
+    {
+      "area": "National security",
+      "core_question": "How do trade rules respond to security claims?",
+      "legal_tools": "GATT Article XXI security exceptions sanctions export controls",
+      "governance_tension": "Legal constraint versus sovereign discretion"
+    }
+  ],
+  "agreements": [
+    {
+      "agreement": "Marrakesh Agreement Establishing the WTO",
+      "short_name": "WTO Agreement",
+      "main_function": "Creates WTO institutional architecture and treaty package",
+      "article_use": "Use to explain the legal order of global commerce as an institution"
+    },
+    {
+      "agreement": "General Agreement on Tariffs and Trade 1994",
+      "short_name": "GATT 1994",
+      "main_function": "Disciplines goods trade tariffs non-discrimination and exceptions",
+      "article_use": "Use for market access MFN national treatment and Article XX analysis"
+    },
+    {
+      "agreement": "General Agreement on Trade in Services",
+      "short_name": "GATS",
+      "main_function": "Disciplines international trade in services through modes and schedules",
+      "article_use": "Use for services commitments domestic regulation and market access"
+    },
+    {
+      "agreement": "Trade-Related Aspects of Intellectual Property Rights",
+      "short_name": "TRIPS",
+      "main_function": "Sets minimum IP standards within the WTO system",
+      "article_use": "Use for patents medicines copyright technology and development conflicts"
+    },
+    {
+      "agreement": "Technical Barriers to Trade Agreement",
+      "short_name": "TBT",
+      "main_function": "Disciplines technical regulations standards and conformity assessment",
+      "article_use": "Use for product regulation labeling standards and transparency"
+    },
+    {
+      "agreement": "Sanitary and Phytosanitary Measures Agreement",
+      "short_name": "SPS",
+      "main_function": "Disciplines food safety animal health and plant health measures",
+      "article_use": "Use for science risk assessment and health-based trade disputes"
+    },
+    {
+      "agreement": "Subsidies and Countervailing Measures Agreement",
+      "short_name": "SCM",
+      "main_function": "Disciplines subsidies and countervailing duties",
+      "article_use": "Use for industrial policy green subsidies and unfair competition"
+    },
+    {
+      "agreement": "Anti-Dumping Agreement",
+      "short_name": "ADA",
+      "main_function": "Disciplines anti-dumping investigations and duties",
+      "article_use": "Use for price discrimination injury and trade-remedy practice"
+    },
+    {
+      "agreement": "Safeguards Agreement",
+      "short_name": "SA",
+      "main_function": "Disciplines temporary measures against import surges",
+      "article_use": "Use for emergency protection and adjustment"
+    },
+    {
+      "agreement": "Dispute Settlement Understanding",
+      "short_name": "DSU",
+      "main_function": "Creates WTO panel appeal compliance and retaliation procedures",
+      "article_use": "Use for legalization compliance crisis and reform"
+    },
+    {
+      "agreement": "Trade Facilitation Agreement",
+      "short_name": "TFA",
+      "main_function": "Modernizes customs procedures and border processes",
+      "article_use": "Use for customs simplification and development implementation"
+    },
+    {
+      "agreement": "Agreement on Fisheries Subsidies",
+      "short_name": "AFS",
+      "main_function": "Addresses harmful fisheries subsidies",
+      "article_use": "Use for trade environment and ocean sustainability connections"
+    }
+  ],
+  "dispute_settlement": [
+    {
+      "stage": "Consultations",
+      "legal_function": "Requires parties to attempt negotiated settlement before litigation",
+      "practical_issue": "Frames dispute politically and narrows claims"
+    },
+    {
+      "stage": "Panel establishment",
+      "legal_function": "Creates adjudicatory body to hear claims",
+      "practical_issue": "Requires clear legal claims and covered agreements"
+    },
+    {
+      "stage": "Written submissions",
+      "legal_function": "Develops legal and factual record",
+      "practical_issue": "Turns trade conflict into treaty interpretation and evidence"
+    },
+    {
+      "stage": "Panel report",
+      "legal_function": "Finds consistency or inconsistency with WTO obligations",
+      "practical_issue": "Clarifies law but may not resolve politics"
+    },
+    {
+      "stage": "Appeal or appeal into the void",
+      "legal_function": "Historically allowed appellate review but currently affected by Appellate Body vacancies",
+      "practical_issue": "Creates uncertainty where appellate function is blocked"
+    },
+    {
+      "stage": "Adoption",
+      "legal_function": "DSB adopts reports unless negative consensus prevents adoption",
+      "practical_issue": "Converts adjudicatory findings into WTO legal outcomes"
+    },
+    {
+      "stage": "Reasonable period",
+      "legal_function": "Allows implementation time after adverse ruling",
+      "practical_issue": "Connects legal judgment to domestic policy adjustment"
+    },
+    {
+      "stage": "Compliance proceedings",
+      "legal_function": "Tests whether revised measures comply",
+      "practical_issue": "Often becomes second litigation"
+    },
+    {
+      "stage": "Retaliation or compensation",
+      "legal_function": "Allows authorized suspension of concessions when compliance fails",
+      "practical_issue": "Enforces through trade pressure rather than centralized sanctions"
+    },
+    {
+      "stage": "Reform",
+      "legal_function": "Addresses paralysis legitimacy and institutional design",
+      "practical_issue": "Determines whether WTO dispute settlement remains effective"
+    }
+  ],
+  "regulatory_autonomy": [
+    {
+      "policy_area": "Public health",
+      "trade_law_pressure": "SPS TRIPS TBT and market-access rules",
+      "autonomy_question": "Can states protect health without unjustified trade restriction"
+    },
+    {
+      "policy_area": "Climate policy",
+      "trade_law_pressure": "Subsidies border measures standards procurement",
+      "autonomy_question": "Can states decarbonize while respecting trade disciplines"
+    },
+    {
+      "policy_area": "Food safety",
+      "trade_law_pressure": "SPS science and risk-assessment requirements",
+      "autonomy_question": "How much precaution is allowed under uncertainty"
+    },
+    {
+      "policy_area": "Digital regulation",
+      "trade_law_pressure": "Services e-commerce data rules and platform regulation",
+      "autonomy_question": "How can states govern data flows and digital markets"
+    },
+    {
+      "policy_area": "Industrial policy",
+      "trade_law_pressure": "Subsidies procurement local content and tax incentives",
+      "autonomy_question": "When does development strategy become trade distortion"
+    },
+    {
+      "policy_area": "Labor and human rights",
+      "trade_law_pressure": "Product bans due diligence import restrictions",
+      "autonomy_question": "How can trade respond to forced labor or rights violations"
+    },
+    {
+      "policy_area": "National security",
+      "trade_law_pressure": "Security exceptions export controls sanctions",
+      "autonomy_question": "Can security claims be legally reviewed"
+    },
+    {
+      "policy_area": "Development",
+      "trade_law_pressure": "Special treatment preferences capacity building",
+      "autonomy_question": "How much flexibility should poorer states receive"
+    },
+    {
+      "policy_area": "Environment",
+      "trade_law_pressure": "Article XX TBT SPS fisheries subsidies",
+      "autonomy_question": "How can trade rules support ecological limits"
+    },
+    {
+      "policy_area": "Cultural policy",
+      "trade_law_pressure": "Services audiovisual goods and digital platforms",
+      "autonomy_question": "Can states protect cultural diversity in open markets"
+    }
+  ]
+}
