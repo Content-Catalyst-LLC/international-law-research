@@ -1,0 +1,21 @@
+# Primary Authorities and Institutional Materials
+
+- United Nations (1945) *Charter of the United Nations*.
+- United Nations General Assembly (1960) *Declaration on the Granting of Independence to Colonial Countries and Peoples*, Resolution 1514 (XV).
+- United Nations General Assembly (1970) *Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States*, Resolution 2625 (XXV).
+- United Nations General Assembly (1974) *Declaration on the Establishment of a New International Economic Order*, Resolution 3201 (S-VI).
+- United Nations General Assembly (1974) *Charter of Economic Rights and Duties of States*, Resolution 3281 (XXIX).
+- International Law Commission (2001) *Articles on Responsibility of States for Internationally Wrongful Acts*.
+- International Law Commission (2006) *Fragmentation of International Law: Difficulties Arising from the Diversification and Expansion of International Law*.
+- International Court of Justice (1949) *Reparation for Injuries Suffered in the Service of the United Nations*.
+- International Court of Justice (1962) *South West Africa Cases: Preliminary Objections*.
+- International Court of Justice (1966) *South West Africa Cases: Second Phase*.
+- International Court of Justice (1971) *Legal Consequences for States of the Continued Presence of South Africa in Namibia*.
+- International Court of Justice (1975) *Western Sahara Advisory Opinion*.
+- International Court of Justice (1986) *Military and Paramilitary Activities in and against Nicaragua*.
+- International Court of Justice (1996) *Legality of the Threat or Use of Nuclear Weapons*.
+- International Court of Justice (2004) *Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory*.
+- International Court of Justice (2019) *Legal Consequences of the Separation of the Chagos Archipelago from Mauritius in 1965*.
+- World Trade Organization (1994) *Marrakesh Agreement Establishing the World Trade Organization*.
+- International Monetary Fund and World Bank institutional materials on debt sustainability, conditionality, voting power, and development finance.
+- UNCTAD materials on trade, investment, debt, development, and structural inequality in the global economy.

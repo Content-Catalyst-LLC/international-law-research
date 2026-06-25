@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "actual_title": "Power, Inequality, and the Critique of International Law",
+    "seo_title": "Power, Inequality, and the Critique of International Law",
+    "focus_keyword": "critique of international law",
+    "slug": "power-inequality-critique-international-law",
+    "series": "International Law",
+    "previous_article": {
+      "title": "Soft Law, Norm Entrepreneurship, and Informal International Governance",
+      "slug": "soft-law-norm-entrepreneurship-informal-international-governance"
+    },
+    "next_article": {
+      "title": "Empire, Decolonization, and the Making of International Law",
+      "slug": "empire-decolonization-making-international-law"
+    },
+    "excerpt_139_words": "Power, Inequality, and the Critique of International Law examines how international law both constrains power and reflects unequal histories, institutions, markets, and political voice. This article explains formal sovereign equality, empire, decolonization, sources doctrine, customary law, consent, Security Council hierarchy, selective enforcement, international economic law, debt, development, human rights, race, gender, migration, climate inequality, corporate power, expertise, adjudication, and institutional legitimacy. It shows how legal rules that appear neutral may operate differently across unequal states, communities, and economic positions. The article also addresses TWAIL, feminist international law, critical race approaches, political economy, and Global South critiques. By connecting doctrine, institutions, case studies, and lawyer-facing workflows, it shows how critique does not abandon international law, but asks whether global legality can become more equal, accountable, and emancipatory in practice today worldwide.",
+    "tags": [
+      "international law",
+      "critique of international law",
+      "power and inequality",
+      "TWAIL",
+      "decolonization",
+      "Global South",
+      "international legal theory",
+      "legal pluralism"
+    ],
+    "github_policy": "No full WordPress HTML is stored in GitHub; this folder contains research and support materials only."
+  },
+  "critical_traditions": [
+    {
+      "tradition": "TWAIL",
+      "central_question": "How did empire and colonial hierarchy shape international law?",
+      "typical_focus": "sovereignty development race empire global south",
+      "article_relevance": "Explains why formal equality may coexist with historical and structural inequality."
+    },
+    {
+      "tradition": "Feminist international law",
+      "central_question": "How does international law reproduce gendered public/private divides?",
+      "typical_focus": "gender violence family labor security rights",
+      "article_relevance": "Shows how harms outside classic interstate frames may be marginalized."
+    },
+    {
+      "tradition": "Critical race approaches",
+      "central_question": "How do race and racial hierarchy shape legal categories and enforcement?",
+      "typical_focus": "race migration security development human rights",
+      "article_relevance": "Connects doctrine to racialized histories and contemporary border/security practices."
+    },
+    {
+      "tradition": "Marxist and political economy critiques",
+      "central_question": "How does international law structure capitalism and economic dependency?",
+      "typical_focus": "trade investment debt property labor finance",
+      "article_relevance": "Frames economic law as a distributional and institutional order."
+    },
+    {
+      "tradition": "Postcolonial legal critique",
+      "central_question": "How do universal legal languages carry imperial histories?",
+      "typical_focus": "civilization mandates trusteeship development intervention",
+      "article_relevance": "Shows how universality can conceal unequal authorship and voice."
+    },
+    {
+      "tradition": "Critical legal studies",
+      "central_question": "How do legal arguments produce indeterminacy and hierarchy?",
+      "typical_focus": "interpretation adjudication ideology institutions",
+      "article_relevance": "Explains how doctrine can authorize conflicting outcomes while appearing neutral."
+    },
+    {
+      "tradition": "Indigenous legal critique",
+      "central_question": "How does international law marginalize non-state legal orders?",
+      "typical_focus": "land sovereignty self-determination knowledge pluralism",
+      "article_relevance": "Challenges state-centered assumptions about territory authority and law."
+    },
+    {
+      "tradition": "Environmental justice critique",
+      "central_question": "Who bears ecological burdens and who controls environmental decisions?",
+      "typical_focus": "climate biodiversity extraction pollution capacity",
+      "article_relevance": "Connects planetary risk to unequal vulnerability and responsibility."
+    }
+  ],
+  "power_domains": [
+    {
+      "domain": "Sovereignty",
+      "formal_legal_ideal": "Formal equality of states",
+      "inequality_problem": "States possess unequal capacity territory wealth military power and institutional influence",
+      "diagnostic_question": "Who can actually exercise the rights that doctrine formally grants?"
+    },
+    {
+      "domain": "Sources",
+      "formal_legal_ideal": "Consent custom and general principles",
+      "inequality_problem": "Powerful states often generate practice and evidence more visibly than weaker actors",
+      "diagnostic_question": "Whose practice counts as law-making evidence?"
+    },
+    {
+      "domain": "Security Council",
+      "formal_legal_ideal": "Collective security and peace maintenance",
+      "inequality_problem": "Veto power creates institutional hierarchy among states",
+      "diagnostic_question": "When does legality depend on great-power permission?"
+    },
+    {
+      "domain": "Use of force",
+      "formal_legal_ideal": "Charter prohibition and self-defense",
+      "inequality_problem": "Enforcement can be selective and politically asymmetric",
+      "diagnostic_question": "Which uses of force are condemned prosecuted tolerated or normalized?"
+    },
+    {
+      "domain": "Human rights",
+      "formal_legal_ideal": "Universal dignity and protection",
+      "inequality_problem": "Implementation may be shaped by geopolitical selectivity and resource inequality",
+      "diagnostic_question": "Who is protected and who is represented as a problem?"
+    },
+    {
+      "domain": "Trade law",
+      "formal_legal_ideal": "Non-discrimination and market access",
+      "inequality_problem": "Market rules can constrain development and industrial policy unevenly",
+      "diagnostic_question": "Who benefits from formal market neutrality?"
+    },
+    {
+      "domain": "Investment law",
+      "formal_legal_ideal": "Investor protection and legal stability",
+      "inequality_problem": "Foreign investors may receive stronger remedies than affected communities",
+      "diagnostic_question": "Whose losses become legally compensable?"
+    },
+    {
+      "domain": "Debt and finance",
+      "formal_legal_ideal": "Stability repayment and development finance",
+      "inequality_problem": "Conditionality and debt distress can narrow democratic policy space",
+      "diagnostic_question": "Who bears adjustment costs?"
+    },
+    {
+      "domain": "Climate law",
+      "formal_legal_ideal": "Common concern and burden sharing",
+      "inequality_problem": "Historical responsibility and vulnerability are unequally distributed",
+      "diagnostic_question": "Who pays for transition adaptation and loss?"
+    },
+    {
+      "domain": "Migration and borders",
+      "formal_legal_ideal": "Territorial control and protection",
+      "inequality_problem": "Border regimes distribute mobility by nationality wealth race and security status",
+      "diagnostic_question": "Who can move and who is contained?"
+    }
+  ],
+  "critique_workflow": [
+    {
+      "step": "1 Identify doctrine",
+      "lawyer_facing_task": "State the governing rule institution or treaty framework",
+      "critique_question": "What does the doctrine claim to do?",
+      "output": "Doctrinal baseline"
+    },
+    {
+      "step": "2 Map affected actors",
+      "lawyer_facing_task": "List states communities firms individuals and institutions",
+      "critique_question": "Who has voice and who is absent?",
+      "output": "Stakeholder map"
+    },
+    {
+      "step": "3 Trace history",
+      "lawyer_facing_task": "Identify colonial development economic or institutional background",
+      "critique_question": "What historical hierarchy shaped this rule?",
+      "output": "Historical context note"
+    },
+    {
+      "step": "4 Test distribution",
+      "lawyer_facing_task": "Assess who gains rights remedies burdens risks or discretion",
+      "critique_question": "Who benefits and who pays?",
+      "output": "Distributional analysis"
+    },
+    {
+      "step": "5 Examine institutions",
+      "lawyer_facing_task": "Review voting power access expertise funding and enforcement",
+      "critique_question": "Who controls implementation?",
+      "output": "Institutional power map"
+    },
+    {
+      "step": "6 Compare remedies",
+      "lawyer_facing_task": "Identify available enforcement mechanisms and practical accessibility",
+      "critique_question": "Whose claims are enforceable?",
+      "output": "Remedy gap assessment"
+    },
+    {
+      "step": "7 Evaluate alternatives",
+      "lawyer_facing_task": "Consider reform resistance pluralism or alternative legal frames",
+      "critique_question": "What would a less unequal arrangement require?",
+      "output": "Critical conclusion"
+    }
+  ]
+}
