@@ -1,0 +1,163 @@
+{
+  "files": {
+    "metadata": "metadata/article_metadata.json",
+    "primary_authorities": "sources/primary_authorities.md",
+    "further_reading": "sources/further_reading.md",
+    "instrument_matrix": "data/soft_law_instruments_matrix.csv",
+    "workflow_matrix": "data/norm_entrepreneurship_workflow.csv",
+    "risk_matrix": "data/informal_governance_risk_matrix.csv",
+    "sql_schema": "sql/soft_law_schema.sql"
+  },
+  "soft_law_instruments": [
+    {
+      "instrument_type": "Declaration",
+      "examples": "UDHR; Rio Declaration; UNDRIP",
+      "legal_form": "Non-binding political or normative instrument",
+      "governance_function": "Sets principles and expectations",
+      "legal_effect_pathway": "Interpretation; custom formation; treaty drafting; domestic uptake"
+    },
+    {
+      "instrument_type": "Guiding principles",
+      "examples": "UN Guiding Principles on Business and Human Rights",
+      "legal_form": "Expert-endorsed or institutionally adopted framework",
+      "governance_function": "Organizes duties responsibilities and remedies",
+      "legal_effect_pathway": "Corporate policy; litigation reference; regulation; due diligence legislation"
+    },
+    {
+      "instrument_type": "Technical standard",
+      "examples": "ISO standards; cybersecurity standards; financial standards",
+      "legal_form": "Private or hybrid standard-setting instrument",
+      "governance_function": "Creates operational benchmarks for compliance and risk",
+      "legal_effect_pathway": "Procurement; certification; regulatory incorporation; market pressure"
+    },
+    {
+      "instrument_type": "Model law",
+      "examples": "UNCITRAL model laws",
+      "legal_form": "Template for domestic legislation",
+      "governance_function": "Accelerates harmonization without treaty ratification",
+      "legal_effect_pathway": "Domestic enactment; judicial reference; institutional convergence"
+    },
+    {
+      "instrument_type": "Institutional guideline",
+      "examples": "OECD guidelines; WHO guidance; FATF recommendations",
+      "legal_form": "Institutional recommendation or benchmark",
+      "governance_function": "Shapes state behavior and regulatory expectations",
+      "legal_effect_pathway": "Peer review; conditionality; market access; domestic implementation"
+    },
+    {
+      "instrument_type": "Voluntary compact",
+      "examples": "UN Global Compact; multi-stakeholder pledges",
+      "legal_form": "Non-binding participation framework",
+      "governance_function": "Signals commitment and creates reputational accountability",
+      "legal_effect_pathway": "Reporting; stakeholder pressure; governance benchmarking"
+    },
+    {
+      "instrument_type": "Code of conduct",
+      "examples": "Corporate; humanitarian; digital; environmental codes",
+      "legal_form": "Voluntary or association-based rule system",
+      "governance_function": "Structures behavior below treaty level",
+      "legal_effect_pathway": "Internal compliance; contract incorporation; reputational sanction"
+    },
+    {
+      "instrument_type": "Conference outcome",
+      "examples": "Stockholm; Rio; World Summit; COP decisions",
+      "legal_form": "Mixed political and institutional outcome",
+      "governance_function": "Builds consensus and directs future work",
+      "legal_effect_pathway": "Negotiation agenda; treaty interpretation; institutional practice"
+    }
+  ],
+  "norm_entrepreneurship_workflow": [
+    {
+      "stage": "Problem framing",
+      "description": "Issue is named as a legal or governance problem",
+      "key_actors": "States; NGOs; experts; affected communities; institutions",
+      "legal_significance": "Creates the vocabulary through which claims become legible"
+    },
+    {
+      "stage": "Principle articulation",
+      "description": "Norm is stated as a principle guideline or standard",
+      "key_actors": "International organizations; expert groups; commissions; coalitions",
+      "legal_significance": "Provides focal point for advocacy and institutional reference"
+    },
+    {
+      "stage": "Coalition building",
+      "description": "Support grows across states institutions and civil society",
+      "key_actors": "Norm entrepreneurs; regional groups; transnational networks",
+      "legal_significance": "Converts isolated proposal into diplomatic agenda"
+    },
+    {
+      "stage": "Institutional uptake",
+      "description": "Body adopts declaration guideline recommendation or framework",
+      "key_actors": "UN organs; treaty bodies; agencies; standard setters",
+      "legal_significance": "Creates formal record and authoritative reference point"
+    },
+    {
+      "stage": "Operationalization",
+      "description": "Norm becomes procedures indicators reporting templates or due diligence expectations",
+      "key_actors": "Regulators; firms; courts; auditors; agencies",
+      "legal_significance": "Turns abstract principle into compliance practice"
+    },
+    {
+      "stage": "Legal migration",
+      "description": "Soft norm influences treaty interpretation custom domestic law contracts or litigation",
+      "key_actors": "Courts; legislators; treaty bodies; counsel; arbitrators",
+      "legal_significance": "Blurs boundary between non-binding norm and legal effect"
+    },
+    {
+      "stage": "Contest and revision",
+      "description": "Norm is resisted narrowed captured expanded or institutionalized",
+      "key_actors": "States; corporations; social movements; experts",
+      "legal_significance": "Determines legitimacy distribution and durability"
+    }
+  ],
+  "informal_governance_risks": [
+    {
+      "risk_type": "Democratic deficit",
+      "description": "Rules are shaped outside ordinary legislative processes",
+      "example_context": "Technical standards; financial governance; digital governance",
+      "lawyer_facing_question": "Who participated and who was excluded"
+    },
+    {
+      "risk_type": "Accountability gap",
+      "description": "Powerful actors influence outcomes without clear responsibility",
+      "example_context": "Multi-stakeholder initiatives; corporate codes",
+      "lawyer_facing_question": "Who can challenge failure or abuse"
+    },
+    {
+      "risk_type": "Capture",
+      "description": "Regulated actors shape standards in their own interest",
+      "example_context": "Industry-led environmental or technology standards",
+      "lawyer_facing_question": "Does the process privilege incumbents or affected communities"
+    },
+    {
+      "risk_type": "Inequality of capacity",
+      "description": "Weaker states and communities lack resources to participate",
+      "example_context": "Standards bodies; climate finance; cyber norms",
+      "lawyer_facing_question": "Can all affected actors engage meaningfully"
+    },
+    {
+      "risk_type": "Ambiguous legal status",
+      "description": "Instrument is non-binding but treated as practically mandatory",
+      "example_context": "Procurement; certification; aid conditionality",
+      "lawyer_facing_question": "Is soft law being used to avoid legal safeguards"
+    },
+    {
+      "risk_type": "Fragmentation",
+      "description": "Multiple overlapping frameworks create inconsistent expectations",
+      "example_context": "Business and human rights; AI governance; sustainability reporting",
+      "lawyer_facing_question": "Which framework controls and how conflicts are managed"
+    },
+    {
+      "risk_type": "Legitimacy laundering",
+      "description": "Voluntary commitments create appearance of responsibility without enforcement",
+      "example_context": "Corporate social responsibility; voluntary pledges",
+      "lawyer_facing_question": "Is reporting matched by remedies and verification"
+    },
+    {
+      "risk_type": "Over-hardening",
+      "description": "Flexible standards become rigid without democratic debate",
+      "example_context": "Private standards incorporated into regulation",
+      "lawyer_facing_question": "Who controls interpretation and revision"
+    }
+  ]
+}

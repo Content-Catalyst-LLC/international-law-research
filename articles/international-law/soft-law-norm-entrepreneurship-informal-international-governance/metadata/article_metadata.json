@@ -1,0 +1,29 @@
+{
+  "title": "Soft Law, Norm Entrepreneurship, and Informal International Governance",
+  "seo_title": "Soft Law, Norm Entrepreneurship, and Informal International Governance",
+  "focus_keyword": "soft law",
+  "slug": "soft-law-norm-entrepreneurship-informal-international-governance",
+  "series": "International Law",
+  "section": "Specialized, Emerging, and Critical Domains",
+  "previous_article": {
+    "title": "Cyber Operations, Digital Sovereignty, and International Law in the Information Age",
+    "slug": "cyber-operations-digital-sovereignty-international-law-information-age"
+  },
+  "next_article": {
+    "title": "Power, Inequality, and the Critique of International Law",
+    "slug": "power-inequality-critique-international-law"
+  },
+  "github_policy": "support package only; full WordPress HTML is intentionally not stored in GitHub",
+  "status": "support package generated",
+  "repository_folder": "articles/international-law/soft-law-norm-entrepreneurship-informal-international-governance",
+  "tags": [
+    "international law",
+    "soft law",
+    "norm entrepreneurship",
+    "informal governance",
+    "global governance",
+    "technical standards",
+    "international institutions",
+    "legal pluralism"
+  ]
+}
