@@ -1,0 +1,19 @@
+{
+  "article": "Gender, Violence, and the Public/Private Divide in International Law",
+  "slug": "gender-violence-public-private-divide-international-law",
+  "github_policy": "support package only; no full WordPress HTML stored",
+  "public_private_categories_count": 5,
+  "legal_frameworks_count": 8,
+  "due_diligence_stages_count": 6,
+  "procedural_risk_categories_count": 6,
+  "core_themes": [
+    "gender-based violence",
+    "public/private divide",
+    "state due diligence",
+    "CEDAW and substantive equality",
+    "conflict-related sexual violence",
+    "international criminal law",
+    "gender-related persecution",
+    "procedure evidence and remedy"
+  ]
+}

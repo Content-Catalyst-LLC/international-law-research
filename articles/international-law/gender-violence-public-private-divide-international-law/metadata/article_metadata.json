@@ -1,0 +1,29 @@
+{
+  "title": "Gender, Violence, and the Public/Private Divide in International Law",
+  "seo_title": "Gender, Violence, and the Public/Private Divide in International Law",
+  "focus_keyword": "gender violence international law",
+  "slug": "gender-violence-public-private-divide-international-law",
+  "series": "International Law",
+  "section": "Specialized, Emerging, and Critical Domains",
+  "previous_article": {
+    "title": "Empire, Decolonization, and the Making of International Law",
+    "slug": "empire-decolonization-making-international-law"
+  },
+  "next_article": {
+    "title": "The Future of International Law in an Age of Fragmentation, Multipolarity, and Planetary Crisis",
+    "slug": "future-of-international-law-fragmentation-multipolarity-planetary-crisis"
+  },
+  "github_policy": "support package only; full WordPress HTML is intentionally not stored in GitHub",
+  "status": "support package generated",
+  "repository_folder": "articles/international-law/gender-violence-public-private-divide-international-law",
+  "tags": [
+    "international law",
+    "gender-based violence",
+    "public private divide",
+    "human rights law",
+    "CEDAW",
+    "international criminal law",
+    "refugee law",
+    "feminist legal theory"
+  ]
+}

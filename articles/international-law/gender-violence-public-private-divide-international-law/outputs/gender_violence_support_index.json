@@ -1,0 +1,170 @@
+{
+  "files": {
+    "metadata": "metadata/article_metadata.json",
+    "primary_authorities": "sources/primary_authorities.md",
+    "further_reading": "sources/further_reading.md",
+    "public_private_matrix": "data/public_private_divide_matrix.csv",
+    "frameworks_matrix": "data/gender_based_violence_frameworks.csv",
+    "due_diligence_workflow": "data/due_diligence_workflow.csv",
+    "procedural_risk_matrix": "data/procedural_risk_matrix.csv",
+    "sql_schema": "sql/gender_violence_schema.sql"
+  },
+  "public_private_divide": [
+    {
+      "traditional_framing": "Domestic violence as private family matter",
+      "problem": "Obscures state responsibility for prevention protection investigation and remedy",
+      "international_legal_reframing": "May constitute discrimination failure of due diligence violation of life security equality and remedy",
+      "practice_question": "Did state institutions treat repeated violence as public legal risk"
+    },
+    {
+      "traditional_framing": "Sexual violence in war as incidental",
+      "problem": "Minimizes organized violence command responsibility terror and persecution",
+      "international_legal_reframing": "May constitute war crime crime against humanity genocide torture or persecution",
+      "practice_question": "Was the violence connected to conflict command structures group targeting or civilian attack"
+    },
+    {
+      "traditional_framing": "Reproductive control as moral or domestic issue",
+      "problem": "Obscures bodily autonomy health equality privacy and dignity",
+      "international_legal_reframing": "May implicate health privacy non-discrimination bodily integrity and freedom from ill-treatment",
+      "practice_question": "Did law or policy coerce or deny reproductive autonomy"
+    },
+    {
+      "traditional_framing": "Workplace abuse as labor conflict",
+      "problem": "Hides gendered coercion harassment trafficking migration vulnerability and economic dependency",
+      "international_legal_reframing": "May implicate labor rights anti-trafficking law equality and violence harassment standards",
+      "practice_question": "Did employment or migration status create coercive vulnerability"
+    },
+    {
+      "traditional_framing": "Culture as explanation for harm",
+      "problem": "Risks normalizing violence or making it immune from scrutiny",
+      "international_legal_reframing": "International law rejects cultural justification for violence discrimination and coercion",
+      "practice_question": "Is culture being used to understand context or excuse abuse"
+    }
+  ],
+  "gender_based_violence_frameworks": [
+    {
+      "framework": "Human rights law",
+      "core_question": "Did the state respect protect and fulfill rights without discrimination",
+      "legal_significance": "Creates duties of prevention protection investigation punishment remedy and structural reform",
+      "example_context": "Domestic violence harmful practices reproductive coercion policing failures"
+    },
+    {
+      "framework": "CEDAW and equality",
+      "core_question": "Is violence connected to discrimination stereotypes or unequal institutions",
+      "legal_significance": "Treats gender-based violence as discrimination and requires substantive equality",
+      "example_context": "State tolerance of violence unequal family law access to justice barriers"
+    },
+    {
+      "framework": "Regional human rights systems",
+      "core_question": "Does a regional treaty or court provide a stronger procedural path",
+      "legal_significance": "May provide binding judgments specific violence instruments and regional due diligence doctrine",
+      "example_context": "Belém do Pará Istanbul Convention Maputo Protocol"
+    },
+    {
+      "framework": "International humanitarian law",
+      "core_question": "Did the harm occur in armed conflict or affect protected persons",
+      "legal_significance": "Regulates violence detention dignity sexual violence and protection during conflict",
+      "example_context": "Conflict-related sexual violence displacement detention checkpoints"
+    },
+    {
+      "framework": "International criminal law",
+      "core_question": "Does the conduct satisfy war crime crime against humanity genocide persecution or command responsibility elements",
+      "legal_significance": "Creates individual criminal responsibility for atrocity crimes",
+      "example_context": "Sexual slavery forced pregnancy rape persecution forced marriage"
+    },
+    {
+      "framework": "Refugee law",
+      "core_question": "Does feared harm amount to persecution connected to a protected ground where state protection is unavailable",
+      "legal_significance": "Protects persons fleeing gender-related persecution",
+      "example_context": "Forced marriage trafficking domestic violence anti-LGBTQ persecution"
+    },
+    {
+      "framework": "Anti-trafficking law",
+      "core_question": "Was exploitation produced through force coercion deception abuse of vulnerability or abuse of power",
+      "legal_significance": "Requires identification protection non-punishment investigation and remedy",
+      "example_context": "Sexual exploitation forced labor domestic servitude forced marriage"
+    },
+    {
+      "framework": "Labor law",
+      "core_question": "Did violence harassment or exploitation occur in the world of work",
+      "legal_significance": "Connects gendered harm to workplace safety equality and labor regulation",
+      "example_context": "Harassment migrant domestic work supply chains informal labor"
+    }
+  ],
+  "due_diligence_workflow": [
+    {
+      "stage": "Prevention",
+      "description": "State takes reasonable steps to reduce known risks",
+      "legal_question": "Did the state address foreseeable patterns of gender-based violence",
+      "example_evidence": "Laws training shelters public education risk assessment data"
+    },
+    {
+      "stage": "Protection",
+      "description": "Authorities respond to specific threats and vulnerable situations",
+      "legal_question": "Did officials act once they knew or should have known of risk",
+      "example_evidence": "Reports threats protection orders police calls prior assaults"
+    },
+    {
+      "stage": "Investigation",
+      "description": "State investigates promptly seriously impartially and without stereotypes",
+      "legal_question": "Was the investigation gender-sensitive and evidence-based",
+      "example_evidence": "Case files forensic records witness statements interview protocols"
+    },
+    {
+      "stage": "Accountability",
+      "description": "Perpetrators and complicit officials face appropriate consequences",
+      "legal_question": "Did impunity or discriminatory enforcement sustain violence",
+      "example_evidence": "Charging decisions prosecutions discipline corruption records"
+    },
+    {
+      "stage": "Remedy",
+      "description": "Survivors receive effective accessible and non-discriminatory remedies",
+      "legal_question": "Did remedies address safety repair health and future risk",
+      "example_evidence": "Compensation medical care psychosocial support housing legal aid"
+    },
+    {
+      "stage": "Structural reform",
+      "description": "State addresses systemic conditions that reproduce violence",
+      "legal_question": "Did the state reform institutions rather than only individual cases",
+      "example_evidence": "Policy reform budget data collection training monitoring"
+    }
+  ],
+  "procedural_risks": [
+    {
+      "risk_type": "Victim blaming",
+      "description": "Decision-makers rely on stereotypes about behavior sexuality family or credibility",
+      "legal_consequence": "May undermine equality fair procedure and effective remedy",
+      "lawyer_facing_question": "Are credibility findings based on myths about ideal victims"
+    },
+    {
+      "risk_type": "Unsafe reporting",
+      "description": "Survivors face retaliation stigma deportation detention or economic loss",
+      "legal_consequence": "May make remedies ineffective in practice",
+      "lawyer_facing_question": "Can the person report without worsening danger"
+    },
+    {
+      "risk_type": "Unrealistic corroboration",
+      "description": "Institutions demand evidence unavailable in private violence conflict or displacement",
+      "legal_consequence": "May deny access to justice through discriminatory evidentiary standards",
+      "lawyer_facing_question": "Is the proof standard realistic for the harm alleged"
+    },
+    {
+      "risk_type": "Retraumatizing procedure",
+      "description": "Interviews or hearings reproduce harm through hostile questioning or lack of safeguards",
+      "legal_consequence": "May impair participation and accuracy of evidence",
+      "lawyer_facing_question": "Are procedures trauma-informed and privacy-protective"
+    },
+    {
+      "risk_type": "Narrow criminal focus",
+      "description": "System treats prosecution as the only meaningful remedy",
+      "legal_consequence": "May ignore prevention housing health income immigration and structural reform",
+      "lawyer_facing_question": "What remedy would actually change the survivor's options"
+    },
+    {
+      "risk_type": "Exceptionalism",
+      "description": "Law recognizes only extreme conflict or atrocity violence as international",
+      "legal_consequence": "May obscure everyday domestic workplace reproductive and institutional violence",
+      "lawyer_facing_question": "Is harm being minimized because it appears ordinary or private"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Primary Authorities and Institutional Materials
+
+- United Nations General Assembly (1948) *Universal Declaration of Human Rights*.
+- United Nations General Assembly (1966) *International Covenant on Civil and Political Rights*.
+- United Nations General Assembly (1966) *International Covenant on Economic, Social and Cultural Rights*.
+- United Nations General Assembly (1979) *Convention on the Elimination of All Forms of Discrimination against Women*.
+- CEDAW Committee (1992) *General Recommendation No. 19: Violence against women*.
+- CEDAW Committee (2017) *General Recommendation No. 35 on gender-based violence against women, updating General Recommendation No. 19*.
+- United Nations General Assembly (1993) *Declaration on the Elimination of Violence against Women*.
+- United Nations Security Council (2000) *Resolution 1325 on Women, Peace and Security*.
+- United Nations Security Council (2008) *Resolution 1820 on women, peace and security and sexual violence in armed conflict*.
+- United Nations General Assembly (1998) *Rome Statute of the International Criminal Court*.
+- International Criminal Tribunal for Rwanda (1998) *Prosecutor v. Akayesu*, Trial Judgment, ICTR-96-4-T.
+- International Criminal Tribunal for the former Yugoslavia (2001) *Prosecutor v. Kunarac, Kovač and Vuković*, Trial Judgment, IT-96-23-T and IT-96-23/1-T.
+- International Criminal Court (2019) *Prosecutor v. Ntaganda*, Trial Judgment, ICC-01/04-02/06.
+- International Criminal Court (2021) *Prosecutor v. Ongwen*, Trial Judgment, ICC-02/04-01/15.
+- Organization of American States (1994) *Inter-American Convention on the Prevention, Punishment, and Eradication of Violence against Women*.
+- Council of Europe (2011) *Convention on preventing and combating violence against women and domestic violence*.
+- African Union (2003) *Protocol to the African Charter on Human and Peoples’ Rights on the Rights of Women in Africa*.
+- United Nations General Assembly (2000) *Protocol to Prevent, Suppress and Punish Trafficking in Persons Especially Women and Children*.
+- International Labour Organization (2019) *Violence and Harassment Convention, 2019 (No. 190)*.
+- United Nations High Commissioner for Refugees (2002) *Guidelines on International Protection No. 1: Gender-Related Persecution*.
