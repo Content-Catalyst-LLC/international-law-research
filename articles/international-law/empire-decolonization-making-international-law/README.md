@@ -1,20 +1,21 @@
 # Empire, Decolonization, and the Making of International Law
 
-Companion research folder for the planned article **Empire, Decolonization, and the Making of International Law**.
+This folder contains the research/support package for the Sustainable Catalyst article:
 
-## Repository Path
+**Empire, Decolonization, and the Making of International Law**
 
-articles/international-law/empire-decolonization-making-international-law
+GitHub policy: this repository stores supporting research materials, structured source notes, matrices, and generated metadata. It intentionally does **not** store the full WordPress article HTML.
 
 ## Contents
 
-- `docs/source_notes.md` — source notes and authority map
-- `docs/quote_log.md` — short quote candidates
-- `docs/editorial_notes.md` — article framing notes
-- `data/primary_sources.csv` — official source metadata
-- `data/secondary_sources.csv` — scholarly source metadata
-- `data/concepts.csv` — doctrine and critical-method map
-- `sql/empire_decolonization_making_international_law_schema.sql` — research schema
-- `python/audit_links.py` — structural URL audit
-- `python/export_sources.py` — source export utility
-- `python/validate_metadata.py` — metadata check
+- `metadata/article_metadata.json` — article metadata and navigation context.
+- `sources/primary_authorities.md` — primary legal authorities and institutional materials.
+- `sources/further_reading.md` — selected scholarly and critical readings.
+- `data/colonial_legal_forms.csv` — structured matrix of colonial legal mechanisms.
+- `data/decolonization_doctrine_matrix.csv` — self-determination and decolonization doctrine map.
+- `data/critical_frameworks_matrix.csv` — TWAIL, postcolonial, Indigenous, racial, gender, and political-economy critique matrix.
+- `sql/empire_decolonization_schema.sql` — lightweight schema for research indexing.
+- `python/build_empire_decolonization_outputs.py` — helper to regenerate JSON outputs.
+- `outputs/empire_decolonization_support_index.json` — generated support index.
+- `outputs/empire_decolonization_support_summary.json` — generated summary.
+- `notes/editorial_notes.md` — editorial notes and implementation reminders.
