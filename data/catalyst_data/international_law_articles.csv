@@ -1,2 +1,3 @@
-slug,title,series,section,focus_keyword,previous_article,next_article,github_path,html_stored_in_github
-international-trade-law-global-commerce,International Trade Law and the Legal Order of Global Commerce,International Law,International Economic Law,international trade law,Common but Differentiated Responsibilities and the Politics of Environmental Burden Sharing,"Investment Treaties, Investor-State Dispute Settlement, and Regulatory Sovereignty",articles/international-law/international-trade-law-global-commerce/,false
+slug,title,series,cluster,repository_path,wordpress_html_stored
+international-health-law-pandemics-global-public-health-coordination,"International Health Law, Pandemics, and Global Public Health Coordination",International Law,"Specialized, Emerging, and Critical Domains",articles/international-law/international-health-law-pandemics-global-public-health-coordination,no
+international-trade-law-global-commerce,International Trade Law and the Legal Order of Global Commerce,International Law,,,

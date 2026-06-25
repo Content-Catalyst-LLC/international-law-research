@@ -1,2 +1,3 @@
-series,section,title,slug,focus_keyword,status,github_policy
-International Law,International Economic Law,"Investment Treaties, Investor-State Dispute Settlement, and Regulatory Sovereignty",investment-treaties-isds-regulatory-sovereignty,investment treaties,published-support-package,no-full-wordpress-html
+slug,title,series,cluster,repository_path,wordpress_html_stored
+international-health-law-pandemics-global-public-health-coordination,"International Health Law, Pandemics, and Global Public Health Coordination",International Law,"Specialized, Emerging, and Critical Domains",articles/international-law/international-health-law-pandemics-global-public-health-coordination,no
+investment-treaties-isds-regulatory-sovereignty,"Investment Treaties, Investor-State Dispute Settlement, and Regulatory Sovereignty",International Law,,,

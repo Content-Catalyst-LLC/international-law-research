@@ -1,0 +1,18 @@
+{
+  "actual_title": "International Health Law, Pandemics, and Global Public Health Coordination",
+  "seo_title": "International Health Law, Pandemics, and Global Public Health Coordination",
+  "focus_keyword": "international health law",
+  "slug": "international-health-law-pandemics-global-public-health-coordination",
+  "series": "International Law",
+  "cluster": "Specialized, Emerging, and Critical Domains",
+  "previous_article": {
+    "title": "Development, Inequality, and Structural Asymmetry in International Economic Law",
+    "slug": "development-inequality-structural-asymmetry-international-economic-law"
+  },
+  "next_article": {
+    "title": "International Space Law and the Governance of Outer Space",
+    "slug": "international-space-law-governance-outer-space"
+  },
+  "repository_policy": "GitHub stores research and support materials only; full WordPress article HTML is not stored in this repository.",
+  "description": "Support package for an article on WHO authority, International Health Regulations, pandemic coordination, health equity, surveillance, travel measures, access to medicines, One Health, and global public health governance."
+}
