@@ -1,0 +1,183 @@
+{
+  "files": {
+    "metadata": "metadata/article_metadata.json",
+    "primary_authorities": "sources/primary_authorities.md",
+    "further_reading": "sources/further_reading.md",
+    "arbitration_forms": "data/arbitration_forms_matrix.csv",
+    "consent_jurisdiction": "data/consent_jurisdiction_matrix.csv",
+    "procedure_enforcement": "data/procedure_enforcement_matrix.csv",
+    "sequence_patch": "data/sequence_patch_arbitration.csv",
+    "sql_schema": "sql/international_arbitration_schema.sql"
+  },
+  "arbitration_forms": [
+    {
+      "form": "Interstate arbitration",
+      "parties": "States",
+      "source_of_authority": "Compromis treaty clause or special agreement",
+      "typical_disputes": "Boundaries maritime zones treaty interpretation state responsibility",
+      "distinctive_feature": "Consent-based tribunal for public international law disputes"
+    },
+    {
+      "form": "Mixed claims commissions",
+      "parties": "States and private claim categories",
+      "source_of_authority": "Claims settlement agreement or diplomatic settlement",
+      "typical_disputes": "Expropriation war claims diplomatic rupture compensation",
+      "distinctive_feature": "Mass or category-based claims resolution"
+    },
+    {
+      "form": "Investor-state arbitration",
+      "parties": "Foreign investor and host state",
+      "source_of_authority": "Investment treaty investment law or contract",
+      "typical_disputes": "Expropriation fair and equitable treatment denial of justice regulatory measures",
+      "distinctive_feature": "Private claimant directly invokes international obligations against a state"
+    },
+    {
+      "form": "ICSID arbitration",
+      "parties": "Investor and contracting state",
+      "source_of_authority": "ICSID Convention plus consent instrument",
+      "typical_disputes": "Investment disputes involving qualifying investors and states",
+      "distinctive_feature": "Autonomous ICSID annulment and enforcement framework"
+    },
+    {
+      "form": "UNCITRAL arbitration",
+      "parties": "Varies including investors states companies and state entities",
+      "source_of_authority": "Arbitration agreement treaty or contract",
+      "typical_disputes": "Ad hoc investment commercial or treaty disputes",
+      "distinctive_feature": "Flexible rules often paired with appointing authority or PCA administration"
+    },
+    {
+      "form": "Commercial arbitration",
+      "parties": "Private parties companies state entities",
+      "source_of_authority": "Contractual arbitration clause",
+      "typical_disputes": "Cross-border commercial contracts construction energy finance infrastructure",
+      "distinctive_feature": "Awards often enforced through New York Convention"
+    },
+    {
+      "form": "Law of the sea arbitration",
+      "parties": "States and sometimes specialized parties",
+      "source_of_authority": "UNCLOS dispute settlement provisions",
+      "typical_disputes": "Maritime delimitation fisheries marine environment navigation",
+      "distinctive_feature": "Specialized public law framework for ocean disputes"
+    }
+  ],
+  "consent_jurisdiction": [
+    {
+      "consent_source": "Compromis",
+      "typical_use": "Existing dispute submitted to arbitration",
+      "jurisdictional_questions": "What specific questions and remedies were submitted",
+      "practice_note": "Read the compromis as the tribunal mandate"
+    },
+    {
+      "consent_source": "Compromissory clause",
+      "typical_use": "Treaty or contract clause for future disputes",
+      "jurisdictional_questions": "Does the dispute fall within the clause and were preconditions satisfied",
+      "practice_note": "Check negotiation periods notice and subject-matter scope"
+    },
+    {
+      "consent_source": "Investment treaty offer",
+      "typical_use": "State offer to arbitrate with qualifying investors",
+      "jurisdictional_questions": "Is there a protected investor investment dispute and valid acceptance",
+      "practice_note": "Check nationality timing denial of benefits and treaty conditions"
+    },
+    {
+      "consent_source": "National investment law",
+      "typical_use": "Domestic law offering arbitration to investors",
+      "jurisdictional_questions": "Does the statute create enforceable consent and what conditions apply",
+      "practice_note": "Confirm text history and domestic legal effect"
+    },
+    {
+      "consent_source": "Claims settlement declaration",
+      "typical_use": "State-created claims tribunal",
+      "jurisdictional_questions": "Does claim fit temporal personal and subject-matter jurisdiction",
+      "practice_note": "Check categories exclusions and filing deadlines"
+    },
+    {
+      "consent_source": "Contract clause",
+      "typical_use": "Commercial or state contract arbitration",
+      "jurisdictional_questions": "Who is bound and what law governs the clause",
+      "practice_note": "Separate contract jurisdiction from treaty jurisdiction"
+    },
+    {
+      "consent_source": "UNCLOS arbitration",
+      "typical_use": "Treaty-based law of the sea mechanism",
+      "jurisdictional_questions": "Do jurisdictional limits optional exceptions or compulsory procedures apply",
+      "practice_note": "Check Part XV and declarations"
+    }
+  ],
+  "procedure_enforcement": [
+    {
+      "stage": "Notice and commencement",
+      "core_issue": "Initiating arbitration",
+      "legal_question": "Was notice served under the correct instrument and rules",
+      "output": "Request or notice of arbitration"
+    },
+    {
+      "stage": "Tribunal constitution",
+      "core_issue": "Appointment and independence",
+      "legal_question": "Are arbitrators properly appointed and free from conflicts",
+      "output": "Constituted tribunal and challenge record"
+    },
+    {
+      "stage": "Jurisdiction phase",
+      "core_issue": "Authority to decide",
+      "legal_question": "Does consent cover parties dispute timing and subject matter",
+      "output": "Jurisdiction decision or joined issues"
+    },
+    {
+      "stage": "Merits phase",
+      "core_issue": "Breach and responsibility",
+      "legal_question": "What law applies and has an obligation been breached",
+      "output": "Merits award or liability decision"
+    },
+    {
+      "stage": "Damages phase",
+      "core_issue": "Remedy and valuation",
+      "legal_question": "What compensation interest restitution or declaration is available",
+      "output": "Quantum decision"
+    },
+    {
+      "stage": "Award",
+      "core_issue": "Final binding decision",
+      "legal_question": "Does the award resolve submitted issues and give reasons",
+      "output": "Final or partial award"
+    },
+    {
+      "stage": "Annulment or set-aside",
+      "core_issue": "Limited review",
+      "legal_question": "Which review route applies and what grounds exist",
+      "output": "Annulment decision or court judgment"
+    },
+    {
+      "stage": "Recognition and enforcement",
+      "core_issue": "Giving effect to award",
+      "legal_question": "Where are assets and what defenses or immunities apply",
+      "output": "Recognition order enforcement action settlement"
+    },
+    {
+      "stage": "Compliance",
+      "core_issue": "Practical implementation",
+      "legal_question": "Will the respondent pay perform settle or resist",
+      "output": "Payment policy change diplomatic follow-up"
+    }
+  ],
+  "sequence_patch": [
+    {
+      "position": "previous",
+      "slug": "regional-organizations-regional-courts-and-pluralism-in-international-law",
+      "title": "Regional Organizations, Regional Courts, and Pluralism in International Law",
+      "navigation_note": "Footer next should point to international arbitration"
+    },
+    {
+      "position": "current",
+      "slug": "international-arbitration-peaceful-settlement-disputes",
+      "title": "International Arbitration and the Peaceful Settlement of Disputes",
+      "navigation_note": "Inserted missing article between regional pluralism and compliance/enforcement"
+    },
+    {
+      "position": "next",
+      "slug": "compliance-enforcement-and-the-limits-of-international-adjudication",
+      "title": "Compliance, Enforcement, and the Limits of International Adjudication",
+      "navigation_note": "Footer previous should point to international arbitration"
+    }
+  ]
+}

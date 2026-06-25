@@ -1,0 +1,30 @@
+{
+  "title": "International Arbitration and the Peaceful Settlement of Disputes",
+  "seo_title": "International Arbitration and the Peaceful Settlement of Disputes",
+  "focus_keyword": "international arbitration",
+  "slug": "international-arbitration-peaceful-settlement-disputes",
+  "series": "International Law",
+  "section": "Dispute Settlement, Courts, and International Adjudication",
+  "is_inserted_article": true,
+  "previous_article": {
+    "title": "Regional Organizations, Regional Courts, and Pluralism in International Law",
+    "slug": "regional-organizations-regional-courts-and-pluralism-in-international-law"
+  },
+  "next_article": {
+    "title": "Compliance, Enforcement, and the Limits of International Adjudication",
+    "slug": "compliance-enforcement-and-the-limits-of-international-adjudication"
+  },
+  "github_policy": "support package only; full WordPress HTML is intentionally not stored in GitHub",
+  "status": "support package generated",
+  "repository_folder": "articles/international-law/international-arbitration-peaceful-settlement-disputes",
+  "tags": [
+    "international law",
+    "international arbitration",
+    "peaceful settlement of disputes",
+    "Permanent Court of Arbitration",
+    "ICSID",
+    "UNCITRAL",
+    "investor-state arbitration",
+    "international adjudication"
+  ]
+}

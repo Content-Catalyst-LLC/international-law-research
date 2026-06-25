@@ -1,0 +1,19 @@
+# Primary Authorities and Institutional Materials
+
+- United Nations (1945) *Charter of the United Nations*. San Francisco: United Nations. Available at: https://www.un.org/en/about-us/un-charter/full-text.
+- United Nations General Assembly (1969) *Vienna Convention on the Law of Treaties*. Vienna: United Nations. Available at: https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf.
+- Permanent Court of Arbitration (1899) *Convention for the Pacific Settlement of International Disputes*. The Hague: Permanent Court of Arbitration. Available at: https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf.
+- Permanent Court of Arbitration (1907) *Convention for the Pacific Settlement of International Disputes*. The Hague: Permanent Court of Arbitration. Available at: https://docs.pca-cpa.org/2016/01/bd7626f1-1907-convention-for-the-pacific-settlement-of-international-disputes.pdf.
+- United Nations Commission on International Trade Law (1958) *Convention on the Recognition and Enforcement of Foreign Arbitral Awards*. New York: United Nations. Available at: https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards.
+- United Nations Commission on International Trade Law (1976, revised 2010, 2013 and 2021) *UNCITRAL Arbitration Rules*. Vienna: United Nations. Available at: https://uncitral.un.org/en/texts/arbitration/contractualtexts/arbitration.
+- United Nations Commission on International Trade Law (2014) *UNCITRAL Rules on Transparency in Treaty-based Investor-State Arbitration*. Vienna: United Nations. Available at: https://uncitral.un.org/en/texts/arbitration/contractualtexts/transparency.
+- United Nations (2014) *United Nations Convention on Transparency in Treaty-based Investor-State Arbitration*. New York: United Nations. Available at: https://uncitral.un.org/en/texts/arbitration/conventions/transparency.
+- International Centre for Settlement of Investment Disputes (1965) *Convention on the Settlement of Investment Disputes between States and Nationals of Other States*. Washington, DC: ICSID. Available at: https://icsid.worldbank.org/sites/default/files/ICSID_Convention_EN.pdf.
+- International Centre for Settlement of Investment Disputes (2022) *ICSID Convention, Regulations and Rules*. Washington, DC: ICSID. Available at: https://icsid.worldbank.org/rules-regulations/convention.
+- United Nations (1982) *United Nations Convention on the Law of the Sea*. Montego Bay: United Nations. Available at: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf.
+- United Nations International Law Commission (2001) *Draft Articles on Responsibility of States for Internationally Wrongful Acts, with commentaries*. New York: United Nations. Available at: https://legal.un.org/ilc/texts/instruments/english/commentaries/9_6_2001.pdf.
+- United States and Great Britain (1794) *Treaty of Amity, Commerce, and Navigation, commonly called the Jay Treaty*. Available at: https://avalon.law.yale.edu/18th_century/jay.asp.
+- Alabama Claims Tribunal (1872) *Alabama Claims of the United States of America against Great Britain*, Award of 14 September 1872. Reports of International Arbitral Awards, vol. XXIX, pp. 125–134. Available at: https://legal.un.org/riaa/cases/vol_XXIX/125-134.pdf.
+- Iran-United States Claims Tribunal (1981) *Claims Settlement Declaration*. The Hague: Iran-United States Claims Tribunal. Available at: https://iusct.com/about/.
+- International Court of Justice (1953) *Ambatielos Case (Greece v. United Kingdom)*, Judgment. The Hague: International Court of Justice. Available at: https://www.icj-cij.org/case/15.
+- International Court of Justice (1989) *Arbitral Award of 31 July 1989 (Guinea-Bissau v. Senegal)*. The Hague: International Court of Justice. Available at: https://www.icj-cij.org/case/82.

@@ -1,0 +1,42 @@
+{
+  "article": "International Arbitration and the Peaceful Settlement of Disputes",
+  "slug": "international-arbitration-peaceful-settlement-disputes",
+  "series": "International Law",
+  "is_inserted_article": true,
+  "github_policy": "support package only; no full WordPress HTML stored",
+  "arbitration_forms_count": 7,
+  "consent_sources_count": 7,
+  "procedure_enforcement_stages_count": 9,
+  "sequence_patch": [
+    {
+      "position": "previous",
+      "slug": "regional-organizations-regional-courts-and-pluralism-in-international-law",
+      "title": "Regional Organizations, Regional Courts, and Pluralism in International Law",
+      "navigation_note": "Footer next should point to international arbitration"
+    },
+    {
+      "position": "current",
+      "slug": "international-arbitration-peaceful-settlement-disputes",
+      "title": "International Arbitration and the Peaceful Settlement of Disputes",
+      "navigation_note": "Inserted missing article between regional pluralism and compliance/enforcement"
+    },
+    {
+      "position": "next",
+      "slug": "compliance-enforcement-and-the-limits-of-international-adjudication",
+      "title": "Compliance, Enforcement, and the Limits of International Adjudication",
+      "navigation_note": "Footer previous should point to international arbitration"
+    }
+  ],
+  "core_themes": [
+    "peaceful settlement of disputes",
+    "international arbitration",
+    "consent and jurisdiction",
+    "Permanent Court of Arbitration",
+    "interstate arbitration",
+    "mixed claims commissions",
+    "investor-state arbitration",
+    "ICSID",
+    "UNCITRAL",
+    "recognition and enforcement"
+  ]
+}
