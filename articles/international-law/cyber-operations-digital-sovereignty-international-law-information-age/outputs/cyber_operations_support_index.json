@@ -1,0 +1,25 @@
+{
+  "article_slug": "cyber-operations-digital-sovereignty-international-law-information-age",
+  "title": "Cyber Operations, Digital Sovereignty, and International Law in the Information Age",
+  "repository_policy": "support package only; no full WordPress HTML stored",
+  "datasets": {
+    "cyber_law_architecture": 9,
+    "cyber_operations_matrix": 7,
+    "digital_sovereignty_governance_matrix": 6
+  },
+  "core_topics": [
+    "UN cyber framework",
+    "digital sovereignty",
+    "sovereignty",
+    "non-intervention",
+    "use of force",
+    "due diligence",
+    "attribution",
+    "state responsibility",
+    "countermeasures",
+    "human rights online",
+    "cybercrime cooperation",
+    "IHL and cyber operations",
+    "private platforms and cloud infrastructure"
+  ]
+}

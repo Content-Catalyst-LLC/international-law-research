@@ -1,0 +1,8 @@
+operation_type,legal_questions,possible_legal_frames,practical_risk
+Critical infrastructure disruption,Does the operation breach sovereignty or amount to force?,Sovereignty due diligence use of force state responsibility,Escalation and civilian harm
+Election interference,Is the operation coercive intervention in political processes?,Non-intervention sovereignty human rights state responsibility,Democratic manipulation and evidentiary uncertainty
+Data theft and espionage,Does cyber espionage violate international law?,Sovereignty domestic law diplomatic law human rights,Threshold uncertainty and normalization of intrusion
+Ransomware with state links,Can conduct be attributed to a state or trigger due diligence?,State responsibility due diligence cybercrime cooperation,Attribution difficulty and private criminal proxies
+Disinformation campaigns,When does influence become unlawful intervention?,Human rights non-intervention platform governance,Overbroad censorship or under-regulation
+Military cyber operation,Does IHL apply and are civilian objects protected?,IHL distinction proportionality precautions,Collateral effects on civilian networks
+Cloud service disruption,Which state has jurisdiction and who bears responsibility?,Jurisdiction state responsibility private actor regulation,Cross-border dependency and provider concentration

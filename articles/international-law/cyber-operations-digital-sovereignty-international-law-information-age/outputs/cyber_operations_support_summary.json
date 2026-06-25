@@ -1,0 +1,30 @@
+{
+  "architecture_categories": [
+    "Responsible state behavior",
+    "Sovereignty",
+    "Non-intervention",
+    "Use of force",
+    "Self-defense",
+    "State responsibility",
+    "Human rights",
+    "Cybercrime cooperation",
+    "IHL"
+  ],
+  "operation_types": [
+    "Critical infrastructure disruption",
+    "Election interference",
+    "Data theft and espionage",
+    "Ransomware with state links",
+    "Disinformation campaigns",
+    "Military cyber operation",
+    "Cloud service disruption"
+  ],
+  "digital_governance_issues": [
+    "Data localization",
+    "Platform regulation",
+    "Cross-border evidence",
+    "Cloud concentration",
+    "AI-enabled cyber operations",
+    "Cyber capacity gaps"
+  ]
+}
