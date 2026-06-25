@@ -1,0 +1,27 @@
+{
+  "architecture_categories": [
+    "Constitutional framework",
+    "Non-appropriation",
+    "State responsibility",
+    "Liability",
+    "Registration",
+    "Sustainability",
+    "Spectrum and orbit"
+  ],
+  "governance_problems": [
+    "Private launch and satellite operators",
+    "Space debris",
+    "Lunar and asteroid resources",
+    "Remote sensing",
+    "Space traffic management",
+    "Military dual use"
+  ],
+  "security_and_equity_issues": [
+    "Anti-satellite weapons",
+    "Commercial concentration",
+    "Spectrum and orbital slots",
+    "Benefit of all countries",
+    "Planetary protection",
+    "Cyber vulnerability"
+  ]
+}

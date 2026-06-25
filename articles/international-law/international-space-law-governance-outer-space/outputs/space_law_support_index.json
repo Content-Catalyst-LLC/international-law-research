@@ -1,0 +1,24 @@
+{
+  "article_slug": "international-space-law-governance-outer-space",
+  "title": "International Space Law and the Governance of Outer Space",
+  "repository_policy": "support package only; no full WordPress HTML stored",
+  "datasets": {
+    "space_law_architecture": 7,
+    "outer_space_governance_matrix": 6,
+    "space_security_and_equity_matrix": 6
+  },
+  "core_topics": [
+    "Outer Space Treaty",
+    "non-appropriation",
+    "state responsibility",
+    "private space actors",
+    "launch liability",
+    "registration",
+    "space debris",
+    "space traffic management",
+    "spectrum and orbital coordination",
+    "space resources",
+    "dual-use space infrastructure",
+    "equity and benefit of all countries"
+  ]
+}
