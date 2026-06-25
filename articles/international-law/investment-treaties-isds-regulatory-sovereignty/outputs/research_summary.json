@@ -1,0 +1,159 @@
+{
+  "article": "Investment Treaties, Investor-State Dispute Settlement, and Regulatory Sovereignty",
+  "slug": "investment-treaties-isds-regulatory-sovereignty",
+  "repository_policy": "Research/support package only; no full WordPress article HTML is stored.",
+  "tables": {
+    "investment_treaty_doctrines": [
+      {
+        "doctrine": "Fair and equitable treatment",
+        "core_question": "Did the state violate investor expectations or deny basic fairness?",
+        "typical_claim": "Arbitrary conduct denial of justice lack of transparency",
+        "regulatory_sovereignty_issue": "Can tribunals review ordinary regulatory change as unfair treatment?"
+      },
+      {
+        "doctrine": "Indirect expropriation",
+        "core_question": "Did regulation substantially deprive the investor of investment value?",
+        "typical_claim": "Environmental health tax or land-use measures",
+        "regulatory_sovereignty_issue": "When does public regulation become compensable taking?"
+      },
+      {
+        "doctrine": "National treatment",
+        "core_question": "Was the foreign investor treated less favorably than comparable domestic actors?",
+        "typical_claim": "Discriminatory licensing taxation procurement or enforcement",
+        "regulatory_sovereignty_issue": "How should tribunals identify valid comparators and public-interest distinctions?"
+      },
+      {
+        "doctrine": "Most-favored-nation treatment",
+        "core_question": "Was the investor denied treatment available to investors from another state?",
+        "typical_claim": "Importing procedural or substantive protections from other treaties",
+        "regulatory_sovereignty_issue": "Can MFN clauses expand dispute settlement or treaty protections beyond negotiated text?"
+      },
+      {
+        "doctrine": "Umbrella clause",
+        "core_question": "Did breach of a state contract become a treaty breach?",
+        "typical_claim": "Concession infrastructure privatization or procurement disputes",
+        "regulatory_sovereignty_issue": "When should contract disputes be internationalized?"
+      },
+      {
+        "doctrine": "Full protection and security",
+        "core_question": "Did the state fail to protect the investment from physical or legal harm?",
+        "typical_claim": "Violence unrest infrastructure insecurity or enforcement failure",
+        "regulatory_sovereignty_issue": "How far does due diligence extend during social conflict or crisis?"
+      }
+    ],
+    "isds_procedure_matrix": [
+      {
+        "stage": "Treaty consent",
+        "legal_function": "Identifies whether the state has consented to arbitration",
+        "key_documents": "Treaty arbitration clause reservations fork-in-the-road provisions",
+        "practice_risk": "Consent may be narrowed by cooling-off periods exclusions or denial-of-benefits clauses"
+      },
+      {
+        "stage": "Jurisdiction",
+        "legal_function": "Tests investor nationality investment definition temporal scope and admissibility",
+        "key_documents": "Notice of arbitration memorials objections corporate records",
+        "practice_risk": "Treaty shopping and corporate restructuring can dominate threshold disputes"
+      },
+      {
+        "stage": "Merits",
+        "legal_function": "Determines whether treaty standards were breached",
+        "key_documents": "Memorials expert reports witness statements regulatory record",
+        "practice_risk": "Tribunals may second-guess policy design unless deference is built into analysis"
+      },
+      {
+        "stage": "Quantum",
+        "legal_function": "Calculates compensation if liability is found",
+        "key_documents": "Valuation reports financial models discount rates",
+        "practice_risk": "Speculative damages can exceed public budgets or regulatory program value"
+      },
+      {
+        "stage": "Annulment or set-aside",
+        "legal_function": "Reviews limited defects depending on arbitral framework",
+        "key_documents": "ICSID annulment applications national court filings",
+        "practice_risk": "Review is narrower than appeal and may not correct all legal error"
+      },
+      {
+        "stage": "Enforcement",
+        "legal_function": "Converts award into practical payment pressure",
+        "key_documents": "ICSID Convention New York Convention domestic enforcement materials",
+        "practice_risk": "State assets immunity settlement leverage and political pressure shape outcomes"
+      }
+    ],
+    "regulatory_sovereignty_risk_matrix": [
+      {
+        "policy_area": "Climate transition",
+        "common_investor_claim": "Energy phase-out subsidy withdrawal permitting restrictions",
+        "state_defense": "Right to regulate public purpose Paris Agreement obligations",
+        "governance_question": "Can investment protection coexist with rapid decarbonization?"
+      },
+      {
+        "policy_area": "Public health",
+        "common_investor_claim": "Plain packaging price controls emergency measures",
+        "state_defense": "Police powers evidence-based regulation necessity",
+        "governance_question": "How much deference should tribunals give health authorities?"
+      },
+      {
+        "policy_area": "Taxation",
+        "common_investor_claim": "Windfall taxes retroactive assessments fiscal stabilization disputes",
+        "state_defense": "Revenue sovereignty anti-avoidance equal treatment",
+        "governance_question": "When does tax enforcement become treaty abuse?"
+      },
+      {
+        "policy_area": "Water and utilities",
+        "common_investor_claim": "Tariff freezes privatization disputes concession changes",
+        "state_defense": "Human rights affordability crisis management",
+        "governance_question": "How should public service obligations affect investment expectations?"
+      },
+      {
+        "policy_area": "Land and extractives",
+        "common_investor_claim": "License cancellation local opposition Indigenous rights environmental permits",
+        "state_defense": "Due diligence environmental obligations social conflict",
+        "governance_question": "Can tribunals account for communities not present as parties?"
+      },
+      {
+        "policy_area": "Financial regulation",
+        "common_investor_claim": "Crisis controls bank restructuring capital measures",
+        "state_defense": "Macroprudential stability emergency powers",
+        "governance_question": "How should investor protection respond to systemic financial risk?"
+      }
+    ],
+    "reform_pathways": [
+      {
+        "reform_pathway": "Treaty drafting reform",
+        "main_goal": "Clarify standards and preserve policy space",
+        "example_tools": "Right-to-regulate clauses exceptions interpretive annexes carve-outs",
+        "limits": "Legacy treaties may remain active for years through survival clauses"
+      },
+      {
+        "reform_pathway": "Procedural transparency",
+        "main_goal": "Make ISDS more visible and accountable",
+        "example_tools": "UNCITRAL transparency rules amicus participation publication of awards",
+        "limits": "Transparency does not itself change substantive standards or damages"
+      },
+      {
+        "reform_pathway": "Appellate or standing mechanism",
+        "main_goal": "Improve consistency and legitimacy",
+        "example_tools": "UNCITRAL Working Group III appellate mechanism or court model",
+        "limits": "Requires broad state agreement and may not satisfy critics of investor-only standing"
+      },
+      {
+        "reform_pathway": "Exhaustion or local remedies",
+        "main_goal": "Rebalance international and domestic adjudication",
+        "example_tools": "Local-litigation requirements fork-in-the-road clauses",
+        "limits": "May burden investors in weak judicial systems and delay resolution"
+      },
+      {
+        "reform_pathway": "Counterclaims and obligations",
+        "main_goal": "Allow host states to raise investor misconduct",
+        "example_tools": "Human rights environment anti-corruption responsible business conduct clauses",
+        "limits": "Investor obligations remain uneven and often weakly drafted"
+      },
+      {
+        "reform_pathway": "Termination or withdrawal",
+        "main_goal": "Reduce exposure to ISDS claims",
+        "example_tools": "Denunciation replacement treaties coordinated termination",
+        "limits": "Survival clauses may preserve claims for many years"
+      }
+    ]
+  }
+}
