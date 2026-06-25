@@ -1,0 +1,206 @@
+{
+  "files": {
+    "metadata": "metadata/article_metadata.json",
+    "primary_authorities": "sources/primary_authorities.md",
+    "further_reading": "sources/further_reading.md",
+    "future_domains": "data/future_domains_matrix.csv",
+    "scenarios": "data/scenario_framework_matrix.csv",
+    "planetary_crisis": "data/planetary_crisis_matrix.csv",
+    "lawyer_workflow": "data/lawyer_workflow_matrix.csv",
+    "sql_schema": "sql/future_international_law_schema.sql"
+  },
+  "future_domains": [
+    {
+      "domain": "Fragmentation",
+      "core_pressure": "Overlapping regimes and competing forums",
+      "legal_questions": "Which regime applies which forum has authority and how conflicts are managed",
+      "likely_governance_forms": "Treaties courts domestic litigation regional systems soft law institutional dialogue"
+    },
+    {
+      "domain": "Multipolarity",
+      "core_pressure": "Great-power rivalry and contested legitimacy",
+      "legal_questions": "How universal norms survive when power is dispersed and institutions are blocked",
+      "likely_governance_forms": "UN processes regional coalitions alternative institutions diplomatic practice"
+    },
+    {
+      "domain": "Collective security",
+      "core_pressure": "Security Council paralysis and hybrid conflict",
+      "legal_questions": "How force aggression self-defense and humanitarian law apply under political blockage",
+      "likely_governance_forms": "UN Charter ICJ ICC regional action sanctions fact-finding"
+    },
+    {
+      "domain": "Human rights",
+      "core_pressure": "Backlash authoritarian legalism and unequal enforcement",
+      "legal_questions": "How rights remain universal while becoming materially enforceable",
+      "likely_governance_forms": "Treaty bodies regional courts domestic courts civil society mechanisms"
+    },
+    {
+      "domain": "Planetary crisis",
+      "core_pressure": "Climate biodiversity oceans food water and ecological instability",
+      "legal_questions": "How law allocates responsibility for cumulative and future harm",
+      "likely_governance_forms": "Climate treaties advisory opinions domestic litigation finance mechanisms"
+    },
+    {
+      "domain": "Global health",
+      "core_pressure": "Pandemic risk and unequal preparedness",
+      "legal_questions": "How surveillance equity emergency powers IP and supply chains are governed",
+      "likely_governance_forms": "WHO instruments pandemic agreement domestic health law procurement"
+    },
+    {
+      "domain": "Digital governance",
+      "core_pressure": "AI cyber platforms data and digital sovereignty",
+      "legal_questions": "How rights security accountability and standards apply to technical systems",
+      "likely_governance_forms": "Soft law standards domestic regulation UN cyber processes procurement"
+    },
+    {
+      "domain": "Economic order",
+      "core_pressure": "Sanctions debt trade investment and supply-chain security",
+      "legal_questions": "How economic law handles coercion resilience development and policy space",
+      "likely_governance_forms": "Trade law sanctions compliance debt restructuring investment law due diligence"
+    },
+    {
+      "domain": "Migration",
+      "core_pressure": "Climate displacement asylum externalization and digital borders",
+      "legal_questions": "How protection adapts to mobility beyond classic refugee categories",
+      "likely_governance_forms": "Refugee law human rights regional systems migration compacts domestic courts"
+    },
+    {
+      "domain": "Private power",
+      "core_pressure": "Corporate platforms finance contractors and supply chains",
+      "legal_questions": "How responsibility tracks control leverage benefit and remedy",
+      "likely_governance_forms": "UNGPs due diligence laws sanctions procurement litigation standards"
+    }
+  ],
+  "scenario_framework": [
+    {
+      "scenario": "Managed fragmentation",
+      "description": "International law remains plural but regimes coordinate more effectively",
+      "legal_markers": "Cross-regime interpretation regional cooperation advisory opinions institutional dialogue",
+      "risk": "Coordination may remain limited to states with capacity and influence"
+    },
+    {
+      "scenario": "Competitive legal blocs",
+      "description": "Major powers and regional groups build competing legal and technical systems",
+      "legal_markers": "Digital blocs sanctions blocs trade realignment competing standards alternative institutions",
+      "risk": "Universality weakens and smaller states face pressure to align"
+    },
+    {
+      "scenario": "Technocratic governance",
+      "description": "Standards metrics risk frameworks and expert bodies govern where treaties fail",
+      "legal_markers": "AI standards financial rules climate disclosure certification procurement conditions",
+      "risk": "Governance becomes opaque private and weakly accountable"
+    },
+    {
+      "scenario": "Rights-centered renewal",
+      "description": "Human rights climate justice labor Indigenous rights gender equality and social rights reshape legal development",
+      "legal_markers": "Strategic litigation due-diligence laws advisory opinions domestic implementation civil society mobilization",
+      "risk": "Backlash may weaken institutions and restrict civic space"
+    },
+    {
+      "scenario": "Securitized international law",
+      "description": "Security framing dominates migration technology trade health climate and public order",
+      "legal_markers": "Export controls border externalization emergency powers surveillance sanctions military technology rules",
+      "risk": "Rights and development may be subordinated to security claims"
+    },
+    {
+      "scenario": "Planetary constitutionalism",
+      "description": "Ecological survival becomes a central organizing principle of legal order",
+      "legal_markers": "Climate obligations future generations rights of nature biodiversity law ocean governance intergenerational equity",
+      "risk": "Ambitious language may outpace enforcement and redistribution"
+    }
+  ],
+  "planetary_crisis": [
+    {
+      "issue": "Climate responsibility",
+      "legal_question": "How should law allocate responsibility for cumulative emissions historical harm and future risk",
+      "affected_interests": "Life health food water housing culture self-determination",
+      "potential_legal_pathways": "UNFCCC Paris Agreement ICJ advisory opinions human rights litigation domestic climate law"
+    },
+    {
+      "issue": "Sea-level rise and statehood",
+      "legal_question": "Can a state continue if territory becomes uninhabitable or submerged",
+      "affected_interests": "State continuity nationality maritime zones cultural survival",
+      "potential_legal_pathways": "State continuity doctrine UNCLOS regional declarations UN processes"
+    },
+    {
+      "issue": "Climate displacement",
+      "legal_question": "What protection applies to people displaced by climate impacts and disasters",
+      "affected_interests": "Non-refoulement dignity family unity labor mobility cultural continuity",
+      "potential_legal_pathways": "Human rights refugee law regional protection migration pathways planned relocation"
+    },
+    {
+      "issue": "Biodiversity loss",
+      "legal_question": "How should law protect ecosystems beyond narrow state interests",
+      "affected_interests": "Food systems Indigenous rights future generations ecosystem services",
+      "potential_legal_pathways": "CBD BBNJ agreement domestic environmental law rights of nature"
+    },
+    {
+      "issue": "Ocean governance",
+      "legal_question": "How should areas beyond national jurisdiction be protected and shared",
+      "affected_interests": "Marine biodiversity fisheries seabed resources scientific equity",
+      "potential_legal_pathways": "UNCLOS BBNJ agreement regional fisheries bodies environmental impact assessment"
+    },
+    {
+      "issue": "Pandemic risk",
+      "legal_question": "How should law balance sovereignty surveillance equity and emergency powers",
+      "affected_interests": "Life health privacy movement work education equality",
+      "potential_legal_pathways": "IHR WHO Pandemic Agreement human rights law domestic public health law"
+    }
+  ],
+  "lawyer_workflow": [
+    {
+      "step": "1",
+      "task": "Identify the domain",
+      "key_question": "Is the issue about force climate rights health digital migration trade finance accountability or private power",
+      "output": "Initial legal domain map"
+    },
+    {
+      "step": "2",
+      "task": "Map applicable regimes",
+      "key_question": "Which treaties custom soft law domestic law regional law standards and policies apply",
+      "output": "Regime matrix"
+    },
+    {
+      "step": "3",
+      "task": "Identify actors",
+      "key_question": "Which states institutions companies platforms armed groups courts and communities are involved",
+      "output": "Actor responsibility map"
+    },
+    {
+      "step": "4",
+      "task": "Assess forum options",
+      "key_question": "Which courts treaty bodies regulators political organs or grievance mechanisms are available",
+      "output": "Forum selection memo"
+    },
+    {
+      "step": "5",
+      "task": "Examine power and incentives",
+      "key_question": "Who can block comply resist benefit or reform",
+      "output": "Political feasibility and risk assessment"
+    },
+    {
+      "step": "6",
+      "task": "Evaluate evidence",
+      "key_question": "What facts data science technical evidence or classified material is needed",
+      "output": "Evidence plan"
+    },
+    {
+      "step": "7",
+      "task": "Test implementation",
+      "key_question": "Can the legal outcome be enforced funded monitored and translated into change",
+      "output": "Implementation pathway"
+    },
+    {
+      "step": "8",
+      "task": "Assess legitimacy",
+      "key_question": "Who participated who was excluded and who has access to remedy",
+      "output": "Legitimacy review"
+    },
+    {
+      "step": "9",
+      "task": "Build layered strategy",
+      "key_question": "How can hard law soft law litigation diplomacy domestic regulation and standards combine",
+      "output": "Layered legal strategy"
+    }
+  ]
+}

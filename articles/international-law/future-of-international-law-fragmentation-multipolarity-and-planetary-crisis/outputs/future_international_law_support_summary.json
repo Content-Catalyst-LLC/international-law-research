@@ -1,0 +1,22 @@
+{
+  "article": "The Future of International Law in an Age of Fragmentation, Multipolarity, and Planetary Crisis",
+  "slug": "future-of-international-law-fragmentation-multipolarity-and-planetary-crisis",
+  "series": "International Law",
+  "is_final_article": true,
+  "github_policy": "support package only; no full WordPress HTML stored",
+  "future_domains_count": 10,
+  "scenario_count": 6,
+  "planetary_crisis_issue_count": 6,
+  "workflow_steps_count": 9,
+  "core_themes": [
+    "fragmentation",
+    "multipolarity",
+    "planetary crisis",
+    "climate responsibility",
+    "Security Council paralysis",
+    "human rights backlash",
+    "digital sovereignty",
+    "soft law and informal governance",
+    "global legitimacy"
+  ]
+}
